@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-01T16:13:57.189Z",
+    "source": "daily",
+    "headline": "Coca-Cola stock performing well with all-time highs; product quality/regulatory issues in India; company planning facility demolition and restructuring",
+    "signals": [
+      {
+        "category": "Competitive & Market Performance",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Coca-Cola stock reached all-time highs surpassing $90/share, significantly outperforming PepsiCo competitors. Strong stock performance indicates healthy financial position and investor confidence.",
+        "suggestedAction": "Positive rapport opportunity: Use as talking point about account's market strength and financial stability. May indicate capacity for budget expansion and investment in new initiatives.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVNRQm82OWJSRmxYRnk3ckdZa3lEcnNxZnNUeGhiUzF4REdmc1d3TjdJeFB0bEsybnd3b2JZME9IdXk5ZEc0eXdkQkFKMDZnTkhGaWdXUFpha1RzajEzYzdBWHRDMnpYZm9CQ2x0X3R4VE1SckJkU2tMYmRDT3R6TzVvSjFGWFZLUlhuRERHMDEyQQ"
+      },
+      {
+        "category": "Product Quality & Regulatory Compliance",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "India regulatory authorities found relabeled Coca-Cola, PepsiCo, and Nestle products at third-party facilities. Indicates potential supply chain control, counterfeiting, or compliance issues requiring investigation and remediation.",
+        "suggestedAction": "Monitor account's response and remediation efforts. Potential risk to brand reputation and operational continuity in India market. May create internal demand for compliance/quality monitoring solutions.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWxYRDNMbHBkRVc5TzNHTnktRF8wSmxsQUxYQjNDTW5FWlVlclNRbzZpR3Jfd0pEbjQ4Z0hjYm5fRV9TVlF1azBhY21ueHg1S1ZVYXJEejI4Qk51YzlDNW91NHhyTFpRdHJpc0tSUmJJZUxQaEt6WE92QVFzeUlEa2hXcFV4QXQyX2x1N2dieTAzdUsxZ1I5Q19rOVkxLWQzaTJTUT05S0ZUNmc1Ym5QSVlBZnAyU0lFQXc"
+      },
+      {
+        "category": "Capital Projects & Restructuring",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Coca-Cola planning demolition of vacant building at Grand Rapids site and considering 5 other projects in the area. Indicates local facility optimization and capital allocation activities.",
+        "suggestedAction": "Neutral signal on account relationship. Document as operational/facility management activity. No direct bearing on product/service renewal unless it signals broader restructuring.",
+        "sourceName": "MLive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEdCWnJMUnlxTGk2YXd5dDJFM2M5N3FUS2c5SmFnODBVdzBQOWNzUmd1Um5sRXJrZTk0Q2JJNTV1eEl3ZmJ5V1lSUFlwZUlrM1E0MV9mS1NpcjJzR2VlNXVvb0o3Mk1aa0l2TTBVbDdfVExvcDB1cGVzVVU3cEt1NEQ3ajk4VlVYLVd2dVdXWmJPYlI2X3BreV96UkJFNTlmVkIxaHFKZW9xSXEzcWFWT2NLNXl0SW5vR19DaklKcF9USmdraUxWUzJoVTZBZUExSmhFS05zbHpkdGJTbWt6cdIB9AFBVV95cUxQZXdlVjdUSHNxakFzUWNJMFM2cFRPbndVUDZCbko5T19YX0dQS0I1UWRaUkRpQjB2MnB5M0ljOVVjN1FXbE9peWJkenRGX0JVUHBJR1pEUFVJWDVjeWdHd0h5YW85TlBONjRtZHdrYVc5aXRuRGw1VEZ3ODg0cW5Ja2tQRVpHMWJBeEhjczR4SkxHRkY1VENaNjh5TDhLUnc4LTEtRXVDRndzWTZpdHM3aXRGb2dlOFdhLWZMNlQyWkNyMHlDMVZQQ2RSQkZvaDZKQnFyZ0NEelEwcktKQWVlaEJ1QnRKMUVpZHA5YThUVXk0WnBK"
+      }
+    ]
+  }
+]

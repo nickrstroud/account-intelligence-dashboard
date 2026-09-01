@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Coca-Cola",
+    "website": "https://www.coca-colacompany.com/",
+    "ticker": "KO",
+    "isPublic": true,
+    "newsQuery": "\"Coca-Cola\"",
+    "renewalDate": "2026-11-15",
+    "contractValue": 415000
+  },
+  {
+    "name": "PepsiCo",
+    "website": "https://www.pepsico.com/",
+    "ticker": "PEP",
+    "isPublic": true,
+    "newsQuery": "\"PepsiCo\"",
+    "renewalDate": "2027-04-10",
+    "contractValue": 590000
+  },
+  {
+    "name": "Keurig Dr Pepper",
+    "website": "https://www.keurigdrpepper.com/",
+    "ticker": "KDP",
+    "isPublic": true,
+    "newsQuery": "\"Keurig Dr Pepper\"",
+    "renewalDate": "2027-01-20",
+    "contractValue": 245000
+  },
+  {
+    "name": "Procter & Gamble",
+    "website": "https://us.pg.com/",
+    "ticker": "PG",
+    "isPublic": true,
+    "newsQuery": "\"Procter & Gamble\" OR \"P&G\"",
+    "renewalDate": "2026-12-10",
+    "contractValue": 198000
+  },
+  {
+    "name": "Walmart",
+    "website": "https://www.walmart.com/",
+    "ticker": "WMT",
+    "isPublic": true,
+    "newsQuery": "\"Walmart\"",
+    "renewalDate": "2027-02-14",
+    "contractValue": 310000
+  },
+  {
+    "name": "Costco",
+    "website": "https://www.costco.com/",
+    "ticker": "COST",
+    "isPublic": true,
+    "newsQuery": "\"Costco\"",
+    "renewalDate": "2027-06-01",
+    "contractValue": 528000
+  },
+  {
+    "name": "Target",
+    "website": "https://www.target.com/",
+    "ticker": "TGT",
+    "isPublic": true,
+    "newsQuery": "\"Target Corp\" OR \"Target Corporation\"",
+    "renewalDate": "2027-07-22",
+    "contractValue": 475000
+  },
+  {
+    "name": "Kroger",
+    "website": "https://www.kroger.com/",
+    "ticker": "KR",
+    "isPublic": true,
+    "newsQuery": "\"Kroger\"",
+    "renewalDate": "2026-09-30",
+    "contractValue": 362000
+  }
+]

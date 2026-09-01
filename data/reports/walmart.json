@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-01T16:15:26.174Z",
+    "source": "daily",
+    "headline": "Walmart: Mixed signals from wellness category expansion offset by legal settlement and competitor talent loss",
+    "signals": [
+      {
+        "category": "Wellness category expansion with Khloé Kardashian brand",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is scaling the Khloud wellness brand at retail, demonstrating refinement and expansion of its wellness category. This signals active investment in a growing product segment and vendor opportunity within their portfolio.",
+        "suggestedAction": "Identify adjacent wellness/health product opportunities to pitch as part of Walmart's category expansion strategy; use as rapport-building talking point with wellness buyers.",
+        "sourceName": "Forbes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdExNSFIwR0Z6VjNCbWM2UUZRSXlwZDA3Vmhlam8xSURXUUJ3Y1F3cm1pODdkRlBEMk12cmgyX1gycUhfeE9XbTI4RUxzaHV0eGRmMmUtdGxpTi0wb2ZvWGZPZHViOHJaSENmYy1ILUM0NzB6QWFsVGx6dnUxMUQyWlFqV2RpbXMteGEza3ZvTmJiUEZORzd5aTY1d2s1LWlhb2tTc25ybFJCMzl2N1hsaXNaMi1Od3NFd2VObHZYOUtjSXRCOU1rVmlGTzYxUnhMZmt3NDQ4aEY?oc=5"
+      },
+      {
+        "category": "Key Walmart fashion merchant hired away by Kohl's",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Kohl's hired a Walmart fashion alum as chief merchant, indicating loss of merchandising talent and potential competitive shift in apparel strategy. This represents a known internal relationship contact moving to a competitor.",
+        "suggestedAction": "Reassess relationships with Walmart's apparel/fashion buying team; identify new decision-makers in the merchant hierarchy to maintain account continuity.",
+        "sourceName": "Retail Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkw4TWNmZTc1WkhXY3daNlZhUm1HS1F5T3ZrQjRiVkxaYmFrbTNVbHdKbkcwODR3SWdmTF91ajZadi1oYm0xYTgtbWl5Yk4xRHAzYktaLUJaSHZTcG1pX0hYUGxweVF5b0dsT3M4WmF4SFJnbGhMWk94N3ROWWNOOVV4TlRlN1h3?oc=5"
+      },
+      {
+        "category": "Walmart $50M opioid settlement and legal liability",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Walmart agreed to pay $50 million to settle opioid prescription-filling violations. While not directly impacting vendor relationships, this signals legal/compliance risk and potential pharmacy operations challenges that could distract internal resources or shift priorities.",
+        "suggestedAction": "Monitor for any operational changes in Walmart's pharmacy or healthcare divisions; be cautious about large vendor commitments that depend on pharmacy-adjacent operations.",
+        "sourceName": "nytimes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi12ZVlXOFVVWEFWY3g2ajNqeU5oeVpzVkh0ODgxV2ZCdjdmTjNNeHJxX1ltcVZIZFJKNF8yTnNiZHFzR0pTN003TG9Ha1hNM0s5Q0NORElEV2doWk96VmpFdm9rQVNBZHVYcDlVNkZWOUNQMFBkdVVRUUNQeHFERVV3?oc=5"
+      }
+    ]
+  }
+]

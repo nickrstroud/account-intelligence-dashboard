@@ -1,0 +1,46 @@
+[
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-01T16:14:32.654Z",
+    "source": "daily",
+    "headline": "PepsiCo faces supply-chain & regulatory headwinds amid India compliance breach, Ukraine facility damage, and competitive pressure from Coca-Cola",
+    "signals": [
+      {
+        "category": "Regulatory/Compliance Breach",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Indian authorities discovered PepsiCo products being relabeled with falsified expiry dates and nutrition labels at a third-party facility, indicating quality-control and supply-chain governance failures.",
+        "suggestedAction": "Monitor for potential regulatory sanctions, recalls, or customer compliance audits that could impact PepsiCo's operational credibility and buying confidence in their supply-chain integrity.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZ2VXNVTVRDcFZVeXVTcTA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5"
+      },
+      {
+        "category": "Supply-Chain Disruption",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo's production facilities in Ukraine's Mykolaiv region were damaged in Russian military strikes, causing operational disruptions and potential loss of regional production capacity.",
+        "suggestedAction": "Assess impact on PepsiCo's ability to fulfill regional commitments and whether customers should expect supply delays or price increases; consider this in contract renewal discussions.",
+        "sourceName": "Ukrinform",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGlVUjV4QUVnbWpSUzhEcXdKVndZcFNNa1dRNXNwVGNncnFxRHMxSXV2QlhUZ3FTRDR5T0JOeU9hOHRVS091SFE3cE1fYU1FNHBTbnNJOE9GVVlfLTZEVjBrYmdTWGlNOEJCQ2pTWWxiZ0VvUk05UlFicXYybDRrTGlQMDdOQ2tFT0F5aERWVWh0ZFExckdVZlBtOHhNMmpESkdrUnBzQWVoWUoyMkIzMnV6bGhSUXlyc3RGT0xwOWNuQjc4d1dZ0gHMAUFVX3lxTE1yWnA0dzdKQnhRLXB2SE1HWlBtRS1yNzZ2dkZRSGZBNW1VaE5kaVNZOGRtMVA3ZkcyQ2hHY01COVlBaGlpREFvMm1rU3dhUWM1eGxFOUx4cnVZUGdpYnhYajlRRi1XMkZnTkdnQTB3a3BKZ2UyRU4yRzRUTnphbWZlSUdnVzRZU2dHTXp4eERhWWc2eFZKbTMxSVRsblVyWHc3b0tBbkd1NVpYc3c1NUgwZmh4NGFmQW1XWjJpYk90T3RjRGRZYXU1RmpDbg?oc=5"
+      },
+      {
+        "category": "Competitive Market Weakness",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Market commentary highlights PepsiCo struggling in competitive performance while Coca-Cola reaches all-time highs, suggesting market share loss or relative business momentum disadvantage.",
+        "suggestedAction": "Explore whether PepsiCo is deprioritizing vendor spend or consolidating suppliers; prepare competitive win/loss analysis and consider whether account growth expectations need reset.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHdPLUI0YTJsMmtWdUc2a3VwTUNUUHZUVGNBcVR6YU1DOGpCNnNvek4tNFlrODFOcjE3Z3ZyYUVDNUFGcjdiNm5qSVdsV05fbjdwbG9MNzJjMl9lUm9vQlZQenctUVFQSXhqcWNqMU1Cb1NBQmdpY2NiVUdCRFJ3U0xOTUpHT3JPMXFXUGY0Yw?oc=5"
+      },
+      {
+        "category": "Key Leadership Departure",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "George Kovoor, a former PepsiCo executive, has departed to become CEO of competitor Parle Biscuits, signaling loss of institutional knowledge and potential buyer-side relationship friction.",
+        "suggestedAction": "Confirm whether Kovoor was a key stakeholder/champion in PepsiCo procurement; if so, expect relationship recalibration and potential vendor re-evaluation at his new company.",
+        "sourceName": "The Times of India",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdDREb1lwREx0RDlxanVMWkpQODZGRmV4V3MzdjhjU1h0YWhKWjdFcWN3OG42WVR2NHJLUk91V0hpNjlidW1vdXBIS2dvOHNxRHBCTEZpR3NFQi10R0pkTEwxZ21ia050TE84RHJ2bnRFbS1HaW5JVEU1bG5TYWNzN2VteURaa2pFbHdBeFcwcnJodnNMWEE5ZU5Qa3U1WDlOR0I1UW5taWlmcWVlR1hmaG9FVTVQaDhPOV95SHBKRkdIOTBXQUQ1RmNFbXhFaUZtWUx4cDRMbm9KVEFocHNmWkhjaXNuVTNfT08w0gHwAUFVX3lxTFB6SGg1R1ZNclpGdGN0UG5odkYwZXB4VW95M3lyeG9FblJnTDFTLWJRVjdWeERlYV9wZExQdC12T0NFMjdqTVRnT3lnRVBPdmRyY0xneUt4SE9Ia0VDMDJSbFBLc1NiWlNvSlh6MWhHenFkajdWdTdVb2JIQUxlOFlISHBQbXUyMEdMamN0alFqZXFnQmFTXzlxamc5UDE1MXF0QWF1LXRjNGlFQjZjY2JHRVBpZ3prb29hUEtsWV9Scmx2Q0c0LVdNdVZ4RUlmSzMwcUFoZURXZk1fRV9tV282Sm5kNHd4dlV6V3F3YlJIcg?oc=5"
+      }
+    ]
+  }
+]

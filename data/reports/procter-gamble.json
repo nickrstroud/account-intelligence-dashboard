@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-01T16:15:09.177Z",
+    "source": "daily",
+    "headline": "P&G showing mixed signals: restructuring and CEO transition amid product innovation and dividend strength",
+    "signals": [
+      {
+        "category": "Business restructuring with median worker pay declines amid CEO compensation increases",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "P&G undergoing restructuring with reported median worker pay declines, though CEO compensation increased significantly. Mixed signal: indicates cost-optimization efforts that could impact budget allocation, but leadership appears stable.",
+        "suggestedAction": "Monitor impact on P&G's operating budgets and discretionary spending; restructuring often correlates with vendor consolidation or cost-cutting reviews",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OThxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ"
+      },
+      {
+        "category": "Product innovation: Tide gentle detergent and Febreze-Dunkin' scent collaboration",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G launching new product lines including Tide's first scented gentle detergent in 30+ years and co-branded Febreze-Dunkin' scent collection. Signals continued innovation and brand-building investment.",
+        "suggestedAction": "Reference product innovation momentum in account conversations; opportunity to discuss supporting P&G's go-to-market and retail expansion strategies",
+        "sourceName": "Stock Titan",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkM2NXpOQklSNGlGTUxBY1VrTU8wNGJIMktkSUN6dVdJUm9LYzlOMk5LTGtOX1FvbWRWSnhGQXN0eFFSSDA0MzJDbV84OG1uN3pjbXFJQTNnaEJGN3VWZXNJWmU1ZVRSaG1QWmxBSjR1UFJVLXRKN1pSdURPcDJKNDNCaVQ2bG1kNy1pRm9WaThla0tzZHhwSmtGYkNyVFoyREswNHg2bVRwQ1FNSkxpU29OUWtkejV4aFE"
+      },
+      {
+        "category": "Strong dividend performance relative to peers despite quieter market profile",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "P&G's dividend outpaces Johnson & Johnson's growth story, indicating solid financial performance and shareholder returns. Reflects stable cash generation and investor confidence.",
+        "suggestedAction": "Use as positive rapport point; stable dividends suggest predictable budget allocation and lower financial distress risk",
+        "sourceName": "24/7 Wall St.",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3VhaldPYzd3T3pvYlBGaV90aG9pQ3d4S1FjY0FZbGVnUWNRRS1VMmxRZVBxVloyc3BpaXZrMDFaVjRENVJFOEp6NzFwZG05N1RIb0xGcUxKNEp1UEs2Tkt1RndqOGVneGNoVVd5X05xbjdqTVd1eDRoRFVsbmlJTWNKSnFIMEFyLUJwVjhSWmhxZjZSNnpzeVoxMXdXSkJPVG40bnBoQ05lZG5JMjhzMlRmWkdFZVVjMzlV"
+      },
+      {
+        "category": "Sustainability initiative: Building low-carbon raw material supply chain",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G investing in low-carbon raw material sourcing and supply chain transformation. Signals ESG focus and potential new vendor/partner requirements and operational innovation.",
+        "suggestedAction": "Explore opportunities to support P&G's sustainability transformation roadmap; potential for vendor partnerships in green supply chain",
+        "sourceName": "The World Business Council for Sustainable Development (WBCSD)",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW9tNnBlSzdSc09vLXU1NUFSelVNUnpyOWJkRk4tUlNiQWJhTWdpc0Z0Sm5UUE5wUGxINlpvT1Y3bWw5YWMxem1nQjFSSnExRlEzUFNnMy13R2lqSEdOTjE0N1pVSkE1UHFpVjgtWVFud2NqcDdVTG9uYXNUWmpHTFhYS0RDa0RuNTVMdHFiYW1mamJkd2pQb2FsWTRpQTN4QW9NQQ"
+      }
+    ]
+  }
+]

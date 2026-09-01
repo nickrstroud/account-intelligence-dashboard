@@ -1,0 +1,28 @@
+[
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-01T16:14:45.138Z",
+    "source": "daily",
+    "headline": "KDP divesting Chobani stake ($800-925M) and Pennsylvania facility as part of company restructuring ahead of planned split",
+    "signals": [
+      {
+        "category": "Asset Divestiture / Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Keurig Dr Pepper is selling back its Chobani equity stake and Pennsylvania manufacturing campus for $800-925 million. This represents a significant asset liquidation ahead of the company's planned split, indicating operational restructuring and potential budget constraints.",
+        "suggestedAction": "Monitor KDP's organizational restructuring for impact on procurement budgets and decision-making authority. Confirm whether the split affects contract ownership, service continuity requirements, or stakeholder contacts.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmtHQTlSb1prQ1FRdUJXd0xmU3c0OXRieEtraEZMU1VWRDZZU0NwTnpRTy1QRmxQVnBzaVJfTWxxYWxfS1pfT201NlpMQXRYYTNaLUlIeV9yOGxPOEt6TUJCU20wbUF4VGNCV0hic3FEbXJHVGJuOVY0bkEzU0xGazRkNS1By2dyVEpLVGR2eFhYVmFZa3NseXRZb3FLQkNMLXRrNFhfcEpVeGFQS25tTWR3?oc=5"
+      },
+      {
+        "category": "Partnership Restructuring",
+        "updateType": "expansion",
+        "score": 0,
+        "summary": "KDP is reshaping its manufacturing partnership with Chobani ahead of the corporate split. The nature of the reconfigured partnership (enhanced vs. reduced scope) remains unclear from headlines alone, but represents a significant operational change.",
+        "suggestedAction": "Clarify with KDP whether the Chobani partnership restructuring affects their supply chain, manufacturing capabilities, or go-to-market strategy. Determine if this creates opportunities to support alternative manufacturing or distribution models.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjNMTWVXeEhZSTV6ZlB1aGdwUkM3R2hXb2dmNGdLbVJmcG10OXlnMUxQUzhFUk1FazVVZUx1MTlRSy1lcnhRWk93S1FXWmkteWM4V3NUWDdpRmR0RVVsS1hKMUZZZVZrZGhTX2FFSUF2UmJHaHZmcERHMENueXExc0dRcWdaNmVnWE9YTVB6YmxnQkZoanN3cHd3UDlRZw?oc=5"
+      }
+    ]
+  }
+]

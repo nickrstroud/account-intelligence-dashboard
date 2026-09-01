@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Example Corp",
+    "website": "https://example.com/",
+    "ticker": "EXPL",
+    "isPublic": true,
+    "newsQuery": "\"Example Corp\"",
+    "renewalDate": "2027-01-01",
+    "contractValue": 250000
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "company": "Costco",
+    "runAt": "2026-09-01T16:15:43.170Z",
+    "source": "daily",
+    "headline": "Costco expansion momentum: new California location opening, international supplier partnerships (K-beauty), and strong investor confidence signal growth opportunity",
+    "signals": [
+      {
+        "category": "Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco's new California location nearing completion with opening date revealed, demonstrating continued physical retail expansion and operational momentum.",
+        "suggestedAction": "Confirm capacity planning and logistics requirements for the new location; identify opportunities to support expanded operations across supply chain, facilities, or technology solutions.",
+        "sourceName": "New York Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9ZLWloT2JCajRpUWRraVVmRHJHU2hkUDZKT1VTX2tJZHpuX2pBclhHTEFNNlBhV3BFWG9OaGRsS1RLNXFTclNjVEhIel8xYzNVb1lxVDlWQWR3bmduTnlWd0N1Q24yM0RSM0hMSDZWUTlVeDBQMkk5aUV3dFlMaVBFYkhFWGxxOGJ6UTdaNU9LNVhidFV3WkV0R0FGYS15d0tOUFN2WXUxdzJm?oc=5"
+      },
+      {
+        "category": "Vendor Partnership Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "K-beauty supplier APR launching in U.S. Costco warehouses in September 2026, indicating Costco's expansion into new product categories and international vendor partnerships.",
+        "suggestedAction": "Monitor Costco's vendor diversification strategy and product category expansion; assess opportunity to support new supplier onboarding, logistics, or international sourcing initiatives.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdE5qU2I0OUVRX1ZkOFg1bTdkX0tndjJrVmV6SHk4WWVBT2FDMXBnMjI1SkRFVmR4V1ktMXZoY29NdG1XcWptblhmSW8zc25ZWUxpN1hVTkNZUXJGUTZYZHR2aEl4R211UVFnVU5vUVFyV1VKMldyUE12U1VFd9IBgwFBVV95cUxQXzNCdi0xNzQ1ejZ3RW5zNy03WkZZdFQ5MHhoYWxwMXZENXFzTUJTN0JBU0F2bjVDMHNBU1Q0VjhFMndFS0x4TVBVQVJwbVVsOXFkR2hRMlp0bFRpem5RMHhiWWhVU1hFUVNnNy1UTGt6ZVVUYjhOa2k4SDA0ZVEwQzJURQ?oc=5"
+      }
+    ]
+  }
+]

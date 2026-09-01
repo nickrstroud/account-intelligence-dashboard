@@ -1,0 +1,28 @@
+[
+  {
+    "company": "Target",
+    "runAt": "2026-09-01T16:15:56.073Z",
+    "source": "daily",
+    "headline": "Target shows strong recovery momentum with revenue growth and sales outlook boost, signaling improved operational health",
+    "signals": [
+      {
+        "category": "Financial Performance - Revenue Growth",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosts sales outlook as recovery efforts gain ground, with Q2 2026 revenue of $26.54B and EPS of $4.11, demonstrating positive momentum",
+        "suggestedAction": "Use growth trajectory as talking point in renewal discussions; explore opportunities to support expanded operations",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt?oc=5"
+      },
+      {
+        "category": "Stock Performance & Market Sentiment",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target Corporation (TGT) reached 52-week high, indicating positive market confidence in recovery and operational improvements",
+        "suggestedAction": "Monitor for any strategic initiatives that may increase operational complexity or budget allocation needs",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0twZGFodjJnZEMxeDBWejllN29LelAwRFBrVE9KcElJMjFFZnMtNklSUzRWbnk4cTdJNVVEVGdlc3hMNVhWT2MyM2hXaGpPSnpOU1cyeVdiWXl6cE1WSkdybWc4bWJQOGNRV180NmJqckJIZWxnRW1TbGI1NVJmeXNLRW9SbWZlQkFVaFVYS2VURUo2RGk1SFRLÖDM?oc=5"
+      }
+    ]
+  }
+]

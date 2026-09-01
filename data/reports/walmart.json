@@ -1,6 +1,200 @@
 [
   {
     "company": "Walmart",
+    "runAt": "2026-04-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Walmart: In-app AI expansion drives revenue uplift, offset by fulfillment restructuring and operational incidents",
+    "signals": [
+      {
+        "category": "AI-driven revenue lift",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Walmart CEO reports in-app AI agent driving 35% increase in customer spending, indicating successful tech-enabled business expansion and customer monetization.",
+        "suggestedAction": "Highlight AI commerce capabilities in value conversations; assess if account needs advanced analytics/personalization tools to compete with Walmart's AI advantage.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/sectors/technology/articles/walmart-ceo-reportedly-brags-companys-030000384.html"
+      },
+      {
+        "category": "Fulfillment network restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Walmart closing two fulfillment centers and cutting 200 jobs, indicating operational efficiency review and potential budget constraints in logistics.",
+        "suggestedAction": "Monitor for broader cost-reduction initiatives; position solutions around fulfillment optimization and labor productivity to support their restructuring goals.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/walmart-cuts-two-fulfillment-sites-190524658.html"
+      }
+    ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Walmart faces competitive pressure and operational challenges amid Amazon's growing dominance and internal execution issues",
+    "signals": [
+      {
+        "category": "Competitive Position & Market Share",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Walmart lost a key retail title to Amazon for the first time in company history, signaling Amazon's growing competitive dominance in a key metric.",
+        "suggestedAction": "Discuss competitive differentiation strategy and areas where Walmart still leads; explore joint vendor opportunities to strengthen Walmart's position.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/walmart-lost-key-title-amazon-122000111.html"
+      },
+      {
+        "category": "Competitive Threat from New Market Entrants",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "AI startup Vori raised $22 million specifically to help independent grocery retailers compete with Walmart and Amazon, indicating new competitive threats emerging in the grocery space.",
+        "suggestedAction": "Monitor Vori and similar AI-enabled competitors; discuss Walmart's digital and AI capabilities with account team.",
+        "sourceName": "fortune.com",
+        "sourceLink": "https://fortune.com/2026/05/05/exclusive-ai-grocery-startup-vori-raises-22-million-to-help-independent-retailers-compete-with-walmart-and-amazon/"
+      },
+      {
+        "category": "Operational Challenge - Product Recalls",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple product recalls for Walmart-branded Great Value frozen pizzas due to salmonella contamination and other food safety issues affecting meat products. Widespread media coverage of recalls.",
+        "suggestedAction": "Offer support on supply chain quality assurance, traceability, and recall management solutions to minimize future brand damage.",
+        "sourceName": "thenorwester.ca",
+        "sourceLink": "https://www.thenorwester.ca/frozen-pizzas-sold-at-walmart-recalled-over-salmonella-risk/"
+      },
+      {
+        "category": "Operational Strategy - Self-Checkout Overhaul",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Walmart and Costco are ditching self-checkout machines amid theft and customer frustration, indicating a major operational overhaul in store experience and loss prevention strategy.",
+        "suggestedAction": "Explore whether our solutions can support alternative loss prevention or customer experience technologies replacing self-checkout.",
+        "sourceName": "techtimes.com",
+        "sourceLink": "http://www.techtimes.com/articles/316324/20260504/walmart-costco-self-checkout-overhaul-why-big-retailers-are-ditching-machines-amid-theft.html"
+      },
+      {
+        "category": "Capital Investment & Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart opened a $350 million Texas dairy plant, demonstrating continued investment in vertical integration and private-label manufacturing capacity.",
+        "suggestedAction": "Explore opportunities to support Walmart's expanding private-label and manufacturing operations.",
+        "sourceName": "foreignpolicyjournal.com",
+        "sourceLink": "https://www.foreignpolicyjournal.com/2026/05/05/walmart-wmt-opens-350-million-texas-dairy-plant-as-valuation-debate-heats-up"
+      },
+      {
+        "category": "Digital & Market Adaptation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is expanding digital power and adapting to a more competitive grocery market, indicating strategic focus on e-commerce and digital channels.",
+        "suggestedAction": "Position digital solutions and omnichannel capabilities; discuss how our offerings can accelerate Walmart's digital transformation.",
+        "sourceName": "internationalsupermarketnews.com",
+        "sourceLink": "https://internationalsupermarketnews.com/walmart-expanding-digital-power-while-adapting-to-a-more-competitive-grocery-market/"
+      },
+      {
+        "category": "Store Expansion & Renovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is remodeling 72 stores in Texas, indicating ongoing capital investment in store modernization and customer experience improvements.",
+        "suggestedAction": "Discuss remodeling requirements and modernization technology needs; position relevant solutions for store experience and operations.",
+        "sourceName": "lmtonline.com",
+        "sourceLink": "https://www.lmtonline.com/business/article/walmart-remodel-texas-22230114.php"
+      }
+    ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Walmart faces product safety liabilities and competitive pressure amid store expansion and market share loss",
+    "signals": [
+      {
+        "category": "Product Safety & Supplier Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Multiple product recalls and lawsuits involving items sold at Walmart, including 40K NURSH baby bottles recalled for choking hazard and worm-infested SpaghettiOs. While not Walmart's own products, supplier quality issues create liability exposure and reputational risk for the retailer.",
+        "suggestedAction": "Discuss Walmart's supplier quality assurance protocols and recall management processes; identify opportunities to strengthen compliance monitoring in our partnership.",
+        "sourceName": "NBC4 Washington",
+        "sourceLink": "https://www.nbcwashington.com/news/national-international/campbells-soup-walmart-spaghettios-worms-parasites/4112175/"
+      },
+      {
+        "category": "Market Position Loss",
+        "updateType": "market",
+        "score": -2,
+        "summary": "Amazon has dethroned Walmart at the top of the Fortune 500 list, marking a significant shift in competitive hierarchy. This signals Walmart's relative decline in market dominance despite its historical position.",
+        "suggestedAction": "Reassess Walmart's strategic priorities and digital transformation roadmap; explore how our solutions can help Walmart compete with Amazon's scale and capabilities.",
+        "sourceName": "foreignpolicyjournal.com",
+        "sourceLink": "https://www.foreignpolicyjournal.com/2026/06/03/amazon-nasdaq-amzn-dethrones-walmart-at-top-of-fortune-500-as-cfo-brian-olsavskys-decade-long-tenure-drives-record-revenue/"
+      },
+      {
+        "category": "Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is pursuing physical expansion, including an 8,000 sq-ft store expansion in New Haven and new service offerings like a sushi bar in Eunice, Louisiana. This demonstrates ongoing investment in store footprint and customer experience enhancement.",
+        "suggestedAction": "Identify opportunities to support Walmart's store expansion initiatives; propose solutions for new store formats and in-store service integration.",
+        "sourceName": "Hartford Business",
+        "sourceLink": "https://hartfordbusiness.com/article/walmart-seeks-approval-for-8000-sq-ft-expansion-in-new-haven/"
+      },
+      {
+        "category": "CEO Communications & Consumer Concerns",
+        "updateType": "market",
+        "score": 0,
+        "summary": "Walmart CEO addressing shoppers' concerns regarding gas prices and economic pressures on low-income households. Indicates Walmart is responding to broader economic headwinds affecting consumer sentiment.",
+        "suggestedAction": "Monitor Walmart's strategic messaging on affordability and value positioning; assess whether our solutions help Walmart maintain competitive pricing.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/walmart-ceo-addresses-concerns-many-110300147.html"
+      }
+    ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-08-02T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Walmart navigates layoffs and store safety concerns while expanding EV charging and e-commerce delivery capabilities",
+    "signals": [
+      {
+        "category": "Layoffs affecting Walmart workforce",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Walmart announced layoffs in August 2026 alongside Amazon and FedEx, indicating workforce reduction and potential budget constraints on buying initiatives.",
+        "suggestedAction": "Monitor headcount trends in procurement and decision-maker roles; assess impact on deal velocity and budget authority.",
+        "sourceName": "ibtimes.com",
+        "sourceLink": "https://www.ibtimes.com/low-hire-low-fire-economy-fresh-wave-mass-layoffs-hits-amazon-walmart-fedex-workers-3805991"
+      },
+      {
+        "category": "Rapid EV charging network expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is building its own EV charging network faster than competitors, establishing a new business line that could create procurement and infrastructure opportunities.",
+        "suggestedAction": "Explore expansion opportunities in charging infrastructure support, supply chain, or energy management solutions for Walmart's growing EV network.",
+        "sourceName": "latimes.com",
+        "sourceLink": "https://www.latimes.com/business/story/2026-08-03/walmarts-rapid-ev-charger-buildout-could-reshape-where-americans-fuel-up"
+      },
+      {
+        "category": "Express Delivery expansion in Orlando market",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is expanding Express Delivery to offer 30-minute delivery in Orlando, signaling acceleration of last-mile logistics and e-commerce capabilities.",
+        "suggestedAction": "Investigate opportunities in fulfillment, logistics optimization, or last-mile delivery technology that could support rapid expansion.",
+        "sourceName": "yahoo.com",
+        "sourceLink": "https://www.yahoo.com/news/us/articles/walmart-expands-express-delivery-orlando-001418878.html"
+      },
+      {
+        "category": "Health and Wellness brand partnerships",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is deepening health and wellness offerings ahead of back-to-school season, indicating strategic category expansion and new vendor integration opportunities.",
+        "suggestedAction": "Assess if vendor's solutions align with health/wellness strategy; consider co-marketing or expanded partnerships in this growing category.",
+        "sourceName": "foreignpolicyjournal.com",
+        "sourceLink": "https://www.foreignpolicyjournal.com/2026/07/31/walmart-nyse-wmt-deepens-health-and-wellness-push-with-new-brand-partnerships-ahead-of-back-to-school-season/"
+      },
+      {
+        "category": "Solar panel roof fires and litigation",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Walmart filed a lawsuit related to 7 rooftop solar panel fires across 240+ stores, blaming wiring and inspections rather than panels. This indicates operational risk and potential liability management focus.",
+        "suggestedAction": "Monitor for potential infrastructure audits or vendor performance reviews; ensure compliance and risk mitigation solutions are top-of-mind.",
+        "sourceName": "ecoportal.net",
+        "sourceLink": "https://www.ecoportal.net/en/walmart-rooftop-solar-panels-240-stores-7-fires/31005/"
+      }
+    ]
+  },
+  {
+    "company": "Walmart",
     "runAt": "2026-09-01T16:15:26.174Z",
     "source": "daily",
     "headline": "Walmart: Mixed signals from wellness category expansion offset by legal settlement and competitor talent loss",

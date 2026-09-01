@@ -1,6 +1,173 @@
 [
   {
     "company": "Coca-Cola",
+    "runAt": "2026-04-04T17:13:09.447Z",
+    "source": "backfill",
+    "headline": "Coca-Cola shows mixed signals: dividend sustainability concerns tempered by competitive gains and marketing momentum",
+    "signals": [
+      {
+        "category": "Dividend Sustainability & Financial Health",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Financial analysis questioning whether Coca-Cola is paying dividends in excess of sustainable earnings capacity",
+        "suggestedAction": "Monitor cash flow and dividend coverage ratios; discuss dividend policy with finance stakeholders to assess sustainability and potential impact on capex or strategic initiatives",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-paying-more-dividends-112057097.html"
+      },
+      {
+        "category": "Competitive Position & Market Share",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Coca-Cola reasserts dominance over Pepsi in fast-food channel with new campaign, signaling strong competitive positioning",
+        "suggestedAction": "Leverage this competitive win in customer conversations; explore bundled offerings or expanded penetration in fast-food segments",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-reasserts-fast-food-090000069.html"
+      },
+      {
+        "category": "Product Innovation & Retail Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola products appearing in innovative retail formats (packaging-free supermarkets) targeting sustainability-conscious consumers, expanding market reach",
+        "suggestedAction": "Identify opportunities to support new retail channels; discuss sustainability-aligned product offerings and merchandising strategies",
+        "sourceName": "nrc.nl",
+        "sourceLink": "https://www.nrc.nl/nieuws/2026/04/03/verpakkingsvrije-supermarkt-pieter-pot-wil-lichtgroene-klanten-trekken-met-coca-cola-en-fuseert-met-belgische-evenknie-a4923881"
+      },
+      {
+        "category": "Brand Visibility & Campaign Activity",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "America250 commemorative cans launch demonstrates ongoing brand activation and heritage-focused marketing initiatives",
+        "suggestedAction": "Use as conversation starter on brand health and promotional calendar planning",
+        "sourceName": "historiccity.com",
+        "sourceLink": "https://historiccity.com/2026/staugustine/news/coca-cola-beverages-unveils-america250-commemorative-cans-147842"
+      }
+    ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-05-04T17:13:09.447Z",
+    "source": "backfill",
+    "headline": "Coca-Cola expansion and leadership developments signal growth investments with regional talent advancement",
+    "signals": [
+      {
+        "category": "Capital Investment in US Manufacturing",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola Consolidated announced a $35 million investment in US facilities, including a new glass bottling line in Indianapolis. This capital expenditure signals confidence in domestic production and expansion of manufacturing capacity.",
+        "suggestedAction": "Discuss how packaging/manufacturing automation, supply chain, or operational support solutions could support this expansion initiative.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-consolidated-invest-35m-121402908.html"
+      },
+      {
+        "category": "Leadership Advancement - Regional Management",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Piotr Imbrzykowski promoted to Director of Premium Spirits & Beer Business at Coca-Cola HBC Polska i Kraje Bałtyckie. This signals internal talent development and potential expansion of spirits/premium portfolio in Eastern Europe.",
+        "suggestedAction": "Recognize the leadership transition and explore whether new product categories (premium spirits/beer) create opportunities for expanded vendor partnerships or channel management tools.",
+        "sourceName": "infowire.pl",
+        "sourceLink": "https://infowire.pl/generic/release/869216/coca-cola-hbc-polska-i-kraje-baltyckie-stawia-na-rozwoj-wewnetrznych-talentow-piotr-imbrzykowski-nowym-dyrektorem-premium-spirits-beer-business"
+      },
+      {
+        "category": "Supply Chain Disruption - Iran Conflict",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Iran-related conflict is disrupting Coca-Cola product availability in India, creating Diet Coke shortages and viral social media response. This highlights supply chain vulnerability and geopolitical risk to distribution.",
+        "suggestedAction": "Assess whether supply chain visibility, logistics optimization, or crisis management tools could help mitigate future disruptions of this nature.",
+        "sourceName": "economictimes.indiatimes.com",
+        "sourceLink": "https://economictimes.indiatimes.com/industry/cons-products/food/india-throws-diet-coke-parties-as-iran-war-disrupts-supplies/articleshow/130824699.cms"
+      },
+      {
+        "category": "Brand Marketing - Patriotic Product Launch",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Coca-Cola and other major brands launching patriotic products for America's 250th anniversary celebrations. Standard seasonal marketing initiative with positive brand visibility.",
+        "suggestedAction": "Use as rapport-building talking point; minimal strategic impact on account relationship.",
+        "sourceName": "foxnews.com",
+        "sourceLink": "https://www.foxnews.com/food-drink/iconic-brands-go-over-the-top-americas-250th-from-american-dew-birthday-cake-cheerios"
+      }
+    ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-07-03T17:13:09.447Z",
+    "source": "backfill",
+    "headline": "Coca-Cola plant closure in Massachusetts signals operational restructuring; product brand wins in UK market",
+    "signals": [
+      {
+        "category": "Operational restructuring and capacity reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Coca-Cola closing Massachusetts bottling plant in Northampton represents supply chain consolidation and potential job reductions, indicating cost-optimization efforts.",
+        "suggestedAction": "Monitor for broader restructuring announcements; assess impact on supply chain reliability and regional production capacity.",
+        "sourceName": "fooddive.com",
+        "sourceLink": "https://www.fooddive.com/news/coca-cola-closes-bottling-plant-northampton-massachusetts/824063/"
+      },
+      {
+        "category": "Positive brand momentum and consumer sentiment",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Coca-Cola product returning to UK supermarket shelves generating strong consumer enthusiasm and positive social media reception, signaling brand strength and customer loyalty.",
+        "suggestedAction": "Use positive brand narrative in relationship discussions; highlight consumer demand as upsell opportunity for retail/distribution partnerships.",
+        "sourceName": "walesonline.co.uk",
+        "sourceLink": "https://www.walesonline.co.uk/whats-on/shopping/shoppers-praise-best-drink-ever-34210076"
+      }
+    ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-08-02T17:13:09.447Z",
+    "source": "backfill",
+    "headline": "Coca-Cola reports robust Q2 2026 earnings in China amid global FMCG expansion into India; faces regulatory headwinds on ultra-processed food labeling",
+    "signals": [
+      {
+        "category": "Strong earnings momentum in strategic markets",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Coca-Cola reported robust quarterly earnings in China during 2026 Q2, outperforming amid a sluggish retail market. The company is among international brands defying headwinds in the region.",
+        "suggestedAction": "Highlight China performance as a growth bright spot in upcoming QBRs; explore co-selling opportunities tied to APAC expansion narrative.",
+        "sourceName": "en.people.cn",
+        "sourceLink": "http://en.people.cn/n3/2026/0803/c90000-20484448.html"
+      },
+      {
+        "category": "Strategic India market expansion aligned with FMCG growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola is among global FMCG majors significantly expanding investments in India to strengthen retail reach and capitalize on rising demand and premiumization trends.",
+        "suggestedAction": "Identify new India distribution, retail tech, or supply chain initiatives as expansion upsell hooks; contact India country lead to discuss supply chain optimization solutions.",
+        "sourceName": "economictimes.indiatimes.com",
+        "sourceLink": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/global-fmcg-giants-bet-big-on-india-as-demand-premiumisation-rise/articleshow/132813559.cms"
+      },
+      {
+        "category": "Regulatory risk on ultra-processed beverage scrutiny",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Global food and beverage companies, including major sugary drink manufacturers, are facing hundreds of lawsuits attempting to block ultra-processed food regulations worldwide. Coca-Cola is exposed to regulatory efforts to restrict sugary carbonated beverages.",
+        "suggestedAction": "Monitor litigation and regulatory timeline in key markets; discuss compliance/regulatory intelligence needs with procurement and legal teams.",
+        "sourceName": "hani.co.kr",
+        "sourceLink": "https://www.hani.co.kr/arti/international/international_general/1271036.html"
+      },
+      {
+        "category": "Competitive threat from PepsiCo valuation narrative",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Market analysis highlighting PepsiCo trading at lower valuations relative to Coca-Cola, potentially affecting investor sentiment and capital allocation strategy.",
+        "suggestedAction": "Monitor investor sentiment; consider cost-efficiency narratives in sales conversations to reinforce Coca-Cola's operational excellence positioning.",
+        "sourceName": "fool.com",
+        "sourceLink": "https://www.fool.com/investing/2026/08/02/why-is-pepsi-so-much-cheaper-than-coca-cola-this-i/"
+      },
+      {
+        "category": "Sustainability initiative in emerging markets",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Coca-Cola India Foundation's Maidaan Saaf initiative demonstrates commitment to responsible PET bottle collection and ESG practices during major cultural events (Puri Rath Yatra), strengthening brand reputation in key growth market.",
+        "suggestedAction": "Leverage ESG/sustainability initiatives as differentiator in India expansion sales conversations; identify opportunities for supply chain sustainability tooling.",
+        "sourceName": "thehindubusinessline.com",
+        "sourceLink": "https://www.thehindubusinessline.com/brandhub/pr-release/anandana-the-coca-cola-india-foundations-maidaan-saaf-initiative-strengthens-responsible-pet-bottle-collection-during-puri-rath-yrata-2026/article71289094.ece"
+      }
+    ]
+  },
+  {
+    "company": "Coca-Cola",
     "runAt": "2026-09-01T16:13:57.189Z",
     "source": "daily",
     "headline": "Coca-Cola stock performing well with all-time highs; product quality/regulatory issues in India; company planning facility demolition and restructuring",

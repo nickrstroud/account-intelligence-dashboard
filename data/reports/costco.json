@@ -1,6 +1,200 @@
 [
   {
     "company": "Costco",
+    "runAt": "2026-04-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Costco faces product recall exposure and tariff-related litigation; announces new checkout technology",
+    "signals": [
+      {
+        "category": "Product Safety Risk – Granitestone Pan Recall",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "740,000 Granitestone sauté pans sold at Costco recalled due to overheating metal caps that can forcefully eject, creating burn and injury risk. Widespread news coverage across multiple outlets indicates significant brand exposure.",
+        "suggestedAction": "Monitor Costco's response and mitigation strategy; assess whether this affects product assortment strategy or supplier relationships. Track any supply chain adjustments related to private-label cookware.",
+        "sourceName": "cbsnews.com",
+        "sourceLink": "https://www.cbsnews.com/news/costco-saute-pans-recalled-heat/"
+      },
+      {
+        "category": "Litigation Risk – Tariff Refund Class Action",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Costco customers filed a class-action lawsuit seeking share of tariff refunds, indicating potential legal liability and reputational risk around tariff pass-through practices.",
+        "suggestedAction": "Track legal proceedings; assess whether Costco's tariff policies become a customer friction point or negotiation issue. Monitor for settlement announcements that could affect margins.",
+        "sourceName": "kiro7.com",
+        "sourceLink": "https://www.kiro7.com/news/local/costco-customers-sue-share-tariff-refunds-class-action-lawsuit/LVV6FYYRWVHJ5MTKIUJGBKNDFM/"
+      },
+      {
+        "category": "Technology Investment – New Checkout System",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco deployed new pay stations designed to reduce checkout time to 8 seconds, signaling operational modernization and investment in customer experience technology.",
+        "suggestedAction": "Explore opportunities to support checkout efficiency initiatives; assess whether this opens doors for point-of-sale, payments, or customer data services vendors.",
+        "sourceName": "dailyrecordnews.com",
+        "sourceLink": "https://www.dailyrecordnews.com/business/costco-wants-you-to-check-out-in-8-seconds-with-new-pay-stations/article_94abe133-a996-4288-8238-814311c0a5d8.html"
+      },
+      {
+        "category": "Store Expansion Signal",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Job listings for Lake Charles location suggest potential new Costco warehouse opening, indicating real estate and operational expansion activity.",
+        "suggestedAction": "Monitor for official announcements of new warehouse openings; assess staffing, supply chain, and logistics opportunities tied to geographic expansion.",
+        "sourceName": "929thelake.com",
+        "sourceLink": "https://929thelake.com/ixp/149/p/costco-lake-charles-job-listings-rumors/"
+      }
+    ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Costco expanding warehouse footprint and driving positive investor sentiment amid operational challenges",
+    "signals": [
+      {
+        "category": "New warehouse locations in Milwaukee County and Taiwan",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco is breaking ground on its first location in Milwaukee County and opening a second location in Tainan, Taiwan with gas stations. These new facilities represent geographic expansion and increased market penetration.",
+        "suggestedAction": "Discuss expansion plans with Costco procurement and facilities teams; explore opportunities for supply chain services or facility-related products/services in new locations.",
+        "sourceName": "fox6now.com",
+        "sourceLink": "https://www.fox6now.com/news/costco-franklin"
+      },
+      {
+        "category": "Strong sales momentum and analyst price target boost",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Mizuho boosted its price target for Costco amid strong sales momentum, indicating positive revenue performance and investor confidence in the company's financial trajectory.",
+        "suggestedAction": "Monitor upcoming earnings calls for details on comp growth and traffic trends; position expansion offerings around scale-up plans.",
+        "sourceName": "insidermonkey.com",
+        "sourceLink": "https://www.insidermonkey.com/blog/mizuho-boosts-price-target-for-costco-cost-amid-strong-sales-momentum-1752783/"
+      },
+      {
+        "category": "Product safety recall impacting brand",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple media outlets reported a ravioli recall at Costco locations, which represents a product quality/safety issue that could impact brand reputation and customer trust, though unlikely to affect vendor relationships directly.",
+        "suggestedAction": "Monitor Costco's quality control and food safety initiatives; offer compliance or traceability solutions if applicable to your service offerings.",
+        "sourceName": "999ktdy.com",
+        "sourceLink": "https://999ktdy.com/ixp/33/p/costco-ravioli-recall-alert/"
+      },
+      {
+        "category": "Self-checkout technology transition",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Costco is ditching self-checkout machines amid theft and customer frustration, signaling a shift in retail technology strategy. This operational change indicates competitive pressure and evolving customer experience priorities.",
+        "suggestedAction": "If your solution involves retail technology or loss prevention, understand Costco's new direction and pivot messaging toward alternative pain points like staffing efficiency or payment processing.",
+        "sourceName": "techtimes.com",
+        "sourceLink": "http://www.techtimes.com/articles/316324/20260504/walmart-costco-self-checkout-overhaul-why-big-retailers-are-ditching-machines-amid-theft.htm"
+      }
+    ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Costco posts strong Q2 sales growth and membership expansion with minor operational disruptions; digital personalization driving incremental revenue",
+    "signals": [
+      {
+        "category": "Sales Performance & Growth",
+        "updateType": "earnings",
+        "score": 2,
+        "summary": "Costco reported May net sales and comparable-store sales climbs with growth across all regions. Q2 results show strong membership growth, record-breaking gas sales, and $500M in digital sales driven by personalization efforts. Multiple sources confirm strong quarterly performance.",
+        "suggestedAction": "Use strong earnings results and digital revenue growth as a renewal/expansion talking point; explore opportunities to support Costco's digital personalization and membership loyalty initiatives.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/costcos-value-strategy-membership-growth-200800392.html"
+      },
+      {
+        "category": "Business Expansion & New Revenue Streams",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco expanding ancillary services and product offerings: Rochester location getting liquor store addition; Malaga location adding tire service and jewelry sales. Company launching sauna and massage chair category with ~50% sales growth. Digital personalization driving $500M incremental revenue.",
+        "suggestedAction": "Identify opportunities to support new service categories (concierge services, digital tools, membership analytics) as Costco diversifies revenue streams beyond traditional retail.",
+        "sourceName": "retaildive.com",
+        "sourceLink": "https://www.retaildive.com/news/costco-digital-personalization-500-million/821702/"
+      },
+      {
+        "category": "Brand & Market Position",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Positive brand momentum: consumer loyalty remains strong ('members defy big consumer trend'), viral social media engagement (83 tweets), celebrity/influencer content featuring bulk purchases, strong word-of-mouth. Costco brand remains resilient despite macro headwinds.",
+        "suggestedAction": "Leverage Costco's strong brand equity and member loyalty data for account discussions; position solutions around member engagement and retention.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/economy/articles/costco-members-defy-big-consumer-020300723.html"
+      },
+      {
+        "category": "Product Recall - Food Safety",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple product recalls during period: chicken sausage links recall, Motor City Pizza 5-cheese bread salmonella recall across multiple retailers including Costco, Walmart, Target, Kroger. Recalls affect Costco's private-label and vendor relationships; reputational risk from food safety issues.",
+        "suggestedAction": "Monitor supply chain compliance and quality control discussions; offer support for recall management, supplier vetting, or regulatory documentation systems if relevant to your platform.",
+        "sourceName": "nbcchicago.com",
+        "sourceLink": "https://www.nbcchicago.com/news/local/frozen-pizza-item-sold-at-popular-grocery-stores-across-the-us-recalled-for-salmonella-concerns/3943159/"
+      },
+      {
+        "category": "Operational Disruption",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Minor operational incidents: gas leak prompting evacuation of Costco Iwilei location, local Costco gas station closure in summer. These are isolated facility-level issues with no material impact on overall operations.",
+        "suggestedAction": "No action required; note for context only.",
+        "sourceName": "hawaiinewsnow.com",
+        "sourceLink": "https://www.hawaiinewsnow.com/2026/06/04/gas-leak-prompts-evacuation-costco-iwilei"
+      }
+    ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Costco faces grain-free dog food lawsuit and operates with rotisserie chicken market pressure; expansion in Taiwan and Canada underway",
+    "signals": [
+      {
+        "category": "Legal Risk - Product Liability",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Costco is being targeted in lawsuit over grain-free dog food products, suggesting potential product liability exposure and reputational risk with pet-owning customer segments.",
+        "suggestedAction": "Monitor litigation developments; assess whether this impacts customer perception or requires vendor support for compliance/communications.",
+        "sourceName": "newstribune.com",
+        "sourceLink": "https://www.newstribune.com/news/2026/jun/27/lawsuit-targets-costco-over-grain-free-dog-food/"
+      },
+      {
+        "category": "Market/Competitive Pressure - Rotisserie Chicken",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Consumer Reports testing found Costco is not the #1 rotisserie chicken provider, undermining one of Costco's signature 'loss leader' products and potential competitive differentiation.",
+        "suggestedAction": "Discuss with account team whether Costco intends to address quality/pricing; could indicate operational pressure or opportunity to support cost optimization.",
+        "sourceName": "fingerlakes1.com",
+        "sourceLink": "https://www.fingerlakes1.com/2026/06/29/costco-isnt-no-1-consumer-reports-names-surprise-winner-in-rotisserie-chicken-test/"
+      },
+      {
+        "category": "Business Expansion - Store Openings",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco is opening new store locations in Taiwan (Kaohsiung) and expanding in Tainan with significant capital investment ($2.8B parking structure, self-service gas station planned for 2028 opening).",
+        "suggestedAction": "Identify opportunities to support new location buildout (supply chain, systems, staffing); explore services for new market entry or complex retail operations.",
+        "sourceName": "udn.com",
+        "sourceLink": "https://udn.com/news/story/7326/9595220"
+      },
+      {
+        "category": "Market Signal - Analyst Coverage",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Citi resumed coverage of Costco stock, signaling analyst confidence and renewed institutional attention to the company.",
+        "suggestedAction": "Use as positive rapport building point; reflects stable market perception despite near-term pressures.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/citi-resumes-coverage-costco-cost-000658164.html"
+      },
+      {
+        "category": "Competitive Intelligence - Market Position",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Following Carrefour's exit from Taiwan market, Costco is now the only foreign-branded major retailer in the market, strengthening its competitive position and likely increasing its buyer power and strategic importance.",
+        "suggestedAction": "Highlight this market advantage in discussions; Costco's isolated position may create consolidation opportunities and increase operational complexity.",
+        "sourceName": "cna.com.tw",
+        "sourceLink": "https://www.cna.com.tw:443/news/afe/202606300033.aspx"
+      }
+    ]
+  },
+  {
+    "company": "Costco",
     "runAt": "2026-09-01T16:15:43.170Z",
     "source": "daily",
     "headline": "Costco expansion momentum: new California location opening, international supplier partnerships (K-beauty), and strong investor confidence signal growth opportunity",

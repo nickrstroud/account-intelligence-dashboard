@@ -1,6 +1,34 @@
 [
   {
     "company": "Target",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "No account-relevant signals detected in Target news for April 2026",
+    "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "No account-relationship signals detected in provided news articles",
+    "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "No account-relevant signals detected in June 2026 news articles for Target",
+    "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-08-02T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "No relevant account intelligence detected in July 2026 news feed for Target",
+    "signals": []
+  },
+  {
+    "company": "Target",
     "runAt": "2026-09-01T16:15:56.073Z",
     "source": "daily",
     "headline": "Target shows strong recovery momentum with revenue growth and sales outlook boost, signaling improved operational health",

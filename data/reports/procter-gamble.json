@@ -1,6 +1,39 @@
 [
   {
     "company": "Procter & Gamble",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Amazon's logistics expansion into third-party services presents competitive threat to P&G's supply chain partnerships and vendor relationships",
+    "signals": [
+      {
+        "category": "Amazon Supply Chain Services Launch",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Amazon has launched expanded supply chain services, opening its logistics network to third-party businesses beyond its own merchants. This represents Amazon deepening its competitive position in logistics and supply chain management—a critical operational area for CPG companies like P&G.",
+        "suggestedAction": "Assess P&G's current logistics vendor relationships and Amazon's capabilities relative to P&G's supply chain needs. Evaluate whether this development increases Amazon's leverage in negotiations or creates new service alternatives that could affect vendor lock-in or pricing.",
+        "sourceName": "seattletimes.com",
+        "sourceLink": "https://www.seattletimes.com/business/amazon/amazon-takes-aim-at-ups-and-fedex-opening-logistics-network-to-all/"
+      },
+      {
+        "category": "Stock Performance - Market Reaction",
+        "updateType": "market",
+        "score": -1,
+        "summary": "P&G shares fell 2.6% amid broader market volatility, including impacts from Middle East tensions and competing sector movements. While not P&G-specific, the stock decline reflects market pressure.",
+        "suggestedAction": "Monitor P&G's earnings guidance and forward commentary on cost pressures, particularly related to logistics, freight, and supply chain expenses which may be affected by Amazon's competitive entry.",
+        "sourceName": "dailypolitical.com",
+        "sourceLink": "https://www.dailypolitical.com/2026/05/04/procter-gamble-nysepg-shares-down-2-6-heres-why.html"
+      }
+    ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Procter & Gamble account monitoring: Limited account-relationship signals in June 2026 news cycle; mostly unrelated content with minor positive market mentions",
+    "signals": []
+  },
+  {
+    "company": "Procter & Gamble",
     "runAt": "2026-09-01T16:15:09.177Z",
     "source": "daily",
     "headline": "P&G showing mixed signals: restructuring and CEO transition amid product innovation and dividend strength",
@@ -40,6 +73,59 @@
         "suggestedAction": "Explore opportunities to support P&G's sustainability transformation roadmap; potential for vendor partnerships in green supply chain",
         "sourceName": "The World Business Council for Sustainable Development (WBCSD)",
         "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW9tNnBlSzdSc09vLXU1NUFSelVNUnpyOWJkRk4tUlNiQWJhTWdpc0Z0Sm5UUE5wUGxINlpvT1Y3bWw5YWMxem1nQjFSSnExRlEzUFNnMy13R2lqSEdOTjE0N1pVSkE1UHFpVjgtWVFud2NqcDdVTG9uYXNUWmpHTFhYS0RDa0RuNTVMdHFiYW1mamJkd2pQb2FsWTRpQTN4QW9NQQ"
+      }
+    ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-01T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "P&G faces Trump trade-war tariff pressure on key categories while maintaining brand strength; mixed market signals on dividend appeal amid competitive headwinds in FMCG sector",
+    "signals": [
+      {
+        "category": "Trade Tariff Impact on Consumer Staples",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Trump trade war with Canada driving toilet paper and household product price increases, affecting P&G's core categories and consumer purchasing behavior with early stocking-up activity signaling demand uncertainty.",
+        "suggestedAction": "Monitor pricing power and demand elasticity; prepare channel communication on tariff-driven margin compression; assess customer inventory management plans",
+        "sourceName": "dailymail.com",
+        "sourceLink": "https://www.dailymail.com/yourmoney/article-16092441/Toilet-paper-price-hikes-way-thanks-Trumps-trade-war-Canada-American-shoppers-stocking-up.html"
+      },
+      {
+        "category": "Brand Strength & Moat Recognition",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Morningstar analysis highlights P&G's brand enhancements and strengthened value proposition as core competitive moat, supporting long-term investor confidence and differentiation.",
+        "suggestedAction": "Leverage brand strength messaging in renewal discussions; reference competitive moat analysis in value conversations",
+        "sourceName": "morningstar.com",
+        "sourceLink": "https://www.morningstar.com/company-reports/1497975-enhancements-to-the-performance-and-value-proposition-of-its-brands-underpin-procter-gambles-moat"
+      },
+      {
+        "category": "Dividend Stock Appeal",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "P&G recognized as best dividend stock for 2027+ with 3% yield highlighted as attractive for long-term investors, reinforcing stability narrative and cash generation confidence.",
+        "suggestedAction": "Reinforce financial stability and predictable returns in account conversations; position as stable growth partner",
+        "sourceName": "fool.com",
+        "sourceLink": "https://www.fool.com/investing/2026/08/31/the-best-dividend-stock-2027-procter-and-gamble/?source=iedfolrf0000001"
+      },
+      {
+        "category": "Sector Competitive Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Broader FMCG sector (HUL, ITC, Dabur, Emami, Godrej Consumer) hitting 52-week lows, indicating category-wide valuation pressure and competitive intensity in core P&G markets.",
+        "suggestedAction": "Assess customer margin pressure and category economics; explore value-add services to offset pricing competition",
+        "sourceName": "business-standard.com",
+        "sourceLink": "https://www.business-standard.com/markets/news/fmcg-stocks-hul-itc-dabur-emami-godrej-consumer-hit-52-week-lows-126083100611_1.html"
+      },
+      {
+        "category": "Stock Underperformance vs. Nasdaq",
+        "updateType": "market",
+        "score": -1,
+        "summary": "P&G equity underperforming Nasdaq, suggesting investor caution or rotation out of dividend/defensive plays despite fundamentals; potential budget cycle pressure from customer equity holders.",
+        "suggestedAction": "Anticipate customer sentiment tied to stock performance; prepare value justification beyond share price dynamics",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-stock-underperforming-nasdaq-171921912.html"
       }
     ]
   }

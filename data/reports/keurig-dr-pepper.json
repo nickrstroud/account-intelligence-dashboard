@@ -1,6 +1,164 @@
 [
   {
     "company": "Keurig Dr Pepper",
+    "runAt": "2026-04-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "KDP acquires JDE Peet controlling stake, appoints new coffee CEO—major expansion into global coffee unit; analyst downgrades offset opportunity",
+    "signals": [
+      {
+        "category": "M&A - Acquisition of JDE Peet",
+        "updateType": "ma",
+        "score": 2,
+        "summary": "Keurig Dr Pepper has secured a controlling stake in JDE Peet (96.22% share tender) and appointed Rafael Oliveira as CEO of the new global coffee unit, effective April 1, 2026. This is a significant acquisition expanding KDP's coffee portfolio substantially.",
+        "suggestedAction": "Engage account leadership on new organizational structure post-acquisition; identify integration priorities and potential new budget allocation opportunities within the JDE Peet division for vendor solutions.",
+        "sourceName": "foodbev.com",
+        "sourceLink": "https://www.foodbev.com/news/kdp-secures-controlling-stake-in-jde-peet-s-appoints-rafaela-oliveira-to-lead-coffee-spin-off"
+      },
+      {
+        "category": "Leadership - New Coffee Division CEO",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Rafael Oliveira, former JDE Peet CEO, has been appointed to lead Keurig Dr Pepper's global coffee unit post-acquisition. This is a re-pitch opportunity with new leadership but also introduces relationship uncertainty during transition.",
+        "suggestedAction": "Prepare executive briefing on existing vendor relationships for Rafael Oliveira; consider relationship review call to clarify continuity and identify new priorities under his leadership.",
+        "sourceName": "foodmanufacture.co.uk",
+        "sourceLink": "https://www.foodmanufacture.co.uk/Article/2026/04/02/keurig-dr-pepper-names-rafael-oliveira-as-coffee-ceo/"
+      },
+      {
+        "category": "Analyst Downgrade - Price Target Cut",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Deutsche Bank cut Keurig Dr Pepper's price target by $6, signaling analyst concern about near-term valuation or integration risks post-JDE Peet acquisition. This may indicate budget pressure or strategic uncertainty.",
+        "suggestedAction": "Monitor company earnings call (scheduled Q1 2026) for forward guidance and management commentary on acquisition synergies; assess whether budget constraints are emerging.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-cuts-keurig-dr-055445401.html"
+      }
+    ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Keurig Dr Pepper expanding capacity and energy portfolio with strong growth momentum",
+    "signals": [
+      {
+        "category": "Business Expansion - Energy Drinks",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Keurig Dr Pepper's energy beverage category showing significant growth, revealing a clear expansion playbook with strategic category development",
+        "suggestedAction": "Engage account on energy drink supply chain solutions and identify opportunities to support expanded distribution/manufacturing needs in this high-growth category",
+        "sourceName": "beveragedaily.com",
+        "sourceLink": "https://www.beveragedaily.com/Article/2026/06/03/keurig-dr-peppers-energy-growth-reveals-expansion-playbook/"
+      },
+      {
+        "category": "Capacity Investment - Chattanooga Facility",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "New cross-dock distribution facility opened in Chattanooga to support future growth, signaling increased capital investment and supply chain expansion",
+        "suggestedAction": "Identify opportunities to provide logistics, distribution, or supply chain software/services to support the expanded Chattanooga operations",
+        "sourceName": "local3news.com",
+        "sourceLink": "https://www.local3news.com/local-news/keurig-dr-pepper-opens-new-facility-in-chattanooga-to-support-future-growth/article_bc93ba91-b68a-466d-b4b7-709a460480d9.html"
+      },
+      {
+        "category": "RTD Beverage Portfolio Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "RTD (ready-to-drink) beverages driving growth across protein, coffee, and gut health categories, indicating diversified portfolio expansion beyond traditional soft drinks",
+        "suggestedAction": "Explore supply chain, manufacturing, or go-to-market support needs for RTD beverage categories in growth categories (protein, coffee, functional health)",
+        "sourceName": "foodnavigator-usa.com",
+        "sourceLink": "https://www.foodnavigator-usa.com/Article/2026/05/21/rtd-beverages-drive-dairy-growth-across-protein-coffee-and-gut-health/"
+      }
+    ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "KDP Reaffirms FY26 Guidance Despite Leadership Change; Expands Product Portfolio via Dog Haus Partnership and Energy Category Growth",
+    "signals": [
+      {
+        "category": "Leadership transition amid company restructuring ahead of planned split",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Keurig Dr Pepper announced important leadership changes in June 2026, positioning its executive team as the company prepares to split into two entities. While the company reaffirmed FY26 guidance, leadership departures create relationship continuity risk during organizational transition.",
+        "suggestedAction": "Schedule stakeholder alignment meeting with new leadership team to confirm continuity of vendor commitments and identify any procurement changes post-split.",
+        "sourceName": "prnewswire.com",
+        "sourceLink": "https://www.prnewswire.com/news-releases/keurig-dr-pepper-announces-leadership-updates-302807091.html"
+      },
+      {
+        "category": "Strategic partnership expansion with Dog Haus beverage platform",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP launched an exclusive beverage platform partnership with Dog Haus restaurants, described as a first-of-its-kind offering that redefines the restaurant beverage experience. This represents new distribution channel and product innovation expansion.",
+        "suggestedAction": "Identify cross-selling opportunities within new Dog Haus restaurant channel and validate that vendor services scale to support expanded beverage platform deployment.",
+        "sourceName": "nrn.com",
+        "sourceLink": "https://www.nrn.com/beverage-trends/dog-haus-partners-with-keurig-dr-pepper-in-exclusive-deal"
+      },
+      {
+        "category": "Energy category growth and portfolio expansion strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP's energy drink segment is driving expansion, with the company revealing its expansion playbook through accelerated growth in this category. Signals strategic focus on higher-growth beverage segments beyond core soft drinks.",
+        "suggestedAction": "Assess impact on procurement volumes and supply chain requirements given energy category acceleration; explore opportunities to support new product lines in growth segments.",
+        "sourceName": "beveragedaily.com",
+        "sourceLink": "https://www.beveragedaily.com/Article/2026/06/03/keurig-dr-peppers-energy-growth-reveals-expansion-playbook/"
+      },
+      {
+        "category": "Ingredient transparency initiative (QR code rollout)",
+        "updateType": "regulatory",
+        "score": 0,
+        "summary": "KDP joined Coca-Cola and Pepsi in rolling out QR codes linking to detailed ingredient information on packaging, addressing regulatory and consumer transparency trends. This is a defensive compliance/brand move rather than a direct business opportunity.",
+        "suggestedAction": "Monitor for downstream impact on packaging, labeling, or supply chain processes; proactively offer compliance support if relevant to vendor offerings.",
+        "sourceName": "fooddive.com",
+        "sourceLink": "https://www.fooddive.com/news/coca-cola-pepsico-keurig-ingredient-transparency-qr-codes/823802/"
+      }
+    ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-08-02T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "KDP shows strong beverage sales momentum and product innovation with new cold brew system launch, partially offset by competitive pressure from Coca-Cola guidance bump",
+    "signals": [
+      {
+        "category": "Strong Q2 beverage sales performance driving stock appreciation",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper stock popped on strong beverage sales in late July, indicating positive earnings momentum and market confidence in the company's performance trajectory.",
+        "suggestedAction": "Highlight KDP's strong execution in earnings calls; position as a growth account with expanding budget capacity",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://www.finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-pops-131447922.html"
+      },
+      {
+        "category": "New cold brew system launch for workplace and foodservice channels",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig launched a cold brew system targeting workplaces and foodservice venues, representing a new product line and distribution channel expansion.",
+        "suggestedAction": "Identify opportunities to support this channel expansion; explore if vendor solutions can enhance workplace/foodservice deployment",
+        "sourceName": "vendingmarketwatch.com",
+        "sourceLink": "https://www.vendingmarketwatch.com/coffee-service/news/55392646/keurig-dr-pepper-keurig-launches-cold-brew-system-for-workplaces-and-foodservice-venues"
+      },
+      {
+        "category": "Coca-Cola bumped guidance upward, signaling stronger competitive environment",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Coca-Cola raised Q2 guidance, indicating aggressive competitive performance in the beverage sector and potential market share pressure on KDP.",
+        "suggestedAction": "Monitor KDP's competitive positioning; be prepared to discuss how vendor solutions help KDP compete and differentiate",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://www.finance.yahoo.com/markets/stocks/articles/coca-cola-co-bumps-guidance-125627934.html"
+      },
+      {
+        "category": "Successful TikTok marketing partnership driving measurable growth",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Keurig Dr Pepper leveraging cultural moments via TikTok partnership to drive measurable business growth, demonstrating strong brand activation capability.",
+        "suggestedAction": "Use as positive rapport point; understand how marketing tech investments support growth initiatives",
+        "sourceName": "adweek.com",
+        "sourceLink": "https://www.adweek.com/brand-marketing/turning-cultural-moments-into-measurable-growth-with-tiktok-and-keurig-dr-pepper/"
+      }
+    ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
     "runAt": "2026-09-01T16:14:45.138Z",
     "source": "daily",
     "headline": "KDP divesting Chobani stake ($800-925M) and Pennsylvania facility as part of company restructuring ahead of planned split",

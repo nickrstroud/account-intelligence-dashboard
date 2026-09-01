@@ -1,6 +1,253 @@
 [
   {
     "company": "Kroger",
+    "runAt": "2026-04-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Kroger faces legal/financial pressure from states over Albertsons merger; launches FlashFood expansion in Mid-Atlantic",
+    "signals": [
+      {
+        "category": "States seeking $10.35M from Kroger and Albertsons for merger-related costs",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Multiple states are demanding Kroger and Albertsons pay $10.35M in regulatory/legal costs associated with the failed or ongoing merger. This represents ongoing regulatory friction and potential financial liability.",
+        "suggestedAction": "Monitor regulatory environment and potential impacts on Kroger's procurement/operations budget; assess if merger complications affect vendor negotiations or payment cycles.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/mergers-acquisitions/states-seek-10-35m-from-kroger-albertsons-for-merger-costs"
+      },
+      {
+        "category": "FlashFood app expands to Kroger Mid-Atlantic Division stores",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is expanding the FlashFood app partnership into its Mid-Atlantic division, indicating technology investment and digital channel growth. This suggests continued vendor ecosystem development and potential openness to new solutions.",
+        "suggestedAction": "Opportunity to discuss complementary digital/supply-chain solutions or vendor partnerships that support Kroger's tech expansion goals.",
+        "sourceName": "herald-dispatch.com",
+        "sourceLink": "https://www.herald-dispatch.com/business/flashfood-app-expands-to-kroger-stores-in-wv-connects-shoppers-with-good-deals/article_24c5b18a-fe07-45b5-937c-983c82fe5eb9.html"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Kroger expands delivery capabilities through DoorDash SNAP/EBT partnership; settlement and analyst downgrade present modest headwinds",
+    "signals": [
+      {
+        "category": "Channel Expansion & Strategic Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger partnered with DoorDash to expand SNAP and EBT payment acceptance across ~2,700 Kroger stores nationwide, significantly broadening delivery access for lower-income customers. This represents a major channel expansion into a new customer segment.",
+        "suggestedAction": "Highlight this as a growth initiative and new addressable market. Confirm whether your solutions support Kroger's omnichannel fulfillment strategy for SNAP-eligible orders or if there are integration/compliance opportunities.",
+        "sourceName": "newswest9.com",
+        "sourceLink": "https://www.newswest9.com/article/news/nation-world/doordash-snap-ebt-access-kroger-stores/507-a099b98c-245d-4d91-915c-40d204c37187"
+      },
+      {
+        "category": "Legal/Compliance Settlement",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Kroger settled a $100M case related to poor refrigerant repairs, indicating operational/compliance issues in store infrastructure management.",
+        "suggestedAction": "Monitor for any implications on capex budget or store operations priorities. Determine if this affects Kroger's investment roadmap in related infrastructure areas.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/company-news/kroger-settles-for-100m-for-poor-refrigerant-repairs"
+      },
+      {
+        "category": "Analyst Sentiment Downgrade",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Erste Group downgraded Kroger (KR) from Buy to Hold, signaling analyst caution on near-term stock performance and potentially tighter capital allocation discipline.",
+        "suggestedAction": "Monitor analyst commentary for budget cycle implications. A downgrade may slow discretionary spending; validate Kroger's current fiscal priorities and budget authorization levels.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/erste-group-downgrades-kroger-kr-142940778.html"
+      },
+      {
+        "category": "Brand & Marketing Initiative",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Kroger is transforming its annual wellness festival into a nationwide traveling tour in 2026, demonstrating commitment to consumer engagement and brand building across new markets.",
+        "suggestedAction": "Position as a positive brand momentum point in account discussions. Explore whether your offerings support event marketing, customer data, or loyalty integration for this initiative.",
+        "sourceName": "fox19.com",
+        "sourceLink": "https://www.fox19.com/2026/04/28/kroger-wellness-festival-become-traveling-tour-2026/"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Multiple executive departures and competitive pricing pressure signal leadership instability and margin risk at Kroger",
+    "signals": [
+      {
+        "category": "Executive Retirement - Tim Massa",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Tim Massa, Executive Vice President and Chief Associate Experience Officer, announced retirement. Associate experience leadership departure under new CEO Greg Foran creates potential continuity risk.",
+        "suggestedAction": "Verify if associate experience function oversight transitions smoothly; assess vendor relationship continuity with replacement leader.",
+        "sourceName": "perishablenews.com",
+        "sourceLink": "https://perishablenews.com/retailfoodservice/kroger-announces-retirement-of-tim-massa-executive-vice-president-and-chief-associate-experience-officer/"
+      },
+      {
+        "category": "Executive Retirement - Valerie Jabbar",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Senior Vice President Valerie Jabbar announced retirement after 38 years of service. Fourth high-level Kroger executive departure since February 2026, signaling leadership churn under new CEO.",
+        "suggestedAction": "Identify Jabbar's functional role and map successor; monitor for vendor relationship gaps in her department.",
+        "sourceName": "prnewswire.com",
+        "sourceLink": "https://www.prnewswire.com/news-releases/kroger-senior-vice-president-valerie-jabbar-announces-retirement-after-38-years-of-service-302780361.html"
+      },
+      {
+        "category": "Competitive Pricing Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger planning massive price cuts to compete directly with Aldi, Walmart, and Costco. New CEO Greg Foran initiating aggressive price competition, signaling margin pressure and potential budget constraints.",
+        "suggestedAction": "Reassess vendor pricing and contract terms; anticipate margin scrutiny and cost-reduction demands from Kroger buyers.",
+        "sourceName": "seattletimes.com",
+        "sourceLink": "https://www.seattletimes.com/business/local-business/seattle-shoppers-skeptical-over-kroger-promise-to-slash-prices/"
+      },
+      {
+        "category": "Technology Expansion - Tally Robot",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger exploring expanded coverage of Tally shelf-scanning robots, indicating technology investment and automation strategy advancement.",
+        "suggestedAction": "Monitor Kroger's tech vendor partnerships; identify opportunities to support automation initiatives.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/grocery-technology/is-kroger-expanding-its-tally-robot-coverage-"
+      },
+      {
+        "category": "Store Renovations & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger celebrating grand reopening of renovated New Albany store and announced new store opening in St. Albans, plus Royal Oak City Commission approval for Kroger location with apartments. Active capital deployment in store network.",
+        "suggestedAction": "Identify renovation/construction vendor opportunities; track real estate expansion pipeline for new location onboarding.",
+        "sourceName": "myfox28columbus.com",
+        "sourceLink": "https://myfox28columbus.com/news/local/kroger-to-celebrate-grand-reopening-of-renovated-new-albany-store-friday-ohio-grocery-consumer-business"
+      },
+      {
+        "category": "Sustainability Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger announcing $100 million investment to reduce refrigerant leaks, demonstrating sustainability and environmental commitment.",
+        "suggestedAction": "Explore vendor partnerships in environmental compliance, refrigeration efficiency, and sustainability reporting.",
+        "sourceName": "achrnews.com",
+        "sourceLink": "https://www.achrnews.com/articles/166248-kroger-to-spend-100-million-to-reduce-refrigerant-leaks"
+      },
+      {
+        "category": "Health & Wellness Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger Health convening industry leaders at Nourishing Change Conference alongside Hy-Vee. Expanding health-focused business line positioning and thought leadership.",
+        "suggestedAction": "Assess fit for healthcare/wellness vendor services; monitor Kroger Health as new business unit revenue opportunity.",
+        "sourceName": "perishablenews.com",
+        "sourceLink": "https://perishablenews.com/retailfoodservice/kroger-health-along-with-hy-vee-convenes-industry-leaders-to-shape-the-future-of-health-at-nourishing-change-conference/"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Kroger executing multi-channel expansion (rewards, marketplace, celebrity brands, health partnerships) amid margin pressure and pricing challenges",
+    "signals": [
+      {
+        "category": "Rewards program expansion and customer engagement initiatives",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger expanded rewards program to allow redemption on groceries and gas, rolled out exclusive celebrity product lines (Vanderpump Blooms), and launched Marketplace format in new geographies (West Virginia opening). These represent new revenue channels and customer engagement touchpoints.",
+        "suggestedAction": "Explore opportunities to integrate vendor solutions into expanded loyalty/marketplace ecosystem or support customer data/personalization needs in new store formats.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "category": "Strategic health/retail partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger Health announced partnership with Hy-Vee and Ahold to advance healthcare offerings. Signals expansion into health services vertical as new business unit, opening potential adjacent market for vendors.",
+        "suggestedAction": "Assess applicability of current solutions to health services segment or identify adjacent service gaps being created by health partnerships.",
+        "sourceName": "perishablenews.com",
+        "sourceLink": "https://perishablenews.com/retailfoodservice/kroger-health-hy-vee-and-ahold-partner-to-advance-the-future-of-health/"
+      },
+      {
+        "category": "Margin compression despite sales growth",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "BMO Capital and analyst commentary highlight Kroger delivering strong sales growth (up 1% per latest earnings) but experiencing weaker margins. CEO flagged troubling grocery trends (intense price competition, private label gains hitting 50% share). This creates budget pressure on discretionary spending.",
+        "suggestedAction": "Position solutions as margin-improvement or efficiency plays. Anticipate budget scrutiny and longer sales cycles. Offer cost-saving or revenue-generating value props to offset margin headwinds.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://www.fool.com/investing/2026/06/22/the-dip-in-kroger-stock-could-be-a-gift-heres-how/?source=iedfolrf0000001"
+      },
+      {
+        "category": "Food safety / brand reputation risk",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Health officials warned of Kroger brand chicken misbranding issue; USDA announced food safety actions same period. While not directly customer-facing, creates reputational pressure and potential regulatory/compliance scrutiny that may divert management focus.",
+        "suggestedAction": "Monitor for expanded compliance or quality assurance initiatives. Offer support in supply chain visibility, traceability, or quality control if relevant to vendor role.",
+        "sourceName": "nypost.com",
+        "sourceLink": "https://nypost.com/2026/06/30/lifestyle/health-officials-warn-shoppers-beware-kroger-brand-chicken-misbranding/"
+      },
+      {
+        "category": "Albertsons acquisition blocked; legal proceedings ongoing",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Court rejected Albertsons' bid for Kroger legal documents as M&A litigation continues. Deal blocked in prior period. Ongoing legal activity may consume management bandwidth but is not a material expansion/restructuring risk at this time.",
+        "suggestedAction": "Monitor litigation conclusion; consider contingency planning if Kroger pursues alternative M&A or restructuring post-litigation wind-down.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/mergers-acquisitions/court-rejects-albertsons-bid-for-kroger-legal-documents"
+      },
+      {
+        "category": "Dividend increase and stock price volatility",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Kroger increased dividend to $0.39/share despite margin pressure, signaling confidence in cash generation. Stock traded both up and down during period amid analyst price target cuts. Mixed sentiment but dividend increase is positive cash position signal.",
+        "suggestedAction": "Monitor capital allocation priorities; dividend sustainability suggests operational/financial discipline despite near-term headwinds.",
+        "sourceName": "tickerreport.com",
+        "sourceLink": "https://www.tickerreport.com/banking-finance/13486183/the-kroger-co-nysekr-increases-dividend-to-0-39-per-share.html"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-08-02T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Kroger navigating mixed signals: store closures and pricing scrutiny offset by AI innovation and brand momentum",
+    "signals": [
+      {
+        "category": "Structural Contraction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Flint Township Kroger location closing September 30, 2026. Store closure signals footprint contraction and potential workforce reduction in local market.",
+        "suggestedAction": "Clarify whether closure impacts service delivery or support functions in that region; assess if it signals broader store rationalization strategy.",
+        "sourceName": "midmichigannow.com",
+        "sourceLink": "https://midmichigannow.com/news/local/flint-township-kroger-location-to-close-in-september"
+      },
+      {
+        "category": "Technology Investment & Capability",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger released AI Shopping Assistant storewide, representing meaningful technology modernization and customer experience enhancement across the chain.",
+        "suggestedAction": "Position as partnership differentiator; explore how vendor solutions can integrate with or complement AI-enabled operations.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/grocery-technology/kroger-releases-ai-shopping-assistant-storewide"
+      },
+      {
+        "category": "Legal/Liability Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Kroger settled wrongful death lawsuit filed by family of employee who died by suicide, involving manager misconduct allegations. Reputational and liability exposure evident.",
+        "suggestedAction": "Monitor for pattern of HR/workplace culture issues; assess risk tolerance for vendor relationship given potential reputation spillover.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/company-news/kroger-settles-wrongful-death-suit"
+      },
+      {
+        "category": "Pricing & Compliance Scrutiny",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Consumer group claims Kroger has pricing discrepancies and cites 1,700 complaints. Suggests potential regulatory/compliance risk and operational execution issues.",
+        "suggestedAction": "Confirm no vendor involvement in pricing systems; assess if Kroger's operational focus shifts due to compliance investigation.",
+        "sourceName": "springfieldnewssun.com",
+        "sourceLink": "https://www.springfieldnewssun.com/local/consumer-group-claims-kroger-has-pricing-discrepancies-cites-1-700-complaints/article_12c42808-f94e-5841-90ab-f3b7438a342d.html"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
     "runAt": "2026-09-01T16:16:07.950Z",
     "source": "daily",
     "headline": "Kroger faces intensifying price war with Walmart amid wellness expansion push, but competitive pressure and stock valuation remain key headwinds",
@@ -31,6 +278,59 @@
         "suggestedAction": "Explore partnerships or solutions that support wellness positioning (health-focused promotions, nutrition data, loyalty program enhancements); position as enabler of Kroger's wellness strategy",
         "sourceName": "grocerydive.com",
         "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSW5oODgzU2ZBSlBhWUFFMm5iZC1MdEpkZ0N6MnFuTjdwc19Tb2R0ak80Zi1JR2Y5Z3BpMktrbkdNajhqQzNZMmlVRnJJV0ZsS0tHQUszQXVqOExJaHRQTllzX0xaVVZSVlZpR3JnUkF0M1kydElpSDgtNlJPZWkwSkx6OXZaOWZHaDdUdw"
+      }
+    ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-01T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "Kroger expands service offerings and real estate footprint, but faces litigation and pricing perception challenges",
+    "signals": [
+      {
+        "category": "Store expansion in Michigan",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger announced opening of new stores in Michigan in 2027, signaling geographic expansion and capital investment in growth markets.",
+        "suggestedAction": "Discuss expansion timeline and requirements with Kroger's procurement/store operations teams; identify opportunities to support new location buildouts.",
+        "sourceName": "wkfr.com",
+        "sourceLink": "https://wkfr.com/ixp/691/p/new-kroger-stores-michigan-2027/"
+      },
+      {
+        "category": "Kroger-Instacart pharmacy delivery partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger partnered with Instacart to launch combined prescription delivery services in Ohio, expanding Kroger's healthcare/pharmacy vertical and omnichannel capabilities.",
+        "suggestedAction": "Explore partnership expansion opportunities; assess if solutions can integrate with or support the Kroger-Instacart pharmacy ecosystem.",
+        "sourceName": "myfox28columbus.com",
+        "sourceLink": "https://myfox28columbus.com/news/local/kroger-and-instacart-kicks-off-new-prescription-delivery-services-in-ohio-grocery-website-apps-pharmacy-customers-eligible"
+      },
+      {
+        "category": "Kroger prepared foods expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger expanded prepared-foods sections at Ukrop's banners, indicating growth in higher-margin deli/ready-to-eat categories.",
+        "suggestedAction": "Identify adjacency opportunities in food service, packaging, or supply chain solutions for expanded prepared-foods operations.",
+        "sourceName": "supermarketnews.com",
+        "sourceLink": "https://www.supermarketnews.com/deli/kroger-expands-ukrop-s-prepared-foods-sections"
+      },
+      {
+        "category": "$17M pharmacy pricing settlement",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Kroger pharmacy settled class-action lawsuit for $17M related to pricing practices on generic prescriptions and the Savings Club, indicating past pricing compliance issues.",
+        "suggestedAction": "Monitor for potential operational or compliance impact on Kroger's pharmacy operations; flag for account team awareness of reputational/relationship sensitivity.",
+        "sourceName": "prnewswire.com",
+        "sourceLink": "http://www.prnewswire.com/news-releases/settlement-administrator-angeion-group-announces-proposed-settlement-in-the-kirkbride-et-al-v-the-kroger-co-case-no-221-cv-00022-sd-ohio-class-action-302858555.html"
+      },
+      {
+        "category": "Pricing perception and consumer trust issues",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple reports of customer complaints regarding perceived short-weight beef packages and surveillance pricing practices, creating negative brand/trust sentiment.",
+        "suggestedAction": "Be aware of customer sentiment issues; avoid pricing/cost discussions that could exacerbate perception; focus on value and transparency messaging.",
+        "sourceName": "yahoo.com",
+        "sourceLink": "https://www.yahoo.com/news/politics/articles/ohio-lawmakers-must-prevent-kroger-073015966.html"
       }
     ]
   }

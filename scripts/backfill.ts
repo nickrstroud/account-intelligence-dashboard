@@ -36,7 +36,7 @@ function gdeltQuery(name: string): string {
   // once) in favor of articles substantially about the company. GDELT only
   // accepts a single word in a REPEAT block, so multi-word names (which are
   // already fairly precise as an exact phrase) skip it.
-  const base = name.trim().includes(" ") ? `"${name}"` : `"${name}" repeat2:"${name}"`;
+  const base = /[\s-]/.test(name.trim()) ? `"${name}"` : `"${name}" repeat2:"${name}"`;
   const disambiguator = DISAMBIGUATORS[name];
   return disambiguator ? `${base} ${disambiguator}` : base;
 }

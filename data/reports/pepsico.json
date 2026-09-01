@@ -1,6 +1,263 @@
 [
   {
     "company": "PepsiCo",
+    "runAt": "2026-04-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "PepsiCo pursuing capex-intensive automation and manufacturing expansion while facing analyst downgrades and product safety headwinds",
+    "signals": [
+      {
+        "category": "Capital investment in automation and new manufacturing capacity across multiple regions (Romania, France, Mexico)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is deploying significant capital to modernize operations through automation and new production facilities. Romania investment focuses on factory automation and supply chain consolidation; France is building an automated multimodal warehouse; Mexico opened a $467M Sabritas plant in Celaya after 7-year development cycle. Signals operational scale-up and modernization commitment.",
+        "suggestedAction": "Opportunity to pitch operational efficiency, supply chain visibility, and plant floor automation tools that support PepsiCo's capex roadmap. These investments suggest receptivity to modernization vendors.",
+        "sourceName": "business24.ro",
+        "sourceLink": "https://business24.ro/investitie/pepsico-investitie-romania-automatizare-fabrici-lant-aprovizionare-1646815"
+      },
+      {
+        "category": "Analyst downgrade on PepsiCo stock price target due to mounting industry pressures",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Deutsche Bank trimmed PepsiCo (PEP) price target citing mounting industry pressures. Multiple reports of analyst pessimism suggest headwinds in beverage/snack sector (pricing pressure, competitive intensity, market shift to healthier products).",
+        "suggestedAction": "Monitor account health and budget cycles. May indicate tighter discretionary spending but also potential cost-reduction initiatives that could open doors for efficiency vendors.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-mounting-industry-pressures-012144748.html"
+      },
+      {
+        "category": "New leadership hires in advertising/marketing function (Ahaan Panday and Aneet Padda onboarded to Pepsi brand)",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Pepsi (PepsiCo brand) onboarded new leadership Ahaan Panday and Aneet Padda in advertising/marketing. Indicates potential shift in brand strategy and agency/marketing vendor relationships.",
+        "suggestedAction": "Re-engagement opportunity: new marketing leaders may evaluate current vendor stack and be open to new partnerships for digital, creative, or analytics capabilities.",
+        "sourceName": "afaqs.com",
+        "sourceLink": "https://www.afaqs.com/news/advertising/on-pepsi-and-its-onboarding-of-ahaan-panday-and-aneet-padda-11447473"
+      },
+      {
+        "category": "Product recall/safety warnings affecting multiple retail channels in UK",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple 'Do not eat' warnings issued for PepsiCo-linked products across UK retailers (Tesco, Sainsbury, Lidl). Widespread product safety alerts create reputational and operational friction, though not directly tied to B2B vendor relationships.",
+        "suggestedAction": "Monitor for downstream impact on supply chain operations and quality assurance investments. May create demand for traceability, quality control, or compliance monitoring solutions.",
+        "sourceName": "basingstokegazette.co.uk",
+        "sourceLink": "https://www.basingstokegazette.co.uk/news/25995813.do-not-eat-warnings-tesco-sainsburys-lidl/"
+      }
+    ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-05-04T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "PepsiCo shows strong earnings momentum and strategic brand expansion amid consumer litigation and retail media innovation",
+    "signals": [
+      {
+        "category": "Strong Earnings & Analyst Momentum",
+        "updateType": "earnings",
+        "score": 2,
+        "summary": "UBS highlights strong earnings momentum for PepsiCo, with multiple financial publications covering positive analyst perspectives on the company's performance and growth trajectory.",
+        "suggestedAction": "Reinforce partnership around PepsiCo's growth initiatives; position solutions to support their expanded scale and margin expansion goals.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/ubs-highlights-strong-earnings-momentum-075200805.html"
+      },
+      {
+        "category": "Retail Media & Channel Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo leveraging Walmart Connect to turn retail media into launch media, demonstrating strategic digital and channel expansion capabilities.",
+        "suggestedAction": "Explore co-selling opportunities around PepsiCo's retail media initiatives and discuss how vendor solutions can integrate with their omnichannel strategies.",
+        "sourceName": "mediapost.com",
+        "sourceLink": "https://www.mediapost.com/publications/article/414635/pepsico-says-walmart-connect-helped-turn-retail-me.html"
+      },
+      {
+        "category": "Brand & Portfolio Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Multiple brand initiatives demonstrate active portfolio evolution: Gatorade rebranding to target non-athletes, Mirinda global platform launch ('Smile Please'), Lay's restaurant strategy expansion in Shanghai, and innovation in chip supply chain (next-gen potatoes).",
+        "suggestedAction": "Position as strategic partner for brand innovation; identify opportunities to support go-to-market for new brand expressions and product variants across portfolio.",
+        "sourceName": "bakeryandsnacks.com",
+        "sourceLink": "https://www.bakeryandsnacks.com/Article/2026/05/05/pepsicos-lays-restaurant-strategy-why-shanghai-is-a-high-stakes-brand-experiment/"
+      },
+      {
+        "category": "Consumer Litigation Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "PepsiCo hit with consumer lawsuit alleging ultra-processed ingredients are addictive, representing emerging legal/regulatory pressure on the food & beverage industry.",
+        "suggestedAction": "Monitor litigation trajectory; discuss compliance and risk mitigation strategies with PepsiCo's legal and product teams.",
+        "sourceName": "fooddive.com",
+        "sourceLink": "https://www.fooddive.com/news/ultraprocessed-food-consumer-lawsuit-kraft-heinz-pepsico/818951/"
+      },
+      {
+        "category": "Patriotic Product Portfolio Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo brands (Mountain Dew, Tropicana/Gatorade) rolling out patriotic products for America's 250th anniversary—demonstrates agility in seasonal/cultural marketing and portfolio breadth.",
+        "suggestedAction": "Leverage as conversation starter on brand agility and consumer trend responsiveness; identify similar limited-edition or seasonal initiatives to support.",
+        "sourceName": "nypost.com",
+        "sourceLink": "https://nypost.com/2026/05/04/lifestyle/cheerios-oreo-mountain-dew-roll-out-patriotic-products-for-americas-250th/"
+      }
+    ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-06-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "PepsiCo expanding portfolio, investing in manufacturing, and navigating regulatory/litigation risks in 2026",
+    "signals": [
+      {
+        "category": "New product launch (India market expansion)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo India launched Adrenaline Rush energy drink targeting Gen-Z with premium positioning, part of strategic portfolio diversification into growing energy drink category",
+        "suggestedAction": "Explore category expansion opportunity and Gen-Z targeting capabilities with account",
+        "sourceName": "retail.economictimes.indiatimes.com",
+        "sourceLink": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/pepsico-launches-energy-drink-adrenaline-rush-eyes-mass-premium-segment/131475766"
+      },
+      {
+        "category": "Capital investment commitment (India manufacturing)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo committed to investing USD 665 million in India foods manufacturing by 2030, signaling long-term capacity expansion and market growth strategy",
+        "suggestedAction": "Discuss supply chain and manufacturing solutions that support this growth initiative",
+        "sourceName": "potatopro.com",
+        "sourceLink": "https://www.potatopro.com/news/2026/pepsico-invest-usd-665-million-india-foods-manufacturing-2030"
+      },
+      {
+        "category": "Large capex investment in Poland",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo investing approximately USD 50 million in automatic manufacturing facility in Poland (Grójcem area), demonstrating European capacity expansion",
+        "suggestedAction": "Track European manufacturing footprint expansion as potential cross-sell opportunity",
+        "sourceName": "bankier.pl",
+        "sourceLink": "https://www.bankier.pl/wiadomosc/Gigantyczny-automatyczny-i-wart-50-mln-dol-PepsiCo-inwestuje-miliony-pod-Grojcem-9140893.html"
+      },
+      {
+        "category": "Litigation/regulatory risk (glyphosate investigation)",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Texas Attorney General investigating multiple corporations over alleged chemicals (glyphosate) in children's food products; PepsiCo may be implicated given snack portfolio exposure",
+        "suggestedAction": "Monitor legal exposure and product safety implications; clarify account's compliance posture on pesticide residues",
+        "sourceName": "fox26houston.com",
+        "sourceLink": "https://www.fox26houston.com/news/texas-agents-investigate-alleged-chemicals-in-kid-food"
+      },
+      {
+        "category": "Price increases on core SKUs",
+        "updateType": "market",
+        "score": 0,
+        "summary": "PepsiCo expected to increase prices on small chip bags (Doritos, Lay's), reflecting inflationary pricing strategy in snacks category",
+        "suggestedAction": "Discuss pricing elasticity and consumer response strategies; opportunity to explore volume/margin trade-offs",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/economy/policy/articles/pepsico-hiking-prices-doritos-lays-192655640.html"
+      },
+      {
+        "category": "Packaging innovation (clean label positioning)",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "PepsiCo India prominently displaying 'No Artificial Flavours or Colours' labeling on new packaging; signals consumer health trend responsiveness and reformulation efforts",
+        "suggestedAction": "Highlight clean-label trend opportunity; discuss packaging/labeling solutions supporting product transparency",
+        "sourceName": "economictimes.indiatimes.com",
+        "sourceLink": "https://economictimes.indiatimes.com/industry/cons-products/food/pepsico-new-packaging-to-carry-no-artificial-flavours-or-colours-label/articleshow/131354678.cms"
+      },
+      {
+        "category": "Regenerative agriculture partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo collaborating with EIT Food on generational farming initiative and training farmers in regenerative agriculture, demonstrating supply chain sustainability commitment",
+        "suggestedAction": "Align on supply chain resilience and sustainability initiatives; opportunity for ESG-aligned solutions",
+        "sourceName": "esmmagazine.com",
+        "sourceLink": "https://www.esmmagazine.com/supply-chain/pepsico-foundation-launches-generational-farming-programme-313255"
+      },
+      {
+        "category": "Credit facility extension",
+        "updateType": "earnings",
+        "score": 0,
+        "summary": "PepsiCo extended credit facilities to strengthen long-term liquidity position; signals healthy financial management and capital structure optimization",
+        "suggestedAction": "Monitor financial health metrics; no immediate action required but reinforces stable account profile",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-extends-credit-facilities-134328006.html"
+      }
+    ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-07-03T16:16:12.299Z",
+    "source": "backfill",
+    "headline": "PepsiCo: Expansion momentum tempered by consumer demand softness and emerging competitor poaching",
+    "signals": [
+      {
+        "category": "Capacity & Infrastructure Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo securing state-of-the-art flavor concentrate plant in Madhya Pradesh, India—capital investment signal indicating geographic/production expansion and localization strategy.",
+        "suggestedAction": "Validate expansion timeline and capex commitments; assess impact on supply chain vendor requirements.",
+        "sourceName": "tarunmitra.in",
+        "sourceLink": "https://www.tarunmitra.in/state/madhya-pradesh/madhya-pradesh-gets-a-big-industrial-gift-pepsicos-state-of-the-art-flavor/article-150304"
+      },
+      {
+        "category": "Product Innovation & Brand Activity",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Multiple new product launches (7UP sugar-free/pink summer campaign, Miss Vickie's Ristoranti pre-order series, Mountain Dew 80-year commemorative bundles, discontinued Pepsi brand return) demonstrate active innovation pipeline and brand health.",
+        "suggestedAction": "Monitor marketing/promotional spend trends and retailer shelf-space allocation as growth driver.",
+        "sourceName": "prnewswire.com",
+        "sourceLink": "https://www.prnewswire.com/news-releases/mountain-dew-marks-nearly-80-years-as-an-american-original-by-selling-limited-edition-commemorative-can-bundles-for-five-cents-302807702.html"
+      },
+      {
+        "category": "Regulatory/Industry Transparency Initiative",
+        "updateType": "regulatory",
+        "score": 0,
+        "summary": "PepsiCo and Coca-Cola jointly implementing QR code ingredient transparency across US market—regulatory compliance/consumer trust play; neutral for account relationship (industry-wide shift, not company-specific risk).",
+        "suggestedAction": "Confirm packaging/labeling vendor readiness for QR code integration.",
+        "sourceName": "fooddive.com",
+        "sourceLink": "https://www.fooddive.com/news/coca-cola-pepsico-keurig-ingredient-transparency-qr-codes/823802/"
+      },
+      {
+        "category": "Talent/Leadership Risk—Competitor Poaching",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Hershey appointed former PepsiCo executive Heather Hoytink as President of US market; signals competitive talent acquisition and potential loss of institutional knowledge/relationships at PepsiCo.",
+        "suggestedAction": "Assess whether Hoytink held buyer-side relationship role; flag as potential relationship continuity risk if she was a key contact.",
+        "sourceName": "foodbev.com",
+        "sourceLink": "https://www.foodbev.com/news/hershey-appoints-former-pepsico-executive-heather-hoytink-as-president-us"
+      },
+      {
+        "category": "Consumption Demand Headwinds",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Deutsche Bank flagged softer consumption trends impacting PepsiCo; independent analyst warning on demand outlook despite company's dividend strength and international resilience narrative.",
+        "suggestedAction": "Monitor Q2/Q3 earnings calls for forward guidance revision and volume/pricing impact; assess budget implications.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-faces-softer-consumption-024821334.html"
+      },
+      {
+        "category": "Workplace Automation & Labor Efficiency",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo explicitly named among companies automating jobs across multiple roles; signals cost-control/efficiency initiatives that may indicate hiring freeze or restructuring in non-core functions.",
+        "suggestedAction": "Clarify scope of automation (manufacturing vs. office/admin); assess impact on staffing/budget cycles for procurement/vendor management.",
+        "sourceName": "eleconomista.com.mx",
+        "sourceLink": "https://www.eleconomista.com.mx/capital-humano/9-empleos-automatizando-empresas-pepsico-bimbo-aeromexico-20260629-820831.html"
+      },
+      {
+        "category": "Technology/Logistics Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo deploying autonomous freight capabilities alongside Schneider VR driver training and DAT Convoy fleet optimization tools—signals digital transformation and supply chain modernization.",
+        "suggestedAction": "Assess logistics/fleet management vendor contracts; identify opportunities for tech-enabled solutions and automation.",
+        "sourceName": "fleetowner.com",
+        "sourceLink": "https://www.fleetowner.com:443/technology/news/55384985/pepsico-autonomous-freight-schneider-vr-driver-training-and-dat-convoy-tools-reshape-trucking-operations-and-fleet-efficiency"
+      },
+      {
+        "category": "Market/Analyst Sentiment Mixed",
+        "updateType": "market",
+        "score": 0,
+        "summary": "Analyst coverage mixed: Bernstein initiated with positive international strength narrative; Yahoo Finance flagged 20%+ upside case; but separate article cited 3 reasons to sell PEP. Stock price pressure from Fed rate signals.",
+        "suggestedAction": "Monitor institutional confidence via earnings revisions and analyst target adjustments; watch for analyst downgrades as demand signal.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/pepsi-price-prediction-case-20-155046571.html"
+      }
+    ]
+  },
+  {
+    "company": "PepsiCo",
     "runAt": "2026-09-01T16:14:32.654Z",
     "source": "daily",
     "headline": "PepsiCo faces supply-chain & regulatory headwinds amid India compliance breach, Ukraine facility damage, and competitive pressure from Coca-Cola",

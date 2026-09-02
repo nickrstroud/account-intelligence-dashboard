@@ -128,5 +128,40 @@
         "sourceLink": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-stock-underperforming-nasdaq-171921912.html"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-02T13:14:52.019Z",
+    "source": "daily",
+    "headline": "P&G restructuring and leadership transition signal mixed signals; new CEO and sustainability initiatives present opportunity, but broad workforce reductions indicate budget pressure",
+    "signals": [
+      {
+        "category": "Leadership Change - New CEO",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "New P&G CEO in place with pay increase. New leadership represents both relationship risk (unknown priorities/vendor preferences) and re-pitch opportunity with fresh stakeholder.",
+        "suggestedAction": "Schedule executive briefing with new CEO/leadership team to establish priorities and relationship; assess any changes to vendor strategy or procurement preferences.",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDlORUVsTFFBVlFHZ2JINzVXdXZiNUM4cE9kNDl6dnRaQ3NfR0VmVmxaekczZ0dUUGlEWkJOcmxvcHhQalV2cFJyZFR0Mm9IOXZrMDZEUWxiZ1JqcHVLSWhySnpKRG9mSjA3Y3pEdDBmOXQybmw0Qk92aU9ZUVN0TlBQdXFYMEYzMGROYXNhREpPRFJSd3Y4MV9NRWwtT05kWnNpWUk4Q0p3dw"
+      },
+      {
+        "category": "Broad Workforce Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "P&G undergoing significant restructuring with median worker pay declining while CEO pay increases. Broad layoffs signal revenue pressure and potential budget constraints affecting vendor relationships.",
+        "suggestedAction": "Anticipate tighter procurement budgets and extended sales cycles; position cost-savings and efficiency angles in account conversations; monitor for further restructuring announcements.",
+        "sourceName": "cincinnati.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OWhxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ"
+      },
+      {
+        "category": "Sustainability & Supply Chain Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G investing in low-carbon raw materials and sustainable supply chain development. Strategic sustainability focus may create new procurement requirements or vendor partnerships in green/sustainable sourcing.",
+        "suggestedAction": "Research P&G's sustainability supplier requirements and low-carbon procurement standards; identify opportunities to support this initiative or certify offerings as sustainable.",
+        "sourceName": "The World Business Council for Sustainable Development (WBCSD)",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW9tNnBlSzdSc09vLXU1NUFSelVNUnpyOWJkRk4tUlNiQWJhTWdpc0Z0Sm5UUE5wUGxINlpvT1Y3bWw5YWMxem1nQjFSSnExRlEzUFNnMy13R2lqSEdOTjE0N1pVSkE1UHFpVjgtWVFud2NqcDdVTG9uYXNUWmpHTFhYS0RDa0RuNTVMdHFiYW1mamJkd2pQb2FsWTRpQTN4QW9NQQ"
+      }
+    ]
   }
 ]

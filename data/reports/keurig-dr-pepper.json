@@ -182,5 +182,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjNMTWVXeEhZSTV6ZlB1aGdwUkM3R2hXb2dmNGdLbVJmcG10OXlnMUxQUzhFUk1FazVVZUx1MTlRSy1lcnhRWk93S1FXWmkteWM4V3NUWDdpRmR0RVVsS1hKMUZZZVZrZGhTX2FFSUF2UmJHaHZmcERHMENueXExc0dRcWdaNmVnWE9YTVB6YmxnQkZoanN3cHd3UDlRZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-02T13:14:31.291Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper divests Chobani stake and Pennsylvania manufacturing facility for $925M as part of strategic repositioning ahead of planned split",
+    "signals": [
+      {
+        "category": "Strategic asset sale and divestiture",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Keurig Dr Pepper is selling its stake in Chobani and a Pennsylvania manufacturing campus to Chobani for $925 million. This represents a significant divestiture and shift in the company's portfolio as part of advancing strategic priorities and a planned future split.",
+        "suggestedAction": "Monitor the planned company split and understand post-split portfolio implications. This divestiture may signal a narrowed focus or financial repositioning that could affect vendor relationships and budget priorities. Clarify which entity (if any) will remain as the primary account and validate continuity of the business relationship.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm?oc=5"
+      }
+    ]
   }
 ]

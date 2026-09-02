@@ -218,5 +218,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdE5qU2I0OUVRX1ZkOFg1bTdkX0tndjJrVmV6SHk4WWVBT2FDMXBnMjI1SkRFVmR4V1ktMXZoY29NdG1XcWptblhmSW8zc25ZWUxpN1hVTkNZUXJGUTZYZHR2aEl4R211UVFnVU5vUVFyV1VKMldyUE12U1VFd9IBgwFBVV95cUxQXzNCdi0xNzQ1ejZ3RW5zNy03WkZZdFQ5MHhoYWxwMXZENXFzTUJTN0JBU0F2bjVDMHNBU1Q0VjhFMndFS0x4TVBVQVJwbVVsOXFkR2hRMlp0bFRpem5RMHhiWWhVU1hFUVNnNy1UTGt6ZVVUYjhOa2k4SDA0ZVEwQzJURQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-02T13:15:14.526Z",
+    "source": "daily",
+    "headline": "Costco discontinues Costco Next service; mixed signals on product line evolution and new vendor opportunities",
+    "signals": [
+      {
+        "category": "Service Discontinuation",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Costco abruptly shut down Costco Next without warning to members. This represents a strategic shift in delivery/convenience offerings but is not directly related to vendor relationships.",
+        "suggestedAction": "Monitor for re-allocation of technology/fulfillment budget; assess if discontinuation signals internal cost pressures or strategy pivot that could affect vendor partnerships.",
+        "sourceName": "The Seattle Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHdBRTZOMDJFTmZSbjhrZTVSd3c2Sm1WbEFvSzg2M3JpTU5aUkRnZlpnRFJPQVlTMkx5dnUzdFJ1VXcxUmtoUU04c21XSnJBVzBsN3lHYUNJdVRtekZZekRpbmExWTZ2OTQ3MTFmaUFyekNJSkQtRmxpMGMydklKLUg2dXBo2UtTS1jY2lfUy1SVVowNzhBRVRzbzk4U28"
+      },
+      {
+        "category": "New Vendor Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "K-beauty giant APR launching in U.S. Costco in September 2026, with company shares up 100% YTD. Signals new product category expansion and successful vendor onboarding by Costco.",
+        "suggestedAction": "Identify if APR partnership creates adjacent sales/upsell opportunities; monitor Costco's appetite for beauty/wellness category expansion as potential growth vector.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdE5qU2I0OUVRX1ZkOFg1bTdkX0tndjJrVmV6SHk4WWVBT2FDMXBnMjI1SkRFVmR4V1ktMXZoY29NdG1XcWptblhmSW8zc25ZWUxpN1hVTkNZUXJGUTZYZHR2aEl4R211UVFnVU5vUVFyV1VKMldyUE12U1VFd9IBgwFBVV95cUxQXzNCdi0xNzQ1ejZ3RW5zNy03WkZZdFQ5MHhoYWxwMXZENXFzTUJTN0JBU0F2bjVDMHNBU1Q0VjhFMndFS0x4TVBVQVJwbVVsOXFkR2hRMlp0bFRpem5RMHhiWWhVU1hFUVNnNy1UTGt6ZVVUYjhOa2k4SDA0ZVEwQzJURQ"
+      }
+    ]
   }
 ]

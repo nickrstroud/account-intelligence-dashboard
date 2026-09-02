@@ -333,5 +333,40 @@
         "sourceLink": "https://www.yahoo.com/news/politics/articles/ohio-lawmakers-must-prevent-kroger-073015966.html"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-02T13:15:47.561Z",
+    "source": "daily",
+    "headline": "Kroger faces competitive and legal headwinds; wellness expansion and price-cutting efforts show defensive posture amid Walmart/Costco pressure",
+    "signals": [
+      {
+        "category": "Competitive Threat - Walmart Pricing Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Citi analyst warning that Walmart's aggressive grocery pricing poses a direct competitive threat to Kroger's market position and margins",
+        "suggestedAction": "Monitor Kroger's margin performance and any changes in their procurement strategy; assess whether they're pulling back on vendor commitments due to pricing pressure",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckdQOTh1U0E3Wld5d3RZZ1J4ZlJCMnRRVEZqSTlaYUxhYXZNalhmTENOVW5HdEF1OEZKcVlQRDZWanJuTUxzTkhYRXBmcGJFNVE4cGFtbjNCTlJ4bGFBa2I3ZUl1U0VfTEFRaC11cUEtcUFBT2tsZHoyTHRQMndCaXN4SmR6U3hyc2YwSklUczBrcXI2UzhpREpHQUh6U2dsM2NSVQ"
+      },
+      {
+        "category": "Litigation Risk - Copyright Infringement Suit",
+        "updateType": "legal",
+        "score": 0,
+        "summary": "Sony Music sued Kroger (Ralphs parent) for alleged copyright infringement in social media ads; reputational risk but unrelated to core operations/budget",
+        "suggestedAction": "Track resolution; minimal direct impact on account relationship unless settlement/distraction affects vendor engagement priorities",
+        "sourceName": "Music Business Worldwide",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdHc2S3B4ZHpFNzNyRG1YYzNpTFRBczRIWWdhMHFUa1hmUDJSendfaUhOQVVuTHU4ZURNS0JqaE1Tb1llZU9kQm11ZUxMUVZRR0JpYk9QVWd2WGFYUFFlR1EzU01Ed2V0SjcwdUNNUGJLY2JTRURwME10aTN6RlZ5ZjRZTFhWMl9pYWFvR1NCQzh1eHVhNXlkZmVWd2xDamZRdFhVd2wxXzl1T1JtQURxRHdzNnFNT0QxT2ZpaUVleVgzR0lxbjNicVVVa2l0Qjhp"
+      },
+      {
+        "category": "Regulatory Settlement - Prescription Pricing",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Kroger settled for $17M in prescription pricing scheme; signals compliance/regulatory risk and potential reputational damage affecting customer trust and internal scrutiny",
+        "suggestedAction": "Assess whether this settlement triggers increased vendor audit requirements or budget reallocation; may indicate tighter internal controls affecting procurement workflow",
+        "sourceName": "Supermarket News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTQxZWp0bzBwU0hZWTI5SnMwOXljTjFqOHlybGRyVHBQLTl2d2dTR094WHhSYTljRmtYdnJsZ1lwejZWa2t6bm9rUy13MnpLQm5HckZCNGNycHJuUjJVd0Q0bFVFdEhHVzFPU3llYmt4elV0Mm9JOFVfSFV3YXRXRTA5R2VqVGdPNWg0WkhKMHdsb2c5RkNiUkNCVXpSWnBCYlBSbw"
+      }
+    ]
   }
 ]

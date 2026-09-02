@@ -227,5 +227,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi12ZVlXOFVVWEFWY3g2ajNqeU5oeVpzVkh0ODgxV2ZCdjdmTjNNeHJxX1ltcVZIZFJKNF8yTnNiZHFzR0pTN003TG9Ha1hNM0s5Q0NORElEV2doWk96VmpFdm9rQVNBZHVYcDlVNkZWOUNQMFBkdVVRUUNQeHFERVV3?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-02T13:15:04.534Z",
+    "source": "daily",
+    "headline": "Walmart facing regulatory/brand headwinds (DOJ beef pricing probe, product recalls) with limited direct relationship impact",
+    "signals": [
+      {
+        "category": "DOJ Antitrust Investigation",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Department of Justice is probing soaring beef prices at eight major stores including Walmart, indicating potential regulatory scrutiny and compliance risk.",
+        "suggestedAction": "Monitor for regulatory outcomes and potential compliance obligations that could affect Walmart's operations and budget priorities. Prepare talking points around data governance/analytics if relevant to your solution.",
+        "sourceName": "newsweek.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlg3Sk15d0JVV1JmNzhFX19ObzYyZzZKYUZ4TFpkRFF6YnN4T2lzYzNsdl80YXIwb21ObWdNgCNWZHFOZ3BjSjVmZUpuT0hsNzJSclBiNWg4VW4tUjZ3cDAwYXRRQ3lNU2tIeWkyVFVzMXZySGJCUWJGMHI0OGNSbUFZRFlXcWUwTVNoVTRNNV9zRkExSnFSZ2I3TzYzOUNjeVhUVEdYT2M"
+      },
+      {
+        "category": "Product Quality/Recall",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Mangos sold at Walmart stores in Pennsylvania and New Jersey were recalled over salmonella concerns, reflecting product safety and brand reputation risk.",
+        "suggestedAction": "Acknowledge the recall in conversations; this could surface buying needs around supply chain visibility, quality control, or vendor compliance management.",
+        "sourceName": "6abc Philadelphia",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFVjWS16eXhUVDVKRTlqOFlUVDBJZDhhYURoTUFIOUtQNFZuMU5rVTZVR08wZ0dWYlRFVGQ5ZjBVOHA0OGRwck1UN09NYUA1NTNjYzJ5S0NEX1g1M05nMHZjVzNjREYxd3NBVjJVc2tGT3JHZ08yX21ldl9GWDRWYW9FdmJfZnhYd1VnZzItR3RPX2dmTDZWcNIBngFBVV95cUxQWkxuQ1hSanZhMzExa3BScHJIbW4wUEF3LWpyQ3RFLVl1eFVfRzEtNEZKSFZUNTltTGFVeTRJOFd3U001NWJoMUxkUEVwY2hFakxhblhocHQ4VUJYYlFEUG94VXpOUy1DM2N4YzUyNVZTdHNLQ0RwVHBzSldzbW8wd0pidE1aa0hSWklKckZ4MU1HdGQ4bzc2US03eHFsUQ"
+      }
+    ]
   }
 ]

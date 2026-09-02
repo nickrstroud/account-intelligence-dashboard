@@ -52,5 +52,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0twZGFodjJnZEMxeDBWejllN29LelAwRFBrVE9KcElJMjFFZnMtNklSUzRWbnk4cTdJNVVEVGdlc3hMNVhWT2MyM2hXaGpPSnpOU1cyeVdiWXl6cE1WSkdybWc4bWJQOGNRV180NmJqckJIZWxnRW1TbGI1NVJmeXNLRW9SbWZlQkFVaFVYS2VURUo2RGk1SFRLÖDM?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-02T13:15:30.491Z",
+    "source": "daily",
+    "headline": "Target posts strong Q2 earnings with revenue growth and positive sales momentum; stock outperforming with institutional investment activity",
+    "signals": [
+      {
+        "category": "Q2 2026 Financial Performance - Strong Revenue and EPS",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target reported Q2 2026 revenue of $26.54B with EPS of $4.11, boosted by $994M in tariff refunds. The company boosted its sales outlook as recovery efforts gain ground, indicating revenue growth and improving business momentum.",
+        "suggestedAction": "Monitor forward guidance for continued growth trajectory; use positive earnings as rapport-building talking point in renewal/expansion conversations.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRBMnVEYVVtNmJPV1paelNXWUZ2Uk1lckhQV3NBQlBqVmpxNENmektPbDRCcUdkQzJFdE8wajVnQnl0UGNrMlUyYWhQZGRXVXlRZzlKM2lQZDNBUmNPTVdVSkNfSzVUUVMybmlLWUcyTHZ5VWMxUDExa0lZZW1pLUNDdFo1X29KU2FvY05PN0VwVV8xX1ZCZnVyQU5IQ1Y3Q3RDZy12ekdCQQ?oc=5"
+      },
+      {
+        "category": "Positive Stock Performance and Investor Confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target stock outperformed competitors on strong trading day and soared to 52-week high (Aug 24), with new institutional investment activity (Proficio Capital Partners LLC and Two Sigma Securities LLC made investments on Sep 2). Strong stock performance and institutional investor confidence suggest healthy financial position.",
+        "suggestedAction": "Reference strong stock performance in account conversations as indicator of financial health and budget availability; potential opening for account expansion discussions.",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVVBXbE02Y25nV3JBcEVHQmpINDFrc0tvV0NvbENvUGNkTEdVOE5RdkFuRHd4anZNZnEwenVfZHlucGNMdjV2dU01SlRoZmo1Zm1QanlWWHBjZWFOR1RtWDR3OE9JOGY5VGFVbWNTYk9rbEc0T2tpV29qQ3c2NTlaLUoxbG5raHpFbEw5YjU1azUtUnFtZXZmZDBSNC1Cb3NJa3VSdm1YR011bFh0cDcyMG9NRmwyNXItaTR2ZXN0VEthV0stdTVLdFJyOFpGZEJELWY2U2p2NXY?oc=5"
+      }
+    ]
   }
 ]

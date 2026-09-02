@@ -299,5 +299,67 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdDREb1lwREx0RDlxanVMWkpQODZGRmV4V3MzdjhjU1h0YWhKWjdFcWN3OG42WVR2NHJLUk91V0hpNjlidW1vdXBIS2dvOHNxRHBCTEZpR3NFQi10R0pkTEwxZ21ia050TE84RHJ2bnRFbS1HaW5JVEU1bG5TYWNzN2VteURaa2pFbHdBeFcwcnJodnNMWEE5ZU5Qa3U1WDlOR0I1UW5taWlmcWVlR1hmaG9FVTVQaDhPOV95SHBKRkdIOTBXQUQ1RmNFbXhFaUZtWUx4cDRMbm9KVEFocHNmWkhjaXNuVTNfT08w0gHwAUFVX3lxTFB6SGg1R1ZNclpGdGN0UG5odkYwZXB4VW95M3lyeG9FblJnTDFTLWJRVjdWeERlYV9wZExQdC12T0NFMjdqTVRnT3lnRVBPdmRyY0xneUt4SE9Ia0VDMDJSbFBLc1NiWlNvSlh6MWhHenFkajdWdTdVb2JIQUxlOFlISHBQbXUyMEdMamN0alFqZXFnQmFTXzlxamc5UDE1MXF0QWF1LXRjNGlFQjZjY2JHRVBpZ3prb29hUEtsWV9Scmx2Q0c0LVdNdVZ4RUlmSzMwcUFoZURXZk1fRV9tV282Sm5kNHd4dlV6V3F3YlJIcg?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-02T13:14:23.050Z",
+    "source": "daily",
+    "headline": "PepsiCo facing operational headwinds: regulatory/supply disruption risks offset by modest growth commitment and sustainability initiatives",
+    "signals": [
+      {
+        "category": "Regulatory/Compliance Risk - Product Quality",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Indian authorities discovered third-party facility relabeling PepsiCo products with falsified expiry dates and nutrition labels, creating regulatory and reputational risk in a major emerging market.",
+        "suggestedAction": "Monitor compliance posture and regulatory exposure in India; assess if customer procurement policies require vendor compliance certifications or audits. Potential conversation opener on supply chain governance.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZ2UzVNVERDcFZVeXVTcFA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5"
+      },
+      {
+        "category": "Competitive Pressure - Market Share",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo stock struggling while Coca-Cola hits all-time highs, indicating competitive disadvantage and potential market share loss in key beverage category.",
+        "suggestedAction": "Investigate whether customer is diversifying supplier risk or consolidating around Coca-Cola-aligned partners. Assess if PepsiCo is offering competitive discounts/incentives to retain shelf space and distribution.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTBjVnFhbzRGLTItdHhkWnV3ZXo4QzJRVC14bjlTOWM0UzdSbnhWRHNuR1NVVGw0WTJzLU5tWlZyaWNmbTA1SUpmVTVPXzIxVUwxb3B2OG5BMFZ6NTA5UDlLdVU5ZFVSSlhTZ0pwTlFNbGpsLTdNSE5vS0ctTHE3Q2F5UzYwa1NGTy1VWUgtWmtpZlV5dXRqQXdUaXN5OU9M?oc=5"
+      },
+      {
+        "category": "Restructuring - Workforce Reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo cutting 105 warehouse jobs following another warehouse operational change, suggesting efficiency consolidation or automation in distribution network.",
+        "suggestedAction": "Clarify whether job cuts affect customer-facing logistics/account management roles or are supply-side optimization. If customer-facing, flag potential account management continuity risk.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZW0xMmF5RlY4RkNzYTNsekFjQVV3ZW5oUlR2eUgtWVJjMDUyLWZDNGhydUQ3d3IyUWh1RzVwWnZUUUxUR0RwM0tuVk1DMXdIWFRUcDc5YlcyNUp4ZUh2Tm83RmJsRm1kbm5ORXVpY25telBXRi15eWxlaUF3cTVPWVM2U1VJbUhE?oc=5"
+      },
+      {
+        "category": "Supply Chain Disruption - Geopolitical",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "PepsiCo's Ukraine production facilities damaged, creating near-term supply constraints and operational uncertainty in Eastern Europe.",
+        "suggestedAction": "Assess if customer has exposure to PepsiCo products from Ukraine region; discuss contingency planning and alternate sourcing strategies. Potential opening for supply diversification conversation.",
+        "sourceName": "Ukrinform",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGlVUjV4QUVnbWpSUzhEcXdKVndZcFNNa1dRNXNwVGNncnFxRHMxSXV2QlhUZ3FTRDR5T0JOeU9hODtVS091FE3cE1fYU1FNHBTbnNJOE9GVVlfLTZEVjBrYmdTWGlNOEJCQ2pTWWxiZ0VvUk05UlFicXYybDRrTGlQMDdOQ2tFT0F5aERWVWh0ZFExckdVZlBtOHhNMmpESkdrUnBzQWVoWUoyMkIzMnV6bGhSUXlyc3RGT0xwOWNuQjc4d1dZ0gHMAUFVX3lxTE1yWnA0dzdKQnhRLXB2SE1HWlBtRS1yNzZ2dkZRSGZBNW1VaE5kaVNZOGRtMVA3ZkcyQ2hHY01COVlBaGlpREFvMm1rU3dhUWM1eGxFOUx4cnVZUGdpYnhYajlRRi1XMkZnTkdnQTB3a3BKZ2UyRU4yRzRUTnphbWZlSUdnVzRZU2dHTXp4eERhWWc2eFZKbTMxSVRsblVyWHc3b0tBbkd1NVpYc3c1NUgwZmh4NGFmQW1XWjJpYk90T3RjRGRZYXU1RmpDbg?oc=5"
+      },
+      {
+        "category": "Growth Commitment - Revenue Targets",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "PepsiCo management reiterates revenue growth targets, signaling confidence in recovery and commitment to topline expansion despite near-term headwinds.",
+        "suggestedAction": "Use management confidence as positive anchor point in relationship discussions; probe whether growth targets drive increased marketing/promotional investment that could create service demand opportunities.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONm9UTXN3T0FvUHNPMUJ0bWszdDg2NmdhOUVRQ3dEa2dUTlRjMU44TGVkNEZqZkVjaXQ3NU1GOFFJTFlsSjJncmU1TURESTdnNGRNck04MXhmTUR2eE5YRENrUWxqVnRsLUVpeGpGY3g4NnIwLTBrNTZFY1o5aEFTc0NNN1pxczBndlJjbTUwMldkb0VMdHBkYg?oc=5"
+      },
+      {
+        "category": "Sustainability Initiative - Brand Positioning",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "PepsiCo joining Mondelēz and pladis in circular packaging trial, demonstrating commitment to ESG/sustainability goals and environmental positioning.",
+        "suggestedAction": "Highlight as positive brand/reputation signal; assess if customer has ESG procurement requirements that this initiative satisfies. Potential upsell on sustainability-linked services or reporting.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcll5cXhNaFQ1X1A0T1ZhbzRxeDlJeE00VjZZYTB5dXMtX1dXUUV1NEVkZXFvNEQ3bUNkaWRSUnh5dmd4ZTBCa1B2VEpQUVdDMFR1LXphLWE0eGNVeEExY09KWmhhd2wzajNTazZMNThQVDRxZDVQOFF2ZGRjbDZLaTF2X2JYWHpiY3dNaWFOVlJTR28?oc=5"
+      }
+    ]
   }
 ]

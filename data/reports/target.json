@@ -78,5 +78,12 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVVBXbE02Y25nV3JBcEVHQmpINDFrc0tvV0NvbENvUGNkTEdVOE5RdkFuRHd4anZNZnEwenVfZHlucGNMdjV2dU01SlRoZmo1Zm1QanlWWHBjZWFOR1RtWDR3OE9JOGY5VGFVbWNTYk9rbEc0T2tpV29qQ3c2NTlaLUoxbG5raHpFbEw5YjU1azUtUnFtZXZmZDBSNC1Cb3NJa3VSdm1YR011bFh0cDcyMG9NRmwyNXItaTR2ZXN0VEthV0stdTVLdFJyOFpGZEJELWY2U2p2NXY?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-03T13:14:30.800Z",
+    "source": "daily",
+    "headline": "No recent news available for Target this period",
+    "signals": []
   }
 ]

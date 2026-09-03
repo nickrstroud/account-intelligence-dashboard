@@ -244,5 +244,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdE5qU2I0OUVRX1ZkOFg1bTdkX0tndjJrVmV6SHk4WWVBT2FDMXBnMjI1SkRFVmR4V1ktMXZoY29NdG1XcWptblhmSW8zc25ZWUxpN1hVTkNZUXJGUTZYZHR2aEl4R211UVFnVU5vUVFyV1VKMldyUE12U1VFd9IBgwFBVV95cUxQXzNCdi0xNzQ1ejZ3RW5zNy03WkZZdFQ5MHhoYWxwMXZENXFzTUJTN0JBU0F2bjVDMHNBU1Q0VjhFMndFS0x4TVBVQVJwbVVsOXFkR2hRMlp0bFRpem5RMHhiWWhVU1hFUVNnNy1UTGt6ZVVUYjhOa2k4SDA0ZVEwQzJURQ"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-03T13:14:29.796Z",
+    "source": "daily",
+    "headline": "Costco continues aggressive store expansion while managing online service changes; brand momentum remains positive through product innovation",
+    "signals": [
+      {
+        "category": "Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco opening 4 new stores in October with more locations planned, signaling continued physical footprint growth and investment capacity",
+        "suggestedAction": "Validate expansion timeline and locations; explore opportunities for vendor placement/shelf space in new warehouses; assess if account budget for vendor services scales with new locations",
+        "sourceName": "LiveNOW from FOX",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWRNX2xCeFdrVEpUTS10RGlleEdHU2tnSmU4MUdkRmgwRm96Y09MdVl4ZkF2TDBYYUpxd1ljcEg0NWp6Q3BFWlJuLWJFQ0xvYkdYdmJBdnJORGRmTmlzaFUtQm1xZ3dOeUJOQXV4cmhHQkpHUkxjQzRlXzNNQ2VGVnVfTUpBc0Rxa1JvTDNYLUN0b3NFbkJIeTVpR0tKMUIxMmYzZW1KQXRvR1pfUDV0aExIdjBpcHFQc3BkaQ"
+      },
+      {
+        "category": "Online Service Discontinuation",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Costco ended an online service without notice (popular perk for third-party purchases), suggesting operational or strategic pivot; possible indicator of shifting priorities or cost management",
+        "suggestedAction": "Clarify if this service affected vendor relationships or integration points; assess whether account is rightsizing digital services or consolidating vendors",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXk5dzlQUDJGMnNCOFllR1Z6dTFHUWJUT0hQOGc1SXhhQXVoa0pIS2RWYzFhQ2FSVjZyclVscHprZ2puTy1mU3FQQUo3cXo0UldoSXRUTGFhTGFJR1BzUEZKNjQtSHB4REtuOHRrLXNtNUo5N0YyMU43dFQ3ckJ6Sk1TWGYwbVM3NS1TcGczZjVSVHVV"
+      }
+    ]
   }
 ]

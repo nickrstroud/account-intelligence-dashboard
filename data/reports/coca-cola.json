@@ -244,5 +244,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWxYRDNMbHBkRVc5TzNHTnktRF8wSmxsQUxYQjNDTW5FWlVlclNRbzZpR3Jfd0pEbjQ4Z0hjYm5fRV9TVlF1azBhY21ueHg1S1ZVYXJEejI4Qk51YzlDNW91NHhyTFpRdHJpc0tSUmJJZUxQaEt6WE92QVFzeUlEa2hXcFV4QXQyX2x1N2dieTAzdUsxZ1I5Q19rOVkxLWQzaTJTUS05S0ZUNmc1Ym5QSVlBZnAyU0lFQXc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-03T13:13:57.540Z",
+    "source": "daily",
+    "headline": "Coca-Cola shows stable dividend profile and green energy expansion; competitive media agency shift to PepsiCo",
+    "signals": [
+      {
+        "category": "Competitive vendor shift in media agency landscape",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis withdrew from Coca-Cola pitch to focus on PepsiCo's global media business, representing a loss of agency bandwidth and potential competitive positioning advantage to rival PepsiCo.",
+        "suggestedAction": "Confirm current media agency relationships and competitive win/loss analysis with Coca-Cola's marketing procurement team; assess if this reflects broader media services consolidation trends affecting Coke's budget priorities.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHpJUVZrZmJTbTJWLS1EQlRMZE5WVWxGbXlPMXRmZUhRdTdSVGYxNDh0d192WTVKUS1BeEVJZXdvWVJIUktjV296ZDJjZi03U1BzdjNocFRsZHBNcGFWNG1mQkRUOUVvcXVkQUNaeWZjSzEtbkN1NU8wbkxOQzFvYTRiaENWaUp5YVlZRTB2NHgxTWdDNWZQU25tNVdlblhqTVYyT1BNbw"
+      },
+      {
+        "category": "Green energy partnership expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola announced a green energy deal with Metlen, signaling operational expansion into renewable energy and sustainability initiatives that could unlock new business unit investments.",
+        "suggestedAction": "Research scope of Metlen energy partnership (supply, production facilities, geographic footprint); position sustainability/operational efficiency solutions as expansion opportunity within Coca-Cola's green transformation roadmap.",
+        "sourceName": "Investing.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemVZdF9IdlBFYkRrcWJiSTVCZkUzSk9YUnNTb1UxRFMtRGxzUUhBVG9UVDAxRzJLcjZObW1VS3BRYUl5Tjh2MEQ0b1RMMTFIV1psWU5NdTFvdlpPQzZhdG82QThfNFk1eVlmZDZVOVRpRHZZb21ET2VUQU1aa2NVY3VwbkwxdXhqTFBidy04dkl2cmdBY0E3U2RxYVlKTDRXQUl2dXdFd3ZaREwwTV9Zc1pSVFZqUQ"
+      }
+    ]
   }
 ]

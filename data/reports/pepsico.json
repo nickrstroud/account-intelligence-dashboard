@@ -361,5 +361,12 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcll5cXhNaFQ1X1A0T1ZhbzRxeDlJeE00VjZZYTB5dXMtX1dXUUV1NEVkZXFvNEQ3bUNkaWRSUnh5dmd4ZTBCa1B2VEpQUVdDMFR1LXphLWE0eGNVeEExY09KWmhhd2wzajNTazZMNThQVDRxZDVQOFF2ZGRjbDZLaTF2X2JYWHpiY3dNaWFOVlJTR28?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-03T13:13:58.402Z",
+    "source": "daily",
+    "headline": "No recent news signals identified for PepsiCo",
+    "signals": []
   }
 ]

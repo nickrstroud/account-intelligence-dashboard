@@ -260,5 +260,31 @@
     "source": "daily",
     "headline": "No recent news detected",
     "signals": []
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-04T13:14:24.804Z",
+    "source": "daily",
+    "headline": "Walmart faces product safety recalls and loses store operations talent to competitor Kroger",
+    "signals": [
+      {
+        "category": "Leadership & Talent Migration",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Walmart tech veteran hired by competitor Kroger as store operations chief, signaling loss of experienced operational talent to a direct competitor",
+        "suggestedAction": "Monitor for additional talent departures to Kroger; assess whether this hire signals capability gaps at Walmart or represents normal attrition; consider impact on store operations modernization roadmap",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1padGZ6anNaVmo5UHMxRUM3dXpvTmd3SWJLbHgyaDhGOEh2dUdMcGZVVHhEWkpITlRXSlc2YlQyVTlXWWVDQ1czMWVJUkFXU0NOUWhvTW11a25vNUZvbWRTVkRDWkI5RlBfX0xnaVNUb1lNem5WdmZETVdZRUtVMS1QMVZrVGZHdWVhbg?oc=5"
+      },
+      {
+        "category": "Product Safety & Compliance",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple produce recalls (mangoes, berries) affecting Walmart stores across multiple states due to salmonella and E. coli concerns; expanded recall footprint (16 states for berries)",
+        "suggestedAction": "Review Walmart's supply chain quality control and food safety vendor performance; consider whether your systems/services can help prevent or respond to future recalls; assess if recalls are impacting customer trust/traffic",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUndhWEJIaDF0WklBV2ZwbnZiQzFqelpvYzR0Ylc5Ni11UWp1bnRFa1hRUTRtLTNzbFVySzNJZjQ4LXBrZXlvZGtHUGtycU1ERVJpSzhaTURrd2w5ZDhlQUhzRlBURXBJb1BWMnVnVmt0M3FYeTBYNGtjX21pZmtFcWZZd2RkWWlfTWNueA?oc=5"
+      }
+    ]
   }
 ]

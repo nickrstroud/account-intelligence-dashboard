@@ -368,5 +368,49 @@
     "source": "daily",
     "headline": "No recent news signals identified for PepsiCo",
     "signals": []
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-04T13:13:30.742Z",
+    "source": "daily",
+    "headline": "PepsiCo shifts global media spend to Publicis while executing restructuring; mixed signals on market strategy",
+    "signals": [
+      {
+        "category": "Major vendor contract change - PepsiCo assigns $1.9B global media business to Publicis",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo awarded its $1.9B global media business to Publicis, representing a significant account win and transformation at the CPG giant. Publicis withdrew from competing Coca-Cola pitch to focus on this engagement.",
+        "suggestedAction": "Monitor PepsiCo's media transformation strategy and identify adjacent marketing/technology services expansion opportunities. This signals budget allocation confidence and potential relationship deepening with holding company model.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHpJUVZrZmJTbTJWLS1EQlRMZE5WVWxGbXlPMXRmZUhRdTdSVGYxNDh0d192WTVKUS1BeEVJZXdvWVJIUktjV296ZDJjZi03U1BzdjNocFRsZHBNcGFWNG1mQkRUOUVvcXVkQUNaeWZjSzEtbkN1NU8wbkxOQzFvYTRiaENWaUp5YVlZRTB2NHgxTWdDNWZQU25tNVdlblhqTVYyT1BNbw?oc=5"
+      },
+      {
+        "category": "Operational restructuring - warehouse consolidation and headcount reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo cut 105 jobs in warehouse operations and made additional warehouse consolidation changes, indicating operational streamlining and potential cost pressure in supply chain functions.",
+        "suggestedAction": "Assess whether warehouse automation, supply chain optimization, or logistics technology solutions could be relevant to PepsiCo's transformation. Monitor for broader restructuring signals that could impact procurement cycles.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZW0xMmF5RlY4RkNzYTNsekFjQVV3ZW5oUlR2eUgtWVJjMDUyLWZDNGhydUQ3d3IyUWh1RzVwWnZUUUxUR0RwM0tuVk1DMXdIWFRUcDc5YlcyNUp4ZUh2Tm83RmJsRm1kbm5ORXVpY25telBXRi15eWxlaUF3cTVPWVM2U1VJbUhE?oc=5"
+      },
+      {
+        "category": "Strategic product portfolio shift - increased focus on fresh/unprocessed foods",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is repositioning toward fresh foods and away from processed snacks, reflecting strategic response to consumer trends. This signals category expansion and potential new go-to-market approaches.",
+        "suggestedAction": "Explore how PepsiCo's fresh foods expansion could create new procurement, supply chain, or market-entry opportunities. Fresh product categories may require different supplier ecosystems and distribution strategies.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmplaTFWMFplWVc5REdiMmdzRXZmcU8waVlRNkdxUWJDekpiY2xCMm0ySkpCNi0wYnNrRXJiWldVNmN1VUpPMk4xc0M3Tk13dHI2Q3ZKVm1rWkhFOTJfR2d1dWt3NUNVNlNnZUhxMTBDMGdnWnlXYUNWUXVNN0pPWEFzOGtUS1dDYXZUMTFpYw?oc=5"
+      },
+      {
+        "category": "Supply chain/export compliance risk - fraud investigation involving PepsiCo products",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Indian authorities uncovered a firm faking expiry dates and nutrition labels on PepsiCo and Nestle food exports, indicating third-party compliance and quality control risks in PepsiCo's supply chain.",
+        "suggestedAction": "Flag as reputational and operational risk; assess if PepsiCo will seek enhanced supply chain compliance, quality assurance, or third-party verification solutions. Could drive procurement for compliance/audit tools.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZyVXNVTVRDcFZVeXVTcPA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5"
+      }
+    ]
   }
 ]

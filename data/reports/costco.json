@@ -270,5 +270,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXk5dzlQUDJGMnNCOFllR1Z6dTFHUWJUT0hQOGc1SXhhQXVoa0pIS2RWYzFhQ2FSVjZyclVscHprZ2puTy1mU3FQQUo3cXo0UldoSXRUTGFhTGFJR1BzUEZKNjQtSHB4REtuOHRrLXNtNUo5N0YyMU43dFQ3ckJ6Sk1TWGYwbVM3NS1TcGczZjVSVHVV"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-04T13:14:43.115Z",
+    "source": "daily",
+    "headline": "Costco faces DOJ antitrust investigation on beef pricing; member service changes and dividend strength offset regulatory headwinds",
+    "signals": [
+      {
+        "category": "DOJ Antitrust Investigation - Beef Pricing",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "DOJ expanded its beef price investigation to include Costco alongside Walmart, Amazon, and other major retailers. This represents potential regulatory and legal exposure tied to pricing practices.",
+        "suggestedAction": "Monitor investigation progress and any impact on procurement relationships or compliance posture. Assess whether this affects customer confidence or procurement policies.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV"
+      },
+      {
+        "category": "New Store Expansion - Amherst Location",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco announced opening date for Amherst store, continuing physical footprint expansion and market penetration strategy.",
+        "suggestedAction": "Use store expansion as conversation point for co-marketing, local services, or supply partnerships in new markets.",
+        "sourceName": "buffalonews.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOENic0wzOVJ6UlhZeGpMNmVZc2ZLWHJmZUJBaVhfWHZNaE1wa1RJWUp5YmNmWEtmLWNQS3h4cEVwZEMzT0VMUnhtREtubWh6d2pwbW1qRTExbm52cmtuLTR6cDV1ZnJOQnlzV1RzcFVqN1RWa3doNXdTTDZTQVJNVE5zczFyRk9MQzIyQmN1c19CMms2U1VWdA"
+      },
+      {
+        "category": "Dividend Increase Track Record",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Costco has raised dividend every year since 2004, signaling financial strength and shareholder confidence—reflects underlying business health and cash generation.",
+        "suggestedAction": "Reference financial stability in business reviews and account planning; strong financial position supports continued investment in vendors and services.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2VpV3g2YnptNnhEZGJJVmdsY2ZzY3ZGN2NxSkxIU3RYR1hyVUZ0c1JWUVZ5N0hZOWJubGc3Z24wUDlyVzg4UEJBVWEyb0p1Zmt3bTlKaEVPSVJwOWR3QmRZUkRNcVlWMksyMy1qb2l2YUt5N0twZ2VSRUZZZEVXR3dYcTJ1QjJ6cGxZMGdxT2l2OVp3a0hHYUhnelU3MTdt"
+      }
+    ]
   }
 ]

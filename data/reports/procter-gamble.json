@@ -198,5 +198,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OWhxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-04T13:14:06.926Z",
+    "source": "daily",
+    "headline": "P&G shows mixed signals: capital investment and brand partnerships offset by restructuring and minimal earnings growth",
+    "signals": [
+      {
+        "category": "Capital Investment & Operational Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M expansion of its Ohio manufacturing plant and added 120 jobs, indicating continued capital investment and production capacity growth.",
+        "suggestedAction": "Positive signal for account stability and growth trajectory; opportunity to explore infrastructure/operational solutions tied to this expansion.",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGpkRFRtZG1VQ05sVkNqR2tlSGx4d2lFblp2VWtQSWdwN3o2YlVobXNsMEdWdHAzNmZYWVFFZTNCdDJYa0JsNnA1ckRUWGtsdUZJZ0F0ZGxLUkJqSGN5amdnNkhtNFhiMWZmTlRUbDdWUHZha3J2d0JrdjkwYmE2enc1Y0VYYXJ0TnkzMGxUc2Rrak5URk1CaWVEN0dFZUVpa1FiMHpEOXF4VHRtOC1fX0U0RWF0NUR3c05z?oc=5"
+      },
+      {
+        "category": "Earnings & Growth Outlook",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Analyst commentary indicates minimal EPS growth on the horizon, limiting upside potential and signaling cautious near-term outlook.",
+        "suggestedAction": "Monitor for budget constraints or deferred spending decisions; consider positioning cost-efficiency and ROI-focused solutions.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWhPQnZEME5uYjlINEVZdUlLdFFDNVFtMVpXaWhtTGlDYjdWMmdxb2I5OWFqeFlDRVVpQlRDdGd0QXY0N1M4X2FWT3FZYkdHeVRXZWYxZG83eDVEU1o1M18zek9uRlVkV0R0TUdtUXpyaERDcmNrTmY4N0hxVWMwbC00bF9rbFpwWFY3MWU2cDQ4MnRReENSZzhFUkpweVVNcFdXaUFKNUI4NllhcE93aXhFek9ZQWNCc0psQ1pybUNxSWUxMWFqcmFlOTdjcVQtTFM1SnFLNnhFQQ?oc=5"
+      },
+      {
+        "category": "Workforce Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Reports indicate median worker pay has slumped amid restructuring efforts, signaling organizational changes and potential workforce optimization.",
+        "suggestedAction": "Assess impact on buying function and decision-maker continuity; be prepared for potential shifts in procurement priorities or personnel changes.",
+        "sourceName": "cincinnati.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OThxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ?oc=5"
+      },
+      {
+        "category": "Brand & Partnership Expansion",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G launched a first-of-its-kind Febreze/Dunkin' scent collection and became official partner of USA Basketball Women's National Team, demonstrating brand momentum and marketing innovation.",
+        "suggestedAction": "Use brand partnerships as rapport-building talking points; potential cross-selling opportunity around marketing technology or consumer insights solutions.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEp2bXEwRUxUd1ZCN1RkbE91NmNqMHJwU3VuaENEWXNNUzlvUDMtM3JrVVN5ZVg5Z2pFeU41b3dlSWNZMWJ1dG81OS1wT2pHU3czWjNNWmQ2Z2QybWxNSUFoeVdRaEZEREtLNlQ5VlRaTGd6YmVFSzgyb2dyc2NXQzBFUzBSTG8xNDdWNTBZVi1lbDlCMjlRX2tVYTNrR2M4TVZTbURPRFA?oc=5"
+      }
+    ]
   }
 ]

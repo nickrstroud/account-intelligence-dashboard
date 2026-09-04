@@ -85,5 +85,40 @@
     "source": "daily",
     "headline": "No recent news available for Target this period",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-04T13:14:55.524Z",
+    "source": "daily",
+    "headline": "Target showing strong financial momentum with raised guidance, earnings beat, and new beauty expansion—positive expansion opportunity",
+    "signals": [
+      {
+        "category": "Financial Performance & Guidance",
+        "updateType": "earnings",
+        "score": 2,
+        "summary": "Target raised sales outlook and reported strong Q2 2026 earnings, with stock holding near 52-week highs. This reflects business momentum and improved financial health.",
+        "suggestedAction": "Leverage strong financial position in expansion conversations; emphasize how our solutions support growth initiatives during this positive cycle.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "Business Expansion – New Category/Channel",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target launched Target Beauty Studio as a new destination category, expanding beauty offering. Also leveraging grocery as a traffic driver to increase overall sales. Shows diversification strategy.",
+        "suggestedAction": "Explore partnerships or solutions that support omnichannel merchandising, inventory management, or customer analytics across new beauty business line.",
+        "sourceName": "Target Corporation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONDkzQzFvZFB3SmJkNHJobXhCUjJuYUQ0V1djOTJkLUxjbk9DRFpsMmZHWnNWWHdIb1hxbUtkMUdleUd2MHp3U3I4VFpOZUpIa3VzNHlJcnJRZ2w4cVVwbUFOWjhsM0ZQVnJPQzBuYUNjRVh4MWROSFdHYXFKSDA0ZXladi0yU2U1M3pOZzZqUExmVVBtekNWV21yYUtLM1RHQm1kWTd4UDlhamlYckRDUUItZ1hCZlRpdEU1MEZiOWJkOU9Cb2NMdGZEUFR1RlF1Qk0xLVVLTW5XdUE"
+      },
+      {
+        "category": "Market & Stock Performance",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target stock outperforming competitors on strong trading days and reaching 52-week highs, reflecting positive investor sentiment and operational execution.",
+        "suggestedAction": "Use positive market sentiment as context for decision-making confidence; beneficial timing for discussing long-term investments and strategic initiatives.",
+        "sourceName": "marketwatch.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZnMldydHdFajRkS3p5SlVpSnVUV3Jha2FMM0ZyNlVKa2d2d1g0Wmt2OUVvYi05VnRoeGxKRVczRUkxTkloOGltSWh2UWxwUlFxbG95anNVQmViM044b1ZMQVh4UkZWX0NTdTA2bmgzQzlIalFoWHJKc3pRSnNEdDZnOTBIaGhVUlpSZGI5Zmd0a0RySndyc1VMT1ZWSHoyXzZuLUwwVGRhclhQY3JiZG9ROGRCWFd5ZFU5RGllbHc"
+      }
+    ]
   }
 ]

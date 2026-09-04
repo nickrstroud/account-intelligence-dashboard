@@ -375,5 +375,49 @@
     "source": "daily",
     "headline": "No Recent News — Kroger Account Status Unchanged",
     "signals": []
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-04T13:15:17.899Z",
+    "source": "daily",
+    "headline": "Kroger leadership strengthened with Walmart ops veteran; regulatory headwinds on meat pricing offset by acquisition activity and store investments",
+    "signals": [
+      {
+        "category": "Leadership Change - Store Operations",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Kroger hired a Walmart tech veteran as store operations chief, signaling operational strengthening and potential for new capabilities adoption",
+        "suggestedAction": "Re-engage on how our solutions can support the new ops leadership's priorities; position as enabler of their transformation agenda",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1ladGZ6anNaVmo5UHMxRUM3dXpvTmd3SWJLbHgyaDhGOEh2dUdMcGZVVHhEWkpITlRXSlc2YlQyVTlXWWVDQ1czMWVJUkFXU0NOUWhvTW11a25vNUZvbWRTVkRDWkI5RlBfX0xnaVNUb1lNem5WdmZETVdZRUtVMS1QMVZrVGZHdWVhbg?oc=5"
+      },
+      {
+        "category": "Regulatory Investigation - Meat Pricing Antitrust",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "DOJ expanded meat-pricing investigation to include Kroger alongside major retailers; regulatory scrutiny may constrain operational decisions and budget allocation",
+        "suggestedAction": "Monitor for impact on procurement, pricing strategy, and IT system requirements; position support for compliance and audit capabilities if relevant",
+        "sourceName": "Forbes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjJvZlZ5a296WVR1QkxoM3FpdTBoM1p6aTBYZUV0WjNuY1lkS3NuVU14b3AzNi1lZ2ZfSW9ndXVhQkhsVG94Mm9NSWQ0aEJFQ1VzZ0Y2NTlNZzZ0Y0dvWm5XX3ZCWEV4U1hrWDhmTXdXay1YSjFUdGJlbnFGb3czUjVYbVE0U1hNRS00S0hUS29EZldwUTFGd2hVamJPT3llTGJJZW5hRlJFOGE1SlhoWTlFUGhJUTB1Q2p0Z2Y1SDhFY19NX3BhQWoyVndMUQ?oc=5"
+      },
+      {
+        "category": "Business Expansion - Grocery Chain Acquisition",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Kroger actively acquiring another grocery chain despite ongoing litigation from prior acquisition, demonstrating continued M&A appetite and expansion strategy",
+        "suggestedAction": "Explore integration and data consolidation opportunities tied to new acquisition; prepare solutions pitch for combined entity systems integration",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3VKY2t4U252S0QwQUhZek5UVTlVbnhPLXlpblJhcXVPWlgwSlZqY2lpWUVtbGxCTWJ5SlFZb0JIZndnblVRVVVUZ1NvNmF6ZXlkVkN0QVhmSUtjUnRrRzlCR19uO190TDhZYk5WUEVVYU9hanFRT2RseWYzQ0VHMWlwMEYzUnBzQ1A2YXFwM0txNzk0dWZraUtGaVVFelBNRkE?oc=5"
+      },
+      {
+        "category": "Store Renovation & Modernization",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger executing store modernization agenda including East Main Street renovation and other facility improvements, indicating capital deployment for store experience",
+        "suggestedAction": "Pitch digital, in-store technology, and customer experience solutions tied to store refresh initiatives",
+        "sourceName": "lancastereaglegazette.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLUVFWGgtbGZSMjkyWUx4elFySUQxSTcxOThwNmJUSXY5bFFhSjYtYnNpdDJjbWVxa0N2WUhmR2o3UWFGRWVNRHhObE50cDVEeFhRQ0Z6Q3JiVmpBaUVveDUyR3p6RXJocTN2SFhfQmx1emxtSkM5dXE4MzZLZjhaMkxjSVQybWFBNzBIMDdGd0NjR1RRVkJNdHg3aWhUay1kc3B4S3VqVmx6bFibo1FXa1Y1WU9CbU5jaFI5TXFyRUFxU1V3VUVpNWE4TGp3N1M2R09R?oc=5"
+      }
+    ]
   }
 ]

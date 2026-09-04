@@ -206,5 +206,31 @@
     "source": "daily",
     "headline": "No recent news activity for Keurig Dr Pepper during this monitoring period",
     "signals": []
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-04T13:13:42.597Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper divests Chobani stake and manufacturing facility for $925M, signaling portfolio rationalization ahead of 2027 split",
+    "signals": [
+      {
+        "category": "Asset Divestiture & Strategic Restructuring",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Keurig Dr Pepper is selling back its equity stake in Chobani and a Pennsylvania manufacturing campus for $925 million. This represents a significant divestiture and retreat from a yogurt/dairy expansion initiative, suggesting internal capital needs or strategic pivot.",
+        "suggestedAction": "Understand if this divestiture impacts KDP's production capacity, supply chain relationships, or operational footprint that may affect vendor service needs. Clarify whether the sale proceeds are earmarked for debt reduction, shareholder returns, or reinvestment in core beverage business.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm"
+      },
+      {
+        "category": "Business Strategy & Portfolio Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "The divestiture is part of KDP's broader restructuring ahead of a planned 2027 split into two separate companies. This indicates significant organizational change and potential disruption to procurement, IT, and vendor relationships during the separation process.",
+        "suggestedAction": "Engage KDP's procurement and finance teams proactively to understand the timeline and structure of the 2027 split. Identify which business segment(s) will retain vendor contracts and whether contract renegotiation or service model changes are anticipated post-separation.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFRld2dzMmN3eEVVMTF1VnE1aC1SOVExaEhJSUZQX2JYQlJQVHRUc3JteU1mc3hweUlyc2VDU3JyRG1iRjlmTzFIaVVINjFjN1E4QndTT3lhQl9LQUNGQ1FSOFdNMmtWM3pnT0s0TU9qRzJRd0psWUtwZ3p5ZW4zNlhoYTMxWnlJMHVqbmZndnZEUFhlMDhiaTI1T3dmV2U3RWJxU1BGbzVpRUdpQWozZEZ4NF83czg3TU1uWGF2MDhEazF2TVJXRUIzOUNhWGJsazhLV1plNmd6dTgxN2RWbdIB5gFBVV95cUxPZzJoekE2N2ptS0FaZkJjZl9UTHNidURWU2x2U1hnby1IZ2k3QjVRZzBXYjQ1NHQ4cUt3MUZCUUxOQjdLYVZyUmRZNGFyQTRRRkFfRGFJak1xSFlaYl82TU9zZWFuMUJZbmdtVVdfdVRDOExzNTVGSTVNWEE0VG9PMTdjTVNtcFJmV1hGWmxvSTItTkhNeVBja2ZVRWNDZ3c5MEhJaDZQYWxLY1Jwak1LR3dTZVZsOEFOYnQ3RDY0N2U0WllraEhoTVo4RWpSMnBCWDR0aGNWcHdCODJiN3VhQmdycG5aZw"
+      }
+    ]
   }
 ]

@@ -270,5 +270,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemVZdF9IdlBFYkRrcWJiSTVCZkUzSk9YUnNTb1UxRFMtRGxzUUhBVG9UVDAxRzJLcjZObW1VS3BRYUl5Tjh2MEQ0b1RMMTFIV1psWU5NdTFvdlpPQzZhdG82QThfNFk1eVlmZDZVOVRpRHZZb21ET2VUQU1aa2NVY3VwbkwxdXhqTFBidy04dkl2cmdBY0E3U2RxYVlKTDRXQUl2dXdFd3ZaREwwTV9Zc1pSVFZqUQ"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-04T13:13:03.751Z",
+    "source": "daily",
+    "headline": "Coca-Cola faces geopolitical disruption and competitive vendor loss; offset by expansion initiatives",
+    "signals": [
+      {
+        "category": "Geopolitical disruption and operational risk",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Russian military strikes hit Coca-Cola manufacturing plant outside Kyiv, disrupting operations in Ukraine region.",
+        "suggestedAction": "Monitor impact on supply chain resilience and global operations; assess whether customer has contingency planning discussions needed.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1R3VGtkV01UTWYxa000Z2Z5WkRFMmo1ZERXMHN6NUxSTjlkSkJYeTZDMUJxMFpBZElsdzhpQ01vWV9LdU9aVFZXY3NaNzdRVF9ReEV6UmtmSTZUbThTekIwcHJrMTRWZjhBRzB5aGJQaHlYU0wxYWJ4TlI2Y3NTWklNdWR5blJBb2F2Y3JBdFgzdHByUkh4WWFtS3JQOE5Ba0wzUjMyV1doY1ViT1R2ajBHSQ?oc=5"
+      },
+      {
+        "category": "Agency vendor loss in strategic media pitch",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis withdrew from Coca-Cola global media pitch after winning PepsiCo business, signaling competitive pressure and potential vendor relationship churn.",
+        "suggestedAction": "Clarify scope of Publicis loss and whether this signals broader vendor consolidation toward competitor; assess if account team is vulnerable to similar pressures.",
+        "sourceName": "Campaign",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWtSN3pGelpwT2JwajRWQ3FGNXZocHRIYjFtbzg5eVFNZ2s5OVdLLXhpbmVTU2RZSnZ6WE5rRDhwU1Y0Q3FjWk05QjNKRVFmRmZPUnNwSWNyM25INkw4Mm52TmtFU3ZGbTZsQ3NyVlBWSldUa1ZjYkxNSEh6RGFmbnBlQ1lZUkF0VmJ2aVJpd29MUUJ6bEVyWUxZdTM5NnkyRkdSUA?oc=5"
+      },
+      {
+        "category": "Capital investment and campus expansion success",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola UNITED's $350M Birmingham campus investment exceeded original goals and job targets, demonstrating successful expansion.",
+        "suggestedAction": "Position as partnership expansion opportunity within the newly invested campus; understand procurement and IT/ops needs created by this capex.",
+        "sourceName": "abc3340.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXZDWmw3ODM4ZW1RdTd3NkQtRmZhbkFBZ1FRY281YTUtVU5rbWdrUDZ1YXhVbWlBMUNmSlIzNXVLcUppelhFM3BEQzhrTzcwYTJjVzFGdkdCZXNRWkQwbXJPOHMzenZsWF8zMHE1eDhzRE96bktIRnRvT2NrWTJqNGZiRGY0MFVZWGs2a0Q2cGNqX3F6LVE2aHpTUTJsdjdpeFFnVXVSbkR2TG5Ba3IwMHV1QQ?oc=5"
+      }
+    ]
   }
 ]

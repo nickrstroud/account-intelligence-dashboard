@@ -419,5 +419,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLUVFWGgtbGZSMjkyWUx4elFySUQxSTcxOThwNmJUSXY5bFFhSjYtYnNpdDJjbWVxa0N2WUhmR2o3UWFGRWVNRHhObE50cDVEeFhRQ0Z6Q3JiVmpBaUVveDUyR3p6RXJocTN2SFhfQmx1emxtSkM5dXE4MzZLZjhaMkxjSVQybWFBNzBIMDdGd0NjR1RRVkJNdHg3aWhUay1kc3B4S3VqVmx6bFibo1FXa1Y1WU9CbU5jaFI5TXFyRUFxU1V3VUVpNWE4TGp3N1M2R09R?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-05T13:13:48.432Z",
+    "source": "daily",
+    "headline": "Kroger faces leadership transition, DOJ pricing investigation, and challenging sales backdrop with potential to miss quarterly targets",
+    "signals": [
+      {
+        "category": "Leadership Change - New Chief of Store Operations",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Kroger appointed a former Walmart executive as Chief of Store Operations. While this represents leadership continuity and operational focus, the hire signals potential shifts in internal processes and vendor management priorities.",
+        "suggestedAction": "Monitor for changes in procurement priorities, vendor engagement practices, or store operations vendor strategies as new leadership settles in. Plan re-engagement touchpoints with operations team.",
+        "sourceName": "progressivegrocer.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTF1TTlkWkpUbW9fMlppTGJNUXZQWXZkY01lc1ZUdl82eTZoUncwUVVsWUJvbE1McmZoSHM0aFhzUlBSRGg5UXBuZ3NIbTZwZDFCemVEM28yOW5fVjNqRWFUbUZkYnZkVndoMFR4NEdkWnEtNEVQWGtPRk04WlVuVENuZWFJRlotR3hxbHRucWhyUQ?oc=5"
+      },
+      {
+        "category": "Regulatory Investigation - DOJ Beef Pricing Inquiry",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Kroger received a letter from the DOJ as part of a beef price investigation affecting major grocers. This regulatory scrutiny may constrain purchasing flexibility and require compliance diligence.",
+        "suggestedAction": "Ensure all vendor contracts and pricing documentation are audit-ready. Anticipate potential delays in purchasing decisions or pricing negotiations during investigation period.",
+        "sourceName": "ClickOnDetroit | WDIV Local 4",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2JCWU1pU2ZNSFlVWXB6bDVQc2ZzOWxXb3ZUdnVRV1Rxbk10VVdYWEpzU1hvWXdXR201dUpiUXJBa3UtY0QtS2ktNUpxYjlxZ2JIeTRNd1FQX2pTUF8zZTQ5UFNHREhRenJnSEtqOXV1VWJqTktjN2c4aGthS0VSVGZBWnBlQjhJNWNKNElGOFlSM1NpRklqTXhqZ3o5anhoY21ZaEMxbHV1elpkYTBJSHU1WFNRMVp4YXgxMTlxT0RaNExkWFEyWnpQNFBZTnFRUG12OTdzeWdOUnVrVm5mNThjN1J1Z1E?oc=5"
+      },
+      {
+        "category": "Earnings Pressure - Potential Missed Quarterly Targets",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Oppenheimer analyst warned that Kroger could miss quarterly identical sales targets amid a challenging grocery backdrop. This signals potential margin pressure and reduced capital availability for discretionary spending.",
+        "suggestedAction": "Prepare for budget scrutiny and potential delays in new initiatives. Focus sales conversations on cost reduction and efficiency improvements rather than expansion.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlfWEN1STVHeGVzTHhQMzZBNlhwdkN2ZHo2UWR5Sm9vczZKUGpDMUI3MHhXd1FvT0UxUlFHWEhPWko2dkpmUWdaS3pSX3lkZHhZWVY5QkNEWjFkenB6R0QtdDIxLTRZbnl6SEFvNmFMRE9sSW8wRWNPNVozWTE3NV9vMENiLUV4S3lyb0ZVeEl1QWtob3NiYVlqUjhLQmk3bGp4VA?oc=5"
+      },
+      {
+        "category": "Market Challenge - Pricing Pressure in Grocery Sector",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Kroger faces pricing challenges alongside other regional grocers and national players. Competitive pricing pressure may reduce negotiating leverage and margin expectations.",
+        "suggestedAction": "Emphasize value-add and efficiency solutions in vendor proposals. Expect tighter price negotiations across the category.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
+      }
+    ]
   }
 ]

@@ -232,5 +232,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFRld2dzMmN3eEVVMTF1VnE1aC1SOVExaEhJSUZQX2JYQlJQVHRUc3JteU1mc3hweUlyc2VDU3JyRG1iRjlmTzFIaVVINjFjN1E4QndTT3lhQl9LQUNGQ1FSOFdNMmtWM3pnT0s0TU9qRzJRd0psWUtwZ3p5ZW4zNlhoYTMxWnlJMHVqbmZndnZEUFhlMDhiaTI1T3dmV2U3RWJxU1BGbzVpRUdpQWozZEZ4NF83czg3TU1uWGF2MDhEazF2TVJXRUIzOUNhWGJsazhLV1plNmd6dTgxN2RWbdIB5gFBVV95cUxPZzJoekE2N2ptS0FaZkJjZl9UTHNidURWU2x2U1hnby1IZ2k3QjVRZzBXYjQ1NHQ4cUt3MUZCUUxOQjdLYVZyUmRZNGFyQTRRRkFfRGFJak1xSFlaYl82TU9zZWFuMUJZbmdtVVdfdVRDOExzNTVGSTVNWEE0VG9PMTdjTVNtcFJmV1hGWmxvSTItTkhNeVBja2ZVRWNDZ3c5MEhJaDZQYWxLY1Jwak1LR3dTZVZsOEFOYnQ3RDY0N2U0WllraEhoTVo4RWpSMnBCWDR0aGNWcHdCODJiN3VhQmdycG5aZw"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-05T13:12:23.537Z",
+    "source": "daily",
+    "headline": "KDP divests Chobani stake and Pennsylvania facility for $925M, signaling portfolio optimization and capital reallocation",
+    "signals": [
+      {
+        "category": "Portfolio divestiture - capital generation and strategic refocus",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Keurig Dr Pepper is selling its equity stake in Chobani and a Pennsylvania manufacturing facility back to Chobani for approximately $925 million. This represents a partial unwinding of a previous strategic investment.",
+        "suggestedAction": "Monitor KDP's capital deployment plans and any shifts in strategic priorities. Understand how proceeds will be reinvested—could indicate new growth initiatives or debt reduction, either of which affects future budget availability.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm?oc=5"
+      },
+      {
+        "category": "Stock performance and valuation signal",
+        "updateType": "market",
+        "score": 0,
+        "summary": "KDP stock shows strong returns but earnings are stretched according to market analysis, indicating potential investor concerns about growth sustainability and valuation.",
+        "suggestedAction": "Track earnings quality and guidance updates. A miss or reset in guidance could signal tighter cost controls and budget scrutiny across the organization.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEY0Ykk3T1B6YTg4T1V0NE5NcEFlN3N0Q2lRT2dXN0FMSHlWN3BuN3NhdDZiMnVZS2EyWTRUdS16UUxvZVRlSmtEVTVSeGdKOTk2LUNxelFJWUxNZFVtc2tCSmVhcEpjWURIb2Q4WHc0NkRVNjgzSG51UExkRnRuanhRM1hmbzFGT1FSZXNNX09ualBiUjluVHd0V2xTNDc4T2RQVmxEM0F3cm1tR1NQQTFQNEdRYTVad2poSjRTTFhabGdJWU11MTZZVkxXNVloVlBJQjZUaG1ZT0xIN2VlM9IB5gFBVV95cUxNZjctdUltM25uRHJ2WlNDeDQwV0RFQmZsdGk0LXU5ZWdKVXE0MVlNRDd1YUV0cm5BSTJRNVRoN1ZKYzR3dGJleUdxMjNYMENFMGJrTC1fOXNQZ05wYVQtV1VRRmdVRmJXTmRERDJjZk9FdU5MajViZ0lOS3hzS1FPQ0NiTnJsRF82RU5TWUl6UVN5ZFozd0tkazZRYk5lZDJkeklXMXZnMHY5a3Z4d2IyZW5Pa1I2aDJsZ09oT3JLdXMyYnRoVkVLZ2ctZ2lxTFV6dnRjcDFhY2tZUUJacTFsZzhoN1VaZw?oc=5"
+      }
+    ]
   }
 ]

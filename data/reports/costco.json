@@ -305,5 +305,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2VpV3g2YnptNnhEZGJJVmdsY2ZzY3ZGN2NxSkxIU3RYR1hyVUZ0c1JWUVZ5N0hZOWJubGc3Z24wUDlyVzg4UEJBVWEyb0p1Zmt3bTlKaEVPSVJwOWR3QmRZUkRNcVlWMksyMy1qb2l2YUt5N0twZ2VSRUZZZEVXR3dYcTJ1QjJ6cGxZMGdxT2l2OVp3a0hHYUhnelU3MTdt"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-05T13:12:58.494Z",
+    "source": "daily",
+    "headline": "Costco experiencing mixed signals: service discontinuation and regulatory scrutiny offset by membership growth",
+    "signals": [
+      {
+        "category": "Service Discontinuation & Customer Experience",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Costco quietly discontinued Costco Next online marketplace and pulled popular member perks without warning, generating negative member sentiment",
+        "suggestedAction": "Monitor for additional service cuts or membership retention impact; assess how changes may affect customer satisfaction and engagement",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXk5dzlQUDJGMnNCOFllR1Z6dTFHUWJUT0hQOGc1SXhhQXVoa0pIS2RWYzFhQ2FSVjZyclVscHprZ2puTy1mU3FQQUo3cXo0UldoSXRUTGFhTGFJR1BzUEZKNjQtSHB4REtuOHRrLXNtNUo5N0YyMU43dFQ3ckJ6Sk1TWGYwbVM3NS1TcGczZjVSVHVV?oc=5"
+      },
+      {
+        "category": "Regulatory Investigation - DOJ Beef Pricing",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Costco received DOJ inquiry letter as part of expanding beef price investigation among grocers",
+        "suggestedAction": "Monitor regulatory developments; assess potential compliance costs, pricing pressure, or operational changes that may result from investigation",
+        "sourceName": "KSAT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWl3UjFyanlfRFBUSWktS3JmakMyS0pCMXljR0dXSFZ1NDVyYlJGQXZqUk1aemU0UE5yZDVoQkZzNWt0amo4cVNRbVJfRzJPelAwQW9JU2pJZEhiYWE1eXRQMkJTRTREQnlkTzE1ZEFkanU5MVhDa3l4U2dmWjllS1R4eXZLNXRoX2hOWEpTLU5qM1d4ZVZ0U0kzV09uYTJ3UkNkY0VMS2FuS2lCdzBHQzZUd0NDTXhGNzZnQUJGU2NfbGxKVGZYOA?oc=5"
+      },
+      {
+        "category": "Membership Growth & Business Resilience",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Costco has consistently grown its membership base regardless of economic conditions, demonstrating business strength and customer loyalty",
+        "suggestedAction": "Leverage membership growth as evidence of account stability and expansion potential; explore opportunities tied to growing customer base",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFRtWkdSSWtnbUJBRUJGTFFjTGdlaFNIQ2M0TlowVEhSdnBCZkxheURxdzBnYkZFY0FXb0hBZXI4ekZERENwdVZSQmNBeWFlMzJvaWVxTWdBQk5JWHRXZWFucEJtQWJOQ29lbUl5OU15ZVAtZWpiTng4WVZoNEFLOWtVUjFueFNUSHhhX0U2UkhnNmpMbXRvRDBMSWlDVEU?oc=5"
+      }
+    ]
   }
 ]

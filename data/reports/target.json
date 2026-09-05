@@ -120,5 +120,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZnMldydHdFajRkS3p5SlVpSnVUV3Jha2FMM0ZyNlVKa2d2d1g0Wmt2OUVvYi05VnRoeGxKRVczRUkxTkloOGltSWh2UWxwUlFxbG95anNVQmViM044b1ZMQVh4UkZWX0NTdTA2bmgzQzlIalFoWHJKc3pRSnNEdDZnOTBIaGhVUlpSZGI5Zmd0a0RySndyc1VMT1ZWSHoyXzZuLUwwVGRhclhQY3JiZG9ROGRCWFd5ZFU5RGllbHc"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-05T13:13:19.659Z",
+    "source": "daily",
+    "headline": "Target shows strong operational recovery with revenue growth initiatives and positive market performance, but mixed analyst sentiment creates modest opportunity signal",
+    "signals": [
+      {
+        "category": "Revenue & Growth Trajectory",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook as recovery efforts gain traction, indicating improved financial performance and positive business momentum",
+        "suggestedAction": "Position renewal/expansion conversations around Target's growth phase; opportunity to discuss how our solutions support their scaling efforts",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "New Business Line Launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target launched Target Beauty Studio as a new destination for beauty products, indicating expansion into adjacency categories and potential new revenue streams",
+        "suggestedAction": "Explore how our solutions can support new business line operations; flag as growth area for cross-sell/upsell opportunities",
+        "sourceName": "Target Corporation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONDkzQzFvZFB3SmJkNHJobXhCUjJuYUQ0V1djOTJkLUxjbk9DRFpsMmZHWnNWWHdIb1hxbUtkMUdleUd2MHp3U3I4VFpOZUpIa3VzNHlJcnJRZ2w4cVVwbUFOWjhsM0ZQVnJPQzBuYUNjRVh4MWROSFdHYXFKSDA0ZXladi0yU2U1M3pOZzZqUExmVVBtekNWV21yYUtLM1RHQm1kWTd4UDlhamlYckRDUUItZ1hCZlRpdEU1MEZiOWJkOU9Cb2NMdGZEUFR1RlF1Qk0xLVVLTW5XdUE"
+      },
+      {
+        "category": "Market Performance & Stock Price",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target stock outperformed competitors on strong trading day and reached 52-week high, signaling positive investor sentiment and operational confidence",
+        "suggestedAction": "Use positive market performance as rapport-building talking point during customer interactions; indicates financial health to support budget allocation",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZnMldydHdFajRkS3p5SlVpSnVUV3Jha2FMM0ZyNlVKa2d2d1g0Wmt2OUVvYi05VnRoeGxKRVczRUkxTkloOGltSWh2UWxwUlFxbG95anNVQmViM044b1ZMQVh4UkZWX0NTdTA2bmgzQzlIalFoWHJKc3pRSnNEdDZnOTBIaGhVUlpSZGI5Zmd0a0RySndyc1VMT1ZWSHoyXzZuLUwwVGRhclhQY3JiZG9ROGRCWFd5ZFU5RGllbHc"
+      },
+      {
+        "category": "Analyst Sentiment",
+        "updateType": "market",
+        "score": 0,
+        "summary": "Target given average 'Hold' rating by analysts, suggesting neutral near-term outlook despite operational improvements",
+        "suggestedAction": "Monitor analyst commentary for shifts in sentiment; current 'Hold' rating neutral for renewal risk/opportunity, but watch for upgrades or downgrades",
+        "sourceName": "MarketBeat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmYwYjJLQ2QtTjhhV0gtdUJUX2Uyd2N2d1pHZ1VLR2MyY1VOZ3RTNTYtZENxZ0dTaGhoLXBPVm1MQWlJcklVZDE5WkhGcWVjbnprU004c2pjdy1RMlFoUGd0SmhpU00xMWpsZXJfQWFvMTl3UDk5NkZqSlpMLTNFd21GT1hTZEdKV0RVS3ZSV2MyTlJsQWMzSW50OElpNjBSeXRfR2Y4UWVfVnZsRlNPcTdoSTZ4MWp2NHczYldyTENCMEVrWkhIWncxUGg"
+      }
+    ]
   }
 ]

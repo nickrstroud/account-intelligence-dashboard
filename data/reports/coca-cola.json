@@ -305,5 +305,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXZDWmw3ODM4ZW1RdTd3NkQtRmZhbkFBZ1FRY281YTUtVU5rbWdrUDZ1YXhVbWlBMUNmSlIzNXVLcUppelhFM3BEQzhrTzcwYTJjVzFGdkdCZXNRWkQwbXJPOHMzenZsWF8zMHE1eDhzRE96bktIRnRvT2NrWTJqNGZiRGY0MFVZWGs2a0Q2cGNqX3F6LVE2aHpTUTJsdjdpeFFnVXVSbkR2TG5Ba3IwMHV1QQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-05T13:11:48.328Z",
+    "source": "daily",
+    "headline": "Coca-Cola faces competitive threat from PepsiCo-Publicis deal; regional expansion outweighs geopolitical disruption",
+    "signals": [
+      {
+        "category": "Publicis wins PepsiCo's global media business and withdraws from Coca-Cola pitch",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis has landed PepsiCo's global media business and withdrawn from a competing pitch with Coca-Cola. This represents a loss of a significant vendor opportunity and signals competitive vulnerability in the media/marketing services arena as a competing beverage brand consolidates media spend with a major agency.",
+        "suggestedAction": "Assess current media/marketing vendor relationships at Coca-Cola; identify if account is at risk of similar consolidation pressures or vendor losses to competitors capturing larger share-of-wallet.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHpJUVZrZmJTbTJWLS1EQlRMZE5WVWxGbXlPMXRmZUhRdTdSVGYxNDh0d192WTVKUS1BeEVJZXdvWVJIUktjV296ZDJjZi03U1BzdjNocFRsZHBNcGFWNG1mQkRUOUVvcXVkQUNaeWZjSzEtbkN1NU8wbkxOQzFvYTRiaENWaUp5YVlZRTB2NHgxTWdDNWZQU25tNVdlblhqTVYyT1BNbw?oc=5"
+      },
+      {
+        "category": "Coca-Cola Bottling Company opens new $350M headquarters campus in Birmingham, exceeds investment and job goals",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola UNITED (a major bottling subsidiary) has opened a $350M Birmingham headquarters campus that exceeds original investment and job creation targets. This represents significant capital deployment and operational expansion within the Coca-Cola ecosystem.",
+        "suggestedAction": "Explore expansion opportunities with this new facility—identify potential needs for services, technology, or infrastructure solutions across the new Birmingham operations; position for growth as the facility ramps up.",
+        "sourceName": "abc3340.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOS1aWGR2ckZxSUFGc3lOWURCSHMxRllldEdhaTF2Sm5LeUFZOFBfZFd2OERzOFNkamdRbExoMnNvT3hHVURJVmRpNS1MVjF4cmo2UHFGM0RMZlVsbGNIWUtfenBnTGE0ek5tbUE2dE9aNkNBQXFSQ2pZczhkUUdjbWNsN3I1OTBOVVdvYVhJeEFWekc0ZmJIWnBtdS1UX2luMzRpai1kNjFiZkFJQlFyMVJKX0VfNG5pcEplb3FUaEFLX0c5a0hOMHdKWGtBczlM?oc=5"
+      },
+      {
+        "category": "Russian drone strikes destroy Coca-Cola manufacturing plant near Kyiv, Ukraine",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "A Coca-Cola plant outside Kyiv was hit by Russian military drones, causing facility destruction. This represents a significant supply-chain and operational disruption in a key regional market, with geopolitical implications for Coca-Cola's international operations.",
+        "suggestedAction": "Inquire about supply-chain continuity plans and any need for emergency support services, contingency sourcing, or risk mitigation solutions; use as rapport-building context for dialogue on business resilience.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1R3VGtkV01UTWYxa000Z2Z5WkRFMmo1ZERXMHN6NUxSTjlkSkJYeTZDMUJxMFpBZElsdzhpQ01vWV9LdU9aVFZXY3NaNzdRVF9ReEV6UmtmSTZUbThTekIwcHJrMTRWZjhBRzB5aGJQaHlYU0wxYWJ4TlI2Y3NTWklNdWR5blJBb2F2Y3JBdFgzdHByUkh4WWFtS3JQOE5Ba0wzUjMyV1doY1ViT1R2ajBHSQ?oc=5"
+      }
+    ]
   }
 ]

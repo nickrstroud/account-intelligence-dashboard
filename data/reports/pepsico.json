@@ -412,5 +412,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZyVXNVTVRDcFZVeXVTcPA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-05T13:12:09.856Z",
+    "source": "daily",
+    "headline": "PepsiCo shifts $1.9B global media assignment to Publicis; expands fresh foods portfolio amid consumer preference shift",
+    "signals": [
+      {
+        "category": "Major vendor relationship change - Media agency consolidation",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo has shifted its $1.9B global media assignment from Omnicom to Publicis, indicating a significant agency-of-record change. This represents a competitive threat to incumbent vendors and suggests PepsiCo is re-evaluating key service provider relationships during a transformation period.",
+        "suggestedAction": "Assess whether this AOR change signals broader vendor consolidation or shifting priorities that could impact other vendor relationships. Understand the rationale behind the switch (cost, capabilities, alignment) and whether our offering is affected.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGZuSFFKU2xIaWJ3ZFdtN2tMRGpNeEthMVJtMXpfOWtWQ1htRFZYZ0xtcldrbGd5YkpQbGdiQXNoYjlPbUtSNkVIbHdfVHBLTzlIQ1hMM3NjOF9SbUhaU3JaUWZnR0RITUF5MXZjazFtY3I4RDZJWGg0b0Q3clFn?oc=5"
+      },
+      {
+        "category": "Strategic business expansion - Fresh foods initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is shifting strategic focus toward fresh foods as consumers move away from processed snacks. This represents a business expansion into new product categories and potentially new distribution channels, creating opportunities for vendors serving health-conscious beverage and food segments.",
+        "suggestedAction": "Identify how our solutions can support PepsiCo's fresh foods expansion—whether through supply chain optimization, demand planning for new SKUs, or compliance/traceability for fresh products. Prepare positioning for conversations about supporting this strategic pivot.",
+        "sourceName": "fooddive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmplaTFWMFplWVc5REdiMmdzRXZmcU8waVlRNkdxUWJDekpiY2xCMm0ySkpCNi0wYnNrRXJiWldVNmN1VUpPMk4xc0M3Tk13dHI2Q3ZKVm1rWkhFOTJfR2d1dWt3NUNVNlNnZUhxMTBDMGdnWnlXYUNWUXVNN0pPWEFzOGtUS1dDYXZUMTFpYw?oc=5"
+      },
+      {
+        "category": "Operational expansion - Distribution infrastructure",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is planning a Frito-Lay distribution warehouse near Sonoma County airport, indicating capital investment in supply chain infrastructure. This suggests confidence in demand and potential for logistics/distribution optimization vendors.",
+        "suggestedAction": "Monitor whether this warehouse is part of broader network expansion plans. Explore how supply chain visibility, warehouse automation, or last-mile logistics solutions could support this new facility and broader distribution strategy.",
+        "sourceName": "The Press Democrat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHk2dEYwc1NVbGQ3eEVTZnJTU01FSTZFUVhac1RWN0hFbHZ5VndxNlVTWmo4ZmtQcXZKZXpFODBmNlhiTFJYYmNDVXl6aXEyT3FmeXYxWXFPX1JvUno2d2ZPaTh4YWJHMUljak04OTJlV0RqUDRiZGZ1ck9QdEhlOEFpQkw5RnI0X1RXUFZyOFV3LXhqY1BwQWxGc2c1OHhyb19yXzRHbm1VWXVrV0xqM0pISFdYRFBqZnFsTQ?oc=5"
+      }
+    ]
   }
 ]

@@ -286,5 +286,12 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUndhWEJIaDF0WklBV2ZwbnZiQzFqelpvYzR0Ylc5Ni11UWp1bnRFa1hRUTRtLTNzbFVySzNJZjQ4LXBrZXlvZGtHUGtycU1ERVJpSzhaTURrd2w5ZDhlQUhzRlBURXBJb1BWMnVnVmt0M3FYeTBYNGtjX21pZmtFcWZZd2RkWWlfTWNueA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-05T13:12:45.914Z",
+    "source": "daily",
+    "headline": "Walmart: Promotional activity and operational incidents; no material account relationship signals detected",
+    "signals": []
   }
 ]

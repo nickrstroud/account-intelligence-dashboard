@@ -242,5 +242,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEp2bXEwRUxUd1ZCN1RkbE91NmNqMHJwU3VuaENEWXNNUzlvUDMtM3JrVVN5ZVg5Z2pFeU41b3dlSWNZMWJ1dG81OS1wT2pHU3czWjNNWmQ2Z2QybWxNSUFoeVdRaEZEREtLNlQ5VlRaTGd6YmVFSzgyb2dyc2NXQzBFUzBSTG8xNDdWNTBZVi1lbDlCMjlRX2tVYTNrR2M4TVZTbURPRFA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-05T13:12:44.169Z",
+    "source": "daily",
+    "headline": "P&G shows mixed signals: new product partnerships and brand expansion offset by slowing growth and workforce restructuring concerns",
+    "signals": [
+      {
+        "category": "Brand Partnership & Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Febreze and Dunkin' launching first-of-its-kind scent collection; P&G securing USA Basketball Women's National Team partnership. New product collaborations indicate brand strength and market expansion.",
+        "suggestedAction": "Leverage P&G's brand momentum and partnership success in value conversation; explore bundled offerings around their expanding product portfolio",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEp2bXEwRUxUd1ZCN1RkbE91NmNqMHJwU3VuaENEWXNNUzlvUDMtM3JrVVN5ZVg5Z2pFeU41b3dlSWNZMWJ1dG81OS1wT2pHU3czWjNNWmQ2Z2QybWxNSUFoeVdRaEZEREtLNlQ5VlRaTGd6YmVFSzgyb2dyc2NXQzBFUzBSTG8xNDdWNTBZVi1lbDlCMjlRX2tVYTNrR2M4TVZTbURPRFA?oc=5"
+      },
+      {
+        "category": "Growth Deceleration",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Yahoo Finance reports P&G growth is slowing while valuation remains rich; simplywall.st suggests stock could be overvalued. Revenue growth concerns may constrain future spending.",
+        "suggestedAction": "Monitor quarterly earnings closely; position value-focused offerings to help P&G optimize costs and efficiency amid slower growth trajectory",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWhZNHhSbm9fT0dCYTFRekJpejlEUkdtVEp2M09MaEpDQjNDakpwVXJrZGtLX3JBNjNuQ21tMGhHZDZzYjhMOW1vSjdkQXBlM2VrX180ZlNEeUNsWHlhMTRlRm1paUlmSzFJRnh5bUk0LTc3UFlZOTUteWVVMHRaOHV4M1B6VHRZWmw2bG1LQWc?oc=5"
+      },
+      {
+        "category": "Workforce Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Cincinnati Enquirer reports P&G CEO pay jumps while median worker pay slumps amid restructuring. Indicates organizational cost-cutting and potential efficiency initiatives across employee base.",
+        "suggestedAction": "Prepare 'do more with less' value proposition; anticipate procurement scrutiny and heightened focus on ROI and cost efficiency",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OThxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ?oc=5"
+      }
+    ]
   }
 ]

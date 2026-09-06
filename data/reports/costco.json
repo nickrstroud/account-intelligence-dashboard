@@ -340,5 +340,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFRtWkdSSWtnbUJBRUJGTFFjTGdlaFNIQ2M0TlowVEhSdnBCZkxheURxdzBnYkZFY0FXb0hBZXI4ekZERENwdVZSQmNBeWFlMzJvaWVxTWdBQk5JWHRXZWFucEJtQWJOQ29lbUl5OU15ZVAtZWpiTng4WVZoNEFLOWtVUjFueFNUSHhhX0U2UkhnNmpMbXRvRDBMSWlDVEU?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-06T13:14:18.610Z",
+    "source": "daily",
+    "headline": "Costco pulls online marketplace (Costco Next) amid DOJ antitrust investigation into beef pricing practices",
+    "signals": [
+      {
+        "category": "Business Contraction / Member Experience Degradation",
+        "updateType": "expansion",
+        "score": -1,
+        "summary": "Costco quietly shut down Costco Next, an online marketplace member perk, without clear warning to members. This represents a pullback from a convenience/expansion initiative.",
+        "suggestedAction": "Monitor for broader strategic shifts; clarify rationale internally (cost, underperformance, or investigation-related) and assess whether other customer-facing initiatives may be affected.",
+        "sourceName": "foxbusiness.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORm1nT1U5Q0NfWWdzOFM1MmJsSDZ3a2laNHl6Z1NMQWtQVkpyVUxCeDcxeTRnb2F2RWtjc3QtazRueEdjODczVTBMRVY4V0lic3lJaS01SGxpRzkwZDRGRGJyQ1dscWRHcW9FYUY1RmNNakJKX1F1NndzTEN6MVJzU2gwQndnOFRvdG01eTJXOHlLYjNhSXBWZGFxQWJMRzlFY2JKbHJQVllmeXk2NWxIaE5VSlBtdFNsT3Qw0gHAAUFVX3lxTE1rX3BCMFhRWWRJaXJTOFpPZ05pV0RpRlBlQ1U5cS1iSko1dDFobk9RNC0xMEZ1eDd4djVCQTBEQWJBdmVBLUZhbmdsMzF1dVdnOFRfeGc0RXRWeXRIZWF1d3RYTTVLci1FSkI4RzJCU3JNLU1qX3lWajJCUUFKcjY5M1BxOUNNX2Rfd0x4N1BTTncyVllrRDlBcTNGd3JveTU0YlRRak43SXA0RG9MQTFoN3lIOFVKM1N1VVFvMkZfcQ?oc=5"
+      },
+      {
+        "category": "Regulatory / Antitrust Investigation",
+        "updateType": "legal",
+        "score": -2,
+        "summary": "DOJ has formally expanded beef price investigation to include Costco, Walmart, Amazon, and other major retailers. Costco received DOJ inquiry letters as part of antitrust probe into potential price-fixing or collusion.",
+        "suggestedAction": "Significant account risk: regulatory/legal scrutiny at the highest level. Monitor for potential fines, structural remedies, operational changes, or management distraction. Anticipate budget/prioritization shifts toward legal/compliance. Consider whether vendor relationship or contract terms may be renegotiated under pressure.",
+        "sourceName": "foxbusiness.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5"
+      }
+    ]
   }
 ]

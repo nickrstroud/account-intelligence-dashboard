@@ -447,5 +447,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHk2dEYwc1NVbGQ3eEVTZnJTU01FSTZFUVhac1RWN0hFbHZ5VndxNlVTWmo4ZmtQcXZKZXpFODBmNlhiTFJYYmNDVXl6aXEyT3FmeXYxWXFPX1JvUno2d2ZPaTh4YWJHMUljak04OTJlV0RqUDRiZGZ1ck9QdEhlOEFpQkw5RnI0X1RXUFZyOFV3LXhqY1BwQWxGc2c1OHhyb19yXzRHbm1VWXVrV0xqM0pISFdYRFBqZnFsTQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-06T13:12:53.489Z",
+    "source": "daily",
+    "headline": "PepsiCo undergoes strategic transformation with media consolidation to Publicis and fresh foods pivot; mixed signals on growth and competitive positioning",
+    "signals": [
+      {
+        "category": "Media Agency Consolidation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo consolidating $1.9B global media assignment to Publicis, signaling strategic marketing transformation and centralization of media planning/buying under a single partner.",
+        "suggestedAction": "Discuss with PepsiCo stakeholders how this consolidation may affect vendor ecosystem; opportunity to position as complementary service provider or explore new buyer relationships at Publicis if leveraging that relationship.",
+        "sourceName": "MediaPost",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDllaGZJaDA4eXlWMC1ZY2ZMWDNiN2FSeUpsc3lEeDZramI1em9oMHNwTkpTNE1BdGtnSVpST28wU184Vm1NRWMzSUdTanRaVmRreU4xcmRTNnFuczY4M3dNaWJ5M0N3Y0d4d2l0Zmw5RkhFZjBPbG9aVDBOMTFObDFXZ1NHNmUwNmJMNmY2Z0pRWmdyUUxSRmY1R3pKMFk4MWlNUV82bHQ1dw"
+      },
+      {
+        "category": "Business Line Expansion - Fresh Foods",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo shifting strategic focus toward fresh foods as consumer preferences move away from processed snacks, indicating portfolio diversification and new business channel development.",
+        "suggestedAction": "Identify opportunities to support fresh foods distribution, cold-chain logistics, supply chain modernization, or regulatory compliance for new product categories.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmplaTFWMFplWVc5REdiMmdzRXZmcU8waVlRNkdxUWJDekpiY2xCMm0ySkpCNi0wYnNrRXJiWldVNmN1VUpPMk4xc0M3Tk13dHI2Q3ZKVm1rWkhFOTJfR2d1dWt3NUNVNlNnZUhxMTBDMGdnWnlXYUNWUXVNN0pPWEFzOGtUS1dDYXZUMTFpYw"
+      },
+      {
+        "category": "Infrastructure Investment - Distribution",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo planning new Frito-Lay distribution warehouse near Sonoma County airport, indicating continued capital investment in supply chain and logistics infrastructure.",
+        "suggestedAction": "Explore opportunities to support warehouse automation, logistics technology, inventory management, or regional supply chain optimization for new facility.",
+        "sourceName": "The Press Democrat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHk2dEYwc1NVbGQ3eEVTZnJTU01FSTZFUVhac1RWN0hFbHZ5VndxNlVTWmo4ZmtQcXZKZXpFODBmNlhiTFJYYmNDVXl6aXEyT3FmeXYxWXFPX1JvUno2d2ZPaTh4YWJHMUljak04OTJlV0RqUDRiZGZ1ck9QdEhlOEFpQkw5RnI0X1RXUFZyOFV3LXhqY1BwQWxGc2c1OHhyb19yXzRHbm1VWXVrV0xqM0pISFdYRFBqZnFsTQ"
+      },
+      {
+        "category": "Stock Price & Market Sentiment",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Analyst commentary indicates stock pressure and market skepticism around PepsiCo's recovery trajectory despite strategic moves; Omnicom stock dropped 5% from losing media business, signaling investor concern about transformation execution.",
+        "suggestedAction": "Monitor earnings guidance and investor sentiment closely; be prepared to support cost optimization or efficiency initiatives that may emerge from board/investor pressure.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmNpNm9hUjR5UlkwQlM1MkNKbzgxMTdZVF9tUUFNVkd3ZXlBb1YxNjdsX0VLalZ6UXZCRFBlY1BHUS1QLXJPNU5XdUVsNkVwQUlWa3A4T2E2UWxWTVBxRGtjMHkwLUl3Vk0wZ0NpcGViRUN6SjBzZ2QwbUhzcUhrTlE0cEl1SHNRM24xWVFmeVdQN1Y4ZGZJRg"
+      }
+    ]
   }
 ]

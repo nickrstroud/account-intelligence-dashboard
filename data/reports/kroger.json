@@ -463,5 +463,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-06T13:14:55.283Z",
+    "source": "daily",
+    "headline": "Kroger faces pricing investigation and leadership changes while navigating competitive grocery market pressures",
+    "signals": [
+      {
+        "category": "Leadership Change - Chief of Store Operations",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Kroger hired a former Walmart executive as Chief of Store Operations, signaling strategic leadership refresh and operational focus",
+        "suggestedAction": "Reassess relationship with new executive; leverage familiarity with Walmart systems as conversation starter; confirm continuity of current vendor relationships and identify any Walmart-influenced priorities",
+        "sourceName": "Progressive Grocer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTF1TTlkWkpUbW9fMlppTGJNUXZQWXZkY01lc1ZUdl82eTZoUncwUVVsWUJvbE1McmZoSHM0aFhzUlBSRGg5UXBuZ3NIbTZwZDFCemVEM28yOW5fVjNqRWFUbUZkYnZkVndoMFR4NEdkWnEtNEVQWGtPRk04WlVuVENuZWFJRlotR3hxbHRucWhyUQ?oc=5"
+      },
+      {
+        "category": "Leadership Change - Additional Former Walmart Executive",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Another former Walmart executive named to leadership role at Kroger, indicating strategic talent acquisition from competitor",
+        "suggestedAction": "Monitor organizational restructuring and potential shifts in vendor strategy; prepare value proposition aligned with Walmart best practices if relevant to solution",
+        "sourceName": "KNWA FOX24",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEFMcnlicUptUGpwa1Z5bEZDUWpDSHBSTGFic1RLdkFHREJXZXdsZUx3Z3VaTHlvamZycTR2alY5QklES1AtNFZSTW41YVBuRGZNUkFXSUlOWjh4UG80R0tVckQzUmROXzVzdHZKNGRLTjhlWDg3cmFselMycXJGSkdJLWV0R0ZZMTFMX09VNlI2d2ZXMktLQVd6bUswYW9yR2pIeFhYelZubXJsUnVPQ2pwMWjSAboBQVVfeXFMTl9mZFBjYVdXbjkwTzZuek8wUGpZemUwTE5lM1RGTFh2eDJYU1dkeGpveHB1Z01Pc0FxS1RnaDZBNzZnUklTU1dnMmlrT0RzYm41YmFKbV9GMTlnYWY3VHB6UTRMem1abjFDYUNOWmw4blZnbS0xa1h0bHRWQXdmMGZMa2Mtblhfell5cTRqUXZ3RVUzQUpiZHIwUFZZUHdaYmFWOG9DWUVlNTJxanFvbGFNOGlLNEpfUHVB?oc=5"
+      },
+      {
+        "category": "Regulatory Investigation - DOJ Beef Pricing Probe",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Kroger received letter from DOJ as part of expanding beef price investigation; regulatory scrutiny on pricing practices",
+        "suggestedAction": "Monitor investigation progress; potential operational or compliance implications; confirm current vendor solutions support pricing transparency and regulatory compliance",
+        "sourceName": "ClickOnDetroit | WDIV Local 4",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2JCWU1pU2ZNSFlVWXB6bDVQc2ZzOWxXb3ZUdnVRV1Rxbk10VVdYWEpzU1hvWXdXR201bUpiUXJBa3UtY0QtS2ktNUpxYjlxZ2JIeTRNd1FQX2pTUF8zZTQ5UFNHREhRenJnSEtqOXV1VWJqTktjN2c4aGthS0VSVGZBWnBlQjhJNWNKNElGOFlSM1NpRklqTXhqZ3o5anhoY21ZaEMxbHV1elpkYTBJSHU1WFNRMVp4YXgxMTlxT0RaNExkWFEyWnpQNFBZTnFRUG12OTdzeWdOUnVrVm5mNThjN1J1Z1E?oc=5"
+      },
+      {
+        "category": "Market Challenge - Pricing Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Kroger and regional chains facing pricing challenges in competitive grocery landscape; Oppenheimer analyst suggests potential miss on quarterly identical sales views",
+        "suggestedAction": "Prepare cost-optimization and efficiency-focused value propositions; emphasize ROI and margin improvement solutions to address margin pressure",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlfWEN1STVHeGVzTHhQMzZBNlhwdkN2ZHo2UWR5Sm9vczZKUGpDMUI3MHhXd1FvT0UxUlFHWEhPWko2dkpmUWdaS3pSX3lkZHhZWVY5QkNEWjFkenB6R0QtdDIxLTRZbnl6SEFvNmFMRE9sSW8wRWNPNVozWTE3NV9vMENiLUV4S3lyb0ZVeEl1QWtob3NiYVlqUjhLQmk3bGp4VA?oc=5"
+      }
+    ]
   }
 ]

@@ -164,5 +164,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmYwYjJLQ2QtTjhhV0gtdUJUX2Uyd2N2d1pHZ1VLR2MyY1VOZ3RTNTYtZENxZ0dTaGhoLXBPVm1MQWlJcklVZDE5WkhGcWVjbnprU004c2pjdy1RMlFoUGd0SmhpU00xMWpsZXJfQWFvMTl3UDk5NkZqSlpMLTNFd21GT1hTZEdKV0RVS3ZSV2MyTlJsQWMzSW50OElpNjBSeXRfR2Y4UWVfVnZsRlNPcTdoSTZ4MWp2NHczYldyTENCMEVrWkhIWncxUGg"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-06T13:14:31.982Z",
+    "source": "daily",
+    "headline": "Target showing strong operational recovery with boosted sales outlook and grocery-driven traffic growth",
+    "signals": [
+      {
+        "category": "Sales Outlook & Guidance Positive Revision",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook as recovery efforts gain ground, signaling improving business momentum and confidence in near-term performance.",
+        "suggestedAction": "Positive signal for account health; use in renewal discussions to build confidence in Target's operational stability and growth trajectory.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "Grocery Channel Expansion Driving Traffic",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target is successfully leveraging groceries as a traffic driver with increased shopper visits, opening a new business lever for sales growth and margin expansion.",
+        "suggestedAction": "Identify grocery-related supply chain, fulfillment, or analytics capabilities that could support this expansion strategy; explore co-sell or upsell opportunities.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3A3dDFnTDVObV9iSWRjWlhsVV9vNjJzdVRpY193eGhhNDRlZXdQY2V5ZHBzTlhmYVJoOG1HWGR6M2tOQ2RoTklkRm5xTzU1SEFGUUF4dVhwMUpybHpCc1pPbFJDaWMtSHA2eVl3OVBRa2cyOURPTERNMzJLeXVfdEg0bVl1MXM4N1o0dW44VHZFZw"
+      },
+      {
+        "category": "Strong Stock Performance & Investor Confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target stock outperforming the consumer defensive sector with steady investor activity (multiple institutional buyers adding positions), indicating positive market sentiment and financial health.",
+        "suggestedAction": "Use strong financial market signals to reassure internal stakeholders about account stability; suitable talking point for relationship expansion discussions.",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZnMldydHdFajRkS3p5SlVpSnVUV3Jha2FMM0ZyNlVKa2d2d1g0Wmt2OUVvYi05VnRoeGxKRVczRUkxTkloOGltSWh2UWxwUlFxbG95anNVQmViM044b1ZMQVh4UkZWX0NTdTA2bmgzQzlIalFoWHJKc3pRSnNEdDZnOTBIaGhVUlpSZGI5Zmd0a0RySndyc1VMT1ZWSHoyXzZuLUwwVGRhclhQY3JiZG9ROGRCWFd5ZFU5RGllbHc"
+      }
+    ]
   }
 ]

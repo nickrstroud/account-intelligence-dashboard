@@ -293,5 +293,31 @@
     "source": "daily",
     "headline": "Walmart: Promotional activity and operational incidents; no material account relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-06T13:13:58.762Z",
+    "source": "daily",
+    "headline": "Walmart launches restaurant delivery service (Dunkin', coffee, sandwiches) to compete with DoorDash/Uber Eats",
+    "signals": [
+      {
+        "category": "Business expansion into food delivery/restaurant marketplace",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is expanding into restaurant delivery services, starting with Dunkin' and other quick-service offerings. This represents a new revenue stream and business line extension beyond traditional retail.",
+        "suggestedAction": "Assess if your solutions could support Walmart's delivery logistics, order management, or customer engagement capabilities in this new vertical. Consider re-pitch opportunities around fulfillment optimization.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNvT2xaSjVjWG1QMzk2UFI2X2xfX0pQU0NyOVQ2Nk5Ccm1BRXVuWDVYQ3pERVk0eTZkdW5TMEV0aXcxRFF2dW0xY2d6X2ltWmxwVDh3ODNLbUZpWmk0Nk9XRWVCaUIySFpOMVczWlJaU3liUmJmcW9lUTZnNGlUSkQ1alN1TUNTdFRfTUgtZ9IBlAFBVV95cUxPR21DOTRJRHFUUjk3SnA3S3VqZllLZDBVLXFMcWM0Q2I3STZCOHp1Qm0ySGRUR3lQSzh4RmVlSXhwSU5YOTc5U2F5MlVsQUsxNDZwZGRHZjY5dHdLcGxDdGtGdlUyVnNZX1R3VmJJZGhPS3IybWxvZFd2OWtySms5QXlTM0FEdUkyVjNUYV9ZX0lPclZu?oc=5"
+      },
+      {
+        "category": "Competitive threat to DoorDash and Uber Eats in delivery space",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Walmart is leveraging its scale and existing customer base to compete directly with established delivery platforms (DoorDash, Uber Eats). This demonstrates Walmart's willingness to enter adjacent markets and disrupt competitors.",
+        "suggestedAction": "Monitor Walmart's competitive positioning if you serve delivery/logistics platforms. If you're a vendor to Walmart, understand how this expansion might shift their priorities and budget allocation.",
+        "sourceName": "Business Insider",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3lVTkZMbkVoTHItS2VwSS1WZ1Q2NkFGamF5V2JxdkFGX1Z3c0tzUmNDdy1YNk5oLVU4bS0zQ3haR0pFdFI1UTNkdzZrRFc1ZTRXclktdXNGQkVhandUclR4WmotTWNLMUN4TVJaXzI4eTFsSjBTUi1xT2hQRFM3bVJpeUk1cEtvU1hTOXlYYWdULTEwOGRkcg?oc=5"
+      }
+    ]
   }
 ]

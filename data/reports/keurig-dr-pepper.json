@@ -258,5 +258,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEY0Ykk3T1B6YTg4T1V0NE5NcEFlN3N0Q2lRT2dXN0FMSHlWN3BuN3NhdDZiMnVZS2EyWTRUdS16UUxvZVRlSmtEVTVSeGdKOTk2LUNxelFJWUxNZFVtc2tCSmVhcEpjWURIb2Q4WHc0NkRVNjgzSG51UExkRnRuanhRM1hmbzFGT1FSZXNNX09ualBiUjluVHd0V2xTNDc4T2RQVmxEM0F3cm1tR1NQQTFQNEdRYTVad2poSjRTTFhabGdJWU11MTZZVkxXNVloVlBJQjZUaG1ZT0xIN2VlM9IB5gFBVV95cUxNZjctdUltM25uRHJ2WlNDeDQwV0RFQmZsdGk0LXU5ZWdKVXE0MVlNRDd1YUV0cm5BSTJRNVRoN1ZKYzR3dGJleUdxMjNYMENFMGJrTC1fOXNQZ05wYVQtV1VRRmdVRmJXTmRERDJjZk9FdU5MajViZ0lOS3hzS1FPQ0NiTnJsRF82RU5TWUl6UVN5ZFozd0tkazZRYk5lZDJkeklXMXZnMHY5a3Z4d2IyZW5Pa1I2aDJsZ09oT3JLdXMyYnRoVkVLZ2ctZ2lxTFV6dnRjcDFhY2tZUUJacTFsZzhoN1VaZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-06T13:13:10.815Z",
+    "source": "daily",
+    "headline": "KDP Restructures Portfolio: Divests Chobani Stake and Pennsylvania Campus for $925M, Signals Financial Optimization",
+    "signals": [
+      {
+        "category": "Chobani Investment Exit",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Keurig Dr Pepper is selling back its equity stake in Chobani (valued at $800-925M) and its Pennsylvania manufacturing campus. This represents a significant portfolio restructuring and potential strategic pivot away from the yogurt/protein category.",
+        "suggestedAction": "Clarify KDP's revised strategic priorities post-divestment; assess whether this signals reduced focus on adjacent categories or internal cash needs that could impact vendor spending.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmtHQTlSb1prQ1FRdUJXd0xmU3c0OXRieEtraEZMTVZFVDZac0NwTnpRTy1QRmxQVnBzaVJfTWxxYWxfS1pfT241NlpMQXRYYTNaLUlIeV9yOGxPOEt6TUJCU20wbUF4VGNCV0hic3FEbXJHVGJuOVY0bkEzU0xGazRkNS1By2dyVEpLVGR2eFhYVmFZa3NseXRZb3FLQkNMLXRrNFhfcEpVeGFQS25tTWR3"
+      },
+      {
+        "category": "Enhanced Partnership with Chobani",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Despite the equity stake sale, KDP announced an 'enhanced partnership' with Chobani as part of advancing strategic priorities. This suggests continued commercial collaboration in distribution/co-innovation even without ownership, potentially opening new channels.",
+        "suggestedAction": "Explore whether the new partnership structure creates opportunities for vendor solutions around joint go-to-market, supply chain visibility, or shared retail operations.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09edHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
+      }
+    ]
   }
 ]

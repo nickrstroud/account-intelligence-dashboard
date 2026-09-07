@@ -366,5 +366,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3VLdGljaDcwZW5MQnNadWNNSW5GMHU0Znd2S0VTSlYzQ050Yjk4dk5FN1B2R0g0WTJSbHU4TlBFZW9WTGtrMVAwM01WOVVQeVItbXNMUG5kZ2dVOGRQRFBpekVMSU1EdzV0ek1oOGhUdy1idlJLLXR1eFB4Z1Nsc3pnTElWRGdWRFg5aXRUV21tbTJ0eWlTcVBNbUJkN2fSAbMBQVVfeXFMTkFOS1ZuRmUxSnk4X3R4dmExNjEwMzNQVkE4Ym41bTl2SVdZU0NqaHpaUXpwSjRBNDdBdDdkVGN2UG1IT2N0M1B3Q2JPY21WS1phWFBtbGtpY1k0cXJuTjNYNjdjLXAyMWI1YWJ2aDZCM0VyNmZBUHNjUE1uOVI4elpiV0NRcVhCOTZsa0ZULUYxWHJ5SnVXMTVORW5reDV2R05qRXVmdUZDQUU2aERMandnM0k?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-07T13:14:47.325Z",
+    "source": "daily",
+    "headline": "Coca-Cola UNITED capital expansion signals growth opportunity; unrelated geopolitical risk noted",
+    "signals": [
+      {
+        "category": "Capital Investment & Facility Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola UNITED investing $330-350M in new Birmingham campus, exceeding original investment and job creation targets. Major infrastructure commitment indicates business confidence and operational growth.",
+        "suggestedAction": "Engage on operational efficiency, supply chain, or facility management solutions that support expanded manufacturing/distribution capacity. Explore expanded footprint needs.",
+        "sourceName": "WBMA",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOS1aWGR2ckZxSUFGc3lOWURCSHMxRllldEdhaTF2Sm5LeUFZOFBfZFd2OERzOFNkamdRbExoMnNvT3hHVURJVmRpNS1MVjF4cmo2UHFGM0RMZlVsbGNIWUtfenBnTGE0ek5tbUE2dE9aNkNBQXFSQ2pZczhkUUdjbWNsN3I1OTBOVVdvYVhJeEFWekc0ZmJIWnBtdS1UX2luMzRpai1kNjFiZkFJQlFyMVJKX0VfNG5pcEplb3FUaEFLX0c5a0hOMHdKWGtBczlM"
+      },
+      {
+        "category": "Geopolitical Risk to Operations",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Russia struck a Coca-Cola factory; operational disruption risk in affected regions. Geopolitical tension may impact supply chain or international operations.",
+        "suggestedAction": "Monitor for business continuity/resilience needs in affected markets. Positioning around supply chain redundancy and crisis management tools may be relevant.",
+        "sourceName": "Newsweek",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm9MZjNVNmNka3ZuVkdkSDA5bG5wVWtOR094V1dka0tYbmZUY21FV2xycWFnLS1wSjR2SF9rOVhDOHE5d3RsZUctOFRUUkZiSU4zRVdHMzFkYmhxbmwyUzloUTh3T0prRmRvaDY3cVVMa2JzT09ZZ1laUFZucUJOYXRJUGo1bnBmem16SEpmR2JnVE9HeHByYnBnNnV0NmZUOXRVdVNoYw"
+      }
+    ]
   }
 ]

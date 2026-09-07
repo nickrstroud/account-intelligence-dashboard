@@ -507,5 +507,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlfWEN1STVHeGVzTHhQMzZBNlhwdkN2ZHo2UWR5Sm9vczZKUGpDMUI3MHhXd1FvT0UxUlFHWEhPWko2dkpmUWdaS3pSX3lkZHhZWVY5QkNEWjFkenB6R0QtdDIxLTRZbnl6SEFvNmFMRE9sSW8wRWNPNVozWTE3NV9vMENiLUV4S3lyb0ZVeEl1QWtob3NiYVlqUjhLQmk3bGp4VA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-07T13:16:21.770Z",
+    "source": "daily",
+    "headline": "Kroger faces DOJ beef price investigation and competitive pricing pressure; limited material account risk signals identified",
+    "signals": [
+      {
+        "category": "Antitrust and Regulatory Risk",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "DOJ has expanded beef price investigation to Kroger along with other major retailers (Walmart, Costco). Investigation into pricing practices could result in compliance costs, operational restrictions, or reputational damage affecting business momentum.",
+        "suggestedAction": "Monitor investigation progress; assess if Kroger faces resource constraints from legal/compliance efforts that could impact discretionary spending or project timelines.",
+        "sourceName": "ClickOnDetroit | WDIV Local 4",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2JCWU1pU2ZNSFlVWXB6bDVQc2ZzOWxXb3ZUdnVRV1Rxbk10VVdYWEpzU1hvWXdXR201dUpiUXJBa3UtY0QtS2ktNUpxYjlxZ2JIeTRNd1FQX2pTUF8zZTQ5UFNHREhRenJnSEtqOXV1VWJqTktjN2c4aGthS0VSVGZBWnBlQjhJNWNKNElGOFlSM1NpRklqTXhqZ3o5anhoY21ZaEMxbHV1elpkYTBJSHU1WFNRMVp4YXgxMTlxT0RaNExkWFEyWnpQNFBZTnFRUG12OTdzeWdOUnVrVm5mNThjN1J1Z1E?oc=5"
+      },
+      {
+        "category": "Market Pricing Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Kroger and other grocers facing pricing challenges and competitive pressure in the current retail environment. Broader margin pressure could impact profitability and capital allocation priorities.",
+        "suggestedAction": "Clarify with account stakeholders whether pricing pressures are driving cost-cutting initiatives or budget freezes that could affect vendor spending.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
+      }
+    ]
   }
 ]

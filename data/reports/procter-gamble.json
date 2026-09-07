@@ -330,5 +330,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTUtcFJ2Z0hDb1hWbFRXajA1R3U2Y1VWNWh4eDRGbl9xV3ZpWGROMlNZOW9JWVk2cFo4U3E4Q1RPbG9nWDRWRWF6U1ItX0dIZmExckZtYlNCZU55UXNqdkRDTjhCanVwelRESWM4M1B3YTltaW55eFJzS0lDd2pfNXJnV3NhOU03TjJWeU9wcnJBaFZMUmcxUVZ3OThxOEF6czJ5ZkwwcGhkR0h3RmloNTd5RzVwN1ZNRGlXbzlCRUpGUQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-07T13:15:32.759Z",
+    "source": "daily",
+    "headline": "P&G showing mixed signals: product innovation and brand partnerships offset consumer headwinds and dividend sustainability concerns",
+    "signals": [
+      {
+        "category": "Product Innovation & Brand Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G expanded the Tide Free & Gentle line for the first time in over 30 years, introducing a new Light Scented variant (Fresh & Gentle). This demonstrates active portfolio innovation and brand-line extension strategy.",
+        "suggestedAction": "Recognize P&G's continued commitment to product development; explore if your solutions support their innovation pipeline or supply chain for new SKU launches.",
+        "sourceName": "us.pg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTW85UDZ2Y2dSTjRmV2xLcW1XYU50cV9VZ1B0YkQyeDN6UUpNdjQ4VXM0bV9kNmMyU3UzR2wtWW0wcUtON1ZGalZaUzZUNU9CT1VtNU9hUURYNXZKa0R4NldIZktBSWpxaXllNGJUb093dFJ0cVBIQnNESkl4VjBrajV1RllRRjVEZzFqS3FsMUVBdmdYLTZ2Mm1rTk5uQnEwbHUzSEt4MDFVbkg3SWdaS0FTcGJrSkZ4bjFWaU1mS1Utd2ItbW1Qa0hFYlpQUm8xeElZMkgzRy1ZMzg3c0tBcURSRW9udUNFeXFmTA"
+      },
+      {
+        "category": "Strategic Partnership & Brand Presence",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G named Official Partner of USA Basketball Women's National Team, demonstrating continued investment in high-profile sports marketing and brand visibility initiatives.",
+        "suggestedAction": "Note P&G's active brand-building agenda through strategic partnerships; consider discussing any marketing or sponsorship-related services your company offers.",
+        "sourceName": "USA Basketball",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnVhNGVjeS1DSHRYdng4R3QySm04MlpiQlRHaG9JZ1RDbmpfVFlFRXA3a01jX0hWR3VVV0taZnlkT1NsQzZHVFk0WWFGRzl5NFV4eUQzbFRkVDRpbUFxSkxsc1VuNkFnNUJBTVlHUnZwTmJrRlJQbGxBTTZUUnZ5eU1SS0lWUW44LVpuQTh0a3lYM2YxeFNDTmJOSjh1Y0lWcU9PYVJiOEh6VDA4VnE0"
+      },
+      {
+        "category": "Consumer Demand & Market Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Multiple articles highlight P&G facing 'a new consumer reality' and addressable headwinds in the consumer market, raising questions about dividend sustainability amid slowing growth.",
+        "suggestedAction": "Monitor P&G's Q4 earnings and forward guidance closely; budget cycles may tighten. Position any cost-optimization or efficiency solutions proactively.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFFlNElHYlFUNzlVRXF3OUhSdFJkRUV6SkVrUDJvV2VROU0wQVUyemNuMWRKY3dTTnlkbE5YVTV6RjFmWU56TVNKS2oyclUyb3RVSHpZWXJDRDNDTWxXWTFrYkhlU0RrazJCaFM1Y0xrNzdxckxpNWUxY1ZNbnQ5cVNZb3M5M1FtWEFOMGxNVWQyWVA3YnpqUEI4U0ExQW0zaHJTYnF3"
+      }
+    ]
   }
 ]

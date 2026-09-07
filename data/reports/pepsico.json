@@ -491,5 +491,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmNpNm9hUjR5UlkwQlM1MkNKbzgxMTdZVF9tUUFNVkd3ZXlBb1YxNjdsX0VLalZ6UXZCRFBlY1BHUS1QLXJPNU5XdUVsNkVwQUlWa3A4T2E2UWxWTVBxRGtjMHkwLUl3Vk0wZ0NpcGViRUN6SjBzZ2QwbUhzcUhrTlE0cEl1SHNRM24xWVFmeVdQN1Y4ZGZJRg"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-07T13:15:04.145Z",
+    "source": "daily",
+    "headline": "PepsiCo pursuing strategic expansion and marketing transformation amid solid financial positioning",
+    "signals": [
+      {
+        "category": "Infrastructure & Distribution Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo announced plans for a new Frito-Lay distribution warehouse near Sonoma County airport, indicating capital investment in supply chain infrastructure and market expansion.",
+        "suggestedAction": "Discuss distribution logistics requirements and any products/services that support warehouse operations, supply chain efficiency, or inventory management.",
+        "sourceName": "The Press Democrat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHk2dEYwc1NVbGQ3eEVTZnJTU01FSTZFUVhac1RWN0hFbHZ5VndxNlVTWmo4ZmtQcXZKZXpFODBmNlhiTFJYYmNDVXl6aXEyT3FmeXYxWXFPX1JvUno2d2ZPaTh4YWJHMUljak04OTJlV0RqUDRiZGZ1ck9QdEhlOEFpQkw5RnI0X1RXUFZyOFV3LXhqY1BwQWxGc2c1OHhyb19yXzRHbm1VWXVrV0xqM0pISFdYRFBqZnFsTQ"
+      },
+      {
+        "category": "Marketing & Media Leadership Change",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "PepsiCo handed global media responsibilities to Publicis, indicating a significant shift in marketing partnership and potentially affecting relationships with existing media/marketing vendor stack.",
+        "suggestedAction": "Assess impact on current marketing/media vendor relationships; identify cross-sell opportunities with Publicis-managed marketing initiatives or gaps left by media transition.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTV6SDdiNUFCT1BEM2dqaFVRRy1nNXVSR0hwdVQ4QV90SVAyY3Z4RUZZY3AwbjlSM2hiZklyZ3B1ZkRBS2JPOU0zenJJaWhEdEVkRzdWYWdCT3ZHSHFHRlFGQ1hmNE9zNXp2enh2T1Z3Vm1pZmVHSkpPTzBLR0xKSGVnblF1VlFqUTJiTnZmVjRCNFFIS01qSGI0YzVkejZkaEJEZmM1ZGlmWlRsU1hzb210UEs"
+      },
+      {
+        "category": "Product Innovation & Brand Repositioning",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is executing a strategic remake of the Gatorade brand, indicating continued investment in premium product lines and market repositioning efforts.",
+        "suggestedAction": "Explore opportunities to support Gatorade's innovation pipeline—packaging, testing, regulatory compliance, or go-to-market enablement tools.",
+        "sourceName": "Financial Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXRWOEZrZURfZm03VEVvcExwZTBVdFR3RmlDOXEtQXN6V3VCdHlZR0hpVlZJOVdHYl9leHBXbG9qeFZKUThUTHNjdnBra19aWTIwY2JqcTVwaklPLUpuTWV1dXo0WGR6TXY4Mm9Sc2dSQU1mdVY2cXRVOUhNU0ZGOGg1Nks"
+      }
+    ]
   }
 ]

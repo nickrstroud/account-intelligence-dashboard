@@ -199,5 +199,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZnMldydHdFajRkS3p5SlVpSnVUV3Jha2FMM0ZyNlVKa2d2d1g0Wmt2OUVvYi05VnRoeGxKRVczRUkxTkloOGltSWh2UWxwUlFxbG95anNVQmViM044b1ZMQVh4UkZWX0NTdTA2bmgzQzlIalFoWHJKc3pRSnNEdDZnOTBIaGhVUlpSZGI5Zmd0a0RySndyc1VMT1ZWSHoyXzZuLUwwVGRhclhQY3JiZG9ROGRCWFd5ZFU5RGllbHc"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-07T13:16:05.230Z",
+    "source": "daily",
+    "headline": "Target shows strong earnings recovery and stock momentum; Saudi Central Bank stake signals investor confidence",
+    "signals": [
+      {
+        "category": "Earnings & Guidance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target reported Q2 2026 earnings and boosted sales outlook, indicating strong recovery efforts gaining ground",
+        "suggestedAction": "Use positive earnings momentum as rapport-building talking point; explore if Target is investing in operational efficiency tools or digital transformation as part of recovery",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRBMnVEYVVtNmJPV1paelNXWUZ2Uk1lckhQV3NBQlBqVmpxNENmektPbDRCcUdkQzJFdE8wajVnQnl0UGNrMlUyYWhQZGRXVXlRZzlKM2lQZDNBUmNPTVdVSkNfSzVUUVMybmlLWUcyTHZ5VWMxUDExa0lZZW1pLUNDdFo1X29KU2FvY05PN0VwVV8xX1ZCZnVyQU5IQ1Y3Q3RDZy12ekdCQQ"
+      },
+      {
+        "category": "Stock Performance & Market Confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Target stock outperforming sector, reached 52-week high, and Saudi Central Bank acquired shares—signals strong market confidence and positive momentum",
+        "suggestedAction": "Leverage positive market sentiment in account conversations; position vendor solutions as enabling continued operational excellence and customer engagement",
+        "sourceName": "MarketBeat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzY5RFBoUjItMEhvQ29BVFc1VnBEZU1vS3JpV1JrdVYzSERBcXYxemhNY1QzYUVHM2d4SWdQWThZeEkzV3pJcTB5b3RmT29ObzRLUkRuOUhCVm1CY1ZKSTRXN1ZjejkySW5NYUdZa2V5Rjk3NkMtaWVNMzJVS0cyaVdfQUF5a3ZhWWtUTXlmRExQTWNlNE9maHp1b2NJSU9HSWVxS2FucGNKclVMREpRZmZtOGY3TGY1SHJMNnBR"
+      }
+    ]
   }
 ]

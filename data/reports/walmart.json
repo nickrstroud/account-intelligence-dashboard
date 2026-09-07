@@ -319,5 +319,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3lVTkZMbkVoTHItS2VwSS1WZ1Q2NkFGamF5V2JxdkFGX1Z3c0tzUmNDdy1YNk5oLVU4bS0zQ3haR0pFdFI1UTNkdzZrRFc1ZTRXclktdXNGQkVhandUclR4WmotTWNLMUN4TVJaXzI4eTFsSjBTUi1xT2hQRFM3bVJpeUk1cEtvU1hTOXlYYWdULTEwOGRkcg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-07T13:15:48.359Z",
+    "source": "daily",
+    "headline": "Walmart expands delivery services and manages product quality issues; mixed operational signals",
+    "signals": [
+      {
+        "category": "Business Expansion - Delivery Services",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is expanding into food delivery (donuts, coffee, sandwiches) and moving into the DoorDash/Uber Eats competitive space, indicating new business line development and growth in digital/logistics capabilities.",
+        "suggestedAction": "Identify opportunities to support Walmart's expanded delivery infrastructure and food fulfillment operations; consider how your services could enable their DoorDash/Uber Eats competitive strategy.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenNvT2xaSjVjWG1QMzk2UFI2X2xfX0pQU0NyOVQ2Nk5Ccm1BRXVuWDVYQ3pERVk0eTZkdW5TMEV0aXcxRFF2dW0xY2d6X2ltWmxwVDh3ODNLbUZpWmk0Nk9XRWVCaUIySFpOMVczWlJaU3liUmJmcW9lUTZnNGlUSkQ1alN1TUNTdFRfTUgtZ9IBlAFBVV95cUxPR21DOTRJRHFUUjk3SnA3S3VqZllLZDBVLXFMcWM0Q2I3STZCOHp1Qm0ySGRUR3lQSzh4RmVlSXhwSU5YOTc5U2F5MlVsQUsxNDZwZGRHZjY5dHdLcGxDdGtGdlUyVnNZX1R3VmJJZGhPS3IybWxvZFd2OWtySms5QXlTM0FEdUkyVjNUYV9ZX0lPclZu"
+      },
+      {
+        "category": "Product Quality & Safety - E. Coli Recall",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Walmart is managing multiple product recalls including an expanding E. coli outbreak in frozen blueberries and mixed berry packages across 16 states, plus other product recalls. While a supply chain issue rather than a company failure, this represents regulatory/legal exposure and potential reputational risk.",
+        "suggestedAction": "Monitor for impacts on Walmart's supply chain operations, quality assurance, or vendor management processes; be prepared to discuss business continuity and compliance support if relevant to your offerings.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVZqX3lLeWd2aFhkS0YxMkdDc3NRZFlzQldjOXpSVURzSDNqRENDVVRiY0JsS2d1NjRXX2E0bE0zNWtHMDl4VUg5YVVsMFBland5em5KTDNrY1VIX0VtejM3NFBmWmRPZl93MFJ5QlBaNkZXMGxQNWFzdldyZkh6QV84WGtVUXZJYkYyejd4aHhsQ2JyNWQ3QnZHOW1VbkNpWjlqUTZjSGIxQ1duWHRJdW54ajhDNWZ2dGNWaW4wOV_SAcYBQVV95cUxNTQ0TW8tQmR3MmZDNE1PVHZ5M3UtYnYxeGQ4Y1hfWDQxQWx6WEYycW5SOGtXRVFjZjVINGpEZzhVa2JudTVxMERaa2QwVXF1c1o2NkpGcTgyMGgxN2EtSGtHeFhlcDRMaFA2MjRaZGRSUHFzem5ONFJBX082b3k4azE2eG5YM296akhyU1JNTThzSEV1RVljNUVqak1jWFNBRW5MZHZDQ2ZoM1NiNXlUWm1OYkJUS3FuLWJBOS1pdjZhR0NmSHdB"
+      }
+    ]
   }
 ]

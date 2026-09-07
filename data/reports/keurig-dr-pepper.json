@@ -284,5 +284,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09edHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-07T13:15:18.067Z",
+    "source": "daily",
+    "headline": "KDP executing portfolio rationalization and corporate restructuring ahead of planned split, selling Chobani stake and Pennsylvania campus for $925M",
+    "signals": [
+      {
+        "category": "Portfolio Divestiture & Asset Sale",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Keurig Dr Pepper is selling its equity stake in Chobani (valued at ~$800M) and a Pennsylvania manufacturing campus ($125M) totaling $925M. This represents a major portfolio cleanup action in preparation for an upcoming corporate split, indicating potential organizational contraction and asset liquidation.",
+        "suggestedAction": "Clarify if this divestiture impacts any active supplier relationships or service contracts at the Pennsylvania facility. Assess whether the post-split entity structure will alter budget authority or procurement processes.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmtHQTlSb1prQ1FRdUJXd0xmU3c0OXRieEtraEZMU1VWRDZZU0NwTnpRTy1QRmxQVnBzaVJfTWxxYWxfS1pfT241NlpMQXRYYTNaLUlIeV9yOGxPOEt6TUJCU20wbUF4VGNCV0hic3FEbXJHVGJuOVY0bkEzU0xGazRkNS1BY2dyVEpLVGR2eFhYVmFZa3NseXRZb3FLQkNMLXRrNFhfcEpVeGFQS25tTWR3"
+      },
+      {
+        "category": "Corporate Restructuring & Split Preparation",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "KDP is actively executing strategic priorities tied to a planned corporate split, including consolidating partnerships and cleaning up the balance sheet. This restructuring signals internal focus and potential procurement/budget volatility during transition.",
+        "suggestedAction": "Request clarity on split timeline and which business unit will house key decision-makers or procurement authority. Identify if either post-split entity will be a retained customer or if account will be split between two companies.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
+      }
+    ]
   }
 ]

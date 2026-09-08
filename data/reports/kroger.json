@@ -533,5 +533,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-08T13:16:47.962Z",
+    "source": "daily",
+    "headline": "Kroger leadership transition underway amid pricing challenges and internal restructuring",
+    "signals": [
+      {
+        "category": "Leadership and Organizational Change",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "New Kroger CEO has added a top executive team and is pursuing a turnaround strategy, signaling active leadership reorganization and potential strategic shifts",
+        "suggestedAction": "Confirm new leadership team composition and understand strategic priorities; assess impact on current vendor relationships and procurement strategies",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW5QSTNfLWVRZkR4bTFsbGo1SlRFbDdVMnk1M2JZcWZxRFpKUnBfd0FOZWV3akdlOG1IQnJ3aWQ1MXQtU2xCZ3JWdTM2X0xPMjRXdnZ0Rk41RVhqTHBObDNhT2hhNnVRM1hMcUxXemVleWstZlAycUFKeHhfVlBpWVNpU1IyZ0J4MlRkcmh4MnltSzZjVHFmYTFSZXN4Y0pFRjNYc21ZNGlWaWlIaDVnRGhycjc3SjNrbFRTeVJsT296TEE?oc=5"
+      },
+      {
+        "category": "Pricing and Competitive Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger facing pricing challenges alongside Publix and other regional competitors, suggesting potential margin pressure and competitive intensity in the retail grocery sector",
+        "suggestedAction": "Monitor Kroger's cost management initiatives and potential procurement strategy changes; assess whether they may shift vendor terms or consolidate suppliers",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
+      }
+    ]
   }
 ]

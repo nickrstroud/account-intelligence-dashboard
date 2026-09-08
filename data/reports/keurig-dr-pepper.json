@@ -310,5 +310,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-08T13:16:07.975Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper divesting Chobani stake and Pennsylvania facility for $925M to streamline portfolio ahead of strategic split",
+    "signals": [
+      {
+        "category": "Portfolio Divestiture & Asset Sale",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "KDP is selling its equity stake in Chobani (~$800M) and a Pennsylvania manufacturing facility to Chobani as part of strategic portfolio cleanup. This signals asset rationalization and balance sheet optimization, but does not directly impact vendor relationships or buying budgets.",
+        "suggestedAction": "Monitor for any organizational restructuring that may follow the asset sale; confirm continuity of vendor relationships and procurement practices post-transaction.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm"
+      }
+    ]
   }
 ]

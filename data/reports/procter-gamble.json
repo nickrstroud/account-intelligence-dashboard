@@ -365,5 +365,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFFlNElHYlFUNzlVRXF3OUhSdFJkRUV6SkVrUDJvV2VROU0wQVUyemNuMWRKY3dTTnlkbE5YVTV6RjFmWU56TVNKS2oyclUyb3RVSHpZWXJDRDNDTWxXWTFrYkhlU0RrazJCaFM1Y0xrNzdxckxpNWUxY1ZNbnQ5cVNZb3M5M1FtWEFOMGxNVWQyWVA3YnpqUEI4U0ExQW0zaHJTYnF3"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-08T13:16:18.918Z",
+    "source": "daily",
+    "headline": "P&G faces margin pressure amid consumer headwinds; brand partnerships and steady fundamentals provide limited relationship upside",
+    "signals": [
+      {
+        "category": "Financial Performance & Margin Pressure",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "P&G margins under pressure with concerns about cash flow valuation and consumer spending challenges ahead",
+        "suggestedAction": "Monitor Q3/Q4 guidance updates and margin trajectory; flag as potential budget-constrain scenario for vendor services",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEh4UlhJRjhJTDMwQWZWSHBPUGplUnNZMUMtYWxVdGxmWmdCLVRaanRHdzRRV0VWN05jNnBrLUg3aTZrUFQtdHBBX1lzWVNwTFdISGV3OVcyRVNucE1ORUFtd0NDa3h3dFlUQ2VoRG9LdG1PZFc3S3gtUEpGdWRuOVBmQTBVSnkwbmwxUXdyRkhjZUo0ZlBUOXhzbTYyeFhkbG9HcQ?oc=5"
+      },
+      {
+        "category": "Brand Partnership & Market Presence",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G named official partner of USA Basketball Women's National Team, expanding sports/cultural brand touchpoints",
+        "suggestedAction": "Use as rapport-building talking point; signal continued brand investment despite margin pressure; assess if partnership signals broader marketing budget resilience",
+        "sourceName": "USA Basketball",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnVhNGVjeS1DSHRYdng4R3QySm04MlpiQlRHaG9JZ1RDbmpfVFlFRXA3a01jX0hWR3VVV0taZnlkT1NsQzZHVFk0WWFGRzl5NFV4eUQzbFRkVDRpbUFxSkxsc1VuNkFnNUJBTVlHUnZwTmJrRlJQbGxBTTZUUnZ5eU1SS0lWUW44LVpuQTh0a3lYM2YxeFNDTmJOSjh1Y0lWcU9PYVJiOEh6VDA4VnE0?oc=5"
+      }
+    ]
   }
 ]

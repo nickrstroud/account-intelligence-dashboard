@@ -225,5 +225,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzY5RFBoUjItMEhvQ29BVFc1VnBEZU1vS3JpV1JrdVYzSERBcXYxemhNY1QzYUVHM2d4SWdQWThZeEkzV3pJcTB5b3RmT29ObzRLUkRuOUhCVm1CY1ZKSTRXN1ZjejkySW5NYUdZa2V5Rjk3NkMtaWVNMzJVS0cyaVdfQUF5a3ZhWWtUTXlmRExQTWNlNE9maHp1b2NJSU9HSWVxS2FucGNKclVMREpRZmZtOGY3TGY1SHJMNnBR"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-08T13:16:33.279Z",
+    "source": "daily",
+    "headline": "Target shows strong recovery momentum with boosted guidance and positive earnings beat; investor confidence recovering",
+    "signals": [
+      {
+        "category": "Financial Performance & Guidance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook and reported strong Q2 earnings with non-merchandise growth driving recovery efforts. Company demonstrating improved financial momentum.",
+        "suggestedAction": "Positive signal for account health and budget capacity. Consider this as a checkpoint for Q4 planning discussions—Target's recovery trajectory supports investment decisions.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "Investor Confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Multiple institutional investors (HighTower Advisors, Virginia Retirement Systems) taking positions in Target stock; company attracting renewed investor attention post-earnings.",
+        "suggestedAction": "Indicator of market confidence in Target's turnaround story. Suggests internal budget and hiring cycles may accelerate in H2 2026. Monitor for departmental expansion announcements.",
+        "sourceName": "MarketBeat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDBMdnRDb3BCRWdfQjE3UlVQWi1hMnJ5WXd4NnZsNWlfbkNnOE1XVEVYR2d3a3hNTGxVSjM2WVJ6Z25yU2dCVGVyMmJDRlp3SHB2N08xdGlvUzJQSmt4Uk9HTDhJaDN4VU5tRE5oSy0zdXgxZFEwSTlyMUVfajR3RW1kN0hWcWVqZHdmRTRSaXpaNGJUbk9ET1V4YS1wSThrZWZOaXpEYTB5dXlaLXNKT1F5WlhWQkljSUUwWHFYd2NrTTE3dkE"
+      }
+    ]
   }
 ]

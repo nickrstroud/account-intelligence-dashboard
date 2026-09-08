@@ -373,5 +373,12 @@
     "source": "daily",
     "headline": "Costco consumer content coverage — no material account relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-08T13:16:22.197Z",
+    "source": "daily",
+    "headline": "Costco news cycle focused on product marketing and consumer loyalty features; no material account relationship signals detected.",
+    "signals": []
   }
 ]

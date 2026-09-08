@@ -392,5 +392,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm9MZjNVNmNka3ZuVkdkSDA5bG5wVWtOR094V1dka0tYbmZUY21FV2xycWFnLS1wSjR2SF9rOVhDOHE5d3RsZUctOFRUUkZiSU4zRVdHMzFkYmhxbmwyUzloUTh3T0prRmRvaDY3cVVMa2JzT09ZZ1laUFZucUJOYXRJUGo1bnBmem16SEpmR2JnVE9HeHByYnBnNnV0NmZUOXRVdVNoYw"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-08T13:15:28.452Z",
+    "source": "daily",
+    "headline": "Coca-Cola facing competitive pressure and operational disruptions; limited account expansion signals",
+    "signals": [
+      {
+        "category": "Competitive Loss in Media Agency Relationship",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis withdrew from Coca-Cola media pitch after securing PepsiCo's global media business instead. This indicates competitive displacement by a rival in a key vendor relationship.",
+        "suggestedAction": "Review Coca-Cola's media and marketing vendor relationships; assess whether other agency/vendor relationships are at risk. Consider engagement on pricing, service quality, or strategic value proposition to retain or re-win share.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHpJUVZrZmJTbTJWLS1EQlRMZE5WVWxGbXlPMXRmZUhRdTdSVGYxNDh0d192WTVKUS1BeEVJZXdvWVJIUktjV296ZDJjZi03U1BzdjNocFRsZHBNcGFWNG1mQkRUOUVvcXVkQUNaeWZjSzEtbkN1NU8wbkxOQzFvYTRiaENWaUp5YVlZRTB2NHgxTWdDNWZQU25tNVdlblhqTVYyT1BNbw"
+      },
+      {
+        "category": "Operational Risk – War-Related Plant Disruption",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Russian attacks damaged a Coca-Cola manufacturing plant in Kyiv, injuring 13 workers and disrupting operations. This reflects geopolitical supply chain risk and operational vulnerability.",
+        "suggestedAction": "Monitor continuity of Coca-Cola's supply chain and operations in conflict-affected regions. Consider discussing business continuity plans and any impact on procurement or service demands.",
+        "sourceName": "The Kyiv Independent",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkdtZ3hDM3BYeXlnYk9pUUo4NGJTYm1CcloteGdkVHVXMXNvbi1zMHg0N3JVaG8wVWpBaVlzUDQyQUFtNmpXQXZkME93OHBGLUJJUW1ZU3dSUUxpMl9id2xzOFJXNmJYWm1tUjdmSHlsQzgwblNTY2ZkODZMa3pCSHhaT1NPaWt6ZFVTeTNEZXIyMF9vRVFKM3g0VlNXYWtibXAw"
+      }
+    ]
   }
 ]

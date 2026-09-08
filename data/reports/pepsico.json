@@ -526,5 +526,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXRWOEZrZURfZm03VEVvcExwZTBVdFR3RmlDOXEtQXN6V3VCdHlZR0hpVlZJOVdHYl9leHBXbG9qeFZKUThUTHNjdnBra19aWTIwY2JqcTVwaklPLUpuTWV1dXo0WGR6TXY4Mm9Sc2dSQU1mdVY2cXRVOUhNU0ZGOGg1Nks"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-08T13:16:02.801Z",
+    "source": "daily",
+    "headline": "PepsiCo navigating GLP-1 demand headwinds with strategic portfolio expansion and infrastructure investment",
+    "signals": [
+      {
+        "category": "Business model adaptation to health trends",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is proactively exploring new food categories in response to GLP-1 drug impact on snack demand, positioning for portfolio diversification and revenue resilience.",
+        "suggestedAction": "Explore solutions supporting product category expansion, reformulation efforts, or new market entry strategies; position offerings around health/wellness segment growth.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NGVy1TSW1SUzZVU2hpZXIydktyVTQ1X01TdG9lcVRIY3B4aFBjR3BmMXoxMWZqMEg0c3ZidW0ySDREcTFOeVRTYjRCQVQ3YjA5cG5wUm9fYkxDa29fRHdscGdWdG1rcl9NaWYxZW9Zd0dfYnFMT2lPTUY3QWFZM3dQRndjVlNWTXBacUhoZFpGdVBzV3Z4YnZpb0l0Zw?oc=5"
+      },
+      {
+        "category": "Brand repositioning effort (Gatorade)",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "PepsiCo is undertaking a strategic remake of Gatorade, suggesting brand/product evolution but no clear relationship impact yet.",
+        "suggestedAction": "Monitor for marketing/communications vendor changes; Gatorade reposition may create opportunities for brand strategy or campaign support services.",
+        "sourceName": "Financial Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXRWOEZrZURfZm03VEVvcExwZTBVdFR3RmlDOXEtQXN6V3VCdHlZR0hpVlZJOVdHYl9leHBXbG9qeFZKUThUTHNjdnBra19aWTIwY2JqcTVwaklPLUpuTWV1dXo0WGR6TXY4Mm9Sc2dSQU1mdVY2cXRVOUhNU0ZGOGg1Nks?oc=5"
+      },
+      {
+        "category": "Distribution network expansion (Frito-Lay)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is investing in new Frito-Lay distribution infrastructure near Sonoma County, indicating confidence in supply chain expansion and operational scaling.",
+        "suggestedAction": "Identify supply chain, logistics, or operations enablement opportunities; potential capex-related vendor engagement or operational efficiency initiatives.",
+        "sourceName": "The Mercury News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTk5BRnNYaXFhdWtmQmZvOXpoM1h3Mk9wbFpqaTRTLXRhbVhyUXBzZkFqNjk4Q20zMUl0Q3BsUjJOTkRra1NIWVZPekZLbG9DTlMzUUxVai1HZmZMRWo4VHNrTm9QY2x0YXVGcS1SdnJMdmFjdEFyNDNPdlJtb0JhbkdJZl8tMHRtSXYtdlFGenJUZFhDR1Y4UXVyQmFSdFpqVlVBOUZraVFEU2E3c3dCOW8wNmh4N2Z0dGfSAb8BQVVfeXFMTU0zOWRyMVN5QmY5WFZIanZkS3BCX091aVBHT04ydFZ1bzY0U1JTYVR4NDgxU2tuZDFrd2U0MDhEbkV2NG5hSF9OTG5vcU9yWk4xN0NtODhJT3RLZmFpOHZoUEl6YWZySkYyQXhkcFNIZWNGUTBnb0RIWG51eF9XZUpuR1dXX3VZUm4xeW5USm5uNEdhdFlLTzNEd1NCZWpoOWVXOV9jbXNGR1Rid05WT0ZBMmM0dURSZlhCN3Y5WDg?oc=5"
+      },
+      {
+        "category": "Stock performance decline amid market headwinds",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock is under pressure (5% drop noted), signaling market concern about demand/growth prospects that may impact customer confidence and budget priorities.",
+        "suggestedAction": "Be alert to potential budget constraints or procurement review cycles; emphasize value and ROI in sales conversations.",
+        "sourceName": "Campaign UK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2Q0U2pTTExsWWktYWZzNlFQTFVWdmFaWm1lOWJER0dfa1pkTjVXbFkwNVl3b3VFaFVUZUhqU2VTbUw4R25aVGN2VlR0UElrSnJBdU96TldrSWRKaE90R0pvUjF4bmVfdTJCUW9PWVlZQjloV05nekZ3LWxKSGozNXgwRmMwVHAteWtJQ094RGU5TTRvbjRnZFBzRnUxNXBrN3QwNHhiTmcxRlN2azd0RUJTc2J3X2c3UjVYZkZGRFMwYWhLMjBheVVvYTVlN1pvMGlxbzdfNWhlOXBUWEJwQ2FR?oc=5"
+      }
+    ]
   }
 ]

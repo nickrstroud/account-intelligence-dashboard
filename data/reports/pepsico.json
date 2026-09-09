@@ -570,5 +570,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2Q0U2pTTExsWWktYWZzNlFQTFVWdmFaWm1lOWJER0dfa1pkTjVXbFkwNVl3b3VFaFVUZUhqU2VTbUw4R25aVGN2VlR0UElrSnJBdU96TldrSWRKaE90R0pvUjF4bmVfdTJCUW9PWVlZQjloV05nekZ3LWxKSGozNXgwRmMwVHAteWtJQ094RGU5TTRvbjRnZFBzRnUxNXBrN3QwNHhiTmcxRlN2azd0RUJTc2J3X2c3UjVYZkZGRFMwYWhLMjBheVVvYTVlN1pvMGlxbzdfNWhlOXBUWEJwQ2FR?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-09T13:14:59.881Z",
+    "source": "daily",
+    "headline": "PepsiCo diversifying product portfolio and agency partnerships amid GLP-1 headwinds and market challenges",
+    "signals": [
+      {
+        "category": "Media Agency & Marketing Partnership",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "PepsiCo awarded media business to Publicis, signaling potential changes in marketing partnerships and vendor consolidation. This represents a competitive dynamic in the vendor ecosystem but may indicate willingness to engage new strategic partners.",
+        "suggestedAction": "Monitor for broader marketing/technology vendor changes at PepsiCo; assess if there are opportunities to integrate with their evolving agency partnerships or win adjacent roles.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDhxLTNXdlYtVEhmby1Gb3ZzWHRJVG5qOXViX3JEZEdUNktZRGxKVHFsZ2ZlRXplU2pHSmZEQ3l0MkZISWxLYTdyWnlJdlNQNDlTOFJNZC1sREwwMHVBM1M5TlhSOVQwMUw0MGw5d1FrRVhyTllwRi1iM0Q1VXNud1pfWWE3WUJHOEJ1aWVNMEZEdnpPZGI0MHVVTHg2aHFfRFE5WEdFb1FwbmIyTER6SUpmS05KTzQwYU5oeFVnMTkwaHlEUm5OTDVR?oc=5"
+      },
+      {
+        "category": "Product Portfolio Diversification",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is expanding into new food categories and shifting focus to fresh perimeter foods in response to GLP-1 drug market pressure reducing snack demand. This represents strategic business line expansion into adjacencies.",
+        "suggestedAction": "Identify opportunities to support PepsiCo's expansion into fresh/healthier categories—potential needs in supply chain, data analytics, regulatory compliance, or go-to-market for new product lines.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NGVy1TSW1SUzZVU2hpZXIydktyVTQ1X01TdG9lcVRIY3B4aFBjR3BmMXoxMWZqMEg0c3ZidW0ySDREcTFOeVRTYjRCQVQ3YjA5cG5wUm9fYkxDa29fRHdscGdWdG1rcl9NaWYxZW9Zd0dfYnFMT2lPTUY3QWFZM3dQRndjVlNWTXBacUhoZFpGdVBzV3Z4YnZpb0l0Zw?oc=5"
+      },
+      {
+        "category": "AI Transformation Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is actively engaging in AI transformation work and searching for partners to support this effort. This indicates investment in digital/AI capabilities and openness to vendor partnerships in this strategic domain.",
+        "suggestedAction": "If your solution touches AI, automation, or digital transformation, flag this as a potential business development opportunity. Monitor PepsiCo's RFP activity in AI/data analytics space.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDVZd1ZEY183NnZBTXNVLV9sU0o0WXdvTnpjeFc0NGY4MWlYX0RsY1RYbWl4d0pUeVo5TmtMVXFiWWZqUjZPYUxVZ1dTWVFmLXdUbnFUSEVKYXVNOVZMamRGbVpKdzdUcUVCSjE2T3R2ZzlrZlRvYlhJX3RfV1dUajR1cWU?oc=5"
+      },
+      {
+        "category": "Stock & Revenue Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock under pressure amid concerns about earnings and market headwinds (GLP-1 impact on snack consumption). This signals budget/buying cycle pressure but is not yet a critical relationship risk.",
+        "suggestedAction": "Expect potential cost-consciousness in procurement cycles. Emphasize ROI and cost-efficiency in any sales conversations; monitor for budget review announcements.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNakNRUXBuY19UbVdmbi1qMl9XQjZLZ0YzQi12REw5TGlGSjlZaFFURHRyU214NE15SXBtNEc3WXh1X1VqdWZ5N3k5bVlvTVlPTEp0M3N6czU0aVQzNjR1WUdMWmRFc3M0RFZvMkRUbEtCZmNFVHJkZGxXZGtGbkc1ZjhDRUhRRTB0eFpTdkxsWWtmNmtO?oc=5"
+      },
+      {
+        "category": "Employment Lawsuit",
+        "updateType": "legal",
+        "score": 0,
+        "summary": "PepsiCo facing a lawsuit regarding firing of a technician. This is an HR/employment law matter unrelated to account relationships or buying power.",
+        "suggestedAction": "Monitor for broader HR issues that could indicate internal disruption, but treat this as a lower priority signal unless it escalates.",
+        "sourceName": "hcamag.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGFXRTZEZ3RxNU1lc29uc20wNlhlRDY0OFVpV0R1SnJxYzhtYmtzaDllNTltWW1fLWFVcmNxYl94OTgyT3VFbmFTUnd4V3FoV3JpaDJGNVZTWXpQU2dCRWlwdVFPclFTUjZ0a01RZ3BXdnd1cmI0dXZ5SU4ySlIyQ2Y4dHBOWldzVW5xYWFjWXdFVDZ4YlNYQXNPSTY2Wjl5bkxBZXZHTy0yMlBRaEUyUVByU3VWUUZOUE1jeU1Hb1dUbEtrTWpacWVxWF8?oc=5"
+      }
+    ]
   }
 ]

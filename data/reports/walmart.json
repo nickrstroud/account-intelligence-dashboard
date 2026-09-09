@@ -352,5 +352,49 @@
     "source": "daily",
     "headline": "Walmart promotional activity and stock performance review; unrelated crime incidents present",
     "signals": []
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-09T13:15:58.170Z",
+    "source": "daily",
+    "headline": "Walmart shows mixed signals: store closures and food safety concerns offset by new Supercenter expansion",
+    "signals": [
+      {
+        "category": "Store Closure - Operational Risk",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Myrtle Beach Walmart store closure signals potential contraction or consolidation activity, though isolated to a single location. Suggests operational review and possible margin pressure in certain markets.",
+        "suggestedAction": "Monitor for broader closure patterns; assess if this reflects local market challenges or part of wider network optimization that could affect vendor footprint and purchasing volume.",
+        "sourceName": "Myrtle Beach Sun News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tLWN2VXV2cTNPZEZob2ZQZ0hOZzRXcTlCUTZBX2dkZFFJUkFjYThBU000ZWQ3c3MwZGtkX0R6OXpjVm9hSjBkUTJibTNlaDFQX2RoRm51TVpPTVhHaGF5aklfQXZVaky0NXQtZlJKdWs1VTZw0gF0QVVfeXFMUDlIVmtJOFl4ZENSMHJwWFpUY2c4bmk2ZlBpYzN1bzZ5MV8ycVFvajVkOWQyUkF6NzhJQjVJOVZ2bnloUUtYRnlqU2RNeHR1NzBXaU92VXAzTWdlbFdhRjg3Z2pXRy1mTi1wNVlpR2tqWEdmWEM?oc=5"
+      },
+      {
+        "category": "Food Safety Incident - Reputational Risk",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "E. coli recall for berries at North Carolina Walmart stores represents a food safety/brand incident. While product-specific and supplier-related rather than operational failure, it signals quality control vulnerabilities and potential customer trust impact.",
+        "suggestedAction": "Monitor for patterns in food safety incidents; assess if Walmart's supplier quality controls are tightening or if vendor compliance requirements may shift. Could prompt discussions on traceability and quality assurance processes.",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUJsa1Z2Z0VNZGRKa0ZMUW01Q2tCR3lWQVhwX2JLcjdPTG1MVmlkX3VkS2hCWEI5T0JuNlFCUHVSVE5QSWtaRFRIRk52NlNvUTZ2M0kxYWY2WE4wWTRhaGE3Tm9YdE1PRE9KUkwzOWpxdXp1Q1FSMTdfTlVuWTZVbnd6Ql9fVDhz?oc=5"
+      },
+      {
+        "category": "New Store Expansion - Growth Signal",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "First Walmart Supercenter in fast-growing Waukee, Iowa marks new market entry and format expansion. Supercenter model suggests increased complexity and broader product/service mix, creating potential vendor expansion opportunities.",
+        "suggestedAction": "Identify opportunities to support new Supercenter launch with expanded product portfolio, services, or solutions. New formats often signal readiness for vendor innovation pitches; confirm launch timeline and category needs.",
+        "sourceName": "The Des Moines Register",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEF4Zm8wLW5kWGFrN1YySE9OUnJPem1EbElmU3pJZFFmYWdHWlVHUU5JY1RPWEdGbjRFQ3RXOWFfcFVFUHZfeG5RMG1tZGhvMlVqOGN4ZUtUd1FibHlJOHFqOThSdk5YRzZYc29lMGJTbF9zOWFwREJxal9hWDl2Qnp0dFVDdVFtSFY5b1FGSXdPNHlxYmNqMEU5WFZWa2ttb2RKNzRjLUdlUHJBdlc3SENSeVFpc2NNVy03bUYxTy11SlYxV2JxYXV3?oc=5"
+      },
+      {
+        "category": "New Store Opening - Geographic Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Flagler Landings Walmart in Palm Coast, Florida approved and moving forward. Represents continued geographic expansion in growing market, signaling ongoing capital investment in real estate and new location setup.",
+        "suggestedAction": "Qualify for new store opening support needs (fixtures, systems, initial inventory, etc.); contact regional buyer for Flagler Landings project to explore launch vendor opportunities.",
+        "sourceName": "Observer Local News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR0M5ZWNGcVQ4ZUdlYWR2QUlOQVk1dEdjbXRrNEJ2aDExVks4Z211Q3FpaWN0ZUk4ZjBXeUIzeW80d3JrYlZweUNLXzd3dWRTRUFFMG1COEJsMllFNjhMd2IzU3ZGRXVjWVpBV19DR2VKV3NJQkpyV29ZUTZsVGc0QnZRYnZyME9OSjJ2RHJkMjJmRGNyMUlvLXFnaW9ab1RQZDdGRTgwUC1XNV9KVHI4NkdrVi03N3c4cXNSRzhhY3N1Z2h4cGhsSy1ZRQ?oc=5"
+      }
+    ]
   }
 ]

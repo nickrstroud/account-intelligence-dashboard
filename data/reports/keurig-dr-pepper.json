@@ -327,5 +327,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-09T13:15:18.444Z",
+    "source": "daily",
+    "headline": "KDP divests Chobani stake & restructures ahead of strategic split; mixed signals on portfolio optimization vs. market underperformance",
+    "signals": [
+      {
+        "category": "Portfolio Divestiture",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Keurig Dr Pepper sold its equity stake in Chobani for $800 million, reducing portfolio complexity ahead of planned corporate split. This is a strategic capital optimization move.",
+        "suggestedAction": "Understand which business unit (coffee/beverages vs. other) will own customer relationships post-split; confirm continuity of vendor relationships across both entities.",
+        "sourceName": "D Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEZZaUg5bk02RTZZNHF2bUQtUXFpYnlUQ3JOMkNuYmkzUzBuWTVyMVNXUVQ5TTRmMGpIeEF6R25QYmNrTnNFd3A4Z0d5Q3FJejRVS2dzd2hTOXRtWkZ3WDAtSnM1OEYtSUlVMEQ3Sl9BNF9VMWJmV3NQSE9vTWg2SXlOVzZVRXVoYjVFVDZ6TjhYNjNEMGc?"
+      },
+      {
+        "category": "Strategic Restructuring",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "KDP is cleaning up its balance sheet and divesting non-core positions (Chobani stake) in advance of a planned corporate split, suggesting internal reorganization of business units.",
+        "suggestedAction": "Determine timing and structure of the split; identify which entity will be the primary contact for account management and which business lines each will retain.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHBjb0lZMUhlaTduMlZlNzJHNExZS3R2T2NXc1JxbFd6N3JwQm1WVWNxSS1KNjRnYU5GcVJFS1V3UUZOMW8yM3lwRTlLbmNrS1Q1ZHlBX2ZiQTk3cmJGaktnU3BRdHJlY1RKLUFxOUgyVEJXd1h2TVJZVnlxNUJKS01JMWFZRU8td0hKRmRZUmlSOWdtR3hz?"
+      },
+      {
+        "category": "Stock Performance Weakness",
+        "updateType": "market",
+        "score": -1,
+        "summary": "KDP stock is underperforming the S&P 500, suggesting investor concerns about valuation or forward guidance.",
+        "suggestedAction": "Monitor investor communications and earnings calls for any signals about budget pressure or strategic changes affecting customer spending.",
+        "sourceName": "Barchart.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEVvaVhOdWFXdGdGVlZ0YnF1WURkVVI2TUZidWZDXzA2Smd2cUJSY1QxYlkzamx0V3Z3dTk0TFJ6c2Z2RXhMcThpVFhOaWU1NUdjR2RrNEpaMHAzNHVGbTlGeGdvT0pTNzRjeUl1MFhnZU0zTmRNdzJoX2x5LUlmRnd0cGQ4WXU3TmppdlVERkRxbkVyUGpwYm5tNUtoZw?"
+      },
+      {
+        "category": "Executive Stock Transaction",
+        "updateType": "market",
+        "score": -1,
+        "summary": "A KDP executive has initiated stock sale plans through JPMorgan, which may signal insider skepticism about near-term stock performance.",
+        "suggestedAction": "Track any additional insider selling; assess whether this reflects confidence issues that could impact budget allocation or strategy changes.",
+        "sourceName": "Stock Titan",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW9BaFBlOVVLcU94WDJlWFo0YXR5ek9SeGlwLS15ckJkakhVX2hXLUxPek1WZWZlTWtrSWRXOVBYU3otNWZENUFsdmFUVTByWFJ4VFlMejJJSmhQMXFuR21rUGhRNEpiUGY3b0M4dmNDOThtR3k1XzREWEd5NlpGSG9udkktZHNoOTNBa3pGdzNfc3p4VDNxeUxoNzc?"
+      },
+      {
+        "category": "Enhanced Chobani Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Despite the equity stake divestiture, KDP announced an 'enhanced partnership' with Chobani, suggesting continued commercial collaboration and distribution opportunities.",
+        "suggestedAction": "Clarify the nature of the enhanced partnership (distribution, co-packing, marketing); assess whether there are new product/channel opportunities tied to this arrangement.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?"
+      }
+    ]
   }
 ]

@@ -559,5 +559,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhwaUM5QURpRVYxZi00WmdEaS0ydV9QY3JBQllJWnBOZTZQSHg1MVFFcWczaUNhTGdYak5yLWNtb3FucTYyLVQ2a0JPUVpfWDBlb01BYWVPWmZUekdCNk5fbG1HSndRdkZMQjVaNjRLUUZVVGNHRnNoNzlwQ2Z3aWEwck5NRTBndHpTTHdJOEQtemxEVEd0M3ZQcw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-09T13:16:33.963Z",
+    "source": "daily",
+    "headline": "Kroger leadership restructuring and strategic positioning amid turnaround effort",
+    "signals": [
+      {
+        "category": "Leadership and Executive Team Changes",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "New Kroger CEO is building out a top executive team and signaling a turnaround strategy. This represents organizational restructuring at the leadership level with potential implications for vendor relationships and procurement priorities.",
+        "suggestedAction": "Schedule stakeholder meeting with new leadership team to understand strategic priorities and ensure vendor alignment with turnaround objectives; reassess existing contract terms and service offerings against new leadership's goals.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW5QSTNfLWVRZkR4bTFsbGo1SlRFbDdVMnk1M2JZcWZxRFpKUnBfd0FOZWV3akdlOG1IQnJ3aWQ1MXQtU2xCZ3JWdTM2X0xPMjRXdnZ0Rk41RVhqTHBObDNhT2hhNnVRM1hMcUxXemVleWstZlAycUFKeHhfVlBpWVNpU1IyZ0J4MlRkcmh4MnltSzZjVHFmYTFSZXN4Y0pFRjNYc21ZNGlWaWlIaDVnRGhycjc3SjNrbFRTeVJsT296TEE"
+      }
+    ]
   }
 ]

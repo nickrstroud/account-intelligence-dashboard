@@ -251,5 +251,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDBMdnRDb3BCRWdfQjE3UlVQWi1hMnJ5WXd4NnZsNWlfbkNnOE1XVEVYR2d3a3hNTGxVSjM2WVJ6Z25yU2dCVGVyMmJDRlp3SHB2N08xdGlvUzJQSmt4Uk9HTDhJaDN4VU5tRE5oSy0zdXgxZFEwSTlyMUVfajR3RW1kN0hWcWVqZHdmRTRSaXpaNGJUbk9ET1V4YS1wSThrZWZOaXpEYTB5dXlaLXNKT1F5WlhWQkljSUUwWHFYd2NrTTE3dkE"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-09T13:16:24.427Z",
+    "source": "daily",
+    "headline": "Target strengthens retail footprint via new beauty distribution partnership and positive investor sentiment",
+    "signals": [
+      {
+        "category": "New retail partnership / category expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Wella Company U.S. entered a distribution agreement with Target for four iconic haircare brands, expanding Target's beauty and personal care portfolio",
+        "suggestedAction": "Investigate if this haircare distribution deal creates new opportunities for selling services or tools related to beauty/personal care category management at Target",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWhIa3MwSktibVZsTEhvYjZEZkhUWWlvUWNOWWdTWU16SDRJY0ZNMlNqby1Oa1VOaWNCWFNoOUQ2VjRSN182MjdkY1k3bmlkamZDRU1aaGNWWUpHQ2NFWm5FSnc0Z2ZMMXE1U0l2eTNiNFBBNV9LLWpSMTktemJsOHZ6NmthMnlCWkY3VnpyU1FHZE41eTVlOTY2NVZwUlh5alBqdloyU2V4NC1vekZyLXJxVEVZMTRFWU5HdUNIVXJpVTN3Qy1hZ0tnVkFBUkhrZWgydUM2dDZ3ZFFZNjdrUUw3c0hZZms"
+      },
+      {
+        "category": "Revenue & guidance improvement",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook as recovery efforts gain ground, signaling strengthening business momentum and improved financial performance",
+        "suggestedAction": "Reference Target's improving financial trajectory in renewal/expansion conversations; positive cash flow may increase budget availability",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      }
+    ]
   }
 ]

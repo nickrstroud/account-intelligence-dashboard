@@ -391,5 +391,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnVhNGVjeS1DSHRYdng4R3QySm04MlpiQlRHaG9JZ1RDbmpfVFlFRXA3a01jX0hWR3VVV0taZnlkT1NsQzZHVFk0WWFGRzl5NFV4eUQzbFRkVDRpbUFxSkxsc1VuNkFnNUJBTVlHUnZwTmJrRlJQbGxBTTZUUnZ5eU1SS0lWUW44LVpuQTh0a3lYM2YxeFNDTmJOSjh1Y0lWcU9PYVJiOEh6VDA4VnE0?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-09T13:15:30.048Z",
+    "source": "daily",
+    "headline": "P&G pursuing $3.8B wellness expansion while managing cost pressures; CEO compensation increased; routine investor sentiment commentary",
+    "signals": [
+      {
+        "category": "Strategic Capital Deployment in Wellness",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is investing $3.8 billion in wellness initiatives, indicating expansion into new business lines and potential new categories for vendor engagement.",
+        "suggestedAction": "Identify opportunities to support P&G's wellness expansion strategy; explore how current/new solutions can address wellness-related needs in manufacturing, supply chain, or brand operations.",
+        "sourceName": "TIKR.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWW15N2hoaE1lWUFfemNkWFdPQmZKS2FVX0dFdGJWWlpnLV9tcVdnekpjY20wYU9uSGk3aHd5TldMVHczRUVDdW9ySXUtQTMyR2E4RnRBX3ZNUlV0aW9CVUluVS1Hd0JzaUNLbXJfTGpMZEVLN3VuYXA5ZkVPZTZ0dWpTc1VzcFh6dFZhNUdhNTJnbjdDRThfYWNEdU9mZjNvQnE5Uy01d0U"
+      },
+      {
+        "category": "CEO Leadership Compensation & Confidence",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "P&G CEO received a substantial pay increase, signaling board confidence in leadership continuity and strategic direction, but unclear account-relationship impact.",
+        "suggestedAction": "Monitor for any leadership strategy shifts that could affect procurement priorities or vendor relationships; use as positive rapport context if appropriate.",
+        "sourceName": "bizjournals.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2RfU1F2RW5GdWZ6QWl3SWVZRGRZRWtjT05BS081Q1ZHbUswaGVXTkJHbG9FdkxNcHk5c0MyTkxKTlNBQkRwWHlRS1VpbHp4MXRjb3ZsMVJDcWJMTy1MUGxyTEJ3blZmWW1MRWNHU25Na0pQUnQxaldYcURIdGJDWjJpaDUxSnZNdE04U19haURCcHZZQ18tZk5jbUNDdm5fcUJURGNNaEFxYnJsTnc"
+      }
+    ]
   }
 ]

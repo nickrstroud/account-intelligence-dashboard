@@ -418,5 +418,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkdtZ3hDM3BYeXlnYk9pUUo4NGJTYm1CcloteGdkVHVXMXNvbi1zMHg0N3JVaG8wVWpBaVlzUDQyQUFtNmpXQXZkME93OHBGLUJJUW1ZU3dSUUxpMl9id2xzOFJXNmJYWm1tUjdmSHlsQzgwblNTY2ZkODZMa3pCSHhaT1NPaWt6ZFVTeTNEZXIyMF9vRVFKM3g0VlNXYWtibXAw"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-09T13:14:27.396Z",
+    "source": "daily",
+    "headline": "Coca-Cola faces competitive media agency pressure from PepsiCo win, but maintains strong financial momentum and dividend growth",
+    "signals": [
+      {
+        "category": "Media Agency Competition",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis won PepsiCo's media business, prompting Coca-Cola to review its North America media strategy. This signals potential competitive pressure and possible vendor consolidation activity.",
+        "suggestedAction": "Monitor Coca-Cola's media agency RFP process and outcomes; assess if this competitive loss impacts broader marketing technology or services relationships.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDhxLTNXdlYtVEhmby1Gb3ZzWHRJVG5qOXViX3JEZEdUNktZRGxKVHFsZ2ZlRXplU2pHSmZEQ3l0MkZISWxLYTdyWnlJdlNQNDlTOFJNZC1sREwwMHVBM1M5TlhSOVQwMUw0MGw5d1FrRVhyTllwRi1iM0Q1VXNud1pfWWE3WUJHOEJ1aWVNMEZEdnpPZGI0MHVVTHg2aHFfRFE5WEdFb1FwbmIyTER6SUpmS05KTzQwYU5oeFVnMTkwaHlEUm5OTDVR?oc=5"
+      },
+      {
+        "category": "Financial Performance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Coca-Cola stock up 26% in 2026, near all-time highs, and announced its 64th consecutive year of dividend increases. Strong financial performance signals healthy business momentum.",
+        "suggestedAction": "Position this as expansion/investment conversation opportunity; customer has strong financial position to fund new initiatives or increase spending.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkRIbGxhekhxVW9rQklHem1WcFJWWjVfelFnbk1wX1VLMWtUV0lFeXZ2TVFBdDBvX213VTRya3ZXMy1WZ2d2N2ZiVW5OSlpiNUZpcFRaM0Y4VFNGNEpSbUFzMDV0ME1UbmJKWUJidWdnS3QtMGpTcU5pdVF4T1FtdWktUkdPZDhPLTd6OFg1bjgycC1tVWRF?oc=5"
+      }
+    ]
   }
 ]

@@ -576,5 +576,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW5QSTNfLWVRZkR4bTFsbGo1SlRFbDdVMnk1M2JZcWZxRFpKUnBfd0FOZWV3akdlOG1IQnJ3aWQ1MXQtU2xCZ3JWdTM2X0xPMjRXdnZ0Rk41RVhqTHBObDNhT2hhNnVRM1hMcUxXemVleWstZlAycUFKeHhfVlBpWVNpU1IyZ0J4MlRkcmh4MnltSzZjVHFmYTFSZXN4Y0pFRjNYc21ZNGlWaWlIaDVnRGhycjc3SjNrbFRTeVJsT296TEE"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-10T13:15:07.619Z",
+    "source": "daily",
+    "headline": "New CEO leadership transition and competitive repositioning against Amazon/Walmart; opioid litigation dismissed",
+    "signals": [
+      {
+        "category": "Leadership Change - New CEO Building Exec Team",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Kroger appointed a new CEO who is building a top exec team and explicitly aiming for a turnaround. This signals internal leadership restructuring but presents a re-engagement opportunity with the new regime.",
+        "suggestedAction": "Schedule introductory meeting with new CEO's office and exec team to understand strategic priorities and positioning relative to our solutions",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW5QSTNfLWVRZkR4bTFsbGo1SlRFbDdVMnk1M2JZcWZxRFpKUnBfd0FOZWV3akdlOG1IQnJ3aWQ1MXQtU2xCZ3JWdTM2X0xPMjRXdnZ0Rk41RVhqTHBObDNhT2hhNnVRM1hMcUxXemVleWstZlAycUFKeHhfVlBpWVNpWVIyZ0J4MlRkcmh4MnltSzZjVHFmYTFSZXN4Y0pFRjNYc21ZNGlWaWlIaDVnRGhycjc3SjNrbFRTeVJsT296TEE"
+      },
+      {
+        "category": "Competitive Pressure - Positioning Against Amazon & Walmart",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger and Albertsons are explicitly making key strategic moves to compete with Amazon and Walmart. This signals heightened competitive pressure and potential budget reallocation toward competing solutions.",
+        "suggestedAction": "Assess whether our solution aligns with their Amazon/Walmart competitive positioning; identify potential gaps or overlaps in their strategy",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzBEeWJucWhUaHhGdTItVU9qODJFQ1l0ekVlZnNHQThBcnpPNlhiNFlXSEozdDVxQWZtck5NUzE4SjlLUW9BOU8xVk1qdU9TRHNGcEFoRkFPa2E2a2VQRl9zX0UyTHNPQmdJRDhlQUE5Y2hxVGtXdUlWSGowTXdBaFRwNWZSSWV3bUtScFdTa0Z5QVV3TEwxUEhuaw"
+      },
+      {
+        "category": "Legal - Opioid Shareholder Derivative Dismissed",
+        "updateType": "legal",
+        "score": 0,
+        "summary": "Kroger secured dismissal of shareholder derivative action concerning opioid distribution. This is a favorable legal outcome but is unrelated to account relationship dynamics.",
+        "suggestedAction": "Monitor for any ongoing legal/regulatory exposure; note as context only",
+        "sourceName": "Weil",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDJIMnFkZS1ZNzNsVzBnU2JDaTJraVViVkcteDB4dFJXZzV5Umh4ZkxuaWlwd3ByeG5tX0hsX0RIekNaQXZ0Z3c3UFllY1daZWVoMS0yM0VXNldzN3BCdnRlOUcyNUxkUGxNdk1veVNpS3lKSTZKTU9RMjcwOGh2b0M3Y2JzX0tvbW9FTUlBZU1qV05UeWNzdzFKcWlWODV3aDhJZW5PVW5pWk1uZkJDdDZuQUg0ekZMb2Z4UlRn"
+      }
+    ]
   }
 ]

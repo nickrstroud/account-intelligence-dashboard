@@ -444,5 +444,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkRIbGxhekhxVW9rQklHem1WcFJWWjVfelFnbk1wX1VLMWtUV0lFeXZ2TVFBdDBvX213VTRya3ZXMy1WZ2d2N2ZiVW5OSlpiNUZpcFRaM0Y4VFNGNEpSbUFzMDV0ME1UbmJKWUJidWdnS3QtMGpTcU5pdVF4T1FtdWktUkdPZDhPLTd6OFg1bjgycC1tVWRF?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-10T13:13:22.161Z",
+    "source": "daily",
+    "headline": "Coca-Cola faces media agency competition and historical leadership loss, but shows innovation strength and product momentum",
+    "signals": [
+      {
+        "category": "Agency Competitive Loss",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis won PepsiCo's media account, prompting Coca-Cola to review its North America media strategy. This signals competitive pressure in a key marketing function.",
+        "suggestedAction": "Monitor Coca-Cola's media agency RFP outcomes and any shifts in marketing budget allocation or agency relationships that could affect vendor positioning in the marketing tech/services ecosystem.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDhxLTNXdlYtVEhmby1Gb3ZzWHRJVG5qOXViX3JEZEdUNktZRGxKVHFsZ2ZlRXplU2pHSmZEQ3l0MkZISWxLYTdyWnlJdlNQNDlTOFJNZC1sREwwMHVBM1M5TlhSOVQwMUw0MGw5d1FrRVhyTllwRi1iM0Q1VXNud1pfWWE3WUJHOEJ1aWVNMEZEdnpPZGI0MHVVTHg2aHFfRFE5WEdFb1FwbmIyTER6SUpmS05KTzQwYU5oeFVnMTkwaHlEUm5OTDVR?oc=5"
+      },
+      {
+        "category": "Product Innovation & Market Traction",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola launched an AI-powered inventory solution for retailers and successfully relaunched Mr Pibb, both showing innovation and product momentum that could indicate budgets for growth initiatives.",
+        "suggestedAction": "Use Coca-Cola's AI and product innovation momentum as a relationship-building talking point; explore how vendor solutions can support similar initiatives or digital transformation roadmap.",
+        "sourceName": "PYMNTS.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU25MSHRhb0NxY0EzUGZwTUdqaW42RVRwSE4tRDFCMUFvalFTbU0zV1R5ZHM1a3ZDbmlFT3FOSWNDd0FRbjZoeWJCa0ZKdk5RcFFzUHJ1RFJRMi1kTm5ZUTVpS0wtZUJ5NTQ1OURaUENyb2gyMHlHd2hDTGs1d0szcWVZaV9Yd19ZdmtFZ1BlVXNNVWQyeHcxQk04ZTd0SWw4U0doVW9tNUhna2M0OGRTMVRB?oc=5"
+      }
+    ]
   }
 ]

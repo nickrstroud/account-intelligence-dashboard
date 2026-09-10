@@ -623,5 +623,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGFXRTZEZ3RxNU1lc29uc20wNlhlRDY0OFVpV0R1SnJxYzhtYmtzaDllNTltWW1fLWFVcmNxYl94OTgyT3VFbmFTUnd4V3FoV3JpaDJGNVZTWXpQU2dCRWlwdVFPclFTUjZ0a01RZ3BXdnd1cmI0dXZ5SU4ySlIyQ2Y4dHBOWldzVW5xYWFjWXdFVDZ4YlNYQXNPSTY2Wjl5bkxBZXZHTy0yMlBRaEUyUVByU3VWUUZOUE1jeU1Hb1dUbEtrTWpacWVxWF8?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-10T13:13:44.080Z",
+    "source": "daily",
+    "headline": "PepsiCo signs major $1.7B media agency consolidation deal with Publicis; competitive positioning vs. Coca-Cola intensifies",
+    "signals": [
+      {
+        "category": "Media/Marketing Partner Consolidation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo awarded a $1.7 billion media account to Publicis, representing a major consolidation of media planning and buying. This signals significant marketing transformation and operational restructuring.",
+        "suggestedAction": "Monitor whether this consolidation changes PepsiCo's vendor ecosystem or creates new service integration opportunities. Assess if the shift to Publicis creates gaps in current vendor relationships or introduces cross-selling potential.",
+        "sourceName": "Business Insider",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxULUlmTGI5X3RuQ1VFaUk4RVhOcmhnQ2JjLVI3QlVCWENLN1I3d1ltQXdYM0VvWERCVFl2VUsxNkd6MXRGRC1aYUxSb2U3YldTREMxWVZvWnNjeEduQ0xnN2x3OFlPbVpTUC1sQVYxRzV2bjl0ZlJyQ1hMOFRNaXEtR1k4MGRxckJHNUhvOGdMblc2dnp0NjZsaXBwRDZYNzlZTGRvSQ?oc=5"
+      },
+      {
+        "category": "Stock Performance Concern",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Recent Yahoo Finance article highlights concerns about PepsiCo's stock performance, suggesting possible investor uncertainty or operational headwinds.",
+        "suggestedAction": "Investigate whether stock performance issues relate to profitability, guidance, or broader market concerns. This may affect budget approval cycles and purchasing power.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNakNRUXBuY19UbVdmbi1qMl9XQjZLZ0YzQi12REw5TGlGSjlZaFFURHRyU214NE15SXBtNEc3WXh1X1VqdWZ5N3k5bVlvTVlPTEp0M3N6czU0aVQzNjR1WUdMWmRFc3M0RFZvMkRUbEtCZmNFVHJkZGxXZGtGbkc1ZjhDRUhRRTB0eFpTdkxsWWtmNmtO?oc=5"
+      },
+      {
+        "category": "Regulatory/Compliance Issue - Minor",
+        "updateType": "legal",
+        "score": 0,
+        "summary": "Lawsuit alleges PepsiCo fired a technician for demanding pay from login, indicating potential employment practice litigation. This is employment-focused and unrelated to core business relationship.",
+        "suggestedAction": "Monitor for broader pattern, but this appears isolated. Low relevance to account relationship unless it signals broader compliance or HR system gaps.",
+        "sourceName": "hcamag.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGFXRTZEZ3RxNU1lc29uc20wNlhlRDY0OFVpV0R1SnJxYzhtYmtzaDllNTltWW1fLWFVcmNxYl94OTgyT3VFbmFTUnd4V3FoV3JpaDJGNVZTWXpQU2dCRWlwdVFPclFTUjZ0a01RZ3BXdnd1cmI0dXZ5SU4ySlIyQ2Y4dHBOWldzVW5xYWFjWXdFVDZ4YlNYQXNPSTY2Wjl5bkxBZXZHTy0yMlBRaEUyUVByU3VWUUZOPU1jeU1Hb1dUbEtrTWpacWVxWF8?oc=5"
+      }
+    ]
   }
 ]

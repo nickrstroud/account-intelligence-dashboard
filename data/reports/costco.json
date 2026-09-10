@@ -406,5 +406,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkZMU09GZjdDUDVzT0UtLU5neDdWQnhhMVN1MnlxMkdyYzhlMWxIVFhoNWw4eGRrOW9mQjVMUGRCR2o0VlA0Vjh0bllmcG1YcXV1VHRCUXpndndRUmh3N0pUOVZiaHpJSVlxcUU1RjM0U0dSVEE1TkxGV2VudkE4OERB?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-10T13:14:36.750Z",
+    "source": "daily",
+    "headline": "Costco announces significant warehouse expansion (14 new locations) signaling strong operational growth and capital deployment",
+    "signals": [
+      {
+        "category": "Business Growth & Expansion",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco announced opening 14 new warehouses across US and Canada, demonstrating strong capital allocation toward growth and market penetration.",
+        "suggestedAction": "Identify new warehouse locations and their demand profiles—opportunity to expand services/solutions into newly built facilities and support growth infrastructure needs.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmhVZEUyQ1I4Ui1MR25HLXVQZ2R3RENHUGZLa3JaelVKbmp6MG1mV2dLcERRT3A1aDUyMHdwdl83cGx6MWtxU2hMOW82ME51ekE4MXhtUGlhaHQ0RW83am5hNWZuQzFKUEFZQkdLTk5vU2pabnkzUkZaODJKWm5Yc0xsMDVCMWtyX3RGUGlHZjnSAZYBQVVfeXFMUHhwakQ1UlRVYl92Y0ZkUTN3dTdjV2pMb3hTZjVabVVhX0EtdTNhMmdFcDNNX1JTSDUtOUR6c0ZxZTB0SmtTQmctaWIweHozd2tKR3IxcExYWE9kSk1nVzJKTWtuSWdCSl93aDlDaWR0eFJnTWdfS0VYdXlwcHdVTmtkdFdzMHFmVFlGdVRYRDVFU0UwWTdn?oc=5"
+      }
+    ]
   }
 ]

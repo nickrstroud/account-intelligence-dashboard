@@ -277,5 +277,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-10T13:14:49.574Z",
+    "source": "daily",
+    "headline": "Target shows mixed signals: positive sales recovery and outlook boost offset by recent stock underperformance",
+    "signals": [
+      {
+        "category": "Revenue Recovery",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook as recovery efforts gain ground, signaling improved operational performance and positive business trajectory",
+        "suggestedAction": "Monitor quarterly earnings for continued momentum; position account for potential increased IT/operational spending as recovery accelerates",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "Operational Efficiency Concerns",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Article headlines reference operational waste, suggesting internal efficiency challenges despite positive sales guidance",
+        "suggestedAction": "Use operational waste theme as conversation starter for cost-optimization and efficiency solutions; position as cost-reduction partner",
+        "sourceName": "corporate.target.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0FBTkJwMldfVnVTWHhUZElKVUFPdzJDWXptTWxZOXVpbXBqVzVkYk1Yem1MNXM1dnNxajhxOElwNUkyTFVLc0syeEdIdmkwa0RNeTZyTkdkVmx2Z3dlb0NITl9OMy1qZHlWVElieElGbEM2WU1UODFnbWVNZnp4VWJtTm9wVEo5RGpkb0xiU2lKYWtpQl9xZlA4aEszdzlVVlNaTzlDeGV1TDRqYUxtbExoa0NBcXFLU0syUjR5N0gxVDRCb1pJUGZXbmlLb21kUG5MWERHRUp1ZUZ6UTVKOTYxbVJIZXVjbVVrZmhSejNXaDda"
+      }
+    ]
   }
 ]

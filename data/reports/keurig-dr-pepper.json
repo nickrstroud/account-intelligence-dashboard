@@ -380,5 +380,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-10T13:14:10.599Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper divesting Chobani stake and Pennsylvania campus while adding coffee R&D leadership—mixed signals on capital priorities and focus areas",
+    "signals": [
+      {
+        "category": "Leadership Addition in Coffee R&D",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Michael Weber named VP of Coffee R&D at Keurig Dr Pepper, signaling continued investment in coffee innovation and R&D capability.",
+        "suggestedAction": "Positive conversation starter—ask about coffee product roadmap and R&D priorities; opportunity to explore supporting solutions for new innovation initiatives.",
+        "sourceName": "foodprocessing.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDZIV1RXZE1qczJUc1M4c2dPVG5LeEpSN3BIdjgyaDdKMlRVd1JmckRKT0xXeE9EN0xXUHhzMkxSQzc3SGpHTjNKYWJkSUIyaUZjUmtzZ1EyTmUwazBtOU0xdVUwdW5fZHhjd2JXRHFqMUdfSmFKOFEzM2wyd3Q2X0ZsaUlVZ2lIRnVBQzcxVXB6ckdMNXhfeTltalVQZmd4bVZ1ZTBaWGdpWUZpR2tQVmpEWEhWRTNxckE5djQ1bjRrYk1fQk9Tbg?oc=5"
+      },
+      {
+        "category": "Divestiture of Chobani Equity Stake and Pennsylvania Campus",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Keurig Dr Pepper selling its equity stake in Chobani (~$800M) and Pennsylvania campus (~$925M total) to fund capital redeployment. Signals potential cash needs or shift in strategic priorities.",
+        "suggestedAction": "Probe gently on capital priorities and cash position; may indicate budget constraints or restructuring ahead. Monitor for related cost-optimization initiatives that could affect spending.",
+        "sourceName": "wsj.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmtHQTlSb1prQ1FRdUJXd0xmU3c0OXRieEtraEZMU1VWRDZZU0NwTnpRTy1QRmxQVnBzaVJfTWxxYWxfS1pfT241NlpMQXRYYTNaLUlIeV9yOGxPOEt6TUJCU20wbUF4VGNCV0hic3FEbXJHVGJuOVY0bkEzU0xGazRkNS1BY2dyVEpLVGR2eFhYVmFZa3NseXRZb3FLQkNMLXRrNFhfcEpVeGFQS25tTWR3?oc=5"
+      },
+      {
+        "category": "Stock Underperformance vs. S&P 500",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Keurig Dr Pepper stock underperforming S&P 500, suggesting broader investor concern about financial performance or strategic direction.",
+        "suggestedAction": "Context for account health; correlate with any guidance/earnings misses or strategic pivots to understand customer sentiment and confidence.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDBqVDlHbFd1R0x5dTRxYXd5R0szdWpramNRRXZoajZYbTlKOGpqMFdoRG9CQ0JjZkctRW1sY1hiTXhld2JVT19qeUdNcjhlQXdwdDdQTnVnZXFDblNnaXhiSm85RC1kSm4tYnE1Z0NjSFBqa2Z4TDFHRklLRGhURkM0d09OeWJfV0lWV3RZeV8wTXJZSTg1cTBGM0hwYy1nMTY3ZXhB?oc=5"
+      },
+      {
+        "category": "Enhanced Partnership with Chobani",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper announcing enhanced partnership with Chobani as part of strategic priorities refresh, potentially expanding into adjacencies or channels.",
+        "suggestedAction": "Ask about new product collaborations, distribution channels, or customer segments being targeted through the Chobani partnership.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

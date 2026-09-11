@@ -424,5 +424,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-11T13:14:11.984Z",
+    "source": "daily",
+    "headline": "KDP divesting Chobani stake while HR leadership insider sells stock—mixed signals on strategic reset",
+    "signals": [
+      {
+        "category": "Divestment & Portfolio Reset",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Keurig Dr Pepper is exiting its stake in Chobani yogurt brand through a $925M transaction, signaling a strategic portfolio shift away from dairy/yogurt segment back to core beverage focus.",
+        "suggestedAction": "Understand the account's renewed portfolio focus—confirm whether this signals budget reallocation toward core beverage categories where we operate, or if the cash proceeds will be used for debt reduction vs. reinvestment.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjZ4Q2IyNlhlTTg4cHBmMXk2OGd5WFZjYUktaWZiTGw0RGZ1RTlwM3JJMUgzanpMMmNibWc3cDM4MDhZVXNtamdNUzRsUXVHME9jODFJUWk5Zy1HNmRYM2Z6Zk5zaXhzTmduWkp5TWszX3ZHTWc3MFBMTS1jZXg3MWgxY2dTSVhqdzJ6YnVBRDk3NElEUTh6R3J6c2pzUQ?oc=5"
+      },
+      {
+        "category": "HR Leadership Equity Sale",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Mary Denooyer (Chief Human Resources Officer) sold 24,000 shares (~$778k) in early September, a significant insider transaction that may signal confidence shifts or liquidity needs at the C-suite level.",
+        "suggestedAction": "Monitor for any related HR restructuring announcements or strategic organizational changes. Insider selling by CHRO can indicate upcoming headcount actions or internal transitions—flag if buying function roles are affected.",
+        "sourceName": "GuruFocus",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUp4bHowMGhDYWtPQTAxazRING5MNVhjZEhpRjNyX2thVjFFel9kNXFlbUczNkhSRnI2UW12QjlhVXdiNXdlajF4X0VKY3dGYzVZRm93dm9pNEduall0UERSXzhOS1RLQ1N6cHNOMlhNN2pHVzJBOV8xNThJUnFtZG9HeVZCQlJybDY2UDVRZDRuaURWSVAzR1pTYjdPMDlsUE1JV2ZSV2VwT3lrdWtodWRjS0VjS1N3UzJ5MEJISQ?oc=5"
+      },
+      {
+        "category": "Leadership Appointment in R&D",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Michael Weber named VP of Coffee R&D at KDP, indicating active investment in core coffee innovation and product development in a strategically important category.",
+        "suggestedAction": "Engage R&D and product innovation teams to explore partnership opportunities around coffee category; new leadership often brings fresh vendor evaluation cycles.",
+        "sourceName": "foodprocessing.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDZIV1RXZE1qczJUc1M4c2dPVG5LeEpSN3BIdjgyaDdKMlRVd1JmckRKT0xXeE9EN0xXUHhzMkxSQzc3SGpHTjNKYWJkSUIyaUZjUmtzZ1EyTmUwazBtOU0xdVUwdW5fZHhjd2JXRHFqMUdfSmFKOFEzM2wyd3Q2X0ZsaUlVZ2lIRnVBQzcxVXB6ckdMNXhfeTltalVQZmd4bVZ1ZTBaWGdpWUZpR2tQVmpEWEhWRTNxckE5djQ1bjRrYk1fQk9Tbg?oc=5"
+      }
+    ]
   }
 ]

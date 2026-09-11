@@ -423,5 +423,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmhVZEUyQ1I4Ui1MR25HLXVQZ2R3RENHUGZLa3JaelVKbmp6MG1mV2dLcERRT3A1aDUyMHdwdl83cGx6MWtxU2hMOW82ME51ekE4MXhtUGlhaHQ0RW83am5hNWZuQzFKUEFZQkdLTk5vU2pabnkzUkZaODJKWm5Yc0xsMDVCMWtyX3RGUGlHZjnSAZYBQVVfeXFMUHhwakQ1UlRVYl92Y0ZkUTN3dTdjV2pMb3hTZjVabVVhX0EtdTNhMmdFcDNNX1JTSDUtOUR6c0ZxZTB0SmtTQmctaWIweHozd2tKR3IxcExYWE9kSk1nVzJKTWtuSWdCSl93aDlDaWR0eFJnTWdfS0VYdXlwcHdVTmtkdFdzMHFmVFlGdVRYRDVFU0UwWTdn?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-11T13:15:07.204Z",
+    "source": "daily",
+    "headline": "Costco expansion underway with 10 new warehouse locations; competitive pressure from Sam's Club noted",
+    "signals": [
+      {
+        "category": "Business Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco announcing 10 new warehouse openings across 9 states (including Arizona, Virginia, Missouri, and others), signaling growth in footprint and likely increased capex/vendor engagement",
+        "suggestedAction": "Confirm whether Costco's expansion initiatives will impact vendor requirements or procurement timelines; explore opportunities in new warehouse locations",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHVJS2RZaDY1aHV4YUNyMjlwenk3SFNTM0tFaHVFRUxXd21yQVBLSUZEWU5WTkRmTEllWTlnbldUY3RxVUdvcVRjcm9ValRmd1g5NUp4aVZWM1pSdmxGTmFGcHhmRU9DUHA0SmZJa3V6WnJBb2FsSFo5UHA2eWpRa0RoU0JKR3dTaDBuQVdQRUY?oc=5"
+      },
+      {
+        "category": "Competitive Threat",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Sam's Club actively positioning as a more attractive alternative to Costco in messaging to consumers, indicating increasing competitive pressure",
+        "suggestedAction": "Monitor competitive messaging; assess whether Costco's renewal priorities may shift due to competitive cost pressures",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT294T1dYYWxXUUFtamJ3eVdfWVByME9SZHF6Ym13cmZRYm91TDM3NlNPaVh5c3Y2eXNnRGN3Z1lfb3VPMG5NX0JDajdxVDdzZ24wNFJPWnJULVB5TnRUVkN0SlZhWC1VU1lDQVBTdnNpc2tTZ25kN3hhenVoc01tX0ZzaldrSFRSTHRENm5ZekRzYWlvdmZVUmtMVjNLbkRUMzNrZllHY25UeVV2bHB6VkxyY0Qydw?oc=5"
+      },
+      {
+        "category": "Market Signal - Stock Price Target",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Costco stock price target increased to $1,200, reflecting positive investor confidence and strong market outlook for the company",
+        "suggestedAction": "Use as positive rapport-building talking point; indicates financial strength and likely budget availability",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBBVV95cUxNZWN4LUxiZU5pWXZnYVcwRk5QbmYxRTJ0RC1zLXdaeXpHZnY3cTNPVXhTQ2dnZ1YtLWxPSHVLQzB1eEZOWVpWOTdGdHIwQkh1SWdybFIwbi02akhBcF9FdDlpOHhTTkJHdWdUSnpOQ3BnU0lreTh1Rlo5Z0FnekNnZE9tN282aG9BUmNuSGZVNGFJdXRtNGJMOTR3?oc=5"
+      }
+    ]
   }
 ]

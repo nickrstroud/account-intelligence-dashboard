@@ -611,5 +611,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDJIMnFkZS1ZNzNsVzBnU2JDaTJraVViVkcteDB4dFJXZzV5Umh4ZkxuaWlwd3ByeG5tX0hsX0RIekNaQXZ0Z3c3UFllY1daZWVoMS0yM0VXNldzN3BCdnRlOUcyNUxkUGxNdk1veVNpS3lKSTZKTU9RMjcwOGh2b0M3Y2JzX0tvbW9FTUlBZU1qV05UeWNzdzFKcWlWODV3aDhJZW5PVW5pWk1uZkJDdDZuQUg0ekZMb2Z4UlRn"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-11T13:15:35.886Z",
+    "source": "daily",
+    "headline": "Kroger faces headwinds from CPG spending loss and competitive pressure; earnings forecast cut amid macro challenges",
+    "signals": [
+      {
+        "category": "CPG spending loss",
+        "updateType": "earnings",
+        "score": -2,
+        "summary": "Kroger has lost $12B in CPG spending, indicating significant revenue pressure and potential budget constraints that could affect vendor relationships and spending priorities.",
+        "suggestedAction": "Immediate account review to assess contract impact and renewal risk; prepare value justification case to protect current spend and pricing",
+        "sourceName": "Supermarket News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZKa184N0xqQzd2bGZXR0g2YXAxMW16Zi1LejRZSm5wMXR5QnZxcF85Y0NrNFUxcFJRaXQwdVIxZnNlbGUwSTVsemx0bmZyaW9iRG5jNlg4Uk9IXzBsTDNBRXFmQUk4ZzV0dUktVTZVa0wxdFNpYTlwZVppb3pYMkV6dkhuUVloZl9fWVNuTmQ"
+      },
+      {
+        "category": "Sales forecast cut due to macro challenges and competition",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Kroger cut its sales forecast as grocery store competition intensifies and macro challenges mount, signaling revenue headwinds and potential tightening of discretionary spending.",
+        "suggestedAction": "Engage account leadership to understand budget outlook and repriorization; position cost-savings or efficiency benefits to support their margin defense",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0QxblZHN09lUHpDMll5NU5hNTNIblc4OFJzN0ktOE42bzdCeFg1UVEyS2dncEFhRGFCOEhqcS1FWUtFTlNQbHh2QzNUNGR2ZUhteGtIMHZUVUVnbWVKWkpzQUVYNXUzbzFJTW5oUC02SUZ5eUZzbm1OaVdSdkN3b2VfNkItOTJSTDZQdU1iMkw2cjFvbUJkTC1HUVQ"
+      },
+      {
+        "category": "Fraud allegations reported to state attorney general",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Dozens of Kroger shoppers have reported fraud with complaints escalated to state attorney general, creating potential PR and operational distraction risk.",
+        "suggestedAction": "Monitor for any impact on vendor relationships or account stability; flag as context for discussions but unlikely direct impact on our engagement unless fraud involves vendor products/services",
+        "sourceName": "local12.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRzRPT2RjOTFhV1lMZ19rVHlpTm5SZXJTQU5vTFB4VHU2UEllaTc2ZUJpeXc4T0JxMWZPWXRUUTUzRFlwSTRiZ2MzTkxENGJncldubDh2UTItcklpM3I0eWs4SG9xb2tpZkxsQVpWWVpWUkxmLWJVbV9XbnhBWC1BNUxGaDQ1OWowWHAxeHl6c0Rqekt5UkVYWEZreWx1V1JFbzRRczVZNUctUTlJSVQzRlFjOW5yM0lCRTl2dUxNc25mdllONUFXOXZTampndFBxNlhLSkdqTEYteUJNTHZadzNuU0g1ZE9ZcmJKQkczcUY2bDg1QXFHRlFYaEdYOUtreEgzTzQwdEM4bzdJRl9jWExRSU81Z25XdDNuOUdfX2thQ2Q4QkF2ZDZLQ3R3OW4xYnpLeUVmY3UzbGZ5UEo4TUhmd1ZFZXVDVGcybHhLRWVjMEVYNmtPcFB1WGFPMmFrVVFzV1ZYbE9NT1B1d2xwTDdUeTRmYXFLVENsZUpFZTVVUElMeEpmdGR0OGtnb3VFSFVCb2ZYTzdzZw"
+      }
+    ]
   }
 ]

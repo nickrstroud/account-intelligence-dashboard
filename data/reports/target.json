@@ -303,5 +303,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0FBTkJwMldfVnVTWHhUZElKVUFPdzJDWXptTWxZOXVpbXBqVzVkYk1Yem1MNXM1dnNxajhxOElwNUkyTFVLc0syeEdIdmkwa0RNeTZyTkdkVmx2Z3dlb0NITl9OMy1qZHlWVElieElGbEM2WU1UODFnbWVNZnp4VWJtTm9wVEo5RGpkb0xiU2lKYWtpQl9xZlA4aEszdzlVVlNaTzlDeGV1TDRqYUxtbExoa0NBcXFLU0syUjR5N0gxVDRCb1pJUGZXbmlLb21kUG5MWERHRUp1ZUZ6UTVKOTYxbVJIZXVjbVVrZmhSejNXaDda"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-11T13:15:19.864Z",
+    "source": "daily",
+    "headline": "Target shows mixed signals: sales outlook boost and new distribution partnership offset stock underperformance and operational concerns",
+    "signals": [
+      {
+        "category": "Sales & Revenue Momentum",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook as recovery efforts gain ground, indicating improved business performance and confidence in forward growth trajectory.",
+        "suggestedAction": "Highlight customer's positive momentum in renewal conversations; position as growth-oriented partnership opportunity aligned with their expansion phase.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "New Distribution Channel & Product Line",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Wella Company U.S. established distribution agreement with Target for four iconic haircare brands, expanding Target's product portfolio and supplier network.",
+        "suggestedAction": "Reference as example of Target's strategic expansion into adjacent categories; identify complementary solutions that support new product lines or cross-selling opportunities.",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWhIa3MwSktibVZsTEhvYjZEZkhUWWlvUWNOWWdTWU16SDRJY0ZNMlNqby1Oa1VOaWNCWFNoOUQ2VjRSN182MjdkY1k3bmlkamZDRU1aaGNWWUpHQ2NFWm5FSnc0Z2ZMMXE1U0l2eTNiNFBBNV9LLWpSMTktemJsOHZ6NmthMnlCWkY3VnpyU1FHZE45eTVlOTY2NVZwUlh5alBqdloyU2V4NC1vekZyLXJxVEVZMTRFWU5HdUNIVXJpVTN3Qy1hZ0tnVkFBUkhrZWgydUM2dDZ3ZFFZNjdrUUw3c0hZZms"
+      },
+      {
+        "category": "Stock Performance & Market Sentiment",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Target stock underperformed competitors mid-week and experienced a 3.2% share decline, signaling investor caution despite operational improvements.",
+        "suggestedAction": "Monitor stakeholder confidence levels during customer engagement; be prepared to discuss how vendor partnership strengthens operational resilience and efficiency.",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjBVWGNEQzU1bFJEaHBqeVJWeWI1aHlRY1VRekpyaF81RWJlZlVwOXBDc1JrYkoxY29qaW9ocm1IYjl0Nk80R3JRN01McGdNY3duSkJLSXlWX1BTWnlKWVlLam1QR0k1UF94QldKUi12RWJ4SFdqaGJJZko3SFR0NmVxeEY5czJ5VUtBeGpCRTRQZUYzeUVqTElKbW9IdnV4Umpfc2wwNERDR2pwRU1WUXhJX0lDc3ZVYmVKVl9pOGtUdWtScXhFcWdTTU9yQ0ZTYnZtdEl3TjlaYXJGSUlKV0tn"
+      }
+    ]
   }
 ]

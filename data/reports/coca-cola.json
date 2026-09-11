@@ -470,5 +470,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU25MSHRhb0NxY0EzUGZwTUdqaW42RVRwSE4tRDFCMUFvalFTbU0zV1R5ZHM1a3ZDbmlFT3FOSWNDd0FRbjZoeWJCa0ZKdk5RcFFzUHJ1RFJRMi1kTm5ZUTVpS0wtZUJ5NTQ1OURaUENyb2gyMHlHd2hDTGs1d0szcWVZaV9Yd19ZdmtFZ1BlVXNNVWQyeHcxQk04ZTd0SWw4U0doVW9tNUhna2M0OGRTMVRB?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-11T13:13:40.065Z",
+    "source": "daily",
+    "headline": "Coca-Cola faces competitive pressure from PepsiCo and pricing challenges in key markets; media account under review",
+    "signals": [
+      {
+        "category": "Competitive Threat - PepsiCo Gains",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis won PepsiCo's account, triggering Coca-Cola's North American media account review. Competitor gaining ground on marketing/agency side.",
+        "suggestedAction": "Monitor agency relationships and media spend strategy; assess whether this signals broader competitive positioning shifts",
+        "sourceName": "Campaign UK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEtSUHhfZnh5QVdtNlAyTEpFT25LQWt1WDJzbDVQWHY2UXhZdHFmdnpDUS1lWnNabkVDNmZQSVJTSHdGdTVuTDhxM2hmZzJTaXUxTEtUcW8yeUVBV1hKVTRwanQyblFWQkZtOFhZbmJURGJJdU1mOGlUcjlHbnQwM0h6eWx0REJ6TU0ydEw0RTFxRElwUzJqYU5iS2g4TE9aMTVGTXRWLUl0SUw4c0F4ZndhNDY3ZlhFbksxaWdZRDJvRUhycHdZeWNFcGUtNGZXM3hncmRwZWl1eVlVYjJVdU5B"
+      },
+      {
+        "category": "Market Pressure - India Competitive Dynamics",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Coca-Cola CEO warns against 'irrational' pricing as competitor Campa Cola drops to ₹10 in India, signaling intense price competition and margin pressure in key growth market.",
+        "suggestedAction": "Assess impact on India operations; evaluate pricing strategy and volume trends; potential margin compression risk",
+        "sourceName": "The Economic Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkthWEZjTnlqZkZ6b1VwR21ELUxEYjJmZzQ4cDdNTVdKTklTS2VLVUVsZE9vdFhaOG5VWWlYUFotZ3Y3cEFTTG00U0ZUVXhRZlNCSmMwRlhoYjZfVXhndHp1QzJSZzRkRkxVVk9xdjIzTWY0eUljV0ZZYmxQS3JCUFJNMGp2ajBRQU14RUpyUzh1VUFET1V6ekh0MmNZWTRvXzlBTlF6ci1ra0FWMEVFWlhWUG9xaDRGVExpb3NDb0tWRml2UlJELTAtUlRoWkJ0emNzZGVOMDVkNzhxNy1ZbGxGT2ZVd03SAewBQVVfeXFMT2VWa3BDY0tnN1VyUm5rdDM2X0d2RlFkSl9rVlREN0ZrWWxWb0pKSnlGTWtwZnZLSjR4dFYyZDhPcHBWVzhNNXZLLVmt0LVViTWFaT3NMeW5YM3JjNndkY0hqZ0ZOUnl0V21PNnNsUF9KSF9Ka2R6MEZHdndUOGhZMFZqdHRENGR1aHZpSGtocTRZZ1ZUZUlFTlZaSjJSem5NWDlBdE0yeU9mY21zc2g5NTNzZnU3UGl5LTdTeUF6YUU0N0xMQ282MWlud3Z0ek40bzZyTkVlTFdWWFlwZnIyU2U3Q1hyaExfUXF4SDI"
+      },
+      {
+        "category": "Capability Expansion - AI/Ordering",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola deploying AI to improve retailer ordering in Malaysia, demonstrating digital capability investment and supply chain modernization.",
+        "suggestedAction": "Opportunity to discuss technology/AI initiatives; positioning for retailers' digital transformation needs",
+        "sourceName": "AI News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmctNXVJa0tTZ3BMcnFpakE3aG5aXzZYT3JvOU91dFVXLVlZSjRHQWVHWkx1dEYwYk9IXy01aXhoN2dZYVR6bVE4Zk83Q2pNSGF3NDRWbEI5QlhVYmR2Q0RieV9sbE5qUHNyd0RLeGZWQWw3cjV3S09mcjQyYTlZSXNiRjZtWjZrcUxGbVdEekVXX0E"
+      }
+    ]
   }
 ]

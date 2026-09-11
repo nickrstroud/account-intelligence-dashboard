@@ -658,5 +658,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGFXRTZEZ3RxNU1lc29uc20wNlhlRDY0OFVpV0R1SnJxYzhtYmtzaDllNTltWW1fLWFVcmNxYl94OTgyT3VFbmFTUnd4V3FoV3JpaDJGNVZTWXpQU2dCRWlwdVFPclFTUjZ0a01RZ3BXdnd1cmI0dXZ5SU4ySlIyQ2Y4dHBOWldzVW5xYWFjWXdFVDZ4YlNYQXNPSTY2Wjl5bkxBZXZHTy0yMlBRaEUyUVByU3VWUUZOPU1jeU1Hb1dUbEtrTWpacWVxWF8?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-11T13:13:55.445Z",
+    "source": "daily",
+    "headline": "PepsiCo switches global media account from Omnicom to Publicis in $1.7B deal, signaling potential agency relationship risk for current vendors",
+    "signals": [
+      {
+        "category": "Agency Consolidation & Strategic Shift",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo has consolidated its global media account to Publicis, ending a long relationship with Omnicom. This represents a significant shift in PepsiCo's vendor strategy and may indicate willingness to consolidate/switch strategic partners.",
+        "suggestedAction": "Review PepsiCo account status and explore whether similar consolidation may affect other vendor relationships. Monitor for signs of broader agency/vendor rationalization.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTV6SDdiNUFCT1BEM2dqaFVRRy1nNXVSR0hwdVQ4QV90SVAyY3Z4RUZZY3AwbjlSM2hiZklyZ3B1ZkRBS2JPOU0zenJJaWhEdEVkRzdWYWdCT1ZHSHFHRlFGQ1hmNE9zNXp2enh2T1Z3Vm1pZmVHSkpPTzBLR0xKSGVnblF1VlFqUTJiTnZmVjRCNFFIS01qSGI0YzVkejZkaEJEZmM1ZGlmWlRsU1hzb210UEs"
+      },
+      {
+        "category": "Vendor Consolidation Signal",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo's $1.7B media account move to Publicis signals the company is undergoing digital transformation and is willing to invest in consolidated, modernized vendor relationships. This may indicate budget available for expansion with strategic partners.",
+        "suggestedAction": "If your solution aligns with PepsiCo's transformation goals (digital, media, marketing tech), position for expansion within the new Publicis-led structure or identify other PepsiCo business units open to vendor partnerships.",
+        "sourceName": "Business Insider",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxULUlmTGI5X3RuQ1VFaUk4RVhOcmhnQ2JjLVI3QlVCWENLN1I3d1ltQXdYM0VvWERCVFl2VUsxTkd6MXRGRC1aYUxSb2U3YldTREMxWVZvWnNjeEduQ0xnN2x3OFlPbVpTUC1sQVYxRzV2bjl0ZlJyQ1hMOFRNaXEtR1k4MGRxckJHNUhvOGdMblc2dnp0NjZsaXBwRDZYNzlZTGRvSQ"
+      }
+    ]
   }
 ]

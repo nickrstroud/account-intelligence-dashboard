@@ -422,5 +422,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VQkM5RVZhclJOV1NzdE9YV0hsbW5xMFZnckxlVVJ6Vk90ZWNWbUktbkR5QmRQRFpHdmFtVGhRYnJ3ZkpVdXg2bVpKUi04bVIyUUwwTnR3ek50V1VIN3NNQTZMU2hmNW5Kb09qRWtRRl9rMk0?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-11T13:14:50.996Z",
+    "source": "daily",
+    "headline": "Walmart expanding delivery partnerships and innovating checkout/logistics while managing product recall headwinds",
+    "signals": [
+      {
+        "category": "Business Expansion - Restaurant Delivery Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart expanding restaurant delivery capabilities through new Papa John's partnership deal, signaling investment in fulfillment infrastructure and new revenue channels",
+        "suggestedAction": "Explore expanded food & beverage fulfillment solutions; discuss logistics/payment integration needs with expanded delivery partner ecosystem",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRldIUGFCUlVnLUd6eTVVdDJoMlNXY2VFUjhPR3V5bFlzdjZqSHJibEpKV2s1NnI0azB2VktldHVIeXR2SDl2UklJMDNsMmcxLVRBcGtpZGl3cUk4TFR6TGdxcFNMZWpOcEdDWFNBWDZMcDRMUTh5UnFYbVRPOF9QVXVqUjF4b0FkMFlFOF9IcE41T2ZsZXBRSk5NaS1CZjM1SDl0WTQ3Y2kxa1Y5"
+      },
+      {
+        "category": "Innovation - Drone Delivery Pilot",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart piloting drone delivery at Tacoma supercenter, representing investment in next-gen logistics and fulfillment capabilities",
+        "suggestedAction": "Assess opportunities in logistics tech stack; discuss integration of autonomous delivery tracking/compliance with existing systems",
+        "sourceName": "KOMO",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDhvb3c2UEZycmx4Um1LVWdhMVEwVUY5R0kyNEY2aExndS14U3p5eUJrX0libGNNbEVuTHNfbmx1UHBZaFNDd01SZVhCem5PR05RRVBHZXdaNXBiajZacWwwTG50NU05R05NYkdNNWFBUzdiemN6VW9fbENkS21lN0poMjY2dEdUQmc4V0xOd3luVWV1U3FDaW1BTGJBQQ"
+      },
+      {
+        "category": "Operational Risk - Product Recalls",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple product recalls (frozen berries E. coli risk, 2.3M candy products) affecting Walmart stores; reflects supply chain quality control and reputational risk management challenges",
+        "suggestedAction": "Monitor for potential need for enhanced supply chain compliance/quality assurance solutions; position vendor capabilities in recall management and supplier verification",
+        "sourceName": "NJ.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1Zub21XRHRfeXFLM0FUdDNKZEhSZVZENVljX3ZJUHo2WGRud2pPMUFLbmNJT2J2VnBIY1VTUkpCY2w0NlVUNHNIMHJSbWJ2MnVVNml3ODZhNDVpQlktNDBxNnpldUlhcXFEbW1DVWJjaXI5bW9MekRVblRYdktiNGFJV19CQlI0RUVsaVhqdmdSSHJoNnh3WmtTTFlqZXZvWjV6N0dlWFpmRzFpMTR4OC1NRGzSAcgBQVVfeXFMTU9pWjN2UDFGWFdKUHZmSjNjbFpBZ0lZd3RVdURWTDBITGU1cUFfOG00MVg1dld5OGtoUm5KT1o1UkJrQmxTU3l4Yzh0UFl3TGtTYTc2NGdQd2VLNGdKeDlpem9fMVJoUUtrREpCeU5lOFAtTzdZdVdvZVhraE9EaXVzTVdRYUFKWXZLb1BiOG9rTTZXb3hxQ04yYWsyZTU0TDdERHQxcUFucDJLOE9Ta3lXakZZTURlX1VxNkxLeVRodDFXazYyMUo?oc=5"
+      }
+    ]
   }
 ]

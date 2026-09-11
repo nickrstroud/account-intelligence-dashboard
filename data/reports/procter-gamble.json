@@ -424,5 +424,40 @@
     "source": "daily",
     "headline": "P&G stock underperformance and market concerns ahead of annual meeting; limited account-relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-11T13:14:29.289Z",
+    "source": "daily",
+    "headline": "P&G Leadership Transition and AI/Supply Chain Strategic Initiative Underway Amid Stalled Stock Performance",
+    "signals": [
+      {
+        "category": "Board Leadership Appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed Chairman of P&G Board of Directors in July 2026. Board-level leadership change indicates potential strategic direction shift but routine governance activity—limited immediate account relationship impact.",
+        "suggestedAction": "Monitor for any strategic shifts in procurement, vendor partnerships, or digital/supply chain initiatives under new board chair leadership.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ"
+      },
+      {
+        "category": "AI & Supply Chain Modernization Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G targeting growth rebound with AI adoption and supply chain overhaul. Strategic technology/operations investments signal company positioning for efficiency and competitive recovery, potential expansion of tech-enabled procurement and logistics.",
+        "suggestedAction": "Proactive outreach on AI/supply chain acceleration initiatives. Position solutions supporting digital transformation, automation, and supply chain optimization.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1NzSGZ1YjVYREhPTi1QbUR0eVFPWmY3S1JYNEA2SWZDWkxlN0N6c001alUyVGViTVBZc21tc2Nrc2VqZFJUWkZqMk43ckM3ejRUSUJFcDFMdnQ4ZmtFY1Y2d0RMblJQWjdVUlVCMU8yd0szajRYUmxCUG01cEM3T0dTRGxOQ2NtNk9uQ1Ztb0MydEtlb0d3SEVFbzJialJKSEl2QQ"
+      },
+      {
+        "category": "P&G Executive Exit to Competitor",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "New Skyline Chili CEO is a veteran of P&G (and Honey Baked Ham). Executive departure to another company signals potential insider knowledge of P&G processes and competitive positioning, though minimal direct account relationship risk.",
+        "suggestedAction": "No immediate action required; monitor for any industry consolidation in food/retail segments that might affect P&G's buying priorities.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzVZZmR6NXhpUjBCT1hYQlpSSlZ4bXU1eFhrV2NWOUpTLUEzVlJ2Wk1neWt3bEx0MjBOT3Rva2xQX3dLbWFjaXpMTUQwX01hTktWWkJSbWZWRkRsMnhuVEFvTFcxNWM1dXNhWTJINl9Mb3hfc1J4ZGVIcEp3ZVYteWtPeGJTNlFxeGVueU5lM29IT3VCZ3VmeG9Zc1MtUEtnZ3hfUg"
+      }
+    ]
   }
 ]

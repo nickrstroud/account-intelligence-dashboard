@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { getCompanies } from "@/lib/data";
 import AccountSwitcher from "./AccountSwitcher";
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <footer className="border-t border-slate-200 py-4 text-center text-xs text-slate-500">
           Updates daily via a scheduled agent · Built by Nick Stroud
         </footer>
+        <Analytics />
       </body>
     </html>
   );

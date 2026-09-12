@@ -684,5 +684,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxULUlmTGI5X3RuQ1VFaUk4RVhOcmhnQ2JjLVI3QlVCWENLN1I3d1ltQXdYM0VvWERCVFl2VUsxTkd6MXRGRC1aYUxSb2U3YldTREMxWVZvWnNjeEduQ0xnN2x3OFlPbVpTUC1sQVYxRzV2bjl0ZlJyQ1hMOFRNaXEtR1k4MGRxckJHNUhvOGdMblc2dnp0NjZsaXBwRDZYNzlZTGRvSQ"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-12T13:12:37.739Z",
+    "source": "daily",
+    "headline": "PepsiCo switches media agency from Omnicom to Publicis in $1.7B deal—major account loss signals relationship risk for incumbent vendors",
+    "signals": [
+      {
+        "category": "Account relationship risk",
+        "updateType": "ma",
+        "score": -2,
+        "summary": "PepsiCo terminated its relationship with Omnicom and awarded its $1.7 billion media account to Publicis. This is a complete account consolidation and vendor switch—a major competitive loss for Omnicom that signals PepsiCo may be in strategic review mode across service providers.",
+        "suggestedAction": "Immediately assess relationship health with PepsiCo procurement and marketing leadership. Schedule relationship review call to understand decision drivers (cost, capabilities, strategic fit) and identify any gaps our offering may have exposed. Prepare competitive win-back strategy or identify adjacent opportunities.",
+        "sourceName": "Business Insider",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxULUlmTGI5X3RuQ1VFaUk4RVhOcmhnQ2JjLVI3QlVCWENLN1I3d1ltQXdYM0VvWERCVFl2VUsxNkd6MXRGRC1aYUxSb2U3YldTREMxWVZvWnNjeEduQ0xnN2x3OFlPbVpTUC1sQVYxRzV2bjl0ZlJyQ1hMOFRNaXEtR1k4MGRxckJHNUhvOGdMblc2dnp0NjZsaXBwRDZYNzlZTGRvSQ"
+      },
+      {
+        "category": "Omnicom restructuring risk",
+        "updateType": "restructuring",
+        "score": -2,
+        "summary": "Omnicom announced a 15,000-person workforce reduction (by end-2026) in response to losing PepsiCo. This represents broad restructuring at a key media/marketing vendor and suggests financial stress that could cascade to other client relationships or service quality.",
+        "suggestedAction": "Monitor Omnicom's stability as a partner vendor or client. If we supply to Omnicom or compete for their business, reassess their financial viability. If PepsiCo is our customer, note that our media/marketing vendor is under stress—may create renegotiation opportunities or service gaps.",
+        "sourceName": "bestmediainfo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3M2MzlhamU0djJRQUllclZMd2hoYXZWMjA0YWgyM2ZSRG9WcGZJY3A2NjgwMDBFVTRtcWlvNnNRd2JrRmllR2F1NDJTMXg5Y3hwWk5TVWxZa1QzanpneUUyNC1GZ3RJbHRUX3VZQXhEMzFLLUJSbXZzWFVVd3JNTTVUV3B6M01Vdkl5d2pKWEhxbTB2NXlsdURoNXRsWnphcmcyTmJoRmxTZjVEUHNhWVItdG1BQXZWM19PYUxSQ1kzdUh3akthWXBXVmlZakFlWGVnR0wxOWppZVdF"
+      },
+      {
+        "category": "PepsiCo's AI/transformation strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Ad Age reporting reveals PepsiCo is in active search for AI transformation and digital services partners. The Publicis deal is partly driven by Publicis's AI and transformation capabilities, indicating PepsiCo is prioritizing digital/AI modernization.",
+        "suggestedAction": "Position B2B solutions around AI, digital transformation, and marketing automation. Identify which PepsiCo business units (Frito-Lay, Gatorade, Tropicana, etc.) are driving digital roadmaps and reach out with relevant use cases. This is a re-pitch opportunity if we supply complementary tech/services.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDVZd1ZEY183NnZBTXNVLV9sU0o0WXdvTnpjeFc0NGY4MWlYX0RsY1RYbWl4d0pUeVo5TmtMVXFiWWZqUjZPYUxVZ1dTWVFmLXdUbnFUSEVKYXVNOVZMamRGbVpKdzdUcUVCSjE2T3R2ZzlrZlRvYlhJX3RfV1dUajR1cWU"
+      },
+      {
+        "category": "Competitive vulnerability in convenience retail",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo faces a convenience-store distribution challenge vs. Coca-Cola competitors. This signals potential margin or volume pressure, which could tighten budgets or shift spending priorities toward in-store marketing and channel management.",
+        "suggestedAction": "If we serve retail/channel enablement functions, flag potential budget pressure or shifting priorities toward competitive retail activation. Monitor for cost-cutting initiatives that could affect vendor spend.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWi0zdDRBV2drT2prZWRQVkVqdG5jWDF2S0RvbHl0bldjVDdaMVR5N1l1c2FVUlFfZE81bHhNQWRibGV4dVY5clVwRGZEaVdSX2tET196bW1xdEN3U0s5MUFfT1EyUEtQTHVpYTdIdjdpeDZFdjBYZ2RLZTJNam9ZRkNYQ2QtUXdwZnFQUW1DN1lDZEN6"
+      }
+    ]
   }
 ]

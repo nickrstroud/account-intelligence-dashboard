@@ -458,5 +458,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgFBBVV95cUxNZWN4LUxiZU5pWXZnYVcwRk5QbmYxRTJ0RC1zLXdaeXpHZnY3cTNPVXhTQ2dnZ1YtLWxPSHVLQzB1eEZOWVpWOTdGdHIwQkh1SWdybFIwbi02akhBcF9FdDlpOHhTTkJHdWdUSnpOQ3BnU0lreTh1Rlo5Z0FnekNnZE9tN282aG9BUmNuSGZVNGFJdXRtNGJMOTR3?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-12T13:13:22.615Z",
+    "source": "daily",
+    "headline": "Costco expanding aggressively with 14 new warehouse openings across US and Canada",
+    "signals": [
+      {
+        "category": "Business Expansion",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco announcing 14 new warehouse locations opening in October-November across US and Canada, including flagship Meridian location reported as potentially the largest in the world",
+        "suggestedAction": "Proactive engagement opportunity: understand Costco's infrastructure and operational needs for new facilities expansion; position solutions for scaling support across growing footprint",
+        "sourceName": "Cleveland.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSERjN2lGRzc0THdKVUdNWXVHUk5hcTMxWk1SaTRTOHFEMjZOeHZ1Z043d1BFQlNWZjRCblBPY3NtT2tBMENUZ05rYWpxX2gyeG5qWEZSenJqVzZXaGp5cGdzMmVUQk03ZVlDdWZNUUpvSjRWbURvMVhHVlVmV3VaazNIUEJPSTZkQkdGejFzb3BqNzBBS0s5WmM3czZyQVpvd05ZNWNObjVuT3luUGJuZFNBeWxkd3ll?oc=5"
+      }
+    ]
   }
 ]

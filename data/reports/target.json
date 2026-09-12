@@ -338,5 +338,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjBVWGNEQzU1bFJEaHBqeVJWeWI1aHlRY1VRekpyaF81RWJlZlVwOXBDc1JrYkoxY29qaW9ocm1IYjl0Nk80R3JRN01McGdNY3duSkJLSXlWX1BTWnlKWVlLam1QR0k1UF94QldKUi12RWJ4SFdqaGJJZko3SFR0NmVxeEY5czJ5VUtBeGpCRTRQZUYzeUVqTElKbW9IdnV4Umpfc2wwNERDR2pwRU1WUXhJX0lDc3ZVYmVKVl9pOGtUdWtScXhFcWdTTU9yQ0ZTYnZtdEl3TjlaYXJGSUlKV0tn"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-12T13:13:32.707Z",
+    "source": "daily",
+    "headline": "Target showing sales recovery momentum and new retail partnerships, offset by recent stock underperformance",
+    "signals": [
+      {
+        "category": "Sales outlook boost and recovery progress",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook as recovery efforts gain ground, indicating improving financial performance and business momentum.",
+        "suggestedAction": "Monitor for continued revenue growth and margin expansion; position for larger budget allocations in 2027.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "New distribution partnership for haircare products",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Wella Company U.S. entered a distribution agreement with Target for four iconic haircare brands, expanding Target's product offerings and category reach.",
+        "suggestedAction": "Identify opportunities to support new product category with marketing, analytics, or supply chain solutions.",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWhIa3MwSktibVZsTEhvYjZEZkhUWWlvUWNOWWdTWU16SDRJY0ZNMlNqby1Oa1VOaWNCWFNoOUQ2VjRSN182MjdkY1k3bmlkamZDRU1aaGNWWUpHQ2NFWm5FSnc0Z2ZMMXE1U0l2eTNiNFBBNV9LLWpSMTktemJsOHZ6NmthMnlCWkY3VnpyU1FHZE45eTVlOTY2NVZwUlh5alBqdloyU2V4NC1vekZyLXJxVEVZMTRFWU5HdUNIVXJpVTN3Qy1hZ0tnVkFBUkhrZWgydUM2dDZ3ZFFZNjdrUUw3c0hZZms"
+      }
+    ]
   }
 ]

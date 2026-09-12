@@ -457,5 +457,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1Zub21XRHRfeXFLM0FUdDNKZEhSZVZENVljX3ZJUHo2WGRud2pPMUFLbmNJT2J2VnBIY1VTUkpCY2w0NlVUNHNIMHJSbWJ2MnVVNml3ODZhNDVpQlktNDBxNnpldUlhcXFEbW1DVWJjaXI5bW9MekRVblRYdktiNGFJV19CQlI0RUVsaVhqdmdSSHJoNnh3WmtTTFlqZXZvWjV6N0dlWFpmRzFpMTR4OC1NRGzSAcgBQVVfeXFMTU9pWjN2UDFGWFdKUHZmSjNjbFpBZ0lZd3RVdURWTDBITGU1cUFfOG00MVg1dld5OGtoUm5KT1o1UkJrQmxTU3l4Yzh0UFl3TGtTYTc2NGdQd2VLNGdKeDlpem9fMVJoUUtrREpCeU5lOFAtTzdZdVdvZVhraE9EaXVzTVdRYUFKWXZLb1BiOG9rTTZXb3hxQ04yYWsyZTU0TDdERHQxcUFucDJLOE9Ta3lXakZZTURlX1VxNkxLeVRodDFXazYyMUo?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-12T13:13:14.046Z",
+    "source": "daily",
+    "headline": "Walmart expands food delivery and restaurant partnerships amid stock volatility and quality control challenges",
+    "signals": [
+      {
+        "category": "Business Expansion - Food Delivery Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart has launched a restaurant delivery partnership with Papa John's, expanding its food delivery capabilities and entering new revenue channels. This represents a strategic expansion into the restaurant delivery vertical.",
+        "suggestedAction": "Position vendor services around restaurant/QSR logistics, delivery platform integration, and supply chain optimization for Walmart's expanded food delivery operations.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRldIUGFCUlVnLUd6eTVVdDJoMlNXY2VFUjhPR3V5bFlzdjZqSHJibEpKV2s1NnI0azB2VktldHVIeXR2SDl2UklJMDNsMmcxLVRBcGtpZGl3cUk4TFR6TGdxcFNMZWpOcEdDWFNBWDZMcDRMUTh5UnFYbVRPOF9QVXVqUjF4b0FkMFlFOF9IcE41T2ZsZXBRSk5NaS1CZjM1SDl0WTQ3Y2kxa1Y5"
+      },
+      {
+        "category": "Brand Risk - Product Quality Recall",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Walmart issued a multi-state recall of frozen berries due to possible E. coli contamination, affecting 16+ states with expansion ongoing. This indicates quality control and supply chain issues in Walmart's fresh/frozen food operations.",
+        "suggestedAction": "Monitor for impact on Walmart's procurement and quality assurance operations; opportunity to discuss vendor solutions for supply chain visibility, traceability, and contamination prevention systems.",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUdESGF1UC1PX3ZIbTJfaFp1QmcxV0JoVFM4aW8xSXN5d21GUnlPOVg4dDhiTU02RVVBekFOSE9JVVZEWUdBaFY4TnJKanhhanYwQXpHQm5GOVBGU3p4RV9haEhxNGx2UlFGYWVXT05yS3BaTm9XN2RNNDBiOTkyLU4zdlY3MENmNDBMOGh6MWQ"
+      },
+      {
+        "category": "Market Signal - Stock Price Weakness",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Walmart's stock is experiencing a slump, though market analysts view it as a buying opportunity. This reflects near-term valuation pressure but not fundamental business deterioration.",
+        "suggestedAction": "Be mindful of potential budget constraints or procurement delays during market downturns; monitor Walmart's quarterly earnings and capital allocation plans.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VQkM5RVZhclJOV1NzdE9YV0hsbW5xMFZnckxlVVJ6Vk90ZWNWbUktbkR5QmRQRFpHdmFtVGhRYnJ3ZkpVdXg2bVpKUi04bVIyUUwwTnR3ek50V1VIN3NNQTZMU2hmNW5Kb09qRWtRRl9rMk0"
+      }
+    ]
   }
 ]

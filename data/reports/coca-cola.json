@@ -505,5 +505,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmctNXVJa0tTZ3BMcnFpakE3aG5aXzZYT3JvOU91dFVXLVlZSjRHQWVHWkx1dEYwYk9IXy01aXhoN2dZYVR6bVE4Zk83Q2pNSGF3NDRWbEI5QlhVYmR2Q0RieV9sbE5qUHNyd0RLeGZWQWw3cjV3S09mcjQyYTlZSXNiRjZtWjZrcUxGbVdEekVXX0E"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-12T13:12:09.934Z",
+    "source": "daily",
+    "headline": "Coca-Cola undergoing global agency review with WPP positioned to win; mixed signals on operational challenges and sponsorship changes",
+    "signals": [
+      {
+        "category": "Agency/Marketing Partner Change",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "WPP is set to win Coca-Cola's global agency review, indicating potential shift in marketing/advertising partner strategy. This represents a change in key vendor relationships and procurement priorities.",
+        "suggestedAction": "Monitor if this agency transition signals broader marketing transformation or budget reallocation. Assess whether new agency will drive changes to Coca-Cola's vendor ecosystem and technology requirements.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhxS2RxZmd2S21fS2tldmkybXRzSm1HV0syR1NuZWhUR2VCbEdLa1JxT1hsY1V5XzdnY1U4UUgxelZwSl9WOFZ6dTNfcTJKWHhGbGFaT0I3cFRQc2JSdElCVEVrMndXdFV3ZWdZcDRqOU1JdmxMeUsxOUNJMXBYbGhfdnNaTmdmb3NuV0h3N0RNVVB3OFhuV24xeFA4ZENFcmVta3l3RjF0amdf?oc=5"
+      },
+      {
+        "category": "Sponsorship/Brand Presence Change",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Coca-Cola Park sponsorship deal ending in Lehigh Valley, resulting in stadium name change. Loss of naming rights indicates reduced brand investment or sponsorship portfolio contraction.",
+        "suggestedAction": "Investigate broader sponsorship portfolio rationalization. Assess if this reflects budget constraints, portfolio optimization, or strategic shift in sports/entertainment marketing spend.",
+        "sourceName": "Lehighvalleylive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmpfV0UtSXZSSFpvbFg2bVNBeHhucjRxcXdleEhBSURUZlRZS3p2cjRLYzlWOTZjT25hVXNTZWwxaXY5WTFEMU42dFpNUUZGYlpJZ2drVWRIWmdZdklrNnhBMGJRYVBIOWFjNHNRaXc4OVpodWtGdkYzZHlTWXJ5dmVNNHdMcXd3R1BlcG5uejZkM3NDUE9hWUlJX3YyWGlSWGRsUE1SM0xtMTlxZDZNUEE3bHlMeFFNajlLTTNvTHB5QlFFTjVZZkhEM2FLYVF1eXFvcGZ6emVwdw?oc=5"
+      },
+      {
+        "category": "Labor/Operational Challenge",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Workers strike at Coca-Cola Consolidated facility in Anderson indicates labor relations and operational challenges. May impact production, supply chain, and internal focus.",
+        "suggestedAction": "Monitor labor situation and its potential impact on Coca-Cola's operational priorities. Labor disruptions may redirect management attention away from strategic vendor initiatives.",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG1MNDdxeFJ5ZDc2MFY2d05hNl9WTVdrZHh4MlNZVnozRzY2aWN3RVBLc2lEdHdHTFZQWlRQcUJYTGF3Z2tnUmlrVmxnSW9QNzBQM3RQZk5nb3RnbDAycUh5MVlYc2d6aFZYTWk4NU5rSC1LS3dRWGo3STJNbGNxVDNrSDZNTG1ZMkFOTUh0dDBEQ2FBRVNGY2ZQaDlWQQ?oc=5"
+      },
+      {
+        "category": "Geographic/Market Exit",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "End of a 10-year era for Coca-Cola in South Africa indicates market exit, divestment, or significant operational restructuring. Suggests portfolio contraction and reduced presence in the region.",
+        "suggestedAction": "Clarify nature of South Africa exit (full market exit, franchise model change, etc.). Assess implications for regional strategy and any vendor/partner consolidation following the transition.",
+        "sourceName": "businesstech.co.za",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRDRThSY2c5X09YUnhUU0Z6ZjVLZmJ0YzlLMnlLN2ZneEZpYzFuOFpFNnNMc01aMlZEOFhiVy1zQ0c0d05Qajh3akdOTDZGN2RSOGt4T0FEaFBNZ2l5SEs5RFZISmQ5RFBMSjRxVGVERW9Hb1pzTnlDMmhHc09rRjJIQm03VXV6X0tXbU9yeVJ1Y1BSYkpKdDVZcXIwVEpX?oc=5"
+      }
+    ]
   }
 ]

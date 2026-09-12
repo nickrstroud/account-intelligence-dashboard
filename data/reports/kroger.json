@@ -646,5 +646,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRzRPT2RjOTFhV1lMZ19rVHlpTm5SZXJTQU5vTFB4VHU2UEllaTc2ZUJpeXc4T0JxMWZPWXRUUTUzRFlwSTRiZ2MzTkxENGJncldubDh2UTItcklpM3I0eWs4SG9xb2tpZkxsQVpWWVpWUkxmLWJVbV9XbnhBWC1BNUxGaDQ1OWowWHAxeHl6c0Rqekt5UkVYWEZreWx1V1JFbzRRczVZNUctUTlJSVQzRlFjOW5yM0lCRTl2dUxNc25mdllONUFXOXZTampndFBxNlhLSkdqTEYteUJNTHZadzNuU0g1ZE9ZcmJKQkczcUY2bDg1QXFHRlFYaEdYOUtreEgzTzQwdEM4bzdJRl9jWExRSU81Z25XdDNuOUdfX2thQ2Q4QkF2ZDZLQ3R3OW4xYnpLeUVmY3UzbGZ5UEo4TUhmd1ZFZXVDVGcybHhLRWVjMEVYNmtPcFB1WGFPMmFrVVFzV1ZYbE9NT1B1d2xwTDdUeTRmYXFLVENsZUpFZTVVUElMeEpmdGR0OGtnb3VFSFVCb2ZYTzdzZw"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-12T13:14:05.720Z",
+    "source": "daily",
+    "headline": "Kroger faces earnings headwinds, customer fraud concerns, and product withdrawal challenges amid consumer pressure",
+    "signals": [
+      {
+        "category": "Sales guidance reduction due to cyclospora outbreak and consumer spending pullback",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Kroger cut sales guidance citing cyclospora contamination issues and pressured shoppers pulling back spending, though profit forecast maintained. Signals near-term revenue headwinds affecting overall business performance.",
+        "suggestedAction": "Monitor upcoming earnings call for magnitude of impact and guidance revision details; assess if this affects vendor volume/spend forecasts",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXhxS0VHWWhoSU00ZDFUd0MxZDVwOTY3QXd6RUVSNXl3VHdyblpTOTV2UnhBS3VoRDFhVzZVMFE5YjFCek1tc3lGMnQ0MlVmb1huSmtzaU5xeExIS2JGVm5sQ2hwMjl5X3R2bXVudk0yRWpMcXNMdjlyUmFGdzhrY0o1UmhGOHhDZGNESFFQVUdkWk1mcmZPaA?oc=5"
+      },
+      {
+        "category": "Customer fraud reports and regulatory inquiry from lawmakers",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Multiple reports of customer fraud at Kroger locations with lawmakers sending formal letters of inquiry. Reputational and potential compliance risk that could impact customer confidence and operational scrutiny.",
+        "suggestedAction": "Track regulatory follow-up and any formal investigations; assess if vendor systems/controls are implicated in fraud incidents",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRzRPT2RjOTFhV1lMZ19rVHlpTm5SZXJTQU5vTFB4VHU2UEllaTc2ZUJpeXc4T0JxMWZPWXRUUTUzRFlwSTRiZ2MzTkxENGJncldubDh2UTItcklpM3I0eWs4SG9xb2tpZkxsQVpWWVpWUkxmLWJVbV9XbnhBWC1BNUxGaDQ1OWowWHAxeHl6c0Rqekt5UkVYWEZreWx1V1JFbzRRczVZNUctUTlJSVQzRlFjOW5yM0lCRTl2dUxNc25mdllONUFXOXZTampndFBxNlhLSkdqTEYteUJNTHZadzNuU0g1ZE9ZcmJKQkczcUY2bDg1QXFHRlFYaEdYOUtreEgzTzQwdEM4bzdJRl9jWExRSU81Z25XdDNuOUdfX2thQ2Q4QkF2ZDZLQ3R3OW4xYnpLeUVmY3UzbGZ5UEo4TUhmd1ZFZXVDVGcybHhLRWVjMEVYNmtPcFB1WGFPMmFrVVFzV1ZYbE9NT1B1d2xwTDdUeTRmYXFLVENsZUpFZTVVUElMeEpmdGR0OGtnb3VFSFVCb2ZYTzdzZw?oc=5"
+      },
+      {
+        "category": "Overcharging allegations in Ohio",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Report of Kroger overcharging customers in Ohio, adding to reputational and potential regulatory compliance concerns.",
+        "suggestedAction": "Monitor for state-level regulatory action or customer litigation; assess implications for pricing systems and vendor accountability",
+        "sourceName": "Supermarket News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUFicEtGVWV6Si1XRkZCQ0tsY1J0VkVXZk9BSllLenVHcGpUQ2hyc29KaE9lMkRYazh2WlVDQ1YtUE5zV1JRQnRfbjVvNkE1dm5aNUdSOFY3MDZkTThWX2JYUnJISkJNZ19RTThyNXM1YXNMUmxhZEd1UnJNeUpudG03M1ZZVWlLNEZQdA?oc=5"
+      },
+      {
+        "category": "Boar's Head product withdrawal/delisting from stores",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Boar's Head deli products beginning to disappear from Kroger shelves, likely due to listeria concerns. Impacts vendor shelf space and customer availability, signaling supply chain disruption.",
+        "suggestedAction": "Clarify if this affects your vendor's product mix or shelf space; assess any margin pressure from product substitutions or category reconfiguration",
+        "sourceName": "WCPO 9 Cincinnati",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkdpeEVpeEJTQmh6akFLdmtvZGxuWGJlYUFKY29kZ3JpQy0xYlNxQVkxSjNiNDd2S2hSRkkxUnA2aFlMTVQ3ZVJMa2hib0I4aGtybXNZYWJxTlVmX1YwRm9mVmt2d256NzhUOVNHbkdUMWlzS0ozNldIdDZXMW5BN3A1WTJWNjBkejRPQ1Z4UEZ1bkE0aFh3bERhalNJVHR1SzdMUE9SZTdmQ2FBa2JaR0VmQWkxUQ?oc=5"
+      },
+      {
+        "category": "New store expansion in North Texas",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger planning new store openings in North Texas as part of continued regional grocery investments. Signals ongoing capital deployment and market expansion ambitions.",
+        "suggestedAction": "Engage Kroger procurement/supply chain on new store buildout; assess vendor requirements and opportunities to supply new location",
+        "sourceName": "Dallas News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2xfRWxQMGRjcmlNWFp6WjFZR0dfbUFNMGVCa0l5a0RyS2lvdW5EZGQ2M1gyTnNPbi1NcFRKNU9iWWdyTVhQWG91VGpXLTFrbGhBb3IzbHN3dmxoSFVuV1AtZ1d3RWY1eTVEZk1DWmVmOUVZTFpZakpDQzU0czk4VEd0UG9pNHBkeGc2WkxjR3ZOZWRPQXM4TzRxbTJWZXVGVnlRUFg1eV9uUnM2X3pMSw?oc=5"
+      }
+    ]
   }
 ]

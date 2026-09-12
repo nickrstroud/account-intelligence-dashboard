@@ -459,5 +459,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzVZZmR6NXhpUjBCT1hYQlpSSlZ4bXU1eFhrV2NWOUpTLUEzVlJ2Wk1neWt3bEx0MjBOT3Rva2xQX3dLbWFjaXpMTUQwX01hTktWWkJSbWZWRkRsMnhuVEFvTFcxNWM1dXNhWTJINl9Mb3hfc1J4ZGVIcEp3ZVYteWtPeGJTNlFxeGVueU5lM29IT3VCZ3VmeG9Zc1MtUEtnZ3hfUg"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-12T13:12:59.043Z",
+    "source": "daily",
+    "headline": "P&G stock volatility with strategic AI and supply chain initiatives underway; leadership stable with new Board Chair appointment",
+    "signals": [
+      {
+        "category": "Strategic Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G announced targets for growth rebound through AI adoption and supply chain overhaul, signaling investment in operational modernization and potential new technology partnerships.",
+        "suggestedAction": "Discuss AI and supply chain optimization initiatives; explore potential expansion of services into these transformation areas.",
+        "sourceName": "MarketBeat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2JWMVduM0FzR1hDV1l0U0ZUZk1mbF9uMGRzc3NKX0lGdEFZeE5rekI4LXlpOVNnWmJ0eFlZRjBLRmgtRnJ3SktfYl95TVhSWm1vczBPWGJUV3YxTllYVURLVS1OT3RBSDZ6MEpLTGFoalV4dG1WSlQxa2tZemZyeGxHVDJEZ3NFdUpVN1Zwa08wcmZaWDZSdWNMcnNLWHYtSWtQWXFLUGxtMUhlVmN0NEIwbm5QbW5zWWpmUmkyZ0tXRC1GVkE"
+      },
+      {
+        "category": "Leadership Transition",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed as new Chairman of P&G Board of Directors, indicating continuity in strategic governance.",
+        "suggestedAction": "Note new Board Chair for relationship mapping; monitor for any shifts in strategic priorities or vendor relationship approach under new leadership.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ"
+      }
+    ]
   }
 ]

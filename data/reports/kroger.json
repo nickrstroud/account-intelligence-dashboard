@@ -699,5 +699,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2xfRWxQMGRjcmlNWFp6WjFZR0dfbUFNMGVCa0l5a0RyS2lvdW5EZGQ2M1gyTnNPbi1NcFRKNU9iWWdyTVhQWG91VGpXLTFrbGhBb3IzbHN3dmxoSFVuV1AtZ1d3RWY1eTVEZk1DWmVmOUVZTFpZakpDQzU0czk4VEd0UG9pNHBkeGc2WkxjR3ZOZWRPQXM4TzRxbTJWZXVGVnlRUFg1eV9uUnM2X3pMSw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-13T13:15:09.112Z",
+    "source": "daily",
+    "headline": "Kroger faces significant revenue headwinds and operational challenges amid customer pullback, food safety issues, and fraud allegations",
+    "signals": [
+      {
+        "category": "Revenue decline and demand weakness",
+        "updateType": "earnings",
+        "score": -2,
+        "summary": "Kroger lost $12 billion in market value and cut sales guidance due to shifting customer behavior and reduced spending. Company cited pressured shoppers as a key factor in trimming revenue outlook.",
+        "suggestedAction": "Review Kroger's updated financial forecasts and discuss budget allocation plans with the account. Assess whether our solutions can help optimize operations during revenue contraction.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObFhuX3Z1T2l0dm5YdEVRQkg4eDRJNnFuQXRjTXlOdmVoZkl4Ym9sU2pJT2h6dE04bEhXdm5neGREclktYVBYX3A1RG5leG1hZlc2a3RlRWJyanlwbkl2am1hbllHNGdQSkU1RUFfOG92THF3TE9PLUwtTkNlTUxQZHNOYUxkdw?oc=5"
+      },
+      {
+        "category": "Pricing integrity and fraud concerns",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple reports of Kroger overcharging customers in Ohio and fraud allegations requiring lawmaker response. These issues damage brand reputation and customer trust during an already challenging period.",
+        "suggestedAction": "Prepare talking points around supporting operational transparency and customer confidence. Monitor if these issues escalate to regulatory action that could distract account leadership.",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRzRPT2RjOTFhV1lMZ19rVHlpTm5SZXJTQU5vTFB4VHU2UEllaTc2ZUJpeXc4T0JxMWZPWXRUUTUzRFlwSTRiZ2MzTkxENGJncldubDh2UTItcklpM3I0eWs4SG9xb2tpZkxsQVpWWVpWUkxmLWJVbV9XbnhBWC1BNUxGaDQ1OWowWHAxeHl6c0Rqekt5UkVYWEZreWx1V1JFbzRRczVZNUctUTlJSVQzRlFjOW5yM0lCRTl2dUxNc25mdllONUFXOXZTampndFBxNlhLSkdqTEYteUJNTHZadzNuU0g1ZE9ZcmJKQkczcUY2bDg1QXFHRlFYaEdYOUtreEgzTzQwdEM4bzdJRl9jWExRSU81Z25XdDNuOUdfX2thQ2Q4QkF2ZDZLQ3R3OW4xYnpLeUVmY3UzbGZ5UEo4TUhmd1ZFZXVDVGcybHhLRWVjMEVYNmtPcFB1WGFPMmFrVVFzV1ZYbE9NT1B1d2xwTDdUeTRmYXFLVENsZUpFZTVVUElMeEpmdGR0OGtnb3VFSFVCb2ZYTzdzZw?oc=5"
+      },
+      {
+        "category": "Food safety and supply chain disruption",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Cyclospora outbreak and removal of Boar's Head products from Kroger stores represents operational disruption and supply chain management challenges that may distract management attention and impact category performance.",
+        "suggestedAction": "Monitor for broader supply chain impacts. Position our solutions as supporting resilience and vendor management capabilities during food safety challenges.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXhxS0VHWWhoSU00ZDFUd0MxZDVwOTY3QXd6RUVSNXl3VHdyblpTOTV2UnhBS3VoRDFhVzZVMFE5YjFCek1tc3lGMnQ0MlVmb1huSmtzaU5xeExIS2JGVm5sQ2hwMjl5X3R2bXVudk0yRWpMcXNMdjlyUmFGdzhrY0o1UmhGOHhDZGNESFFQVUdkWk1mcmZPaA?oc=5"
+      }
+    ]
   }
 ]

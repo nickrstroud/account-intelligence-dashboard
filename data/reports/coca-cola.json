@@ -549,5 +549,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRDRThSY2c5X09YUnhUU0Z6ZjVLZmJ0YzlLMnlLN2ZneEZpYzFuOFpFNnNMc01aMlZEOFhiVy1zQ0c0d05Qajh3akdOTDZGN2RSOGt4T0FEaFBNZ2l5SEs5RFZISmQ5RFBMSjRxVGVERW9Hb1pzTnlDMmhHc09rRjJIQm03VXV6X0tXbU9yeVJ1Y1BSYkpKdDVZcXIwVEpX?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-13T13:12:57.351Z",
+    "source": "daily",
+    "headline": "WPP wins Coca-Cola global agency review; competitive and brand wins offset unrelated operational changes",
+    "signals": [
+      {
+        "category": "Agency Partnership Change",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "WPP set to win Coca-Cola's global agency review, indicating strong vendor confidence and potential expansion of WPP's strategic role with the account.",
+        "suggestedAction": "Monitor for new marketing initiatives and budget allocation under WPP stewardship; position for adjacent services expansion opportunities.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhxS2RxZmd2S21fS2tldmkybXRzSm1HV0syR1NuZWhUR2VCbEdLa1JxT1hsY1V5XzdnY1U4UUgxelZwSl9WOFZ6dTNfcTJKWHhGbGFaT0I3cFRQc2JSdElCVEVrMndXdFV3ZWdZcDRqOU1JdmxMeUsxOUNJMXBYbGhfdnNaTmdmb3NuV0h3N0RNVVB3OFhuV24xeFA4ZENFcmVta3l3RjF0amdf?oc=5"
+      },
+      {
+        "category": "Competitive Positioning",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Recent articles highlight Coca-Cola pulling ahead of Pepsi in market share and competitive positioning, particularly in zero-sugar category and convenience channels.",
+        "suggestedAction": "Leverage Coca-Cola's market strength as a selling point; explore how vendor solutions support their competitive advantage maintenance.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHJ3TXVudjJhRFl5bjUzRHRpVWYwU2hObkh1bURkeExsWWU4enZPcWNRQ201TTJLY2FiZUNsY1FKWExzbE9ZUjJlRDhWZ1Boak94Y1NkbVBiRnBfdlRnaTlraTVKSVF1MXBlS29hX29tSjIyMWE2Mk01VjBsZzdiS1cxLWlSTlFicHJYVHZzSFNUVWlrc1VLcnNqQXc?oc=5"
+      }
+    ]
   }
 ]

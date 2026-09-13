@@ -494,5 +494,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT01hbjBKbmJ4aEhhM1F1NGxkejV0WUZ1T2pXLUV0NG1hcXFKbzRvRkJxVDV0czFvdHcxX05JUkUwVXNCU29GVHNicEU1VU44RUkzRWRHMndlZWVnYlg5czdUWjRpajdBLXU3bS0xaTY1WFdRYXZjTVBXMF9rZ18zV0tXeG94X2hsb2FEamw1RVE3blJna0tXa1N0Zm1FWm03QzF4UjlfVTQ3XzRsOExZYUxkRHZEbXhXbEl6UXhSa1RqMHIzZHNScHRUNTQtdndGZnZiV1p1SnNPb3Y0UG9j"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-13T13:13:31.384Z",
+    "source": "daily",
+    "headline": "KDP demonstrates strong beverage momentum and portfolio optimization through JDE Peet's synergies and Chobani exit, positioning for growth despite recent divestitures",
+    "signals": [
+      {
+        "category": "US beverage market growth and analyst confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Keurig Dr Pepper received a Buy rating from multiple analysts citing strong US beverage growth momentum and synergies from the JDE Peet's deal, signaling market confidence in the company's positioning and revenue trajectory",
+        "suggestedAction": "Highlight KDP's expansion roadmap in upcoming business reviews; confirm budget allocation for beverage portfolio investments",
+        "sourceName": "Dealroom",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlTFJfaloyaGdfWmR0YktTTWlQVlRUdkhFZ21nREhrUnJaeGl1WjIxMTB2V2ZYZkZka1laMk41RlRrbUdHMzRUaGJuZVhEc1ZsQVUzZlZ5OGpMaEhIdzc0clFfV09ZSzgwYjlDRGNfbVFadjJHenZiWXBoRHB5YVNkaXJiRDd3YmszR1F2Si1YRjczWXZpYlJGYlZwbl83Zmh6SEgxdw?oc=5"
+      },
+      {
+        "category": "Chobani partnership enhancement and strategic capital deployment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced an enhanced partnership with Chobani on September 1st, advancing strategic priorities; this was followed by a $925M exit from Chobani investment on September 11th, representing successful portfolio optimization and capital redeployment",
+        "suggestedAction": "Confirm KDP's reinvestment priorities post-Chobani exit; explore whether divested capital is being allocated to core beverage or adjacent categories relevant to the vendor relationship",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

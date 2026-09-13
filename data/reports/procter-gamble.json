@@ -485,5 +485,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-13T13:13:59.176Z",
+    "source": "daily",
+    "headline": "P&G leadership transition and growth-focused repositioning amid market headwinds",
+    "signals": [
+      {
+        "category": "Leadership",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Shailesh Jejurikar appointed Chairman of P&G Board of Directors, signaling internal promotion and continuity. New leadership at the board level presents a re-pitch opportunity and potential shifts in strategic priorities.",
+        "suggestedAction": "Schedule stakeholder meeting with new Chairman's office to understand strategic direction; confirm vendor alignment with emerging priorities.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
+      },
+      {
+        "category": "Growth & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G announcing new product push and targeting growth rebound with AI and supply chain overhaul initiatives. Signals strategic investment in innovation and operational efficiency, indicating budget allocation and potential new capability needs.",
+        "suggestedAction": "Identify opportunities to support new product launches and digital/AI transformation initiatives; pitch relevant vendor solutions to innovation and supply chain teams.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGhQOTVyUGZFNnkyWUdzTXE1RnczbzVmY2JrTmI1ZFdrT1p3cUFibUJlbjUwWFVDYXQweXlRbmdRQl9BTDQxY0VLNlFMSXlTQ2pIa0FFUkpPNjJmVnh3QlhQUzYwVlFzZHExby1XelZzajJfeUZCblBvM3FHWkgtSEVVdERKY2pLcU9sRFVuTThZVVJtUWtSZ1VrRU4yN0VYaHRvcDVqc1FoS01nbnJLMGVEcjRpeWlpZ3hHMFZYLTJWUEpzTUFMSXN30gHPAUFVX3lxTE02WEZPZ2pHQlhuRU5mR2N5WnVHYkVyQ2VTaWlEWFNxQVVBSkowTkFwSjFoY2pubkJacGlrZEZFR2hfaEpiTzMyOU41ajRCazdMdHlOaHdGRkZZMTJMMkNoYm1pUlQyWGdmSUR3bXl3aEJUZ0c2MkR1QndGNC03ZkhPVVE3TFRMeVkwd3J2UWVjU1RPdkVqMVNra0k4SkFPNWNMTnhQVkRlZTFWZE92QlE0VUQ1dUxFbDR3ZEhON0dhSFNNMnk3TzBvX0IzUF9MNA?oc=5"
+      },
+      {
+        "category": "Market Performance",
+        "updateType": "market",
+        "score": -1,
+        "summary": "P&G stock suffered a larger drop than the general market, indicating investor concern about near-term performance despite growth initiatives. Market headwinds may tighten budget scrutiny.",
+        "suggestedAction": "Be prepared to demonstrate clear ROI and cost savings in vendor proposals; consider flexible engagement models to ease budget constraints.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWlnbzNFc2VXZzFFc1hNS1hKaXlPcFRLTUdBMHZyVjlCeldNNXhNYlZtSkZRU2k3bzB2R19QRFd0c2ZrV09QOS1yaTRtaDVIS1FBYVpFSmUyamNPQWlHMGF3d21nZzBCaFpzWktpc1h3X1A5M3c5aGE0ZENkVXdOdmxYeTduY2d1bHJYUE02d1JncmpRU0xqLUl0YlRpdw?oc=5"
+      }
+    ]
   }
 ]

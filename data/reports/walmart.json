@@ -492,5 +492,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VQkM5RVZhclJOV1NzdE9YV0hsbW5xMFZnckxlVVJ6Vk90ZWNWbUktbkR5QmRQRFpHdmFtVGhRYnJ3ZkpVdXg2bVpKUi04bVIyUUwwTnR3ek50V1VIN3NNQTZMU2hmNW5Kb09qRWtRRl9rMk0"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-13T13:14:09.018Z",
+    "source": "daily",
+    "headline": "Walmart pursuing organic expansion and M&A; acquisition of Bonobos signals apparel/e-commerce growth strategy",
+    "signals": [
+      {
+        "category": "M&A - Bonobos acquisition",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Walmart acquired Bonobos (online menswear/apparel brand) for $310 million. This represents expansion into a new digital retail channel and brand category, providing opportunity to cross-sell vendor solutions into apparel/e-commerce operations.",
+        "suggestedAction": "Investigate Bonobos' tech stack, supply chain systems, and vendor ecosystems post-acquisition. Assess opportunities to pitch solutions that support apparel/marketplace operations or omnichannel fulfillment.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazhMREVsRjBEWVVCVjJwaEo0X01ZRkF3ZXdFT2kzbWZ3Ml9uSTF2Nzh2aDZRZFBfSjNFTTVlVnJLX3l2UC1hem0yYW5xVmFMeFYtX0h3c3N0WWd4cFFBZFprVHdWYXNtbzVRcWRGUC1TUzB4TkhuRjdZa1NaQ3ptcXdrVzFmQ0YtSHpmSEQwRUx1VFF0S3puREN0Q21sdXhuVnpwV2pBU1A1NDVUQzF3Qw"
+      },
+      {
+        "category": "Technology deployment - contactless payments",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart rolling out contactless payment systems at checkout lanes nationwide. Indicates continued investment in point-of-sale infrastructure modernization and customer experience tech.",
+        "suggestedAction": "Use as conversation starter about Walmart's omnichannel technology roadmap and modernization priorities. Explore alignment opportunities with payment, POS, or transaction processing vendors.",
+        "sourceName": "Cleveland.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLTVQTE9nckZFQ1haMkpnX3JNYlRwbmFBMXVLQklmSWJESGYwRFpjRHFwYUdwZ2owaGlQSkZZSDlTUTdpVEZWVlVPb3g1UDM0Ul9HQlp5QWFLRHA2M0hYY0JKZnQ3YkNyc0NUY1VpZGg2a2pKS2djaDRheGJ4b1pkU3FHRFNFWkUtcDU2ZWJkWE9aQ0NJTTUweThmUVlDOFFUbFZGbUdPcHhvVTg2OG9MNXhmYUEwOGtKYkhkSGM5ZnVHbUFvQk81Zml3bDV1cXIyd2gw"
+      }
+    ]
   }
 ]

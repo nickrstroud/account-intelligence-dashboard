@@ -364,5 +364,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWhIa3MwSktibVZsTEhvYjZEZkhUWWlvUWNOWWdTWU16SDRJY0ZNMlNqby1Oa1VOaWNCWFNoOUQ2VjRSN182MjdkY1k3bmlkamZDRU1aaGNWWUpHQ2NFWm5FSnc0Z2ZMMXE1U0l2eTNiNFBBNV9LLWpSMTktemJsOHZ6NmthMnlCWkY3VnpyU1FHZE45eTVlOTY2NVZwUlh5alBqdloyU2V4NC1vekZyLXJxVEVZMTRFWU5HdUNIVXJpVTN3Qy1hZ0tnVkFBUkhrZWgydUM2dDZ3ZFFZNjdrUUw3c0hZZms"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-13T13:14:42.201Z",
+    "source": "daily",
+    "headline": "Target shows mixed signals: Sales outlook boost signals recovery, but investor positioning weakness and labor tension require monitoring",
+    "signals": [
+      {
+        "category": "Sales and Revenue Trajectory",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook as recovery efforts gain ground, signaling improved operational performance and stronger revenue trajectory.",
+        "suggestedAction": "Positive revenue momentum presents opportunity for budget expansion discussions; reference the recovery narrative in renewal/expansion conversations.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt?oc=5"
+      },
+      {
+        "category": "Investor Positioning and Stock Performance Weakness",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Multiple signals of investor caution: Major insurer decreasing position in Target stock, stock underperforming peers, and stock price declines despite recovery messaging.",
+        "suggestedAction": "Monitor for potential budget/capex scrutiny driven by shareholder pressure; be prepared to address cost justification and ROI in vendor discussions.",
+        "sourceName": "MarketBeat",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3JVWGIyelMwYllvZXBRVFBBdUtRbGowRnBFZEIzclBhRXlOci13ZUNHR3d2WW1XS3liWi1CVzB2QzNaNVN0TGx1bjBtSndHbkZEQU1PeS0tMEVjUTlpOEgzVW9qOExMeFV3bm1mUWVlTU1hM0tsQ08zcUFSUnFnZkY3TmwwOTdqSGhzeW1jbXFia05rUWZBc3FicTBxd1B0Y1hTVHBuQ2RsaGt5YzUwMmxHVEljX1YxZDRmc1NYd1B6YnphVVU0Z3dTX09fUFo2UWpOVEZMRFhDbW9CTEFv?oc=5"
+      },
+      {
+        "category": "Labor Relations and Reputational Risk",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Target is being singled out by the American Federation of Teachers, indicating labor relations or employment practice tensions that could affect company reputation and internal operations.",
+        "suggestedAction": "Monitor for potential internal disruptions or regulatory scrutiny related to labor practices; could impact operational stability and IT/vendor project priorities.",
+        "sourceName": "Audacy",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDlVb1VwYy00TTRzZGZQSzlRcjVFMVptOFVmaUV1S0s4ZDVzT3prZXBPVHdlby15UU1RMng1N3llcmZmTDhzNTJYaGxZYkdWRUxvWE04MkFyWEhoNml5QjdMR09ETGgwYnFNQ2ZNMkdIZjZjY0dEZ3duaDZNR09oZ3JleWxZZw?oc=5"
+      }
+    ]
   }
 ]

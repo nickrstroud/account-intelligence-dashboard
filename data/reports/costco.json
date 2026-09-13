@@ -475,5 +475,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSERjN2lGRzc0THdKVUdNWXVHUk5hcTMxWk1SaTRTOHFEMjZOeHZ1Z043d1BFQlNWZjRCblBPY3NtT2tBMENUZ05rYWpxX2gyeG5qWEZSenJqVzZXaGp5cGdzMmVUQk03ZVlDdWZNUUpvSjRWbURvMVhHVlVmV3VaazNIUEJPSTZkQkdGejFzb3BqNzBBS0s5WmM3czZyQVpvd05ZNWNObjVuT3luUGJuZFNBeWxkd3ll?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-13T13:14:22.879Z",
+    "source": "daily",
+    "headline": "Costco expanding warehouse footprint with multiple new openings in Oct-Nov 2026, signaling growth investment and market confidence",
+    "signals": [
+      {
+        "category": "Warehouse expansion across multiple states",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco is opening new warehouse locations in October and November 2026 across multiple regions (Arizona, Virginia, and other locations), demonstrating ongoing capital investment and business expansion.",
+        "suggestedAction": "Identify which locations are opening and assess opportunities to expand services/offerings to new warehouse operations; use as rapport-building talking point on growth trajectory",
+        "sourceName": "Cleveland.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSERjN2lGRzc0THdKVUdNWXVHUk5hcTMxWk1SaTRTOHFEMjZOeHZ1Z043d1BFQlNWZjRCblBPY3NtT2tBMENUZ05rYWpxX2gyeG5qWEZSenJqVzZXaGp5cGdzMmVUQk03ZVlDdWZNUUpvSjRWbURvMVhHVlVmV3VaazNIUEJPSTZkQkdGejFzb3BqNzBBS0s5WmM3czZyQVpvd05ZNWNObjVuT3luUGJuZFNBeWxkd3ll?oc=5"
+      },
+      {
+        "category": "Specific warehouse relocations (Newport News, AZ facility details)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Relocated Newport News Costco set to open in November 2026; new Arizona warehouse also opening soon. Regional expansion continues with modernized/relocated facilities.",
+        "suggestedAction": "Monitor for opportunities to support new facility onboarding and integration processes",
+        "sourceName": "The Virginian-Pilot",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LYW01NWhpR0dQWld0RlVhcUZjdHg3dlFFWF9aVTh1ZFZ5Z3dNZE90YnBxZjN6czVrS1VXLTZxSDJsOHg4bmVSbmx1cWIwOWdBakFqbG9nN2xDSWV3eEdFckRMLVdyQlg1TENsY05UeVFkVURDelhacDJQRmlrdz?oc=5"
+      }
+    ]
   }
 ]

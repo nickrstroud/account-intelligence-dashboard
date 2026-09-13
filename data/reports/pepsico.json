@@ -728,5 +728,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWi0zdDRBV2drT2prZWRQVkVqdG5jWDF2S0RvbHl0bldjVDdaMVR5N1l1c2FVUlFfZE81bHhNQWRibGV4dVY5clVwRGZEaVdSX2tET196bW1xdEN3U0s5MUFfT1EyUEtQTHVpYTdIdjdpeDZFdjBYZ2RLZTJNam9ZRkNYQ2QtUXdwZnFQUW1DN1lDZEN6"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-13T13:13:15.735Z",
+    "source": "daily",
+    "headline": "PepsiCo switches global media business from Omnicom to Publicis—significant account loss reshaping vendor relationships",
+    "signals": [
+      {
+        "category": "Omnicom loses major PepsiCo account to Publicis",
+        "updateType": "competitive",
+        "score": -2,
+        "summary": "PepsiCo has handed its global media business to Publicis, ending a long-standing relationship with Omnicom. This is a major account loss for Omnicom, with leadership explicitly characterizing it as a significant disappointment.",
+        "suggestedAction": "If your company is Omnicom or dependent on Omnicom's PepsiCo budget: Assess exposure and client health immediately. If your company is Publicis or a vendor to Publicis: Identify expansion opportunity to serve PepsiCo's media needs under new agency partnership.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTV6SDdiNUFCT1BEM2dqaFVRRy1nNXVSR0hwdVQ4QV90SVAyY3Z4RUZZY3AwbjlSM2hiZklyZ3B1ZkRBS2JPOU0zenJJaWhEdEVkRzdWYWdCT3ZHSHFHRlFGQ1hmNE9zNXp2enh2T1Z3Vm1pZmVHSkpPTzBLR0xKSGVnblF1VlFqUTJiTnZmVjRCNFFIS01qSGI0YzVkejZkaEJEZmM1ZGlmWlRsU1hzb210UEs"
+      },
+      {
+        "category": "Omnicom layoffs tied to PepsiCo loss and broader challenges",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Omnicom announced a 15,000-person workforce reduction by end-2026, explicitly citing the PepsiCo loss as a contributor ('can't be sugarcoated'). This indicates budget pressure and potential service degradation for remaining accounts.",
+        "suggestedAction": "If your company works with or through Omnicom: Monitor service quality and account attention. Consider direct relationship discussions with Omnicom clients to ensure continuity. If your company competes with Omnicom: Prospecting opportunity as resources tighten.",
+        "sourceName": "bestmediainfo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3M2MzlhamU0djJRQUllclZMd2hoYXZWMjA0YWgyM2ZSRG9WcGZJY3A2NjgwMEVVNG1xaW82c1F3YmtGaWVHYXU0MlMxeDljeHBaTlNVbFlrVDNqemd5RTI0LUZndElsdFRfdVlBeEQzMUstQlJtdnNYVVV3ck1NNVRXcHozTVV2SXl3akpYSHFtMHY1eWx1RGg1dGxaemFyZzJOYmhGbFNmNURQc2FZUi10bUFBdlYzX09hTFJDWTN1SHdqS2FZcFdWaVlqQWVYZWdHTDE5amllV0XSAdsBQVVfeXFMTm9zNjM5YWplNHYyUUFJZXJWTHdoaGF2VjIwNGFoMjNmUkRvVnBmSWNwNjY4MDBFVTRtcWlvNnNRd2JrRmllR2F1NDJTMXg5Y3hwWk5TVWxZa1QzanpneUUyNC1GZ3RJbHRUX3VZQXhEMzFLLUJSbXZzWFVVd3JNTTVUV3B6M01Vdkl5d2pKWEhxbTB2NXlsdURoNXRsWnphcmcyTmJoRmxTZjVEUHNhWVItdG1BQXZWM19PYUxSQ1kzdUh3akthWXBXVmlZakFlWGVnR0wxOWppZVdF"
+      }
+    ]
   }
 ]

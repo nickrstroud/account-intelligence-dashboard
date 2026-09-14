@@ -754,5 +754,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3M2MzlhamU0djJRQUllclZMd2hoYXZWMjA0YWgyM2ZSRG9WcGZJY3A2NjgwMEVVNG1xaW82c1F3YmtGaWVHYXU0MlMxeDljeHBaTlNVbFlrVDNqemd5RTI0LUZndElsdFRfdVlBeEQzMUstQlJtdnNYVVV3ck1NNVRXcHozTVV2SXl3akpYSHFtMHY1eWx1RGg1dGxaemFyZzJOYmhGbFNmNURQc2FZUi10bUFBdlYzX09hTFJDWTN1SHdqS2FZcFdWaVlqQWVYZWdHTDE5amllV0XSAdsBQVVfeXFMTm9zNjM5YWplNHYyUUFJZXJWTHdoaGF2VjIwNGFoMjNmUkRvVnBmSWNwNjY4MDBFVTRtcWlvNnNRd2JrRmllR2F1NDJTMXg5Y3hwWk5TVWxZa1QzanpneUUyNC1GZ3RJbHRUX3VZQXhEMzFLLUJSbXZzWFVVd3JNTTVUV3B6M01Vdkl5d2pKWEhxbTB2NXlsdURoNXRsWnphcmcyTmJoRmxTZjVEUHNhWVItdG1BQXZWM19PYUxSQ1kzdUh3akthWXBXVmlZakFlWGVnR0wxOWppZVdF"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-14T18:26:21.349Z",
+    "source": "daily",
+    "headline": "PepsiCo facing competitive pressure and operational challenges; media agency restructuring signals transformation efforts",
+    "signals": [
+      {
+        "category": "Competitive Performance & Market Share",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Multiple articles highlight Pepsi losing ground to Coca-Cola over the past five years, with specific challenges in convenience-store distribution and market positioning.",
+        "suggestedAction": "Account team should probe current vendor performance metrics and PepsiCo's strategic priorities to identify opportunities to support turnaround efforts or offset competitive losses.",
+        "sourceName": "24/7 Wall St.",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWm41Wm9tYjR1Z2NaRlMtN2lSY1BIZFcwOVIzV0c2NjU5bWdEUjdQdGowYmhIZnhCdmNDb3BmN1Q0NEVpd044aGNWZS1HUktnV0lBRzVwSVQxZ21FX0xNYmt0RGZ4OXBKbVhfQjJJXzJkdWhwUUZ6UXhWNTNMaV9tTEp2OWhWMDV0VmpqVXdnOFJQQmpDUUIxZ3BYdVBhWUN1SDBPMVNDQnlPVzA?oc=5"
+      },
+      {
+        "category": "Media & Marketing Agency Realignment",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "PepsiCo hands its global media business to Publicis, representing a significant transformation at the CPG giant and strategic shift in how the company approaches marketing operations.",
+        "suggestedAction": "Clarify whether this agency change affects current vendor relationships or creates new stakeholder dependencies; assess if transformation signals broader organizational or budgetary changes.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTV6SDdiNUFCT1BEM2dqaFVRRy1nNXVSR0hwdVQ4QV90SVAyY3Z4RUZZY3AwbjlSM2hiZklyZ3B1ZkRBS2JPOU0zenJJaWhEdEVkRzdWYWdCT3ZHSHFHRlFGQ1hmNE9zNXp2enh2T1Z3Vm1pZmVHSkpPTzBLR0xKSGVnblF1VlFqUTJiTnZmVjRCNFFIS01qSGI0YzVkejZkaEJEZmM1ZGlmWlRsU1hzb210UEs?oc=5"
+      },
+      {
+        "category": "Regulatory & Compliance Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Indian authorities busted a firm faking expiry dates and nutrition labels on PepsiCo and Nestle food exports, indicating supply chain integrity issues and potential regulatory exposure.",
+        "suggestedAction": "Monitor for broader supply chain compliance initiatives or increased vendor scrutiny at PepsiCo; assess whether this incident prompts new quality/compliance vendor requirements.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZyVXNVTVRDcFZVeXVTcFA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5"
+      },
+      {
+        "category": "Innovation & Operational Efficiency",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is deploying autonomous trucks for product distribution (e.g., Doritos), signaling investment in logistics modernization and supply chain innovation.",
+        "suggestedAction": "Explore whether PepsiCo's logistics transformation creates opportunities for vendors to support driverless/autonomous initiatives, fleet management, or supply chain optimization.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZml3ZHA2S09TWERTUHNNbFZheVJWcmtuSk1PVzBibzY4b183VldJT2MzN3lsUnRkZWhCTUgyQ25Ba0tUb1RzVEFLREc5WEQwUWtoZWZxU0Z4YW5GWjB0VXZaVzB2NDJVU3NrWEtNZ1o4SDRLaXZCLWdEcHh1MzVPdldCNmZLTjBCakhMQkxsSXNlbWs5aGdKN0Ffd3M?oc=5"
+      }
+    ]
   }
 ]

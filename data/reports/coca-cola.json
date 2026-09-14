@@ -575,5 +575,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHJ3TXVudjJhRFl5bjUzRHRpVWYwU2hObkh1bURkeExsWWU4enZPcWNRQ201TTJLY2FiZUNsY1FKWExzbE9ZUjJlRDhWZ1Boak94Y1NkbVBiRnBfdlRnaTlraTVKSVF1MXBlS29hX29tSjIyMWE2Mk01VjBsZzdiS1cxLWlSTlFicHJYVHZzSFNUVWlrc1VLcnNqQXc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-14T18:26:00.937Z",
+    "source": "daily",
+    "headline": "WPP agency review win and Eurasia VP leadership promotion signal positive momentum; unrelated F1 sponsorship visibility generates brand awareness",
+    "signals": [
+      {
+        "category": "Creative Services / Agency Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "WPP poised to win Coca-Cola's global agency review, indicating a major shift in creative/marketing partnership and potential expansion of marketing services.",
+        "suggestedAction": "Confirm WPP win and explore whether this change creates opportunities for complementary B2B services or insights into Coca-Cola's strategic marketing priorities.",
+        "sourceName": "adage.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhxS2RxZmd2S21fS2tldmkybXRzSm1HV0syR1NuZWhUR2VCbEdLa1JxT1hsY1V5XzdnY1U4UUgxelZwSl9WOFZ6dTNfcTJKWHhGbGFaT0I3cFRQc2JSdElCVEVrMndXdFV3ZWdZcDRqOU1JdmxMeUsxOUNJMXBYbGhfdnNaTmdmb3NuV0h3N0RNVVB3OFhuV24xeFA4ZENFcmVta3l3RjF0amdf"
+      },
+      {
+        "category": "Leadership Appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Rishav Gandhi elevated to VP of People & Culture for Eurasia and Middle East region, a regional HR leadership promotion.",
+        "suggestedAction": "Monitor if this signals expanded HR/workforce planning initiatives in growth regions; potential indicator of restructuring or expansion activities ahead.",
+        "sourceName": "hrtoday.in",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTYtX1VLQjhWZkVyeXJRcjB5ZVBCZ2VsOHZ0RV9nX0lQZkF5dEJZSVlsdnJhS1JKYWl2eC1pbjF3N3VjWEs2S01waDUwUkg4UlhCQUhhOGpwTGd6czRIa1RJRnZuczZOLTJvUnZsZ2VqcUhYR1AxUGlRVF9EZi00VVJNTS1lcklVa2JFSFBLY2llUjBFTnlfTEVtY3ZEZXVXbzdvb0MyZGdJSGozUXk4dTdtWUZsNWtFQkM3V1JB"
+      },
+      {
+        "category": "Brand Sponsorship & Marketing",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Coca-Cola gained positive brand visibility through F1 sponsorship during Spanish GP, with multiple media outlets covering the post-race moment involving driver Lando Norris.",
+        "suggestedAction": "Use as rapport-building talking point; demonstrates Coca-Cola's sports marketing strength and media amplification capability.",
+        "sourceName": "Fox Sports",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQbGphWU55TnQtbmlDZS1QXzNxUzBsWHh1LUI4WUhmbWxLYXdsZGxtR01hSkxNMGY2Z0lDc2l2U2ktajFtUngwNDdwaGNwMEZaVHRKQkRDUWNYbExxanRqbmU2S2xHLW40Vm9rYnZvVmQzWmVUSmNKOExsbDJLbWJ6LUxBaFlzMDl5R3ZiYmVobl9XdmIxRFdtLXJqZ1BiSENMNXVlYldfT2s4blZQN2lJNmdIMl85TTN5STQyWXFNWV9xMlNIazBCYWM1dmp1elB4RVhxbFU4b1JjaUR3Wk13dlR0T1lTZXVDaDZyY2VkdUw5a0puWFBLR1hmQktaSUN6dTIwX25GNkVLZDNrMTJQOFNDalUxM3ppTk1GUlhKbDhfeGRCQy1VX0tXcm5POEYyT0kzR1ByTjlucmxOZjgyTGw1RHNRZHJjTFUzcg"
+      }
+    ]
   }
 ]

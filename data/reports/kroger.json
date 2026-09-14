@@ -734,5 +734,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXhxS0VHWWhoSU00ZDFUd0MxZDVwOTY3QXd6RUVSNXl3VHdyblpTOTV2UnhBS3VoRDFhVzZVMFE5YjFCek1tc3lGMnQ0MlVmb1huSmtzaU5xeExIS2JGVm5sQ2hwMjl5X3R2bXVudk0yRWpMcXNMdjlyUmFGdzhrY0o1UmhGOHhDZGNESFFQVUdkWk1mcmZPaA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-14T18:28:02.696Z",
+    "source": "daily",
+    "headline": "Kroger faces declining sales, competitive losses, operational crises, and customer trust issues amid market share pressure",
+    "signals": [
+      {
+        "category": "Competitive Market Pressure & Revenue Decline",
+        "updateType": "competitive",
+        "score": -2,
+        "summary": "Kroger loses billions in customer spending to Walmart, Amazon, and Costco; competitive positioning significantly weakened",
+        "suggestedAction": "Escalate account review; assess if Kroger is deprioritizing discretionary vendor spending or consolidating suppliers. Monitor for RFP delays or budget cuts.",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajBJbWhDTXlFUEQ0OGdiTk11czdZcU1NVWc2cS16VllNN3o3WE10bS0yUzJlakM5ZmVkYThCZUJBcmNLd2VyOEdXYnRVQW1xY1Y5SVdoVUIyZzh4LXRFR2x4SXN4RkRSeXdWemQzUkh5TzlsUGs1U2Z4MFIxS3VWUEk4d2FJY1ZwR001Q0xuNXFuLUR2VnpWelZKZkFDSXJPOHZsaUlGY3ZMZXdvaV90UWN3ZTFOLXF3bW0tbUd1UEZIdmxvTGYxM0t1OA"
+      },
+      {
+        "category": "Sales Guidance Reduction",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Kroger cuts sales view citing cyclospora contamination crisis and pressured consumers; earnings outlook weakened",
+        "suggestedAction": "Prepare for potential budget reviews and cost-control measures across Kroger's operations. Expect emphasis on ROI and efficiency.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXhxS0VHWWhoSU00ZDFUd0MxZDVwOTY3QXd6RUVSNXl3VHdyblpTOTV2UnhBS3VoRDFhVzZVMFE5YjFCek1tc3lGMnQ0MlVmb1huSmtzaU5xeExIS2JGVm5sQ2hwMjl5X3R2bXVudk0yRWpMcXNMdjlyUmFGdzhrY0o1UmhGOHhDZGNESFFQVUdkWk1mcmZPaA"
+      },
+      {
+        "category": "Product Recall & Brand Crisis (Boar's Head)",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Boar's Head meats being pulled from Kroger stores due to contamination/safety issues; reputational and operational disruption",
+        "suggestedAction": "Monitor for secondary supply chain impacts and customer sentiment decline. This signals operational stress in Kroger's sourcing and quality control.",
+        "sourceName": "WCPO 9 Cincinnati",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkdpeEVpeEJTQmh6akFLdmtvZGxuWGJlYUFKY29kZ3JpQy0xYlNxQVkxSjNiNDd2S2hSRkkxUnA2aFlMTVQ3ZVJMa2hib0I4aGtybXNZYWJxTlVmX1YwRm9mVmt2d256NzhUOVNHbkdUMWlzS0ozTldIdDZXMW5BN3A1WTJWNjBkejRPQ1Z4UEZ1bkE0aFh3bERhalNJVHR1SzdMUE9SZTdmQ2FBa2JaR0VmQWkxUQ"
+      },
+      {
+        "category": "Customer Fraud & Legal/Trust Issues",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Dozens of shoppers report fraud at Kroger; lawmaker sends investigatory letter. Indicates customer trust erosion and potential regulatory scrutiny.",
+        "suggestedAction": "Flag as reputational risk that may affect Kroger's negotiating power and internal morale. Monitor for regulatory developments that could impact their operations budget.",
+        "sourceName": "wset.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPeW1IblZYNDRtSFgwLVdRS1BobnVRUzN6ODMta2draVdfUnlRcWJ4c1dLZlR6bWJoTGdtaTJjekhtLWhra0VPeVY4bWF3UWZVTlBXVW9LaUF5cE5KTG5HMDJGQ0ZDMjNsWnlKRXR0UlRkQnJpenFxcnVyNGNfUmo0UmhHYTJQOWJkYkl0VXhFRHJMbUx2b2JxWmFuazhRNjhtWFVOQVA5R21pa3VKRWw2VzVyU1FIY0FfLVc1RkpScUZLTWRjclBhamphQ01WV0xkdjN1RVEwMXZGQUY0M2FVTnQxUnpVMWhYS2h3Y0F4Q2FRU2trWkY2MThLOGR3c1ZmRGxJSndhaUwzcXlyQlR2dGtfYUFiTG91U3cwcWtUdkM0a0IxQnBqcm9TbS0wMzQxRG9FWXBhbGJTMlJ6WS1mYlZlSnFUVHFISjY4TUhyOUdvNUs0Ym4wOTM2SWZkbkVMN3VKZkpkVVRfR1FDdzluVjNhWEdaOGoxNDdoYlQ1TEVQZ1Ayd01nb2RWUnJpeVpqc2NUQTln"
+      }
+    ]
   }
 ]

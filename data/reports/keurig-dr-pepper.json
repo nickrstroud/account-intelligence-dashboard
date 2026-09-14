@@ -520,5 +520,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-14T18:26:40.026Z",
+    "source": "daily",
+    "headline": "KDP strategic restructuring (Chobani exit, business split) unlocks value; mixed signals on partnership evolution and portfolio focus",
+    "signals": [
+      {
+        "category": "Chobani stake sale and portfolio optimization",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper cashing out of Chobani investment at $925 million, viewed as strategic reset and value realization after enhanced partnership period.",
+        "suggestedAction": "Understand how portfolio shift impacts KDP's go-to-market priorities and category focus; assess potential budget reallocation from dairy/yogurt to core beverage segments.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjZ4Q2IyNlhlTTg4cHBmMXk2OGd5WFZjYUktaWZiTGw0RGZ1RTlwM3JJMUgzanpMMmNibWc3cDM4MDhZVXNtamdNUzRsUXVHME9jODFJUWk5Zy1HNmRYM2Z6Zk5zaXhzTmduWkp5TWszX3ZHTWc3MFBMTS1jZXg3MWgxY2dTSVhqdzJ6YnVBRDk3NElEUTh6R3J6c2pzUQ?oc=5"
+      },
+      {
+        "category": "Business split and strategic focus",
+        "updateType": "restructuring",
+        "score": 1,
+        "summary": "BofA identifies compelling value in KDP following its business split, suggesting improved operational focus and market positioning.",
+        "suggestedAction": "Clarify the scope and timeline of the business split; identify which business units may have separate buying functions or budget cycles post-separation.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2k5MmlvNHJYN0YzcUVvemdDeW5uc2xsSXdyYUEzd1NEcVJvZ2VJaElRNEl0Znp1bDhkMGh3NFB2VnRMVjVrN1Foc1h4ZllrZUp0aERYY0c0bUlHdXFNTExzb2JMSDJxb2FTYUtSdml1STJ0NHpEN1ZzQnNxQkw3QlVDaUFrQ0gydnpqb2FKb3lZenRwMUdXblB3ekhLSXFBbGNPWlJUTVFQS3c0d2FvZDhRd2lvdGFqRGJWUjFhejZzOVlVbXZsTko0dWdfU2c?oc=5"
+      },
+      {
+        "category": "Analyst confidence and market reception",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Multiple analyst endorsements (BofA Buy rating, compelling value view) supporting US beverage growth thesis and strategic clarity post-restructuring.",
+        "suggestedAction": "Monitor for any shifts in KDP's strategic priorities or go-to-market messaging that reflect newfound market confidence; potential talking point for internal stakeholder alignment.",
+        "sourceName": "app.dealroom.co",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlTFJfaloyaGdfWmR0YktTTWlQVlRUdkhFZ21nREhrUnJaeGl1WjIxMTB2V2ZYZkZka1laMk41RlRrbUdHMzRUaGJuZVhEc1ZsQVUzZlZ5OGpMaEhIdzc0clFfV09ZSzgwYjlDRGNfbVFadjJHenZiWXBoRHB5YVNkaXJiRDd3YmszR1F2Si1YRjczWXZpYlJGYlZwbl83Zmh6SEgxdw?oc=5"
+      }
+    ]
   }
 ]

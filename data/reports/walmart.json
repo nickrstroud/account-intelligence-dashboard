@@ -518,5 +518,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLTVQTE9nckZFQ1haMkpnX3JNYlRwbmFBMXVLQklmSWJESGYwRFpjRHFwYUdwZ2owaGlQSkZZSDlTUTdpVEZWVlVPb3g1UDM0Ul9HQlp5QWFLRHA2M0hYY0JKZnQ3YkNyc0NUY1VpZGg2a2pKS2djaDRheGJ4b1pkU3FHRFNFWkUtcDU2ZWJkWE9aQ0NJTTUweThmUVlDOFFUbFZGbUdPcHhvVTg2OG9MNXhmYUEwOGtKYkhkSGM5ZnVHbUFvQk81Zml3bDV1cXIyd2gw"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-14T18:27:12.474Z",
+    "source": "daily",
+    "headline": "Walmart gains market share from competitors; brand momentum remains strong with positive product coverage",
+    "signals": [
+      {
+        "category": "Competitive Gain & Market Share",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Kroger losing billions in customer spending to Walmart, Amazon, and Costco per latest report. Walmart capturing market share from traditional grocery competitor.",
+        "suggestedAction": "Opportunity to highlight Walmart's market momentum in account discussions; position as growth account with expanding wallet",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajBJbWhDTXlFUEQ0OGdiTk11czdZcU1NVWc2cS16VllNN3o3WE10bS0yUzJlakM5ZmVkYThCZUJBcmNLd2VyOEdXYnRVQW1xY1Y5SVdoVUIyZzh4LXRFR2x4SXN4RkRSeXdWemQzUkh5TzlsUGs1U2Z4MFIxS3VWUEk4d2FJY1ZwR001Q0xuNXFuLUR2VnpWelZKZkFDSXJPOHZsaUlGY3ZMZXdvaV90UWN3ZTFOLXF3bW0tbUd1UEZIdmxvTGYxM0t1OA?oc=5"
+      },
+      {
+        "category": "Brand Momentum & Product Success",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Multiple positive brand mentions: Walmart lamp trending with luxury design appeal ($25 product), Frigidaire freezer sale success, highly-rated cake mix outperforming competitor brands, Pokémon TCG partnership positioning.",
+        "suggestedAction": "Use positive brand sentiment and product success as rapport-building talking points; evidence of merchandising and marketing effectiveness",
+        "sourceName": "Apartment Therapy",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWFTNjhDT2JUQmlDdUlrSGlsYWMtVWZCRzJSNDk1UVpsSUhna003VUVmaWZPT3VKWTMxYV9fYlZxTVRpbzJyNHA4YmdKSEZUR2V1bU56azBpVlBLRDRMYnh5ZTdNbUVoTFI4RlJ3VENJZXVLMEJuUU55T21DR1d2bw?oc=5"
+      }
+    ]
   }
 ]

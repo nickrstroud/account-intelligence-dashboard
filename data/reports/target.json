@@ -399,5 +399,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDlVb1VwYy00TTRzZGZQSzlRcjVFMVptOFVmaUV1S0s4ZDVzT3prZXBPVHdlby15UU1RMng1N3llcmZmTDhzNTJYaGxZYkdWRUxvWE04MkFyWEhoNml5QjdMR09ETGgwYnFNQ2ZNMkdIZjZjY0dEZ3duaDZNR09oZ3JleWxZZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-14T18:27:36.249Z",
+    "source": "daily",
+    "headline": "Target shows recovery momentum with boosted sales outlook; mixed investor sentiment and unrelated labor scrutiny",
+    "signals": [
+      {
+        "category": "Revenue & Business Performance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook as recovery efforts gain ground, signaling improved business momentum and revenue trajectory.",
+        "suggestedAction": "Monitor next earnings call for sustained growth confirmation; potential upsell opportunity if budget allocation increases align with expansion.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      }
+    ]
   }
 ]

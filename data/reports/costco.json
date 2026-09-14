@@ -501,5 +501,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LYW01NWhpR0dQWld0RlVhcUZjdHg3dlFFWF9aVTh1ZFZ5Z3dNZE90YnBxZjN6czVrS1VXLTZxSDJsOHg4bmVSbmx1cWIwOWdBakFqbG9nN2xDSWV3eEdFckRMLVdyQlg1TENsY05UeVFkVURDelhacDJQRmlrdz?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-14T18:27:27.641Z",
+    "source": "daily",
+    "headline": "Costco shows strong financial health with dividend increase and competitive market position; minor supply chain constraints emerging",
+    "signals": [
+      {
+        "category": "Financial Performance & Shareholder Returns",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Costco raised its dividend by 13%, signaling strong earnings and financial confidence. This indicates healthy profitability and cash flow.",
+        "suggestedAction": "Use as positive rapport touchpoint; demonstrates customer financial stability and likely continued purchasing power.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0NUTlFDN0FMZXpsM01nbWtpSGg2WGZZcWVfdDF1QmRNQTl0aHRqSVJZTWsxS3F6SE9UNjZJVmE1ZWYyYS1wRHJOQXBQZ2ttdVdTVGotQW05OHF6SVpPWnJVb09IcjU5R196dEVSSkRSeE9xNGVhUWpPdWlpTFBXUkh6WUlOREhfMUNrSmlPQQ"
+      },
+      {
+        "category": "Market Competitiveness & Share Gains",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Costco is cited as gaining customer spending from Kroger, alongside Walmart and Amazon. Indicates market share strength and competitive positioning.",
+        "suggestedAction": "Reinforces Costco's growth trajectory; validate that vendor's solutions support their competitive advantages.",
+        "sourceName": "WSYX",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHR1ZVJTUlFkY0hDUDZLeWpVQ3hMTWFxYTUzSFNRbFJVTzczRWtYdkhUYjJ2ZkU1MnpKTndJLTQ1X29PbDZ2WEdSdnF6VzQxT1c2Zzc4YXlYWkV0LUdfX1BCYVpCenV5U2RCQ2tBSV8xOGllVTBpb1NlREZWbmE5cWIxWExtdktMaVpqU2M0S1hNUGstWTF2NzlmeEVJUnV1aFh3V01WVHZ0Q1NxcnNnOGMybzFHSG9BWFdmTHJNOGkyZ3FtTHBBeGFZdERScTQzSHp3WA"
+      },
+      {
+        "category": "Supply Chain Constraints",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Costco is raising prices on Kirkland motor oil and implementing purchase limits, suggesting supply chain pressures or cost inflation.",
+        "suggestedAction": "Monitor for broader supply chain or procurement challenges; opportunity to discuss efficiency/cost optimization solutions.",
+        "sourceName": "KSL.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOENkMmlPMTVsNmpIWGNMcVpMbkhUeVNldHIzcEdiUm5EZXlsLUlnTGR5aW1SY3JnRUVXel9DdjNrMDRNVkdmOTJyQTlJOENUcG5wWWRrTVRzRkR2YVJFd25Sbi1vM3dEczhncWhBU1VaaVdxTUJfTnJXWVlLQ0EtYTFKUHBHcExjNjRpSXlELVhPeEhNRk5XX1NGdU80OXcxWjA3S1Z4OGlDdjlRREJMZDdaRQ"
+      }
+    ]
   }
 ]

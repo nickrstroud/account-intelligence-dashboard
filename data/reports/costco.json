@@ -536,5 +536,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOENkMmlPMTVsNmpIWGNMcVpMbkhUeVNldHIzcEdiUm5EZXlsLUlnTGR5aW1SY3JnRUVXel9DdjNrMDRNVkdmOTJyQTlJOENUcG5wWWRrTVRzRkR2YVJFd25Sbi1vM3dEczhncWhBU1VaaVdxTUJfTnJXWVlLQ0EtYTFKUHBHcExjNjRpSXlELVhPeEhNRk5XX1NGdU80OXcxWjA3S1Z4OGlDdjlRREJMZDdaRQ"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-15T17:33:29.681Z",
+    "source": "daily",
+    "headline": "Costco expanding store footprint and managing supply constraints amid motor oil shortage",
+    "signals": [
+      {
+        "category": "Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco opening 10 new stores in the US and 4 in Canada, plus new Lawrence and Littleton locations. Active expansion signals growing footprint and operational momentum.",
+        "suggestedAction": "Recognize expansion as potential opportunity to expand service/product offerings across new warehouse locations; discuss capacity planning and support needs for new store rollouts.",
+        "sourceName": "FOX 9 Minneapolis-St. Paul",
+        "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tSTZKcjI3RHVZdUtpNS10QTNOQndIaWtjT3lHSV83NDZpd3lfNWF4aWJxQlZBUnVMa1pMbVBjUkdhT2pBZ3JrVy1telV5b3NMX3ZsWWV3MTI1Xy0xdTNpeTVDbXBzUWpZSktiaHBR"
+      },
+      {
+        "category": "Supply Chain & Pricing Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Costco raising prices on Kirkland motor oil and implementing purchase limits due to oil shortage. Signals supply constraints and margin pressure in key product categories.",
+        "suggestedAction": "Monitor for broader inflationary impacts on Costco's procurement and pricing strategy; discuss mitigation strategies and potential impact on customer demand or operational costs.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekpnQlZhVkY3eTlJUW0wSE5COHhjWUZBR1hCRE95UWpteUlJYnU3a0NNZkFobFdfVFFWYnd0WXZqRndSR1BYVFRHWWxISWV0dFlRdmxHc191a1pHU01KUU9VOC01NVhRNmF4ZkkyX2w0RVptNlEzTy1DTHlvVHIybVRRU1JwZkM3THlGMEhiTENkZw"
+      }
+    ]
   }
 ]

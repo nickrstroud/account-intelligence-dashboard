@@ -555,5 +555,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEU5THN1WW56STFjLXhuOGEzcndsQ3VIWVY2WUVvVDNHWWR3eGh0MURhbVlYNVdiTE5HR2V4SHZiUzFyMmhLU3ZSSXpPMm1id0lhb21MZDZmX3JLdWt5LTURJOWFHX05IYWM4dF83YmpIRHJwVnN0ZWZ0Wmp0cHhBZVVtS2doaGRJSGhwRUR2YmhJM0lNM21fekRMTXJlcnRudFJ1SHFoU2tKSlI0RjhienA0ZnFYQmxBTkNEUjRKYnJZRVZhMDIwRFZSRm8zamU0bWR5ejZTcExydlE"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-15T17:33:10.477Z",
+    "source": "daily",
+    "headline": "P&G leadership transition and operational focus on AI/product innovation with mixed business momentum signals",
+    "signals": [
+      {
+        "category": "Leadership - Chairman Succession",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed Chairman of P&G Board of Directors (July 2026). While this is a significant leadership transition, the successor is internal/promoted, suggesting continuity rather than external disruption.",
+        "suggestedAction": "Monitor if Jejurikar's leadership style or strategic priorities differ from predecessor; maintain relationship continuity through transition period.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ"
+      },
+      {
+        "category": "Strategic Initiative - AI Adoption",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G highlighted as leader in AI adoption across enterprise operations (Harvard Business School, Sept 2026). Signals investment in modernization and digital transformation capabilities.",
+        "suggestedAction": "Position for engagement around AI-enabled workflows, digital transformation support, or technology modernization initiatives within P&G.",
+        "sourceName": "Harvard Business School",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDRfNVVXWXJVcTZVZGhISjNhRl9YQzRXempCZ0RuRy1nWGhUSEtEZUhBdlBKQTg2EUJkblZDdy1JR1RSVmJDUmNCN1hsMFQxQVk2SVMtZG9CRzBUY1VMTUNnV2xyUVU3SUdUT3RPOENXVVp5dDlyOTNNa0lCc0hZVFVNUkIyc3BERzhxcnRYWFI4S2FsTVBibmVrZDVBcXc"
+      },
+      {
+        "category": "Business Performance - Fabric & Home Care Momentum",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Yahoo Finance article questions whether P&G's Fabric & Home Care segment can regain momentum (Sept 2026). Suggests performance challenges in a core business segment.",
+        "suggestedAction": "Understand if P&G is seeking new solutions or vendor support to address segment underperformance; potential opportunity for operational efficiency or product-enabling solutions.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOG5TNlREeU5CdmVrQTBKZkJRTVpuTkZheWJkS0dpTG5nMGN5RFN2eFpYYnIxZDRpc1J5VWtVeG0yWVlDSFViMWRoTHpuNmN3cU42SUhkMENMNlFVZjNQVzJLNXJoWi01TkswN2oxZWNLblFTU1prOEVjeFdJU0t5dmpEeXYwYkNWOHFhNklMeG9hWUlCZGZxQzVvdUx1QQ"
+      }
+    ]
   }
 ]

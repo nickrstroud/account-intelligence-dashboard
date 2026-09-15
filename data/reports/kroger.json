@@ -778,5 +778,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPeW1IblZYNDRtSFgwLVdRS1BobnVRUzN6ODMta2draVdfUnlRcWJ4c1dLZlR6bWJoTGdtaTJjekhtLWhra0VPeVY4bWF3UWZVTlBXVW9LaUF5cE5KTG5HMDJGQ0ZDMjNsWnlKRXR0UlRkQnJpenFxcnVyNGNfUmo0UmhHYTJQOWJkYkl0VXhFRHJMbUx2b2JxWmFuazhRNjhtWFVOQVA5R21pa3VKRWw2VzVyU1FIY0FfLVc1RkpScUZLTWRjclBhamphQ01WV0xkdjN1RVEwMXZGQUY0M2FVTnQxUnpVMWhYS2h3Y0F4Q2FRU2trWkY2MThLOGR3c1ZmRGxJSndhaUwzcXlyQlR2dGtfYUFiTG91U3cwcWtUdkM0a0IxQnBqcm9TbS0wMzQxRG9FWXBhbGJTMlJ6WS1mYlZlSnFUVHFISjY4TUhyOUdvNUs0Ym4wOTM2SWZkbkVMN3VKZkpkVVRfR1FDdzluVjNhWEdaOGoxNDdoYlQ1TEVQZ1Ayd01nb2RWUnJpeVpqc2NUQTln"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-15T17:34:14.533Z",
+    "source": "daily",
+    "headline": "Kroger faces margin pressure and customer shift amid competitive and operational challenges, but pursues technology and marketplace expansion",
+    "signals": [
+      {
+        "category": "Price sensitivity and market share loss",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Low-income shoppers shifting $12B away from Kroger, indicating revenue pressure and competitive weakness in key customer segment",
+        "suggestedAction": "Discuss value-focused procurement strategies and bundled offerings to help Kroger retain price-sensitive customers; explore cost-reduction opportunities",
+        "sourceName": "Progressive Grocer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV091TGFrME9MN3ZNLWNWZmxmU3Q4aWxBaHo2ZndEMWE1STJxZEpqbmlldU5OZm1LeTlxdFlrZG1BM1paNjRsbV9oZlJ2bDhyYzdyV2plX0VnU0txN0hERU5ydnhkWVBFWk9yQ2w5N3RsU1NwRGxnS2NZWUU2SDdsMl9SNV9CbGpxZm5iaEJJWXdORGs0RVE"
+      },
+      {
+        "category": "Supplier cost pressures and pricing disputes",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "CEO resisting suppliers 'using inflation' as cover for price increases; indicates rising procurement costs and margin pressure affecting Kroger's bottom line",
+        "suggestedAction": "Proactively present cost-control solutions and vendor efficiency programs; position services as margin-protective alternatives to inflation-driven pricing",
+        "sourceName": "cincinnati.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG1zczNWNU9NX2FRN2ducHAxZmRVc0o2Z1doa2ZCVkE1T0tTRk9hLWtrbjZGSFNYOHNxd3dLSTVVcFExWkNRYXhwS0dqUk53NTBjdkZTeGZXTTNHYlljZXYxMU1ZYzJaZWR4WDU5OGV2RUI2UVlZOVJ5dU5RUWlTYTlqdThIdGhFaDN6SEpFWjhiQTJmeWp3UDZVMDBVT2E4czhwSGhhMVRwSmJWWnZvbV9CLXEzMG1QNTVLSjNnMVhRQUZ6dGNJRXlLQ19WX2tEeGc"
+      },
+      {
+        "category": "Technology investment and automation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Rolling out inventory robots across Central Ohio stores; signals operational efficiency focus and potential budget allocation toward supply chain automation",
+        "suggestedAction": "Explore vendor partnerships for tech-enabled supply chain solutions; position services that integrate with automation roadmaps",
+        "sourceName": "NBC4 WCMH-TV",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnhoRkY4TWlSZmF1dFJTYW5XRzJJbzh1TWZOSE5ad00tYVV2bU1hTk0yRDVFcnBJS1FJNng0ZFQtaFdOeWpvT1RCNnRUOTVYNnBzQklwVFpWWmJYYkQyNW91dGU0OTF5YXFyNnBPX2xLNkJYSUhZemZTTmNRU2FfWlpncmMzSDN5VWxZSUxDN05jMVNVNURHd1VCUFY1Znl5ZU1lcG1KdlZZYWhOODctWmU1dEZDXzFMc04wTEhaeG5odm_SAcgBQVVfeXFMTXBORGgyWDZDZVE1U2VWa3QybWp5N0FNeGw1SzY0dXVOWTAzdU85QXZNUEN2bVJqYWV6QlpydXdpd20zUFNVMUt5Ym1aRWZaWlZrbkxxMnJKcDBiODNkSFdYbmhXdzFwM3U0YjNRTTVoV1U0OXNqR2lYalluMjBZUTY1Z2l1TXZremNpZkpKdnZyd3pBY1VSNFJtWEJxSW9hY2NvTE9NSllGTlV2UDlIV2JSdUxrWEo1ODlPMXpONjJocERrOXNTR0k"
+      },
+      {
+        "category": "Marketplace expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger Marketplace expansion to new locations (Huntington); signals growth in marketplace / third-party seller channel and revenue diversification",
+        "suggestedAction": "Discuss marketplace vendor enablement services, fulfillment support, or seller platform integrations; identify new revenue opportunities from marketplace growth",
+        "sourceName": "WSAZ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5va0QwVXlmZEIzTkVhQ0NFaXo1TzFZWEpNTV9RTzcxbXhBRjl5UEhTTFJXQ000bXFtaUZtMENKVXhrRlpobm83NWdSSnBWX2tuZ2U1aWdkZ0xuTFlCOHFYTVpmMG5hSkg1Njh5UHo5OEx1UEthTXhyedIBjAFBVV95cUxQYTdoWnhEYzRzbXZpNGpqX05PZ3VNX0VfVjluZHNqam1ZTVA0RHZtUXVOX3lzenRIX0d3ZzRBd25NS0RFOUQ0dl9naGNLbHhLb3RxNzZjdGdQNGNtcGZkc21CTU8zeUxoSjZSd3M3ZnJuVTNocGVXMG1rZzloeV9YZ0NCMG1oOW9EUl84ZA"
+      },
+      {
+        "category": "Operational compliance issues",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Store inspections reveal pricing errors; suggests execution issues that could undermine brand trust and customer loyalty, especially amid price-sensitivity challenges",
+        "suggestedAction": "Offer compliance and pricing accuracy solutions; position as risk mitigation for regulatory exposure and customer perception",
+        "sourceName": "Dayton Daily News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRjF5Y096OVRZMmgweUVtckFxWmw0Ujllb3BjRXpsRnEtUEhrSDdQaU52NE9TdlRoaVFjZVNMdHlaRlJ0Rl9VSDc5OEx4RUVjSXZUMk9NVjIwc2NxeEV4X0RFaUpNbUhab2RJdXpEQURxRGJ3Ym8wN0ZRd0YweGFkTWI4czhIaS1nUmEzbzJuRzZrMDNSeHpaR2Z0VUNvYlFyX0hXYjd2bV84c1RCTWQzaVgwU1hlekVpSlNiLWZ6cFRuMHpJeDVRWHUxYVFBVHAwcVRtZ2ljdmlhWTMxNURNYVVuVW9UNDNEbXB5Tg"
+      }
+    ]
   }
 ]

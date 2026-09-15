@@ -555,5 +555,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlTFJfaloyaGdfWmR0YktTTWlQVlRUdkhFZ21nREhrUnJaeGl1WjIxMTB2V2ZYZkZka1laMk41RlRrbUdHMzRUaGJuZVhEc1ZsQVUzZlZ5OGpMaEhIdzc0clFfV09ZSzgwYjlDRGNfbVFadjJHenZiWXBoRHB5YVNkaXJiRDd3YmszR1F2Si1YRjczWXZpYlJGYlZwbl83Zmh6SEgxdw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-15T17:32:53.761Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper pursuing strategic breakup and asset monetization; Chobani partnership restructured with $800M equity buyback",
+    "signals": [
+      {
+        "category": "Strategic asset sale and portfolio restructuring",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "KDP exploring potential breakup of Keurig and Dr Pepper divisions with ~$925M asset sale. Bank of America analysis suggests split could unlock shareholder value, indicating proactive portfolio optimization and potential new business units post-separation.",
+        "suggestedAction": "Monitor for separation announcement; assess whether buyer-side operations will remain consolidated or split procurement by division",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHZHQ3Q2OWk4T2NVTTg5Mm1LdWVmWTJ6ekswcFdoREwtR0RSeldlQWd0QU15LUtWRGtnRjZnWnh6dzRwUl9NcE9WaE02SEs4bmhWLUVoeEVxUXpZQkR0b3ROX3EyaTk1OUxVdDlvVHJhVXNFbllHTVczVlpIQTFXems3Vm5Td191ei1qUmUwcUdsVnU1c0E?oc=5"
+      },
+      {
+        "category": "Chobani equity restructuring",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP sells back $800M equity stake to Chobani as part of enhanced partnership. Signals deepened strategic alignment in the beverage/dairy space and continued focus on portfolio diversification through partnerships rather than organic M&A.",
+        "suggestedAction": "Understand scope of Chobani partnership expansion; identify if new product lines or distribution channels create incremental procurement needs",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXVfUklWek1SaGdSZWM2Q251THJjaGR4QjNYYVRLdm1JUnA5eDd1QVhaOE1jR2RHYVpwZmJ5cEkxZlU4UVJ1VndXSVJseWFpMHBUSWg2ZzNUdDdSZzVkYVY1WGc5VFdfaUZET0ZlUTNnZDNKeFJYUDcyWjcyc1RVTmNXd0xsTUpORVZXWnNpaVJxeGhkeDJDZw?oc=5"
+      },
+      {
+        "category": "Analyst confidence and JDE Peet's synergy realization",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Multiple analyst upgrades and Buy ratings citing US beverage momentum and successful JDE Peet's integration synergies. Positive earnings outlook supports budget stability and potential expansion investments.",
+        "suggestedAction": "Use analyst confidence in beverage momentum as rapport-building talking point; monitor earnings calls for capex/procurement guidance updates",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkVFMHBmRG9BSGI3TzVPdjRnMDJ4cGljWnA5LW5WR2tfTTduRzFsZm41NHB1VUhxdElvcXhVWk9BZFFzREg2cG9BZWFsclFqWEwzR3ItN2VVdGpiWXFHdVZ6RFBUbTF5UTZueEdPc1RtN2txWWljdGdJY2pyYnM2YWNZNjdaRTMyckk5SGUwZXVfRC02VDEtaEVfeUMybU10MlE5c2tRSkdTZXcwcnZkdzhiOGFIRmx4?oc=5"
+      }
+    ]
   }
 ]

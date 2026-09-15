@@ -610,5 +610,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQbGphWU55TnQtbmlDZS1QXzNxUzBsWHh1LUI4WUhmbWxLYXdsZGxtR01hSkxNMGY2Z0lDc2l2U2ktajFtUngwNDdwaGNwMEZaVHRKQkRDUWNYbExxanRqbmU2S2xHLW40Vm9rYnZvVmQzWmVUSmNKOExsbDJLbWJ6LUxBaFlzMDl5R3ZiYmVobl9XdmIxRFdtLXJqZ1BiSENMNXVlYldfT2s4blZQN2lJNmdIMl85TTN5STQyWXFNWV9xMlNIazBCYWM1dmp1elB4RVhxbFU4b1JjaUR3Wk13dlR0T1lTZXVDaDZyY2VkdUw5a0puWFBLR1hmQktaSUN6dTIwX25GNkVLZDNrMTJQOFNDalUxM3ppTk1GUlhKbDhfeGRCQy1VX0tXcm5POEYyT0kzR1ByTjlucmxOZjgyTGw1RHNRZHJjTFUzcg"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-15T17:32:23.924Z",
+    "source": "daily",
+    "headline": "Coca-Cola shows strong operational momentum with $10B infrastructure investment and positive market performance; competitive pressure from regional competitors noted",
+    "signals": [
+      {
+        "category": "Capital Investment & Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola announced a $10 billion investment in US infrastructure by 2030, signaling confidence in growth and expansion of operational capabilities.",
+        "suggestedAction": "Explore how vendor solutions can support infrastructure modernization initiatives and supply chain optimization as part of this capex cycle.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm40dWp0UnRNRjFvQ2ZIMkJzV1o0by1ETUZQXzlwbEdtUTRlaWo3aFNjam1wYUdlSGRfT3FpNWhwUzV1czNRNEpuSUdXakRfZjFqelc1U2lLY1lacFdkOUl1WE4yelV0M3Nfa0hLYnhGbGowMWdPcVBQY1RySjBzOHR1Y3pyR0VJVG1YRXdMMGhMVTZsQmxKc1FHemRJYmc?oc=5"
+      },
+      {
+        "category": "Financial Performance & Market Confidence",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Coca-Cola stock up 29% in 2026 with analyst coverage from UBS naming it a top consumer pick amid economic headwinds, indicating strong investor confidence and financial health.",
+        "suggestedAction": "Position vendor solutions around resilience and efficiency gains as Coca-Cola maintains premium valuation and investor support.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3FNai1fblZfc0ZZdklMWms4NXFtZzU3aF9PMkt4c0I1TE1CS2JYelpnbGJEckdZVWplRE5PNXA1eDNHd0otRlVEcFRDazdJdngxSnQ5SGRYaHlWam9yRndFY0lCX3pONUMyNktjN1c0TGhJSTdZRVE1a2h5MXNJMExfX3NiTWo0dDlJNEw5ZDhBdw?oc=5"
+      },
+      {
+        "category": "Regional Competitive Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Regional competitor gaining market share in Scotland ('outsells Coca-Cola'), indicating localized competitive pressure on brand performance in key markets.",
+        "suggestedAction": "Monitor competitive dynamics in regional markets; discuss market share defense strategies with Coca-Cola stakeholders.",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhdUo3dzl1emxndHhVRVQybXFJNHZJZDdiNFpjc0d5LVlzblNfYzFkeWgxdTF2Y3BpMzE1QTQ2Z3VLdjR2empIeUl2NTVYamJTc2VsS1RVQTc1M0VKQ09VcEVTM3VzOVA3RGFkSXJwbkx3QWc?oc=5"
+      }
+    ]
   }
 ]

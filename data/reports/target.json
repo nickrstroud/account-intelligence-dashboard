@@ -416,5 +416,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-15T17:33:42.029Z",
+    "source": "daily",
+    "headline": "Target appoints new Chief Marketing & Guest Experience Officer; positive sales momentum signals continued strategic focus",
+    "signals": [
+      {
+        "category": "Leadership Change - Chief Marketing Officer Appointment",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Target appointed Mark Weinstein as Chief Marketing & Guest Experience Officer, effective September 14, 2026. This is a new/refreshed executive leadership position focused on customer experience and brand positioning.",
+        "suggestedAction": "Identify Mark Weinstein's background and priorities; schedule intro call to understand new CMO's vision for marketing tech/vendor partnerships and customer experience initiatives. Position solutions aligned with guest experience agenda.",
+        "sourceName": "Social Samosa",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3VubThaSjNGWXRWT0lqRlhjck51ekdaTDkyM0FUTmdoS1p6YXhxcFBqYzc2RFlMZ0FFdDVIX212eUFnX3JycXNmbDJ6bGdXOEVPcktaeHpYejhmQlp2bE04anlYVTRiVGxHLXpvdTdBRGp3b1hyVE1Ma0FDRzJHQjdoZ2VqMnFicENqZnBQcWt1NHBJZ3E3RHl2dkk3TW0zX1BjVVZmSUh6bFozWjFiOUJ4M1RLc2hzM2Z4YU16WTdFNUV0X2ZUSw?oc=5"
+      },
+      {
+        "category": "Revenue & Business Performance - Sales Outlook Improvement",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted its sales outlook in August 2026 as recovery efforts gained ground, signaling positive business momentum and potential budget availability for vendor investments.",
+        "suggestedAction": "Leverage improved financial outlook in renewal conversations; discuss how our solutions support Target's recovery strategy and customer experience improvements. Strong earnings often correlate with higher vendor spending.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt?oc=5"
+      }
+    ]
   }
 ]

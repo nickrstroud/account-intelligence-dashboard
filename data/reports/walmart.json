@@ -544,5 +544,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWFTNjhDT2JUQmlDdUlrSGlsYWMtVWZCRzJSNDk1UVpsSUhna003VUVmaWZPT3VKWTMxYV9fYlZxTVRpbzJyNHA4YmdKSEZUR2V1bU56azBpVlBLRDRMYnh5ZTdNbUVoTFI4RlJ3VENJZXVLMEJuUU55T21DR1d2bw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-15T17:33:23.523Z",
+    "source": "daily",
+    "headline": "Walmart leveraging AI transformation and competitive position; unrelated incidents and recalls present brand/operational noise",
+    "signals": [
+      {
+        "category": "AI and technology transformation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "CEO John Furner is turning Walmart's 5,200 U.S. stores into an AI engine, signaling major technology-driven business transformation and potential new capabilities/services for customers to integrate with",
+        "suggestedAction": "Assess whether vendor's solutions can integrate with or support Walmart's AI initiatives; explore co-selling or partnership opportunities around AI-enabled store operations",
+        "sourceName": "Fast Company",
+        "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVW1TNmdqVHZPSWVLbHFpaUVwYlZndlphYTdEV2VkLVZzTXZybVhEMkJpZWFhM2phWk1DcElnRnRfR0JPS19ma1otRU1PSC1tZzUtOFktTnoxbnk0eVgwQUZpV2w4bmRKNXljdFNjU1RUbTZQLThXR0lVSUtrNTQ?oc=5"
+      },
+      {
+        "category": "Competitive strength against rivals",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Report shows Kroger losing billions in customer spending to Walmart, Amazon, and Costco, indicating Walmart's strong competitive position and market share gains",
+        "suggestedAction": "Leverage Walmart's momentum and market dominance in account conversations; positioning vendor solutions as enabling Walmart's continued competitive advantage is a strong narrative",
+        "sourceName": "WSYX",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHR1ZVJTUlFkY0hDUDZLeWpVQ3hMTWFxYTUzSFNRbFJVTzczRWtYdkhUYjJ2ZkU1MnpKTndJLTQ1X29PbDZ2WEdSdnF6VzQxT1c2Zzc4YXlYWkV0LUdfX1BCYVpCenV5U2RCQ2tBSV8xOGllVTBpb1NlREZWbmE5cWIxWExtdktMaVpqU2M0S1hNUGstWTF2NzlmeEVJUnV1aFh3V01WVHZ0Q1NxcnNnOGMybzFHSG9BWFdmTHJNOGkyZ3FtTHBBeGFZdERScTQzSHp3WA?oc=5"
+      }
+    ]
   }
 ]

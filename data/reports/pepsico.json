@@ -798,5 +798,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZml3ZHA2S09TWERTUHNNbFZheVJWcmtuSk1PVzBibzY4b183VldJT2MzN3lsUnRkZWhCTUgyQ25Ba0tUb1RzVEFLREc5WEQwUWtoZWZxU0Z4YW5GWjB0VXZaVzB2NDJVU3NrWEtNZ1o4SDRLaXZCLWdEcHh1MzVPdldCNmZLTjBCakhMQkxsSXNlbWs5aGdKN0Ffd3M?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-15T17:32:42.017Z",
+    "source": "daily",
+    "headline": "PepsiCo loses major advertising account to Publicis after Omnicom tenure; company focuses on productivity and new product innovation",
+    "signals": [
+      {
+        "category": "Client Loss / Competitive Win",
+        "updateType": "competitive",
+        "score": -2,
+        "summary": "PepsiCo (major account) has moved its advertising business from Omnicom to competitor Publicis. This represents a significant loss of a key customer relationship.",
+        "suggestedAction": "Immediate account risk assessment. If your company works with Omnicom or competes in the advertising/marketing services space, escalate to leadership. Understanding the reasons for the switch (pricing, service gaps, strategic misalignment) is critical for protecting similar accounts.",
+        "sourceName": "Digiday",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWNoSHR6NGVQR3EwdzVIWTBmMVZpdFJaRG53OUV1V0tIOW5iYWlGcUVGa1gxMmZhLUxZSnNyN2pnVEhMWDVnZUxDN2dGQUpyNzhPVDN5M1hiMzY3X1o2SURVbGVITDRBV1QtUVRpWk9yMEQ5dENaeTY3S3BaV2kyRXRwSlFVNlNjcEl3aHBNQkdQM21hX1JONEZXekFBbncxMzFuOVJFTThPN2JMSW10OQ"
+      },
+      {
+        "category": "Competitor Account Win",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Publicis has won the PepsiCo advertising account, signaling competitive strength in the beverage/CPG sector and potential gap in Omnicom's service delivery or pricing model.",
+        "suggestedAction": "Monitor Publicis's service model and pricing strategy with PepsiCo. Assess whether competing vendors are using similar service/pricing advantages to displace incumbent partners in CPG accounts.",
+        "sourceName": "mediapost.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanY2Z1czMFZtbVJrbTZJZEpwTVN1bVM5OEhIVjhaX1dTSE5MYmFtM2hyblE5QnNDaU00bk9fQUt1VXRTYUxoeVFlaFhQWE41aG1EYnhMT3VydERUc2xfaG9oY2ZWRUh3c0NmOXg3dG5uUEdfSTBRc2tmY2lmVFZOaFBRQVhQcmROS50WmNFYW8tZWcxOVpVeDRCSzZXVmpPczJlNDhaOGc"
+      },
+      {
+        "category": "Business Expansion / New Product Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is launching new strategic initiatives around Doritos, Cheetos, and a 'dirty soda playbook,' indicating investment in product innovation and brand evolution. Productivity drive underway as key margin growth catalyst.",
+        "suggestedAction": "Opportunity to pitch services supporting PepsiCo's new product launches, market expansion, or operational efficiency programs. New business lines often require new vendor partnerships or expanded existing relationships.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNThSbTN3MUh3WnhPa2RSRDhYU1VyWVoyYjJTaFA0REF1U2gzMmNSZEdCYVlpaHZLUXRDWTYxbUpMQnNLMG1PWk5ORFlnTkNsS3JubDJmMG94bk5kY0dxOWF0UlNVOElWYkxhOHVqNTV3UDktVnp4YzQxYVBLMlgyN0xkQWtJMnEwbFd2ZVR6UnJxeUU"
+      }
+    ]
   }
 ]

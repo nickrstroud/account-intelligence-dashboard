@@ -570,5 +570,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMHR1ZVJTUlFkY0hDUDZLeWpVQ3hMTWFxYTUzSFNRbFJVTzczRWtYdkhUYjJ2ZkU1MnpKTndJLTQ1X29PbDZ2WEdSdnF6VzQxT1c2Zzc4YXlYWkV0LUdfX1BCYVpCenV5U2RCQ2tBSV8xOGllVTBpb1NlREZWbmE5cWIxWExtdktMaVpqU2M0S1hNUGstWTF2NzlmeEVJUnV1aFh3V01WVHZ0Q1NxcnNnOGMybzFHSG9BWFdmTHJNOGkyZ3FtTHBBeGFZdERScTQzSHp3WA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-16T17:34:05.226Z",
+    "source": "daily",
+    "headline": "Walmart leveraging AI transformation and store expansion; competitive pressure from Amazon; unrelated safety recalls and legal incident",
+    "signals": [
+      {
+        "category": "AI/Technology Investment & Store Infrastructure",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart CEO John Furner is transforming the retailer's 5,200 U.S. stores into an AI-driven engine, signaling major technology investment and store modernization initiatives.",
+        "suggestedAction": "Explore AI/automation and store-tech partnership opportunities; understand scope of store digitization initiatives that could create new vendor opportunities.",
+        "sourceName": "fastcompany.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVW1TNmdqVHZPSWVLbHFpaUVwYlZndlphYTdEV2VkLVZzTXZybVhEMkJpZWFhM2phWk1DcElnRnRfR0JPS19ma1otRU1PSC1tZzUtOFktTnoxbnk0eVgwQUZpV2w4bmRKNXljdFNjU1RUbTZQLThXR0lVSUtrNTQ"
+      },
+      {
+        "category": "Competitive Threat from Amazon",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Amazon's strategic moves to reshape U.S. retail, coupled with direct competitive positioning mentioned in recall articles, indicate ongoing competitive pressure on Walmart.",
+        "suggestedAction": "Monitor Amazon's retail strategy shifts; assess impact on Walmart's vendor priorities and potential budget reallocation toward competitive differentiation.",
+        "sourceName": "Business Insider",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkJULVZGekI2Y3hOeVpEamo5RTdOU1NEamtub1g0dmtRcWxVOEktSEItZ1hvaHNWd1FzWFBnWnUyUmVKdlowbHlkMDJRQ1czLUE5M3RXdklNTzg1bUdyVENDTmZxUFBEMEpxUmI2YTJXN3NWX3VzWFpsWWljZGZhUE1janRaWVFINFdwRlFYRjR0d1ZqQWlnUGZlckZKa2NQcUNkUER3?oc=5"
+      },
+      {
+        "category": "Product Safety Recalls (Neutral Context)",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Multiple product recalls involving Walmart (2.5M+ products, finger flashlight toys) reflect shared marketplace challenges with Amazon but do not directly impact account relationship strategy.",
+        "suggestedAction": "Monitor for any operational impact on Walmart's procurement or vendor compliance processes; use as rapport-building context if relevant.",
+        "sourceName": "MassLive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzVUSVRCVXljaXhRWDJCMzJodG5hMHAyUnFNa3FneGhzaU5ieGpWRnZDd3VLTmVEcDdkTVhFSkphcXpSRzlmaFZTLUxnWWN2bEc2TngyNzU5bXBMRUlDYmFHMHZBWi05WjBKYy1YektmRDZQSmpXT1VaREh6Sm9QbXUxeDY1b2dNd1R5RmEtTzJFZ1ZYeC1oR0Z0QzZaRzBtN0dkZXdPcjBSaUpxR0ZPbE5IS00yUDlJZjRSZ3NTWi1VLUx4NUEwYjFsWVbSAeABQVVfeXFMTlAyR2pCZkl0ZzVqRTNBWHhPcjdYSExtd1pWMWo5T2NqYjV4ZnluRm53Vjlzbm9wZUZnbVprejJHd1UwSUctb1F6ZXpfMWU2bTRRdTQxcnRrMHNQRUpwY0gzQmh6RDNVdGsyS3Jpc3JUYUlsUzkyMU5PREFXdUUzUFhhd2xKSjFnUmQzRnFEQkpnQ1l0WWhxSkNuTFFOWC1yZGJwTVowYTNOSFAxMFN4LXd0UW53TUlUMlFBeGtLNW9qYTJVNUtsdUIxR2JEaW1nOHNOU29WVmV1YTlyd29NeE4?oc=5"
+      },
+      {
+        "category": "Real Estate & Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart's acquisition of 35 acres in Bexar County signals continued physical expansion and real estate investment in new market areas.",
+        "suggestedAction": "Track new store openings and construction timelines; identify opportunities for vendors supporting retail expansion (construction, logistics, store operations).",
+        "sourceName": "KSAT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTBFTjlxSTB4WE9ha0I5QU8xZlZFU2ZGd3o5bVhodGxwdXItM3c5RWJMeXViVjlsWlFXRTFqWGJUYVE4NDhsU0VVTXpDUEtvQlh2T0Z5Q0I3NTVJQnNwWUpyN2VoQ0pMMjBSTDdvTUVFVFJoU0t5NTVVSDhwRW9TZTNNa0lWZVptdlRlcE5lbnNqaEpXdU1yYlZWRDRuS0xMYWRMb3dkTUhlN0dPUnliWURraEJrM3hxWU9mWF9sdExzSnc?oc=5"
+      }
+    ]
   }
 ]

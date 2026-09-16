@@ -442,5 +442,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-16T17:34:36.177Z",
+    "source": "daily",
+    "headline": "Target appoints new Chief Marketing & Guest Experience Officer; boosts sales outlook amid recovery",
+    "signals": [
+      {
+        "category": "Leadership appointment",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Target appointed Mark Weinstein as Chief Marketing and Guest Experience Officer, effective September 14, 2026. New CMO hire is a mixed signal—creates re-pitch opportunity but represents change in buying authority for marketing services.",
+        "suggestedAction": "Schedule introductory meeting with Mark Weinstein to understand his priorities and marketing technology needs; assess fit of existing solutions with new leadership vision.",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUZCQkotZnk2WmNGSklMZUVnb0U3TVFFaWNvTmFkS2dldU41ZnRNczVHZHowTWphVXNReENuYW5UOHAyWjZ6ajV3bE41REFBa2pDeTcyQk9DREc0WE1LNnhNQU9JbVRiUjhoaUQzdDBoeWlxSXRMVG45czhlUDhENGRZcDlLcXBSZGFrV3NSTnJLTWlubC1vTlFpSzl3by15c3hOb2huSFZ0QUNjMzhMTlFCc2xCczkyZXRIWmRHalFUck5SQW5mb0l0ckRKUEFSdllaTlJFcFdUM1p0WFNfUFlLblJYaFdO"
+      },
+      {
+        "category": "Revenue growth & positive guidance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook as recovery efforts gain ground, signaling improving business health and likely increased marketing/customer experience budgets.",
+        "suggestedAction": "Leverage positive momentum in pitch conversations; position solutions as enablers of continued recovery and guest experience improvement.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      }
+    ]
   }
 ]

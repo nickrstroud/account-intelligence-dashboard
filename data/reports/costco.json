@@ -562,5 +562,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekpnQlZhVkY3eTlJUW0wSE5COHhjWUZBR1hCRE95UWpteUlJYnU3a0NNZkFobFdfVFFWYnd0WXZqRndSR1BYVFRHWWxISWV0dFlRdmxHc191a1pHU01KUU9VOC01NVhRNmF4ZkkyX2w0RVptNlEzTy1DTHlvVHIybVRRU1JwZkM3THlGMEhiTENkZw"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-16T17:34:26.977Z",
+    "source": "daily",
+    "headline": "Costco expanding delivery channels and physical footprint amid pricing adjustments",
+    "signals": [
+      {
+        "category": "Costco expands Uber Eats delivery partnership to 47 states",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco has significantly expanded its Uber Eats delivery partnership from a limited rollout to 47 states, indicating growth in the e-commerce/delivery channel and reaching new customer segments beyond traditional warehouse shoppers.",
+        "suggestedAction": "Explore opportunities to support Costco's omnichannel fulfillment and last-mile delivery logistics if relevant to vendor offerings; this signals expansion of B2C direct-to-consumer channels.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTjhCbDV3ejUwX1hnMEpuRTdIQklVNEhIR0FNT0JTTno3Nm1Mbnk5VDkyOVJLV3h4YTZtamFNN196ZWtyWExHWHRmeHNxSUd5dHZHTHJsTk40bjVYWnhwcWVTSFdjc2lrVlFOZ1pXVmsyZ9IBd0FVX3lxTE1pWWVHM1ZDRnFxNG83Ti1fVzZySVdFbnBwV0VTWGlMbm51LXVJeFdVU1JYQWJrcFlPcjNJakdhUUlEMy1nNEg4LUwyV3BKVUp3U1ZtWUE4OWxHc052Um9CNzB6cVhZakE1Mm5fcU9YV19YSWNyR19n"
+      },
+      {
+        "category": "Costco-anchored development to boost Littleton's economy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco is anchoring a new development project in Littleton, indicating physical expansion and investment in new real estate/warehouse locations to grow its brick-and-mortar footprint.",
+        "suggestedAction": "Monitor real estate expansion strategy; identify opportunities to support store openings, supply chain infrastructure, or facilities management if relevant to vendor's service offerings.",
+        "sourceName": "9News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWYyRUc5LUlTdVBNUFZKakp0MmVVXzdmOUVhWTEyRFdxR2g5b0J1b19lTHVValA4UUtXYmtGU1RNcXhaVmZXWnFaWGhjejI0cTY3WFdrbGctaFd6ZXRab3RxeEI2SHRLS0NkeVVZYmJFVlhTb3FHTTBsbnVxNnp1dFBzUE94UkZIVGpDa0stOUdLUm1iYk0zYVZjdTRfWWdSc2pUZXNPdzFaN2h3YjBXOUhPQ1dqWGNLUnlSODBHRUM3YW4zOUtaZ2V0c09Ga0lweGVlUlhxbWw"
+      },
+      {
+        "category": "Midtown Costco closing to transition into Business Center format",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "A Costco warehouse is closing temporarily to transition into a Business Center format, signaling strategic expansion into the B2B commercial/business customer segment alongside traditional consumer operations.",
+        "suggestedAction": "Evaluate opportunities to support Costco Business operations—new buyer personas, procurement processes, or B2B-specific service needs may emerge with expanded business customer focus.",
+        "sourceName": "KCTV",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNYYjdVM3BsWGZnN3NxWG5IekxhS1F2c0NxS3RiRXhoVTNoazJ2TUFkUWVIUV82TUdicnpMOHl3R2pYRFY3RmVSZkFZSlU5REx6aGdlOFV1T3oyUTNXYTBlUm83QXZIZXlaX2g4V2NmTFFvU0hyOERYZG4wSm9MZWpDMUtZYW5rR0dLNHZaMW9YaFdqd3kwMl85VXo2RkVNNzF5TjZkYzd1UzM0LS1mdVdVN0RqSm1palNLcdIB0AFBVV95cUxNeWFfQ05JUGwzUm5pMk41T2N6RGxUYzJOYTltcUNoMy1jUDNFVkJ0QUkxaDZqQnNtT3R1MXkzcV8yV3RfQ2hUSXBuUTNyTVpsR21rb1lTQ1VfT3dHeTIxaVp3ZDdMN0h1VjhkenM2M29kMi03dVkwczlkTU5TakdDd2pqbVVWbDdGVGhOMEVRUW52c3I0MHVpTjR2WDJqOFhZa2xsbFVRejdSdVllUjBaUU1BdGFwUE9JRnJzZVhWbjNGTk02NURtVjNPczljU3ZT"
+      }
+    ]
   }
 ]

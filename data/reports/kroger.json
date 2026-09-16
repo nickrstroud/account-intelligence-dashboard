@@ -831,5 +831,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRjF5Y096OVRZMmgweUVtckFxWmw0Ujllb3BjRXpsRnEtUEhrSDdQaU52NE9TdlRoaVFjZVNMdHlaRlJ0Rl9VSDc5OEx4RUVjSXZUMk9NVjIwc2NxeEV4X0RFaUpNbUhab2RJdXpEQURxRGJ3Ym8wN0ZRd0YweGFkTWI4czhIaS1nUmEzbzJuRzZrMDNSeHpaR2Z0VUNvYlFyX0hXYjd2bV84c1RCTWQzaVgwU1hlekVpSlNiLWZ6cFRuMHpJeDVRWHUxYVFBVHAwcVRtZ2ljdmlhWTMxNURNYVVuVW9UNDNEbXB5Tg"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-16T17:34:59.539Z",
+    "source": "daily",
+    "headline": "Kroger facing competitive pressure and customer attrition amid pricing conflicts with suppliers and shifting shopper behavior",
+    "signals": [
+      {
+        "category": "Competitive Threat - Market Share Loss",
+        "updateType": "competitive",
+        "score": -2,
+        "summary": "Kroger losing billions in customer spending to Walmart, Amazon, and Costco, with low-income shoppers shifting $12B away; shoppers increasingly price-sensitive",
+        "suggestedAction": "Review pricing and value proposition strategy; investigate if vendor discounts or promotional support could help Kroger compete; consider bundled offerings targeting price-sensitive segments",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajBJbWhDTXlFUEQ0OGdiTk11czdZcU1NVWc2cS16VllNN3o3WE10bS0yUzJlakM5ZmVkYThCZUJBcmNLd2VyOEdXYnRVQW1xY1Y5SVdoVUIyZzh4LXRFR2x4SXN4RkRSeXdWemQzUkh5TzlsUGs1U2Z4MFIxS3VWUEk4d2FJY1ZwR001Q0xuNXFuLUR2VnpWelZKZkFDSXJPOHZsaUlGY3ZMZXdvaV90UWN3ZTFOLXF3bW0tbUd1UEZIdmxvTGYxM0t1OA"
+      },
+      {
+        "category": "Supplier Relationship Risk",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger willing to stop carrying brands (Red Bull nationwide removal) and appears ready to lose suppliers over pricing disputes; signaling aggressive margin protection strategy",
+        "suggestedAction": "Monitor Kroger's pricing negotiations closely; assess whether vendor cost reductions are being demanded; evaluate if Kroger's aggressive stance could affect shelf space or promotional support for your offerings",
+        "sourceName": "Supermarket News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnFDSC1uOHotbFR4MHlGX3c5Ti1xWU5mNkVOZWNtbTktY255dmFQaDBHU0ZLazMyTERQQVFnUVpzVU4xeTBhalpmTTJPSlQ0VkFuMEs5dHFXaWo1NlhicXJPT3hFVm9DM2xKZU9yVGhKbHpXWDg0LXo1ejZsb1hYelI4bmpBRXpsSlAwakZEZHNWX1pvelZmVVNB"
+      },
+      {
+        "category": "Internal Compliance/Operational Issue",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Kroger inspections reveal pricing errors, adding to operational challenges and potential regulatory scrutiny",
+        "suggestedAction": "Monitor for potential regulatory actions or press fallout; assess if Kroger's operational challenges create distraction from vendor relationship management",
+        "sourceName": "Dayton Daily News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRjF5Y096OVRZMmgweUVtckFxWmw0Ujllb3BjRXpsRnEtUEhrSDdQaU52NE9TdlRoaVFjZVNMdHlaRlJ0Rl9VSDc5OEx4RUVjSXZUMk9NVjIwc2NxeEV4X0RFaUpNbUhab2RJdXpEQURxRGJ3Ym8wN0ZRd0YweGFkTWI4czhIaS1nUmEzbzJuRzZrMDNSeHpaR2Z0VUNvYlFyX0hXYjd2bV84c1RCTWQzaVgwU1hlekVpSlNiLWZ6cFRuMHpJeDVRWHUxYVFBVHAwcVRtZ2ljdmlhWTMxNURNYVVuVW9UNDNEbXB5Tg"
+      },
+      {
+        "category": "New Business Channel Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger Marketplace expansion coming to Huntington, indicating continued digital/marketplace strategy to diversify revenue and compete with Amazon",
+        "suggestedAction": "Explore partnership opportunities with Kroger Marketplace for vendor solutions; assess if your offerings could support their online fulfillment or vendor management needs",
+        "sourceName": "WSAZ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5va0QwVXlmZEIzTkVhQ0NFaXo1TzFZWEpNTV9RTzcxbXhBRjl5UEhTTFJXQ000bXFtaUZtMENKVXhrRlpobm83NWdSSnBWX2tuZ2U1aWdkZ0xuTFlCOHFYTVpmMG5hSkg1Njh5UHo5OEx1UEthTXhyedIBjAFBVV95cUxQYTdoWnhEYzRzbXZpNGpqX05PZ3VNX0VfVjluZHNqam1ZTVA0RHZtUXVOX3lzenRIX0d3ZzRBd25NS0RFOUQ0dl9naGNLbHhLb3RxNzZjdGdQNGNtcGZkc21CTU8zeUxoSjZSd3M3ZnJuVTNocGVXMG1rZzloeV9YZ0NCMG1oOW9EUl84ZA"
+      }
+    ]
   }
 ]

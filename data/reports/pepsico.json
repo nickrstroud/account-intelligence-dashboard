@@ -833,5 +833,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNThSbTN3MUh3WnhPa2RSRDhYU1VyWVoyYjJTaFA0REF1U2gzMmNSZEdCYVlpaHZLUXRDWTYxbUpMQnNLMG1PWk5ORFlnTkNsS3JubDJmMG94bk5kY0dxOWF0UlNVOElWYkxhOHVqNTV3UDktVnp4YzQxYVBLMlgyN0xkQWtJMnEwbFd2ZVR6UnJxeUU"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-16T17:32:48.259Z",
+    "source": "daily",
+    "headline": "PepsiCo facility layoff signals operational restructuring; competitive loss to Omnicom represents account risk",
+    "signals": [
+      {
+        "category": "Operational restructuring at Cheverly facility",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo laid off nearly 70% of workers at its Cheverly, Maryland facility, indicating significant operational contraction and cost-cutting measures.",
+        "suggestedAction": "Monitor for budget constraints that may affect discretionary spending on vendor services; proactively reach out to account team to understand how restructuring impacts procurement priorities.",
+        "sourceName": "WBFF",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRUNvVmo5ejlYZDVJS19RRHhFanV2UEdiRVFJejlSZTFWSmxkSzdwNzlDMzVoU3V6VW04WWVzZG9jMUF4Sl9qVkZfa0NMaDZFWHJ3dm40c2ZDdWlqUjgxXzR0N2FSTGlzM1NHZlV4dURBbEZaREYxS1F6RXlRWE1nMXRhWjhxSGF5VXlaOGNfajFoY2pvbmliNU56SDVoX1h3UnREZk9NSlNFekpCalNGSTAyOFFRdF9xandQTDhJZ3JjM0syVzdlbDMySDUzaFYyQ1NLTHgzdFNMSExUNlRRcjF0RVNDYl9CTFo5V0cxNFFoazhWTDNKa1lNcXVLU3lMMm5NX0Jn?oc=5"
+      },
+      {
+        "category": "Loss of major advertising account to Omnicom",
+        "updateType": "competitive",
+        "score": -2,
+        "summary": "Omnicom conducting 'detailed deconstruction' of PepsiCo loss indicates competitor won a significant PepsiCo advertising/marketing account, representing direct competitive pressure and loss of business within the customer.",
+        "suggestedAction": "Investigate scope of Omnicom win; assess if similar services are offered by our vendor and identify whether PepsiCo's internal marketing/communications team (a key buyer) has shifted priorities or budget allocation to Omnicom.",
+        "sourceName": "Campaign UK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlpHTDJhT3VBUUJrZ05MN3dkQllPTEh4YWg5TGZoRVRmcVRIQXduUVdheElVa1lKcTFodTNBX3doMFVjZjVYNmJDWWRWT0V1dGRFdzBINHRYalIzM3VoUmtnTjNabVIza3FTV3VoLVhzU3ZIV09LblZYYVZkSFR1enc0WEV3Zk9DTzJMRzFwU0JLWXFuNDF6Y3dFM2RMZG9jaFVSdkFlc0o3LWlKZmNXMmZIaENxaVRrMTFSeGRDSQ?oc=5"
+      },
+      {
+        "category": "Stock price decline below 50-day SMA",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock trading below 50-day simple moving average suggests potential weakening financial performance or investor concern, which may constrain capital allocation for new initiatives.",
+        "suggestedAction": "Track earnings reports and guidance for confirmation of revenue/profitability headwinds; adjust sales forecasts if broader financial deterioration is confirmed.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUlTWEphMndVMEw1dTRtMTRKMkhEZnotN3lnMkJZZDJUOEZ6d3hPQlJmV01VdldUSU9iYUYxdUxJMTB6RDRRTnFYdU9JXzFfYzNfXzc5X29aRU43eldkakVMWkZzV0w2YlhCX3d4RkhEZU0zeHFuQkVSWlNDZlJTeDU3SjBwWkRCLVJpaTZJdTVzYkdVNGpJ?oc=5"
+      }
+    ]
   }
 ]

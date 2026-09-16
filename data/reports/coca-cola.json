@@ -645,5 +645,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhdUo3dzl1emxndHhVRVQybXFJNHZJZDdiNFpjc0d5LVlzblNfYzFkeWgxdTF2Y3BpMzE1QTQ2Z3VLdjR2empIeUl2NTVYamJTc2VsS1RVQTc1M0VKQ09VcEVTM3VzOVA3RGFkSXJwbkx3QWc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-16T17:32:26.410Z",
+    "source": "daily",
+    "headline": "Coca-Cola announces $10B US infrastructure investment through 2030, positioning for supply-chain resilience and domestic manufacturing growth",
+    "signals": [
+      {
+        "category": "Capital Investment & Manufacturing Expansion",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Coca-Cola committing $10 billion to US manufacturing and infrastructure by 2030. This major capex initiative signals confidence in domestic operations, potential supply-chain expansion, and new manufacturing facility development.",
+        "suggestedAction": "Identify opportunities to support expanded manufacturing operations—packaging solutions, facility automation, supply-chain logistics services, or operational efficiency tools for new/upgraded plants.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSU85VUJiRnZvYk1TNGR3OW9lQmViTnR4VGtkSmxTUHk0WnBFNklJR19McE5uNVJzQWtzTE9FbnpNNzBDTFJtMGN2YjRoRFcxaWxVT1RUeWhmeElRRkR6T0VRMlQwQ1JmVHBFa21mUDdLSUlMcmR3ZnB6YVZzS0ZjSm4teldZajJ4azRDaVRfbw?oc=5"
+      },
+      {
+        "category": "Investor Confidence & Dividend Strength",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Recent analyst notes position Coca-Cola as a top consumer pick at UBS amid economic headwinds, and dividend analysis highlighting quarterly dividend payments reinforce financial stability and cash generation.",
+        "suggestedAction": "Leverage Coca-Cola's financial strength and dividend consistency in account conversations—signals stable, predictable budget allocation and customer confidence.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2FYUU1JQWNiS1NmODY5OS1wMWZaVXVfdGxha3ptS2dMd0piYUZUYjc0b1ZmT3lzMHNGZ0h4QlYwTHU4Nk9uVV9KUk95UjQ5STJ3dFhOb252MkRteS1KVklVMTBOUkYwYnBqcUsxZlFYODc3SDlJRlVwb3BqQ0UxSlhsX20yOUpCd0hDelJ2MjNuQTluSUhJZ3N5WThKNHFid2ZaaUYtQ19OT21wNE9tVkhlOXpFNE04QjBtdg?oc=5"
+      }
+    ]
   }
 ]

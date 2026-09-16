@@ -590,5 +590,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOG5TNlREeU5CdmVrQTBKZkJRTVpuTkZheWJkS0dpTG5nMGN5RFN2eFpYYnIxZDRpc1J5VWtVeG0yWVlDSFViMWRoTHpuNmN3cU42SUhkMENMNlFVZjNQVzJLNXJoWi01TkswN2oxZWNLblFTU1prOEVjeFdJU0t5dmpEeXYwYkNWOHFhNklMeG9hWUlCZGZxQzVvdUx1QQ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-16T17:33:34.354Z",
+    "source": "daily",
+    "headline": "P&G demonstrates AI adoption leadership and maintains strong capital allocation despite cost headwinds",
+    "signals": [
+      {
+        "category": "AI Investment & Digital Transformation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G recognized as a leader in AI adoption among Fortune 500 companies, featured in Harvard Business School analysis of how companies are accelerating AI implementation",
+        "suggestedAction": "Highlight P&G's AI initiatives in upcoming account reviews; explore opportunities to support their digital transformation roadmap and competitive positioning in automation/efficiency",
+        "sourceName": "Harvard Business School",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDRfNVVXWXJVcTZVZGhISjNhRl9YQzRXempCZ0RuRy1nWGhUSEtEZUhBdlBKQTg2RUJkblZDdy1JR1RSVmJDUmNCN1hsMFQxQVk2SVMtZG9CRzBUY1VMTUNnV2xyUVU3SUdUT3RPOENXVVp5dDlyOTNNa0lCc0hZVFVNUkIyc3BERzhxcnRYWFI4S2FsTVBibmVrZDVBcXc?oc=5"
+      },
+      {
+        "category": "Capital Allocation & Dividend Strategy",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "P&G announcing $10 billion more in dividends despite $1.4 billion cost headwinds, signaling confidence in cash generation and financial resilience",
+        "suggestedAction": "Monitor P&G's cost management initiatives and efficiency programs; potential opportunity to discuss cost optimization solutions that support their dividend commitment",
+        "sourceName": "TIKR.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQmlyaFhmdjFMVUtHWmF0RTFkYTdBNG0zc2xMQWw5NldJXzBoMFhMMmpMUWxHbVp0YWRKYXJUM2FyUkhKRXhXVHBRSkREMmVQUnl4aWo5VTdLWmNuamk3YWQ2NndnN0V1V0wwTjhIUURNVXc3ZW9qRzRXNUdaYTk1dXVneThLdWRaV19OZmd5eURUeXNsRC05VmNURi04YWIwaGdXY2lFaHp1TFJ6VzB2NDh2LWFrb0w5NVFtZVItd3hKV0t0SERkZ0s1aWhUT0ZRSlQtVjJOV1ktS1ZHTFNXcjJyQ28?oc=5"
+      },
+      {
+        "category": "Sustainability & Partnerships",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G joining industry consortium focused on recyclable, flexible paper packaging alongside Unilever and Nestlé, demonstrating commitment to sustainable packaging innovation",
+        "suggestedAction": "Explore partnership opportunities and solutions that support P&G's sustainability agenda; position company as enabler of their circular economy and ESG initiatives",
+        "sourceName": "Packaging Europe",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkJWVEdxZmRUM0JJczN2NGVLajlvVzZsMVR6MDZ0RWtpLWgtYWNxS0dXdktSOWZ4cWdWTlozbERXYXo2OUtDN1FvY2dZRWRBYjBqazh1MnR4ZHZURUV3anFHNzY1N1J0Zi1keGgyRTFUSGRNOFVXTzJlRVl4YW15R05pdjhIS2RCXzhQZDZScXZXcmQwbVF2V1J4djdMSnFXV281MjM4bzM5OGZXLTdJVzAzZ0hjSHFwY24w"
+      }
+    ]
   }
 ]

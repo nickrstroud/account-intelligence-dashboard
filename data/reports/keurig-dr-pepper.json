@@ -590,5 +590,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkVFMHBmRG9BSGI3TzVPdjRnMDJ4cGljWnA5LW5WR2tfTTduRzFsZm41NHB1VUhxdElvcXhVWk9BZFFzREg2cG9BZWFsclFqWEwzR3ItN2VVdGpiWXFHdVZ6RFBUbTF5UTZueEdPc1RtN2txWWljdGdJY2pyYnM2YWNZNjdaRTMyckk5SGUwZXVfRC02VDEtaEVfeUMybU10MlE5c2tRSkdTZXcwcnZkdzhiOGFIRmx4?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-16T17:33:15.791Z",
+    "source": "daily",
+    "headline": "KDP Shows Expansion and Strategic Growth Despite Valuation Pressures; Potential Split Creates Opportunity",
+    "signals": [
+      {
+        "category": "New Product Launch - A&W Energy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper launched A&W Energy, demonstrating active portfolio expansion and innovation in the growing energy drink category.",
+        "suggestedAction": "Positive signal for customer growth and potential new SKU opportunities; monitor for expanded distribution/channel needs.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORzV1WHVUMHpqQi1QdEZVT2REUkJ1czRfVXh2NjdBekk4TUt6VHYtRHlWNnR6RmxkOW9fTnVOMnVlWEhJV2tabHNTRXNIRXFhclE0bzd5TDlRZTJ3NDBrSDViXzQwMTh0UkdFRGs5RnVhcTNpU3d0VkJXSl9mOTFKZzR4YjR5ZWFON18zWHlzNE1IQ09fX0RPdFVmYkFkelI0U3BNNDZ3Y2F6aGFCTVRpZVphTzRhc2k5SlpoSmpvTG1ka1AwR0RrQWNQUXRCUjBKNzlHV05wMi1hTk5wNnM5V3lKYUlJQdIB5gFBVV95cUxORzV1WHVUMHpqQi1QdEZVT2REUkJ1czRfVXh2NjdBekk4TUt6VHYtRHlWNnR6RmxkOW9fTnVOMnVlWEhJV2tabHNTRXNIRXFhclE0bzd5TDlRZTJ3NDBrSDViXzQwMTh0UkdFRGs5RnVhcTNpU3d0VkJXSl9mOTFKZzR4YjR5ZWFON18zWHlzNE1IQ09fX0RPdFVmYkFkelI0U3BNNDZ3Y2F6aGFCTVRpZVphTzRhc2k5SlpoSmpvTG1ka1AwR0RrQWNQUXRCUjBKNzlHV05wMi1hTk5wNnM5V3lKYUlJQQ?oc=5"
+      },
+      {
+        "category": "Strategic Partnership - Chobani Enhanced Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced an enhanced partnership with Chobani to advance strategic priorities, indicating co-development and market expansion initiatives.",
+        "suggestedAction": "Opportunity to position services/solutions supporting multi-brand partnerships; gauge potential for expanded cross-brand support needs.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      },
+      {
+        "category": "Channel Expansion - Slim Chickens Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Dr Pepper flavored product launched through Slim Chickens, demonstrating expansion into QSR channel partnerships.",
+        "suggestedAction": "Signal of expanding distribution and co-branded innovation; potential opportunity for supporting QSR/foodservice initiatives.",
+        "sourceName": "WATTPoultry.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFh4U01fWUNOWlFMNnFMSnNiSjI0aWVTV2xYaWl2d2JTV1Q0OWszRlc1MmhSOXljc3dWZDdQOGpIaS1ERkZsa2lNNEt0R2hVNmN6OTFnNlNlMjVtd0w2TGlDbFRfZWtLM1UxOS1GRWRJWjNRQ1lvb3IwRm44eFdVRnFLLTB4eHZOSFhHSGN4d3hKR3RHX0JhaVY5a1A2aUxVUTVsV1JKX3AtbHJhWUE?oc=5"
+      },
+      {
+        "category": "Potential Corporate Restructuring - Planned Split from JDE Peet's",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Analysis indicates KDP plans to split from JDE Peet's, which could create significant value and unlock strategic optionality for the standalone company.",
+        "suggestedAction": "Major structural opportunity; prepare to re-engage during post-split transition; position solutions to address new independent entity's priorities and challenges.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTVGM2drOVhIalZHN01ZanBnLUlMRkpUM3U5SFRXTzFSd2Y2OVBwYzR3cmc4aEhuMDJhX21Fb09VUV9DRVZ5UlRDRkNhdDJNMHRhNDJ2aHh6RnpiMV8ySzFPYVpCbzZ5TXF2V2NYbFBoWDBHYVdDNjlHWV9zdmpIeTN4dTlUZGR3Uldzb0RfVnluREhBMDBtUDFUOHJydmNCRFRzUXpWd0tPQ1dxZ2RTb0NR?oc=5"
+      },
+      {
+        "category": "Analyst Upside & Valuation Support",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Bank of America cites 21% upside potential in KDP stock and outlines value creation from potential corporate split.",
+        "suggestedAction": "Positive market sentiment provides credibility; leverage analyst support as part of account engagement narrative on company growth trajectory.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenM0WDJhU0g0b0VqTDFiSTE1Y2ZEdGdRRXVNbkkxSVluWDNzM0Z2bUtWYc0taQWRVY3FtZm1RdlNBMURwQi1EMXpEZUR0YThIWHhmT3ZNSmtlb05QT2RUeHh1MEROTHhYMzJFSmgxbnpMUFBhTWxXOHlKY2VCQnhQOENSSG5mY1U5ZGFNbVZpbU5CNnRsSkFuZUhiRlJiMEY0?oc=5"
+      }
+    ]
   }
 ]

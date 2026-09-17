@@ -671,5 +671,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2FYUU1JQWNiS1NmODY5OS1wMWZaVXVfdGxha3ptS2dMd0piYUZUYjc0b1ZmT3lzMHNGZ0h4QlYwTHU4Nk9uVV9KUk95UjQ5STJ3dFhOb252MkRteS1KVklVMTBOUkYwYnBqcUsxZlFYODc3SDlJRlVwb3BqQ0UxSlhsX20yOUpCd0hDelJ2MjNuQTluSUhJZ3N5WThKNHFid2ZaaUYtQ19OT21wNE9tVkhlOXpFNE04QjBtdg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-17T17:31:59.183Z",
+    "source": "daily",
+    "headline": "Coca-Cola increasing domestic capex while evaluating agency partnerships; limited relationship-impact signals",
+    "signals": [
+      {
+        "category": "Capital Investment & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola announced $10B investment in US manufacturing by 2030, signaling confidence in domestic operations and potential new facility/logistics needs.",
+        "suggestedAction": "Assess if vendor serves manufacturing, supply chain, or logistics functions; position for RFP discussions tied to capex execution and operational scaling.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSU81VUJiRnZvYk1TNGR3OW9lQmViTnR4VGtkSmxTUHk0WnBFNklJR19McE5uNVJzQWtzTE9FbnpNNzBDTFJtMGN2YjRoRFcxaWxVT1RUeWhmeElRRkR6T0VRMlQwQ1JmVHBFa21mUDdLSUlMcmR3ZnB6YVZzS0ZjSm4teldZajJ4azRDaVRfbw"
+      },
+      {
+        "category": "Marketing Leadership & Agency Review",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola's top marketer is actively evaluating new agency partners, indicating potential marketing stack changes and budget allocation reviews.",
+        "suggestedAction": "If vendor operates in marketing/advertising/content technology, monitor for RFP opportunity; confirm current agency relationships and decision timeline.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1l1S2l3ek1QOW1MYW5leEl6WlJwNTU3RkdmZWV4XzZsbGY4ZjFFeTV0Nmo2TEdQel9GMVRYOC1WTHBlX0E4aENWd0ZteHdLaV91OUJvXzlNRU9DS0diUW5jVjgzN3gyN3BfYTlfY1lwUVRZMjluR01Kd1NWQ3ZnUEtoN1JjZTlsekVMRDAyMFVYY25hN0VGUFJlMGdOU3ducElLSFJmaw"
+      }
+    ]
   }
 ]

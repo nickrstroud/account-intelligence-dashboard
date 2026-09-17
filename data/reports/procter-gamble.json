@@ -625,5 +625,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkJWVEdxZmRUM0JJczN2NGVLajlvVzZsMVR6MDZ0RWtpLWgtYWNxS0dXdktSOWZ4cWdWTlozbERXYXo2OUtDN1FvY2dZRWRBYjBqazh1MnR4ZHZURUV3anFHNzY1N1J0Zi1keGgyRTFUSGRNOFVXTzJlRVl4YW15R05pdjhIS2RCXzhQZDZScXZXcmQwbVF2V1J4djdMSnFXV281MjM4bzM5OGZXLTdJVzAzZ0hjSHFwY24w"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-17T17:32:51.279Z",
+    "source": "daily",
+    "headline": "P&G expanding AI-based quality inspection with Siemens globally; supply chain modernization underway with leadership spotlight",
+    "signals": [
+      {
+        "category": "Technology & Operational Modernization",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Siemens and P&G rolling out AI-based visual inspection system globally, indicating significant technology investment and operational modernization initiative.",
+        "suggestedAction": "Opportunity to position complementary solutions in P&G's supply chain and quality operations; explore integration or adjacent automation opportunities.",
+        "sourceName": "WebWire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wTVZpYTF5WlNTTWlldjc0RmUwOXd3Y0lnVFhPeDFSQ3ZmckoyaXRvcHFWbkc4NWRvc3ZWNlQ2Nzl4QVBfaklTMUlKbzFtV1RJc2VEcnQta1ppeWI2SzZhSQ?oc=5"
+      },
+      {
+        "category": "Supply Chain Leadership",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Luc Reynaert featured as key driver of P&G's supply chain future, indicating continued strategic focus and potential change management in procurement/operations.",
+        "suggestedAction": "Build relationship with Reynaert's team; understand priorities for supply chain modernization and identify where solutions can support transformation agenda.",
+        "sourceName": "Supply Chain Digital",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmxvT1VZQk0wNGx6NUVfeVY4aVZEanJjUXpPN1c2MFVXMnV4SVhHYXNwMGFpSHdfSEpKQ3UydEpyRGlqQ2hWdkRLbGh1eHpNdllBd1luV3hvV1FJcTVCazNldUxhR3JMVS1QZDRIS2Jrb2kyLTM4eVlXd0ZVYTNJM0FXbUY1bFBzcmVLQg?oc=5"
+      }
+    ]
   }
 ]

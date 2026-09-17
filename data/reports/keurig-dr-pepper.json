@@ -643,5 +643,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenM0WDJhU0g0b0VqTDFiSTE1Y2ZEdGdRRXVNbkkxSVluWDNzM0Z2bUtWYc0taQWRVY3FtZm1RdlNBMURwQi1EMXpEZUR0YThIWHhmT3ZNSmtlb05QT2RUeHh1MEROTHhYMzJFSmgxbnpMUFBhTWxXOHlKY2VCQnhQOENSSG5mY1U5ZGFNbVZpbU5CNnRsSkFuZUhiRlJiMEY0?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-17T17:32:39.381Z",
+    "source": "daily",
+    "headline": "KDP maintains financial stability with quarterly dividend; exploring strategic breakup while expanding partnership ecosystem",
+    "signals": [
+      {
+        "category": "Dividend Stability & Shareholder Returns",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper declared a $0.23 quarterly dividend, demonstrating sustained cash generation and financial health. Regular dividend declarations suggest operational stability and confidence in future cash flows.",
+        "suggestedAction": "Use as positive talking point in account health discussions; stable dividend indicates strong underlying business fundamentals.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalhQY2NLSTFUOXdBSEZEYnJjM0NweVBOcVFMNjMwQnVGQnZWdFRrQ0hrY05UVWw1QXV0ZXNNOFlhRG1LdDZxWFZlZExxNlhfV0tweHNTRGd5Y1Q2X2NxMTJVZ2t5TllhMjZKTGJiYWFpblZpQ0tva2JHUmxDczVrZWdPNTBnamtGeG1GaFI2RldEWnFGdThXRWE0U2pYV0tMVXc?oc=5"
+      },
+      {
+        "category": "Strategic Business Restructuring Under Consideration",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Analysis suggests a potential breakup or separation of Keurig Dr Pepper's business units could unlock shareholder value. This indicates potential structural changes ahead but no confirmed action.",
+        "suggestedAction": "Monitor for announcements regarding potential divestitures or separation plans. Prepare contingency plans for potential business unit reorganization or spin-off scenarios that could affect account structure.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
+      },
+      {
+        "category": "Strategic Partnership Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper announced an enhanced partnership with Chobani, demonstrating active pursuit of strategic growth initiatives and channel expansion through established brand partnerships.",
+        "suggestedAction": "Identify potential touchpoints within the expanded partnership; this signals KDP is focused on growth through partnerships and may have increased technology/platform needs for these initiatives.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

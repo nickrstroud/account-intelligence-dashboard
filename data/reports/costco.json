@@ -597,5 +597,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNYYjdVM3BsWGZnN3NxWG5IekxhS1F2c0NxS3RiRXhoVTNoazJ2TUFkUWVIUV82TUdicnpMOHl3R2pYRFY3RmVSZkFZSlU5REx6aGdlOFV1T3oyUTNXYTBlUm83QXZIZXlaX2g4V2NmTFFvU0hyOERYZG4wSm9MZWpDMUtZYW5rR0dLNHZaMW9YaFdqd3kwMl85VXo2RkVNNzF5TjZkYzd1UzM0LS1mdVdVN0RqSm1palNLcdIB0AFBVV95cUxNeWFfQ05JUGwzUm5pMk41T2N6RGxUYzJOYTltcUNoMy1jUDNFVkJ0QUkxaDZqQnNtT3R1MXkzcV8yV3RfQ2hUSXBuUTNyTVpsR21rb1lTQ1VfT3dHeTIxaVp3ZDdMN0h1VjhkenM2M29kMi03dVkwczlkTU5TakdDd2pqbVVWbDdGVGhOMEVRUW52c3I0MHVpTjR2WDJqOFhZa2xsbFVRejdSdVllUjBaUU1BdGFwUE9JRnJzZVhWbjNGTk02NURtVjNPczljU3ZT"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-17T17:33:19.412Z",
+    "source": "daily",
+    "headline": "Costco expanding delivery partnerships and managing product supply; no direct relationship risk signals detected",
+    "signals": [
+      {
+        "category": "Strategic Partnership Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco expanding delivery reach through DoorDash and Uber Eats nationwide partnership, broadening sales channels and customer accessibility",
+        "suggestedAction": "Monitor expansion impact on customer ordering patterns and engagement; explore if delivery capability unlocks new use cases for account's products/services",
+        "sourceName": "ABC11 News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0Z0Qm5tejREQVRBeG5JbmdBLWlKUUNvbWNIaDB0ZUdEa1JCN3luMzdsX1JqR0k5V0NuRmx5ZTE2eGRXSy03eXA0UncxeGlxamk5Nmt3S2p0MGk5SVJNOXVWZEdOd0x6SFlkcXBoamFMYXpGODI2NVBGT1F5SUwzS1B5dFFQVmdtTTM00gGQAUFVX3lxTE9aZHhKenRjc1pad3FJVFdMT2ZtQk9IaGFyQ2xBREZ3M2RWRGFybXJ1SnEteVBFbGxpVlB1VnpZamxEaThkQnUxakxKLU9BUWxScTAwSWtwWXV0ZXhub0VmZGVHa3pkOUM5TXRDTTRzc2FOaDFIbHc3NHpNeEVjYnh0NjFnSTVaSGVWUzNTQlpKbQ?oc=5"
+      }
+    ]
   }
 ]

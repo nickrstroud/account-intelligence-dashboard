@@ -868,5 +868,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUlTWEphMndVMEw1dTRtMTRKMkhEZnotN3lnMkJZZDJUOEZ6d3hPQlJmV01VdldUSU9iYUYxdUxJMTB6RDRRTnFYdU9JXzFfYzNfXzc5X29aRU43eldkakVMWkZzV0w2YlhCX3d4RkhEZU0zeHFuQkVSWlNDZlJTeDU3SjBwWkRCLVJpaTZJdTVzYkdVNGpJ?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-17T17:32:22.955Z",
+    "source": "daily",
+    "headline": "PepsiCo undergoing restructuring with major facility closure, but stock pressure and sustainability focus signal mixed near-term outlook",
+    "signals": [
+      {
+        "category": "Plant closure and workforce reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo is laying off 143 workers (70% of workforce) at its Cheverly, Maryland bottling facility and shutting down manufacturing and warehouse operations at the plant.",
+        "suggestedAction": "Monitor for broader cost-cutting initiatives that could impact vendor spend; assess whether similar facility rationalization is planned elsewhere that could affect procurement.",
+        "sourceName": "WJLA",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMDMtRW5sb1kwaWRfUnNPUWx0cVJSUFNnT2Fad0tyQ05EbDl4NFBPUFBTMmlRbDRNN3ZFdGloS2x0S2hDaWFySEJMWUwxV2R3dExuQlh5aUMyY0FpQ3JTOVdoRVozMWV4ei1rZmd5ZHFjMGFoUlFVZW1wZTFkSTdBX2VYOTdEc1Z5YmZRN1JVTUQ3RjJGaHpvdkVNcTFXZmFFcER2U3Q5QldabU53U2U1MG5PZ0Zub3ljT1hOR2VZZHpxUWlsa2IzckFSbW4xbjl3WmJKQl9qeHNpaXVMUmpuRUxvZUFJNjRhM0Jzc2FYbXlkNnpoaU1fVWEtMA?oc=5"
+      },
+      {
+        "category": "Stock price pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo is trading below its 50-day simple moving average, signaling recent downward stock price momentum and potential investor concern.",
+        "suggestedAction": "Monitor quarterly earnings calls and guidance revisions; be prepared to discuss budget stability with account stakeholders if market pressure intensifies.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUlTWEphMndVMEw1dTRtMTRKMkhEZnotN3lnMkJZZDJUOEZ6d3hPQlJmV01VdldUSU9iYUYxdUxJMTB6RDRRTnFYdU9JXzFfYzNfXzc5X29aRU43eldkakVMWkZzV0w2YlhCX3d4RkhEZU0zeHFuQkVSWlNDZlJTeDU3SjBwWkRCLVJpaTZJdTVzYkdVNGpJ?oc=5"
+      },
+      {
+        "category": "Sustainability innovation and vendor partnerships",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is actively building a Sustainability Innovation Hub and selecting external vendors/partners to present innovative solutions, signaling investment in new business initiatives and openness to vendor collaboration.",
+        "suggestedAction": "Identify whether our solution aligns with PepsiCo's sustainability priorities; explore partnership or pilot opportunities through the Innovation Hub channel if relevant.",
+        "sourceName": "markets.businessinsider.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcTNRVG9IWHowVE1yazhyR3Y4VjBDNUFmTHFhN3ozeHRxYVZqWnJOZDIwZEptM1NqYXdZUXZjbUlkcFlsT1dRNGpreWtVYS1jLVRLQWpYZUNBdE8yOGViSFRKcEhJS1B0MjlpX2VsZWhveER2dTVLaTlid1FSMnVNN2QxTjJ6TWRGcElyWklCQjV3cG56WHJ1ZHRxOGpSOFpVSnctOHRQSmpxdFJlc3FRVk43TDdSaFNOWmZxVE1mQ2N1ZzhYU3RaS1prLUxwZEp4LTk4TXVQaHdpVnZsc3NuSVhn?oc=5"
+      }
+    ]
   }
 ]

@@ -875,5 +875,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5va0QwVXlmZEIzTkVhQ0NFaXo1TzFZWEpNTV9RTzcxbXhBRjl5UEhTTFJXQ000bXFtaUZtMENKVXhrRlpobm83NWdSSnBWX2tuZ2U1aWdkZ0xuTFlCOHFYTVpmMG5hSkg1Njh5UHo5OEx1UEthTXhyedIBjAFBVV95cUxQYTdoWnhEYzRzbXZpNGpqX05PZ3VNX0VfVjluZHNqam1ZTVA0RHZtUXVOX3lzenRIX0d3ZzRBd25NS0RFOUQ0dl9naGNLbHhLb3RxNzZjdGdQNGNtcGZkc21CTU8zeUxoSjZSd3M3ZnJuVTNocGVXMG1rZzloeV9YZ0NCMG1oOW9EUl84ZA"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-17T17:34:02.115Z",
+    "source": "daily",
+    "headline": "Kroger supplier dispute (Red Bull) amid expansion investment; mixed signals on customer relationship stability",
+    "signals": [
+      {
+        "category": "Supplier Relationship Disruption",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Kroger pulled Red Bull from all stores nationwide due to apparent pricing dispute with supplier. Indicates potential friction in vendor relationships and operational challenges.",
+        "suggestedAction": "Confirm payment terms and pricing stability with Kroger procurement; assess whether similar disputes could affect your product categories.",
+        "sourceName": "The Detroit News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHBRc3JRNDd1a3BOZElwRXUxTGtQc01QS3M1SnNsOFFHR0twLWN1MjNITEpaMlJPeHl2Z2d6ZnQ0Z1JTb09INW4zYm5uTXcyVnRkeHNDS0ZNZW02eTlrTG1fQnBiV0ZqS09aV2xDRGJJU0FZTk84U0dZcHQwNWtveUFJeFZ6czA1X0R6VUhiYTctNGg0cEpTTHl1MVZtMEFhbUx0ZjlPaXZJTm1oTUlXTkNOT3dDTGFq?oc=5"
+      },
+      {
+        "category": "Capital Investment & Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger announced $253 million investment in brand upgrades and new store openings, indicating growth and modernization plans.",
+        "suggestedAction": "Identify new store locations for targeted business development; explore opportunities to support Kroger's brand upgrade initiatives.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnNDcDZrcmVfLVRSaE5lZHl3RU9tQVF1UDRndF93UGpMNlBjMW9sQUM1VmdGdUFFZWZkcTlOeDIwLTRTdmtGMUUzaUhKc05qZjV1UTBmY0NDLUVWRndIVjFWaVpKZGJyamxMb0EtMFFJNlJiTnZhOU9jR001cC1ONlIwcWltVTE3WEZ0OEltYU8zS21CUnFveHh1SUNzdWRaMTVlNDJGZEtDR0FQLWtFZ2Qyd3gyZ09XR0pFZEZFUnI?oc=5"
+      },
+      {
+        "category": "Retailer Portfolio Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PuraVida's KidsLife Disney & Pixar Meals expanding nationwide at both Target and Kroger, indicating Kroger's active interest in new product categories and consumer offerings.",
+        "suggestedAction": "Monitor Kroger's openness to new supplier relationships and product launches; benchmark your category performance against similar expansion initiatives.",
+        "sourceName": "Nosh.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFpaSFczZ2ZWOWNUTlRUREJZVEZwX1BNU3U1T2xVTktTbU16OHI4aWVuLXExS0xFcDM2T3Y5VG9fZHA2TWs0N01DUkpmTm5JdU03Qzl3YnM1cjFMR2NOY1JHRDRmM1dnQ3Q5ZVFQVjFhU2lKcE54WVY5QVJBM2JqMXYwc3cxNEd3bVhWWEstV0RicGlzcnRjX19MeXQyREJUeDgtYVFRaThiX1pDVFE?oc=5"
+      }
+    ]
   }
 ]

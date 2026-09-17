@@ -614,5 +614,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTBFTjlxSTB4WE9ha0I5QU8xZlZFU2ZGd3o5bVhodGxwdXItM3c5RWJMeXViVjlsWlFXRTFqWGJUYVE4NDhsU0VVTXpDUEtvQlh2T0Z5Q0I3NTVJQnNwWUpyN2VoQ0pMMjBSTDdvTUVFVFJoU0t5NTVVSDhwRW9TZTNNa0lWZVptdlRlcE5lbnNqaEpXdU1yYlZWRDRuS0xMYWRMb3dkTUhlN0dPUnliWURraEJrM3hxWU9mWF9sdExzSnc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-17T17:33:08.680Z",
+    "source": "daily",
+    "headline": "Walmart faces product recall issues and regulatory scrutiny over AI chatbot practices, with mixed account implications",
+    "signals": [
+      {
+        "category": "Regulatory/Compliance Risk",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "FTC probe requested by senators into Walmart's AI shopping bot over 'made in USA' labeling accuracy issues. Indicates emerging regulatory scrutiny of Walmart's AI/automation capabilities and data practices.",
+        "suggestedAction": "Monitor regulatory developments; potential for compliance-related budget constraints or process changes affecting vendor relationships and procurement priorities.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEpVOWZranlNWUZ3dkdLRFp6WHpFOHdPdkszVGpmY3ExLVozUzh0TmdMcVlfVDNlenpjWjRqbDBobVNPZ2VaOUpndWhIWHlmMTQ2YkhHZU9OQVk0OGRwTXRhdV9YODZpNDNtZjJMbDgzdUJic3h5Vi10eDdXZ0ZfLVFwZzU4aXd4NVdmc3R4MDN5VVdlTFlLUzZqZkVwcHcycFhfUVJOOWI4ZlFCWF9iRF9tRVo"
+      },
+      {
+        "category": "Brand/Operational Issue",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple product recalls (7+ items including supplements and frozen desserts) reported across retail channels including Walmart. Indicates potential supply chain or quality control issues.",
+        "suggestedAction": "Track whether recalls signal broader quality/compliance challenges; assess impact on Walmart's vendor selection criteria or supplier relationship management priorities.",
+        "sourceName": "nj.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUlkWlJXU2t5RUtHQi0xVVRnRlVidnNwNWJEMW1lek5HTkVHcFljZjNVaWlwV25wR2FFODZVbVZYVzZHRGVwcEJMVUJia1pLOHB5RTV4NkZDSXE1SUFSR0JJU1FIMjM5NEpIYXRVbWRoTzIxY0RLZXpEdFh4NjZRMElyZ0wxWmd3c3Y4TTFtRW9VUGhWc0taTkhTQVM5Nm04WlFmN19PUi0xNFhLcVNXRkxuZ9IBxwFBVV95cUxQb2M4MHFzbHExRzZOWnFyVmlGTldoMXpkOTAtRlY1bWdBcy1tREhzUTFQV2Izd1BMd3pHbXpGUlRkVEFaT1l0Sk5yREstUGFBQnItWTAwQ1RnNy12eTlkeXJEb2hPZ1c4ckFwSlRwanY0Q0x1Q1hkNURrSVpWMWltZ1VOSDNYQ3p5c1lXVnh6Z1dLaEpTYjF3M21LVUF0M0ItTVQ1ZUR3UDVjRnRqWGRNU2JadncwZE5ibEFGa2JndHZNUGFLZ3NR"
+      }
+    ]
   }
 ]

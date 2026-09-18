@@ -903,5 +903,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcTNRVG9IWHowVE1yazhyR3Y4VjBDNUFmTHFhN3ozeHRxYVZqWnJOZDIwZEptM1NqYXdZUXZjbUlkcFlsT1dRNGpreWtVYS1jLVRLQWpYZUNBdE8yOGViSFRKcEhJS1B0MjlpX2VsZWhveER2dTVLaTlid1FSMnVNN2QxTjJ6TWRGcElyWklCQjV3cG56WHJ1ZHRxOGpSOFpVSnctOHRQSmpxdFJlc3FRVk43TDdSaFNOWmZxVE1mQ2N1ZzhYU3RaS1prLUxwZEp4LTk4TXVQaHdpVnZsc3NuSVhn?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-18T16:59:13.154Z",
+    "source": "daily",
+    "headline": "PepsiCo restructuring via Maryland plant closure and 143+ layoffs signals near-term operational contraction and cost-pressure environment",
+    "signals": [
+      {
+        "category": "Manufacturing Restructuring",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo announced closure of Maryland bottling plant (Cheverly facility) with 143+ worker layoffs, indicating operational consolidation and cost-reduction initiative.",
+        "suggestedAction": "Monitor for broader cost-cutting signals; assess whether account is reducing discretionary spending on non-core services and renegotiating vendor contracts.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjR5WGNnMWJfeElCMUoweTIydlBDc3ZBY0Fpc251ZGRKd0Uzc1BCNXNzZnRQYmViTnlzT0lFcXNfajBPRDluX2RWWWY1anJmYUl3a0xhT3pvYWhESTRyZ01oOW9WSnE5d1NsM3pZMnU2R19Vd01iVGJJaEJ0OVJ4YmJYMzY5SExsVGU0WU5lYzRESXhzNGhiRmhaY3ZxWGlUcHdySQ?oc=5"
+      },
+      {
+        "category": "Board Appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "PepsiCo elected Joaquin Duato to Board of Directors, representing routine governance activity and potential relationship continuity opportunity.",
+        "suggestedAction": "Research Duato's background and any vendor relationship history; consider this a neutral touch-point for account continuity messaging.",
+        "sourceName": "Morningstar",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzN4U0tjeWRoY0psMEtXaGNCSFRDMHRQVjdRY3FqSVZ6M3pIWEhhallXd0tJZ3Jacmg4V0dBS3JZRGZrU19yZ3plcGU4X2dHV281T3dWSWY0NE0zUC1UVmZZVDVrSFFXNUVlbjE2RUotYkxWemRZYWhiaXdTbmdvTjVNSndtb2RwZVpLM0VTTnIwY0tySHlVT1hDTHpJb1Q1T2E0UHFlOUZwNEVEd3VaSg?oc=5"
+      },
+      {
+        "category": "Brand/Marketing Campaign",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "PepsiCo launching first corporate brand campaign with a tongue-in-cheek fake rebrand, signaling renewed marketing investment and brand momentum.",
+        "suggestedAction": "Use as positive rapport touchpoint; explore whether marketing budget remains healthy despite operational restructuring; potential opening for marketing/brand-aligned services.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UUFUX0ZPcnlydVBsRnFlR0RXME1ZNUh3b1RFVTRkelotWkpzSGJKckFWaUFyZElTOUVEN1dDcTNDTm9naHB1d1BLYmFhTjBPN21Qb0dOaVp1ZmJnWkNSMVBGUVdBdw?oc=5"
+      }
+    ]
   }
 ]

@@ -640,5 +640,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUlkWlJXU2t5RUtHQi0xVVRnRlVidnNwNWJEMW1lek5HTkVHcFljZjNVaWlwV25wR2FFODZVbVZYVzZHRGVwcEJMVUJia1pLOHB5RTV4NkZDSXE1SUFSR0JJU1FIMjM5NEpIYXRVbWRoTzIxY0RLZXpEdFh4NjZRMElyZ0wxWmd3c3Y4TTFtRW9VUGhWc0taTkhTQVM5Nm04WlFmN19PUi0xNFhLcVNXRkxuZ9IBxwFBVV95cUxQb2M4MHFzbHExRzZOWnFyVmlGTldoMXpkOTAtRlY1bWdBcy1tREhzUTFQV2Izd1BMd3pHbXpGUlRkVEFaT1l0Sk5yREstUGFBQnItWTAwQ1RnNy12eTlkeXJEb2hPZ1c4ckFwSlRwanY0Q0x1Q1hkNURrSVpWMWltZ1VOSDNYQ3p5c1lXVnh6Z1dLaEpTYjF3M21LVUF0M0ItTVQ1ZUR3UDVjRnRqWGRNU2JadncwZE5ibEFGa2JndHZNUGFLZ3NR"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-18T17:00:10.685Z",
+    "source": "daily",
+    "headline": "Walmart drives expansion into rural health services and competitive digital channels while managing labor and regulatory headwinds",
+    "signals": [
+      {
+        "category": "Business Expansion - Rural Health",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launching rural health ambassador pilot program, tapping pharmacists for expanded healthcare support services. Represents new service line expansion and diversification.",
+        "suggestedAction": "Explore healthcare-adjacent offerings and services that could support Walmart's rural health initiative; position for account expansion in pharmacy/healthcare operations.",
+        "sourceName": "Fierce Healthcare",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUNvUWN3bGcxT0g2UlBzYUhRaWhWU0FUZW9DaFl0c0ctSkxJNDBBT2dNaTBiZWlnc1Z0N0dCODU3UU9SNGVrNEcyWVRiQ1JRbFhkeG5VcmYwYTJSZ1hjLWlNNUk2MXRGaVpDYUZxS0F6WEhEd2NCUjJlVVVjNW91REplVlRNUWZENWlSN0lza29PemdnUkRSOVk0YUdNZEpQTjdlR0YzdTljRGlrWWRMUDl3"
+      },
+      {
+        "category": "Competitive Threat - Digital/Chatbot",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Walmart's chatbot functionality flagged by senator alongside Amazon for 'made in USA' labeling issues. Indicates competitive parity in AI/digital capabilities but potential regulatory friction on claims verification.",
+        "suggestedAction": "Monitor regulatory developments around AI-driven product labeling and claims verification; understand Walmart's compliance priorities and potential gaps in vendor validation processes.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVhVemI2Mk5zY01IWVFSeEk0RXF6b2JfMk1DOFItS1hSRU9wNXZ0SWQzdks4cmlZTUlnMXM0Sk1GcTItWThPZU9PVFRhUHRWQmhPZ29ZajJQaUU0czliNl9RQTExZFNfbTlBMGlsZ3lrbXk0NFdGYklONENZRDl6dmU4NkVrX3R3dHpOSUkyaTRSM2ZNRjJ4WDZZRzhqejNkSXItZDVDSC04N2pEV2o2LXphWTE1UFZ6cmRvSG12VQ"
+      },
+      {
+        "category": "Labor Relations - Union Agreement",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Canadian Walmart workers achieved first-ever union contract, signaling labor organizing momentum. Neutral signal—potential for expanded benefit/compliance requirements but no immediate job loss indicated.",
+        "suggestedAction": "Review implications for HR/benefits vendor partnerships and compliance processes; monitor for similar organizing activity in other regions.",
+        "sourceName": "Labor Notes |",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1RvbEk3UUdoejNOYzJVQWVUcm9UazBVTkw5TDlQRXlOdXJLdFh5NE5UTDY0dF9OeU9XQ3VBVC02LXJQQ3JqYlJiOFNBNW9DZVhic2RNUURpRnpPaWF6YzJZMDFOdFlxRkE4NnBpZmdxNF9LLWhjWU42aGxtY1lmcWxlc0RReFhFR0hF"
+      }
+    ]
   }
 ]

@@ -614,5 +614,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0Z0Qm5tejREQVRBeG5JbmdBLWlKUUNvbWNIaDB0ZUdEa1JCN3luMzdsX1JqR0k5V0NuRmx5ZTE2eGRXSy03eXA0UncxeGlxamk5Nmt3S2p0MGk5SVJNOXVWZEdOd0x6SFlkcXBoamFMYXpGODI2NVBGT1F5SUwzS1B5dFFQVmdtTTM00gGQAUFVX3lxTE9aZHhKenRjc1pad3FJVFdMT2ZtQk9IaGFyQ2xBREZ3M2RWRGFybXJ1SnEteVBFbGxpVlB1VnpZamxEaThkQnUxakxKLU9BUWxScTAwSWtwWXV0ZXhub0VmZGVHa3pkOUM5TXRDTTRzc2FOaDFIbHc3NHpNeEVjYnh0NjFnSTVaSGVWUzNTQlpKbQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-18T17:00:20.197Z",
+    "source": "daily",
+    "headline": "Costco expands delivery partnerships and food court offerings, signaling continued operational growth and customer engagement improvements",
+    "signals": [
+      {
+        "category": "Third-party delivery expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco has expanded its Uber Eats delivery partnership to 47 states, and simultaneously expanded partnership with DoorDash nationwide. This represents significant scaling of delivery capabilities and customer access channels.",
+        "suggestedAction": "Assess whether vendor's solutions support or could support omnichannel fulfillment, delivery operations, or last-mile logistics for Costco's expanded delivery footprint.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTjhCbDV3ejUwX1hnMEpuRTdIQklVNEhIR0FNT0JTTno3Nm1Mbnk5VDkyOVJLV3h4YTZtamFNN196ZWtyWExHWHRmeHNxSUd5dHZHTHJsTk40bjVYWnhwcWVTSFdjc2lrVlFOZ1pXVmsyZ9IBd0FVX3lxTE1pWWVHM1ZDRnFxNG83Ti1fVzZySVdFbnBwV0VTWGlMbm51LXVJeFdVU1JYQWJrcFlPcjNJakdhUUlEMy1nNEg4LUwyV3BKVUp3U1ZtWUE4OWxHc052Um9CNzB6cVhZakE1Mm5fcU9YV19YSWNyR19n?oc=5"
+      }
+    ]
   }
 ]

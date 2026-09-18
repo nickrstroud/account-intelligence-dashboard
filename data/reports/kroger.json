@@ -910,5 +910,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFpaSFczZ2ZWOWNUTlRUREJZVEZwX1BNU3U1T2xVTktTbU16OHI4aWVuLXExS0xFcDM2T3Y5VG9fZHA2TWs0N01DUkpmTm5JdU03Qzl3YnM1cjFMR2NOY1JHRDRmM1dnQ3Q5ZVFQVjFhU2lKcE54WVY5QVJBM2JqMXYwc3cxNEd3bVhWWEstV0RicGlzcnRjX19MeXQyREJUeDgtYVFRaThiX1pDVFE?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-18T17:00:58.160Z",
+    "source": "daily",
+    "headline": "Kroger navigating cost pressures and brand repositioning amid supply chain disruptions and pricing scrutiny",
+    "signals": [
+      {
+        "category": "Product Sourcing & Vendor Relations",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger discontinued Red Bull nationwide, signaling potential vendor conflict or strategic shift away from premium energy drinks. This reflects either a negotiation breakdown with the supplier or a deliberate repositioning toward lower-cost alternatives.",
+        "suggestedAction": "Investigate Kroger's vendor consolidation strategy and assess whether this signals broader supplier relationship changes or a pivot to private-label/lower-cost alternatives in key categories.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSE51UkRHZWdpS0RWbWN6M0tZNVY0RTM3ZEJBTzZYcC1Kc0Q1Q3dEQzlVeWNPS1dPNldsc1FXNUxERnpPVjY0YU8weHpIS1l6SS1mVWUyenRsaW10ZGd2cVZCY2d0cXI4cTYyckQxZndlTkdtSzFBVUxYTC0takZNLTVEZjdkdkRhbnRyM2FkeDdQX3hOSkN5RGlFczlXOXlCNUZka1BIeE9FV21KZHh3WlJvQWpWSHVraEY1blQ0Tl8?oc=5"
+      },
+      {
+        "category": "Brand Repositioning & Pricing Strategy",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Kroger faces public scrutiny over frequent overpricing (Ohio Capital Journal report) while simultaneously attempting to build a low-price image, creating a credibility gap that could weaken brand positioning and customer trust.",
+        "suggestedAction": "Monitor Kroger's pricing transparency initiatives and promotional strategy; assess whether this reputational challenge impacts budget allocation toward price-perception solutions.",
+        "sourceName": "Ohio Capital Journal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZm1SQ3FodUVENGxPd3VIb1dvSjNNVzJ5aEQzMEx2ZXh6NkNzVnRGU2VCZUdrb1VWUjdKWGZpcXdNYzlEZHRLalozV0lIcVg3dmhIU1oyT3U5aGlTUFVtbHJ3YTBXT2QwdU5iTHBzVG1vSjNReDVHMV9hNlEwTnpfQUJJbzNkU01ibkNWMF9RSV9DbDkyNFd5TWYzNFFpdXlaU21XakkxQXZUdU9ocEFFc0hxbw?oc=5"
+      },
+      {
+        "category": "Capital Investment & Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is committing $253 million to brand upgrade and new store expansion, indicating confidence in growth initiatives and continued investment in customer experience and market reach.",
+        "suggestedAction": "Identify opportunities to support Kroger's store refresh and expansion programs; position offerings aligned with brand modernization efforts.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnNDcDZrcmVfLVRSaE5lZHl3RU9tQVF1UDRndF93UGpMNlBjMW9sQUM1VmdGdUFFZWZkcTlOeDIwLTRTdmtGMUUzaUhKc05qZjV1UTBmY0NDLUVWRndIVjFWaVpKZGJyamxMb0EtMFFJNlJiTnZhOU9jR001cC1ONlIwcWltVTE3WEZ0OEltYU8zS21CUnFveHh1SUNzdWRaMTVlNDJGZEtDR0FQLWtFZ2Qyd3gyZ09XR0pFZEZFUnI?oc=5"
+      },
+      {
+        "category": "Operational Crisis & Revenue Impact",
+        "updateType": "earnings",
+        "score": -2,
+        "summary": "Cyclosporiasis outbreak cost Kroger over $100 million in lost sales, representing a significant financial hit that may constrain discretionary spending and supplier budgets in the near term.",
+        "suggestedAction": "Prepare for potential budget reductions or tighter negotiating positions; offer flexible payment terms or cost-reduction solutions to help Kroger recover margins impacted by the outbreak.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmp6LTlCYTcxdHRYcjFidGpmdUJybnpXbnpzWjhqSHNyMnZnQ1NFb1pKeWNYa25ndEl6Rzd6MnA0SjNPRVBOWTFBV2JZemRtSndSTXo5bE9wQzdOWTB2RmJyRGFvSWFDYTk4LXdTelN5X2pENW1hRTJKZUQ4Y0VCb01JVDgwbmgtdTNaWE1ydWlERElha3k4S2hEQ1N3TXVfM1Yybw?oc=5"
+      },
+      {
+        "category": "Channel Expansion & New Business",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger Marketplace expansion to Huntington signals ongoing momentum in digital/marketplace channel growth, creating opportunities for vendors to reach customers through new sales channels.",
+        "suggestedAction": "Assess Kroger Marketplace integration strategy and identify product categories or services that could drive incremental revenue through this expanding channel.",
+        "sourceName": "WSAZ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvbmxnQkw4ZndacHlNUHdzVUY1ZWlHU1o2SDFJZmYyWjJyMmFKOC1ZY2V6cHFiSEZ1bjZaUXFfUjJJM0NWbVd4UmJoZW53TjFudnV0UWVmVzJ0VkZUejByTnZNYXdEM1JMeWl3S1dSdU1ZbTN0aGZRZNIBjAFBVV95cUxQSHcyN2ZLS3dMUy0wUHlxRUxiU3NVU21pZEtkeVN3MFFYVFNpOUNWcTB3Z3pRUXhvZm9oUW9HalBkdGdBU0FCbFdxcnhYbmZfSEhlczdQVVdZVDk4NzVGNW93ZktxcWsxaVNpck05UGEtUzdRaENPb0Uyd1JIamYySkNzRnlsLWEyMVllZQ?oc=5"
+      }
+    ]
   }
 ]

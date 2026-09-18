@@ -678,5 +678,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-18T16:59:38.829Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper undergoing executive reshuffle and considering strategic breakup; new product launches and partnership expansion show active strategic positioning",
+    "signals": [
+      {
+        "category": "Leadership Change - Executive Reshuffle",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Keurig Dr Pepper reshaping executive teams alongside peers like 3M, Dole, and J.M. Smucker. Executive transitions can create relationship risk if key champions depart or decision-making processes shift during transition.",
+        "suggestedAction": "Identify any departing buyer-side executives who are current champions and develop re-engagement strategy with incoming leadership. Ensure continuity of key relationships during transition.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXdlbzJOeXVBM0dreF9HWGhUaVM4azJUWDR1RnZMNWFZeG0tX0NRMy1ZX1BEWEh5QlBiR0ZyRzdxQU95UkJkLXQ5V1htNlJwVnJuS2dWUC1FaU1UOTZMSVEzRDZWQVE1c0l0bGJFOExoWFp5U1dtSXZXX2o4ZVhjd2tHaHpGV2pwZ0p1NDlBcEZ2MEZF?oc=5"
+      },
+      {
+        "category": "M&A - Potential Breakup",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "KDP considering strategic breakup that could separate stronger business segments. Company restructuring/breakup creates uncertainty around budget authority, procurement consolidation, and continuity of vendor relationships across potentially separate entities.",
+        "suggestedAction": "Monitor breakup timeline and post-separation structure. Prepare contingency plans for relationship continuity if company splits. Engage early with leadership of both potential successor entities to secure placement.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
+      },
+      {
+        "category": "Business Expansion - New Product Launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP launching A&W Energy, expanding product portfolio into the growing energy drink category. New product lines can create cross-sell and bundling opportunities for supporting vendors.",
+        "suggestedAction": "Assess how expanded product portfolio impacts vendor needs (packaging, distribution, marketing support). Position solutions to support new product launches and category expansion strategy.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0tlZ2RjUlNWNFJiaEhXVnpLVUZQZnNxNFN1WTNGSkwxQmFVSHpVY2Nzd2RpOHBnQTY0ekV4SEh1cmVSLVY4OEVVaXA0LTNaTHFnSXY5MU5sM2pYY3N1SWdxVHRmV05zWEM3dU5jZVJvRnh0OXdRY2kwejdZN2g2X01xUnh4T2JOSFNURWZvNFcxZGg1MDUxVlhNSFloTEEycmM1WVA4QlhTUzc5dUgyd1JURGlwVHZtY3BGbTJFb3F2dHRkV1RrRlVIT2w3bGFRU3ZBNERsME82a2c4WGo0b9IB5gFBVV95cUxORzV1WHVUMHpqQi1QdEZVT2REUkJ1czRfVXh2NjdBekk4TUt6VHYtRHlWNnR6RmxkOW9fTnVOMnVlWEhJV2tabHNTRXNIRXFhclE0bzd5TDlRZTJ3NDBrSDViXzQwMTh0UkdFRGs5RnVhcTNpU3d0VkJXSl9mOTFKZzR4YjR5ZWFON18zWHlzNE1IQ09fX0RPdFVmYkFkelI0U3BNNDZ3Y2F6aGFCTVRpZVphTzRhc2k5SlpoSmpvTG1ka1AwR0RrQWNQUXRCUjBKNzlHV05wMi1hTk5wNnM5V3lKYUlJQQ?oc=5"
+      },
+      {
+        "category": "Strategic Partnership - Chobani Enhanced Collaboration",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP expanding partnership with Chobani to advance strategic priorities. Partnership expansion signals growth initiatives and potential new channel/product opportunities.",
+        "suggestedAction": "Explore whether partnership creates opportunities to support new joint initiatives, cross-platform distribution, or bundled solutions. Engage with Chobani relationship stakeholders.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

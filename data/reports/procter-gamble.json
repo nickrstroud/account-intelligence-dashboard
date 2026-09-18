@@ -651,5 +651,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmxvT1VZQk0wNGx6NUVfeVY4aVZEanJjUXpPN1c2MFVXMnV4SVhHYXNwMGFpSHdfSEpKQ3UydEpyRGlqQ2hWdkRLbGh1eHpNdllBd1luV3hvV1FJcTVCazNldUxhR3JMVS1QZDRIS2Jrb2kyLTM4eVlXd0ZVYTNJM0FXbUY1bFBzcmVLQg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-18T16:59:57.905Z",
+    "source": "daily",
+    "headline": "P&G shows mixed signals: layoffs offset by capacity expansion and strategic AI partnerships",
+    "signals": [
+      {
+        "category": "Workforce restructuring with 5,000 job cuts",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "P&G has cut 5,000 jobs, indicating broad cost reduction and potential budget constraints that could affect purchasing decisions and vendor relationships.",
+        "suggestedAction": "Flag for budget review conversations; inquire about any impacts to procurement cycles and vendor consolidation plans.",
+        "sourceName": "24/7 Wall St.",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPN3liOGVidDVTU3lRWnQ3MkZCNEVXWEpjT3ZINzJPQ0FTVXBFU0U1TUE4N3JGVGlXdzNfTHhiR3pmUGY4SUwtb0pxbm5HY2tFT01UNTlBUFhJRmtBRFN3ZnlkQzRjaHBxYVM4Ny1nWlFEcHFDNmdENWNRbjR3UTktaEppOHFsM3A3MEIwUGtJU2FlMTY0RUFGQ3hJQ3Z4QlBOZ2RuQ2I3b2JKOGlxczdyNG9acDhHOXJSMHh4UnJ4clZIOXJfUmFkTjVDWFRPSENJdU9ZNXFXYWRtdVBmcXZEUWNJTTQ4SW5VS1R1VndvS1ZqblFSYWFZS3FPcFVXdlQyTEFFWmp0clQ4VVMwRHJHbWM5U1g5V3hobkhLM3YxYTZRYlE5a1l6OGtER2FGZw?oc=5"
+      },
+      {
+        "category": "Major capital investment with plant expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M expansion of its Ohio facility and added 120 jobs, demonstrating continued investment in manufacturing capacity and operational growth.",
+        "suggestedAction": "Identify expansion-related procurement needs; discuss potential opportunities around supply chain optimization and operational efficiency in expanded facilities.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16UWZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q?"
+      },
+      {
+        "category": "Strategic partnership with Siemens on AI-based quality inspection",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G partnered with Siemens to deploy AI-based quality inspection technology globally, signaling investment in operational technology and process innovation.",
+        "suggestedAction": "Explore complementary technology partnerships and digital transformation initiatives; assess whether vendor offerings align with P&G's AI and quality modernization priorities.",
+        "sourceName": "HPCwire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1hKMmNiX2RWMm9TR2o4aFVYbkswUWI3X3NlQnNlQUVqRFU3blBTR3dJd0tGT0x4TjlpazVNX3BuYXVmTkdTZGVHVG8wWUM0ZFpmQTVnXzFfQ1ZybUh1a3pQU01DSWpzcXdXU0VOVFRCZnVwY29pUk9aNTYzVGxibFluajlyZGFoakN6TDVudFdUMkI2bXVLdVZaeEpPWHhrMF91OW41MERIbDRmV3BqaXZrZ3gzdlk?"
+      },
+      {
+        "category": "North America growth and culture building initiatives",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is actively building a growth engine and positive culture in North America, indicating focused investment and operational momentum in the region.",
+        "suggestedAction": "Schedule strategic account review to align on North American growth priorities; position vendor solutions as enablers of regional expansion goals.",
+        "sourceName": "us.pg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ldlplZ3Q1SnBVZXQwZXlfNnZEZTJldklIWXhJUmxHR0JPX2Y3czRVeW93UlpwcU9MWDVWWGEtcDFPbkxET0hJSVJQZU81QlF0VEZkR0JhMS1vVDhlUFE?oc=5"
+      }
+    ]
   }
 ]

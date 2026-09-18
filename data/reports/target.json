@@ -503,5 +503,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3Njb0p4VDB4NkpDWkNvczQtYXplX2tqZERLZzN2cGJyZ1JGZmFhOFpjMTJaTXdwbk40cWQ3NzZuU1FEVkhidGNjSFAzSEZIMzJuR2JteXhPUF9KWmJjcVNQZVFEQ19nZHFtN0k2bUhjRklPVUxsblZELUJOc19NMHAtLUpFV2J1V1JtVU5xNzkyRFpKNk41Vl9NY3ZHYUg0TVFLdTgtNDNqN1BHQWxWSWpVSEItVTI1Qm5QNGpqcGVTUHdQS09IUVJMUVg"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-18T17:00:30.657Z",
+    "source": "daily",
+    "headline": "Target Corp shows positive earnings momentum and leadership expansion; stock gains on Q2 results",
+    "signals": [
+      {
+        "category": "Q2 Earnings Beat & Guidance Raise",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corp's Q2 earnings and guidance supported a stock rally, signaling improved financial performance and operational momentum.",
+        "suggestedAction": "Leverage positive earnings trajectory in account reviews; discuss growth initiatives and budget expansion opportunities for H2 and next fiscal year.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2E0RUFYcjRvWVplLVd4Sk5hSWszNWpmOHRUUjU0UnJ3M0gwR2E0RWswOGI2ZzlfdUxaTmxtc3VuWHN5NHNtMHB5bnk0XzhxQmE2UG5jSUZwd0cxM2NFOEYtM0hZYk5vaEMxQjNaOW1rYUxUXzk2RkQ5eE9kN0JzQTVreDZGVFdLX0xiamRPN09xTmloTlMzdTBFNzY5dFBVUURMdlFwbDRfeE90cHJaX0RVb0l3bGI5aHVrbVl6ZHNhLTlIbFZR"
+      },
+      {
+        "category": "Chief Marketing & Guest Experience Officer Appointment",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Target appointed a new Chief Marketing and Guest Experience Officer, indicating organizational focus on customer engagement and brand strategy.",
+        "suggestedAction": "Identify the new CMO and schedule intro conversation; understand their priorities around customer experience and marketing technology investments to surface partnership opportunities.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUdyVEZYUHh3dFMyX0dmZ1Y5eG9SR1dOV2l6dXRGeEtCWGxnVFJVZDRaUV9qRzZzZXJ1YUhVaXZHNFUzY3dnVEN6MmdSNzhMWmtHSHFENUpNaUFrMVNUbUVXcVRnVWx6cFNLSXB2VjYtNEs2dlY1UHllQjBoRXhNemtCVmJSQ0RRRWl3RjRRN3pVTTNIcUVFYnZxcm9rajM0WElVREFiTTdDTjZTLUJBek80NDJuWk96ZkdTNzI2Wm8zVkFKTHBQclpLOHU4UGhZQnNrX0ROMkhIZk0"
+      }
+    ]
   }
 ]

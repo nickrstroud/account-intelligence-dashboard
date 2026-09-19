@@ -963,5 +963,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvbmxnQkw4ZndacHlNUHdzVUY1ZWlHU1o2SDFJZmYyWjJyMmFKOC1ZY2V6cHFiSEZ1bjZaUXFfUjJJM0NWbVd4UmJoZW53TjFudnV0UWVmVzJ0VkZUejByTnZNYXdEM1JMeWl3S1dSdU1ZbTN0aGZRZNIBjAFBVV95cUxQSHcyN2ZLS3dMUy0wUHlxRUxiU3NVU21pZEtkeVN3MFFYVFNpOUNWcTB3Z3pRUXhvZm9oUW9HalBkdGdBU0FCbFdxcnhYbmZfSEhlczdQVVdZVDk4NzVGNW93ZktxcWsxaVNpck05UGEtUzdRaENPb0Uyd1JIamYySkNzRnlsLWEyMVllZQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-19T16:20:12.207Z",
+    "source": "daily",
+    "headline": "Kroger aggressively culls premium suppliers amid pricing disputes and cost pressures; antitrust scrutiny clouds M&A outlook",
+    "signals": [
+      {
+        "category": "Supplier Strategy & Cost Management",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Kroger has removed Red Bull (and Boar's Head) from all stores nationwide in a pricing dispute, signaling aggressive cost-cutting and willingness to delist premium suppliers. This reflects margin pressure and a strategic pivot toward low-price positioning.",
+        "suggestedAction": "Assess whether your solution is positioned as premium/cost-intensive. If so, review contract terms and pricing strategy with Kroger procurement. Consider value-stacking or operational efficiency angles to offset margin pressure.",
+        "sourceName": "nosh.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHBRc3JRNDd1a3BOZElwRXUxTGtQc01QS3M1SnNsOFFHR0twLWN1MjNITEpaMlJPeHl2Z2d6ZnQ0Z1JTb09INW4zYm5uTXcyVnRkeHNDS0ZNZW02eTlrTG1fQnBiV0ZqS09aV2xDRGJJU0FZTk84U0dZcHQwNWtveUFJeFZ6czA1X0R6VUhiYTctNGg0cEpTTHl1MVZtMEFhbUx0ZjlPaXZJTm1oTUlXTkNOT3dDTGFq?oc=5"
+      },
+      {
+        "category": "Regulatory & M&A Risk",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Kroger faces tougher antitrust review for its planned grocery acquisition deal, indicating regulatory headwinds that could constrain growth initiatives and capital allocation for the next 12-18 months.",
+        "suggestedAction": "Monitor the M&A approval timeline closely. Expect Kroger's focus to shift toward defending the deal; budget approvals and discretionary spending may be deprioritized. Position solutions as cost-defense plays rather than growth investments.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelVPY2JtbFBBLU1DUzVwaTF3SjMyY0ItY3hKYjUyVGhlRVlxb2Z6Nkw1N2E4Y01hZkVqYUhrdXMtbzNVM0JKNnRsRTJ6SHBtYUlLQ1lkcUdERDZZc011R0ZVdmxlOEJsVHp3OWlhajRNbmljcUdaQWdTcGFvbTdsZWZjeFZlZldtWDV5M0lsd1JCUUpqZzBBS2QzVzRwT1U?oc=5"
+      }
+    ]
   }
 ]

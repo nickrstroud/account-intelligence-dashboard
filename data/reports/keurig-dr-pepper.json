@@ -722,5 +722,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-19T16:19:02.851Z",
+    "source": "daily",
+    "headline": "KDP showing mixed signals: dividend strength and strategic partnerships offset by breakup speculation and stock weakness",
+    "signals": [
+      {
+        "category": "Financial Health & Capital Allocation",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper declared a quarterly dividend, signaling confidence in cash flow generation and financial stability.",
+        "suggestedAction": "Positive indicator of steady revenue and profitability; use in discussions about customer financial health and budget predictability.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEVlUjF0dGhuaEVuNEJucElVTzRzRlpwdzM3OUZPdEtOSGVmWUV0aVlvQklpSFVDb2t2S0FGX1p3eWo5MlhlTUVXNS1KS0QtLVdPYTgySVJnSVo2THJ5Y0xENzI3QkR3Wl9nTVVzbm9CTEZIdEY2cUYtQlFRNFZZLWR1SHh1a0dmOHhtWDdrSkY?oc=5"
+      },
+      {
+        "category": "Strategic Restructuring & M&A Speculation",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Market speculation about a potential breakup of Keurig Dr Pepper into separate business units, suggesting possible restructuring or strategic review.",
+        "suggestedAction": "Monitor leadership communication closely; if breakup occurs, both resulting entities would need account relationship re-evaluation and potential service/contract adjustments.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
+      },
+      {
+        "category": "Business Expansion & Brand Strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP pursuing brand extension strategies and seeking to replicate Dr Pepper's success playbook across portfolio; enhanced partnership with Chobani signals growth initiatives.",
+        "suggestedAction": "Opportunity to expand vendor services into new brand extensions and channels; position solutions around portfolio growth and cross-brand synergies.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNmRUaWRJcWVjQmxORllzOEdGTjE0WDJTSkQyek03ZDJxWWk0U3V5bTVrNkpZN2VBMm1jZzhsaUYwUHdFNFphcWlTN1hMSzBrX0Rfbm5ubHNHeURJQTE2dkdLRGs4MVhCdUZTR2RjeVdHOUVpTy12YldIMW9FdEplTmV2WWRUeUVoeW56U0wyd1FBTnNqUDVUd05feTdhS3NIUjQxdkU4SGVFUzJtaUMzdWRSbEtDNFBZdnN5MDB2TzJGS081ZDUydjN0Yl9zNG9lQ3czUGxFeEFBZzM2RFBJ0gHkAUFVX3lxTE5FMWRwaExuZXQ0b01FekUxTnU3ZWhVdl9MMlBWbzFSRE5Ua05OX1ZfbTZmTU5JeUhVQlBMU2Q0UjZHOUFMaVNuVTRZdDRyYzlDZ2pfc3Q1dkxpRUxfM1dCbzN0N2lVbklEbFhyWlBCUlpnNW1wOWg1clQtZlZwczVVdzJPSmxpZ2tYVElqWE9SUXpab1hCVzhrNzFQQnU5Q05kZExlRWJHLTBSeW9kVFRJU1VOWDlWT0dyM2JvVDRVY05zTmZRdDBleTVsVzg5ZHQxMl95TG1wYXJMVFdPZHU2ZVNQaA?oc=5"
+      },
+      {
+        "category": "Stock Price & Market Performance",
+        "updateType": "market",
+        "score": -1,
+        "summary": "KDP stock eased lower in recent trading, underperforming relative to broader consumer staples sector, suggesting some investor concern.",
+        "suggestedAction": "Track stock performance; weakness could indicate budget pressure if customer's capital allocation is tied to equity performance, though not an immediate concern.",
+        "sourceName": "247wallst.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkRmUlhyNTJKMVIyWFNGWnA4bzBFai1jXzZFb25xTW9JX1JxVHFRcDBRdjZzZ0RoaDJ1WEs4MVlzZG8wWGpYU2g4RFR3VXNqMU8zWko3dWhrOTVaZldmVUVhVTdXRHhoc3FrZGE5RmExLWVkUEt2a2g4WEhSaWxGUVlLNkpWTUZjNnBqdHJMdXJMRGFlWVBDOHRXM1VIT2xFMUtUUGs3SllmUUZYVG9uTEViampaVjhZLTJibUhHSVFjSHRoNjRLRTR0S25BOVFhSkd1U2RB?oc=5"
+      },
+      {
+        "category": "Strategic Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced enhanced partnership with Chobani, advancing strategic priorities and expanding into complementary categories.",
+        "suggestedAction": "Explore joint-solution opportunities supporting cross-company initiatives; potential to expand services across integrated supply chain and operations.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

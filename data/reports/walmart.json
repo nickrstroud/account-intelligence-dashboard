@@ -675,5 +675,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1RvbEk3UUdoejNOYzJVQWVUcm9UazBVTkw5TDlQRXlOdXJLdFh5NE5UTDY0dF9OeU9XQ3VBVC02LXJQQ3JqYlJiOFNBNW9DZVhic2RNUURpRnpPaWF6YzJZMDFOdFlxRkE4NnBpZmdxNF9LLWhjWU42aGxtY1lmcWxlc0RReFhFR0hF"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-19T16:19:31.358Z",
+    "source": "daily",
+    "headline": "Walmart union organizing activity and regulatory scrutiny on labeling practices; isolated incident coverage carries reputational but not account-relationship risk",
+    "signals": [
+      {
+        "category": "Labor Relations / Restructuring Impact",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Canadian Walmart workers ratified first-ever union contract, signaling potential labor cost pressures and operational complexity expansion into unionized markets. This represents a structural shift in workforce management but affects Walmart's cost structure and labor relations.",
+        "suggestedAction": "Monitor for potential wage/benefit inflation or labor relations disruptions that could affect Walmart's operational efficiency and vendor negotiating position; gauge whether this signals broader unionization momentum.",
+        "sourceName": "Labor Notes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1RvbEk3UUdoejNOYzJVQWVUcm9UazBVTkw5TDlQRXlOdXJLdFh5NE5UTDY0dF9OeU9XQ3VBVC02LXJQQ3JqYlJiOFNBNW9DZVhic2RNUURpRnpPaWF6YzJZMDFOdFlxRkE4NnBpZmdxNF9LLWhjWU42aGxtY1lmcWxlc0RReFhFR0hF?oc=5"
+      },
+      {
+        "category": "Regulatory / Competitive Risk",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Walmart chatbot attracted U.S. Senator scrutiny over 'made in USA' labeling accuracy issues. This signals regulatory and reputational risk around AI-driven compliance and consumer protection, with potential for broader enforcement actions on product labeling and vendor accountability.",
+        "suggestedAction": "Assess vendor requirements around product data accuracy, labeling compliance, and AI governance in Walmart's systems. This may presage stricter audit/certification requirements from Walmart to mitigate regulatory exposure.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVhVemI2Mk5zY01IWVFSeEk0RXF6b2JfMk1DOFItS1hSRU9wNXZ0SWQzdks4ck1ZTUlnMXM0Sk1GcTItWThPZU9PVFRhUHRWQmhPZ29ZajJQaUU0czliNl9RQTExZFNfbTlBMGlsZ3lrbXk0NFdGYklONENZRDl6dmU4NkVrX3R3dHpOSUkyaTRSM2ZNRjJ4WDZZRzhqejNkSXItZDVDSC04N2pEV2o2LXphWTE1UFZ6cmRvSG12VQ?oc=5"
+      }
+    ]
   }
 ]

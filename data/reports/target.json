@@ -529,5 +529,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUdyVEZYUHh3dFMyX0dmZ1Y5eG9SR1dOV2l6dXRGeEtCWGxnVFJVZDRaUV9qRzZzZXJ1YUhVaXZHNFUzY3dnVEN6MmdSNzhMWmtHSHFENUpNaUFrMVNUbUVXcVRnVWx6cFNLSXB2VjYtNEs2dlY1UHllQjBoRXhNemtCVmJSQ0RRRWl3RjRRN3pVTTNIcUVFYnZxcm9rajM0WElVREFiTTdDTjZTLUJBek80NDJuWk96ZkdTNzI2Wm8zVkFKTHBQclpLOHU4UGhZQnNrX0ROMkhIZk0"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-19T16:19:56.769Z",
+    "source": "daily",
+    "headline": "Target appoints new CMO and boosts sales outlook; mixed leadership signal with modest growth momentum",
+    "signals": [
+      {
+        "category": "Chief Marketing and Guest Experience Officer appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Target named Mark Weinstein as Chief Marketing and Guest Experience Officer. New CMO hire represents potential relationship risk if this individual becomes a key buying decision-maker/champion, but also a re-pitch opportunity.",
+        "suggestedAction": "Identify Mark Weinstein's background and procurement influence; schedule introductory meeting to establish rapport and understand CMO priorities for marketing/guest experience tech stack.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjVLUXZ1Ti1SUXNUOFdDQzRHOHBBMzYtWkV0MlFCWTB1QXdWR3ZNNWdBcmhxalpWVzF6QjkxNTdJZjBfZlBMZ0swSGRoRXR5blZpcTZEbzIwdDdLOTk0aFBDMkdlenI1NTd3NW90YUtqR2VJNGdoSzdGSzVaTFZhTk02Y2NxcUoxS0dYZ3JEUnJ6d3VlM2xCS1R2OGFTQXpkRGZYa3pHYThnSU5EN3B1SjlLTVNKOFU0SUhyT1JUNlNxQ3Z4dm93"
+      },
+      {
+        "category": "Sales outlook boost and recovery momentum",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target boosted sales outlook as recovery efforts gain ground (August 2026), signaling improved financial performance and operational momentum.",
+        "suggestedAction": "Monitor earnings releases and guidance updates; use positive trajectory as conversation starter for value-added solutions that support continued recovery (efficiency, guest experience tools, etc.).",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pseFBUaFliTHdIclZ5SG1rU2JDeXZkZW5TdmZjYXNYY0V4V1k1TUx0eVVtZTVjaWh1QktSM1ZrZDBFREQzdkpSb2R3RVp4OC1RcWJwRWNlSTdnRENSeHdiWUxBbEhUNjllVVptZWIwR2E0eTg2cEpISlkxNjBfV25pZnhIV2hzdGZWSXRWbXVuTEVnVHRVT0ZIclhUSDBPZXRTN0wxSG5OUTJPVk53a2VQSzl3NmVt"
+      },
+      {
+        "category": "Grocery expansion as growth lever",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target is leveraging grocery offerings to drive new sales and attract shoppers, indicating business-line expansion and focus on incremental revenue.",
+        "suggestedAction": "Explore how vendor solutions can support grocery operations (inventory, fulfillment, supply chain, customer insights); position for cross-selling opportunities in this new/expanded channel.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3A3dDFnTDVObV9iSWRjWlhsVV9vNjJzdVRpY193eGhhNDRlZXdQY2V5ZHBzTlhmYVJoOG1HWGR6M2tOQ2RoTklkRm5xTzU1SEFGUUF4dVhwMUpybHpCc1pPbFJDaWMtSHA2eVl3OVBRa2cyOURPTERNMzJLeXVfdEg0bVl1MXM4N1o0dW44VHZFZw"
+      }
+    ]
   }
 ]

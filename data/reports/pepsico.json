@@ -938,5 +938,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UUFUX0ZPcnlydVBsRnFlR0RXME1ZNUh3b1RFVTRkelotWkpzSGJKckFWaUFyZElTOUVEN1dDcTNDTm9naHB1d1BLYmFhTjBPN21Qb0dOaVp1ZmJnWkNSMVBGUVdBdw?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-19T16:18:25.934Z",
+    "source": "daily",
+    "headline": "PepsiCo facility closure and layoffs signal operational restructuring amid slow growth; no direct account relationship impact detected",
+    "signals": [
+      {
+        "category": "Facility closure and workforce reduction at Maryland bottling plant",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo ending manufacturing operations at Maryland bottling plant with 143 employee layoffs at Cheverly facility, indicating operational consolidation and efficiency measures.",
+        "suggestedAction": "Monitor for broader operational restructuring plans; assess if vendor services are impacted at closed facility. Update account contact information if affected employees were account stakeholders.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjR5WGNnMWJfeElCMUoweTIydlBDc3ZBY0Fpc251ZGRKd0Uzc1BCNXNzZnRQYmViTnlzT0lFcXNfajBPRDluX2RWWWQ1anJmYUl3a0xhT3pvYWhESTRyZ01oOW9WSnE5d1NsM3pZMnU2R19Vd01iVGJJaEJ0OVJ4YmJYMzY5SExsVGU0WU5lYzRESXhzNGhiRmhaY3ZxWGlUcHdySQ?oc=5"
+      },
+      {
+        "category": "Slow revenue growth and stock underperformance",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Market analysis indicates PepsiCo facing slow growth environment with stock dipping while broader market gains, suggesting budget constraints and reduced expansion capacity.",
+        "suggestedAction": "Expect more cautious spending and budget tightening in upcoming renewal discussions. Consider value-focused messaging and ROI-driven pitches to support budget justification.",
+        "sourceName": "Trefis",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRE1wTVBkOGFMazBUZkpiQkNVbWpBaWFKUUlrc0d4c01FTjhBdW0zcmp6alBITU9IN25XeXptcWhOVFRUbmJYVFktODZqdWlGS3VaMlN5aFlVYzdJNDdUYWFicm5ZTFVmd2JvM180V2pHc0JPNGpGbEF6TVQ0dGlQc2NhZXVqU1Q4cWxFd09JMzlRa0tia0pyZGt0QmhVckNlVS1JS1RxQUJRZWRTMjRqOTJlbHk?oc=5"
+      },
+      {
+        "category": "Sustainability initiative and industry collaboration",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo joining founding members of paper-based packaging consortium alongside Unilever, signaling commitment to sustainable packaging innovation and new business initiatives.",
+        "suggestedAction": "Identify sustainability and packaging-related service opportunities; investigate if consortium participation opens doors for vendors supporting green initiatives or compliance solutions.",
+        "sourceName": "Packaging Strategies",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGltTUcxNlI3YTIzWGxGclU1dWx4ZUQxSVRrQ3JhUUVWMngtbFJaU2V3MDdINGQ1bG9lYWRCMjlwWWZrLTNKbWdnVDVEYnFBZkVaYmFNeFlUV0tLa2o3QU5KU1E5MUEzcmFhRWxPN2h4T1hjMjB3S2J1c2M5c2VlelEzWnJ5b1RjaWVhZ0JrZzc1V2dCSXhPd2xBZzhHYmZmRnhaLTIwZ0Nybk5zUzBXRlZua08ycDZLZFVnbmhDMngzX2Itcnc?oc=5"
+      }
+    ]
   }
 ]

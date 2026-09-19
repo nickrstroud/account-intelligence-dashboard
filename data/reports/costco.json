@@ -631,5 +631,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTjhCbDV3ejUwX1hnMEpuRTdIQklVNEhIR0FNT0JTTno3Nm1Mbnk5VDkyOVJLV3h4YTZtamFNN196ZWtyWExHWHRmeHNxSUd5dHZHTHJsTk40bjVYWnhwcWVTSFdjc2lrVlFOZ1pXVmsyZ9IBd0FVX3lxTE1pWWVHM1ZDRnFxNG83Ti1fVzZySVdFbnBwV0VTWGlMbm51LXVJeFdVU1JYQWJrcFlPcjNJakdhUUlEMy1nNEg4LUwyV3BKVUp3U1ZtWUE4OWxHc052Um9CNzB6cVhZakE1Mm5fcU9YV19YSWNyR19n?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-19T16:19:40.110Z",
+    "source": "daily",
+    "headline": "Costco expanding delivery partnerships and launching new product lines—positive momentum in omnichannel and private label offerings",
+    "signals": [
+      {
+        "category": "Business Expansion - Omnichannel Delivery",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco expanding delivery capabilities through partnerships with Uber and DoorDash to reach more states, broadening customer access and e-commerce footprint.",
+        "suggestedAction": "Explore potential integration opportunities or service enhancements that support omnichannel fulfillment (e.g., order management, inventory visibility, logistics optimization).",
+        "sourceName": "KSL News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnZqWkRVdS1IZW5XMzVPNHVYTVN1MlhvSnZGazVULUhXSWNLanlod0pwLTVGNFFRMG05ZE1PUS1HWjFmaEhRdzhlUzBTd0lUYlZSbmtwM0FQSWNrUzhFWXUtaTJKM3o1R0ZMNGlmSmFtSG1WRDNWNzBHMC02TklVSmZNYVBRXzRZU3c?oc=5"
+      },
+      {
+        "category": "Product Strategy - Private Label Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco continuing aggressive new product launches in Kirkland Signature line and bringing back fan-favorite items, signaling confidence in merchandise strategy and customer engagement.",
+        "suggestedAction": "Identify opportunities to support private label supply chain, product data management, or promotional capabilities for Kirkland Signature expansion.",
+        "sourceName": "realsimple.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWxhMk5ia3hNYkYxWVF2VGZ2el95YUhrdUdFQ09PUlZ2NzlkQ3JDc0ZZTDNoeXJmLU93UkMwQklJVi05LUNJRUpvckNHQ1h4dGgzSzZyNTVfRFZscGNjcnE1NkNkRmhTX3pGMnBTMjBELThQdVQxa3d5M0FRTXhQa0JXVHRDZXBCaXFpUmc4TkVqNlU?oc=5"
+      }
+    ]
   }
 ]

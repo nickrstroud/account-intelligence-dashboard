@@ -732,5 +732,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb081ZDVBNHgwVk1BRDM1czRZZmstZ3lhUXFOUmNQNjlkN19sTnp2UzF2R3l6UHUxZTd2NVRIUG5xSlF6Y0lkejQ3bTNLc0laSE5LWWFabzEyakJDc3RlZXZrOWhhbTdxZ3RWdnlQV1F6amRUWXVuTEtPTjhOUV84LV93NmxsblQ3Y2dSaTBqdw"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-19T16:18:10.376Z",
+    "source": "daily",
+    "headline": "Coca-Cola marketing leadership actively evaluating agency partners; exploring product innovation with prebiotic sodas",
+    "signals": [
+      {
+        "category": "Marketing Leadership Strategy",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola's top marketer is publicly discussing criteria for selecting new agency partners, signaling active vendor evaluation and potential agency relationship changes.",
+        "suggestedAction": "Assess whether Coca-Cola's marketing priorities align with your service offerings; if you're a marketing/advertising vendor, prepare competitive positioning for potential RFP.",
+        "sourceName": "adweek.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1l1S2l3ek1QOW1MYW5leEl6WlJwNTU3RkdmZWV4XzZsbGY4ZjFFeTV0Nmo2TEdQel9GMVRYOC1WTHBlX0E4aENWd0ZteHdLaV91OUJvXzlNRU9DS0diUW5jVjgzN3gyN3BfYTlfY1lwUVRZMjluR01Kd1NWQ3ZnUEtoN1JjZTlsekVMRDAyMFVYY25hN0VGUFJlMGdOU3ducElLSFJmaw?oc=5"
+      },
+      {
+        "category": "Product Innovation & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola is testing prebiotic sodas in signature flavors, indicating new product line development and market expansion into functional beverages.",
+        "suggestedAction": "If your firm supports product development, supply chain, or distribution, explore how you can support this new product category rollout.",
+        "sourceName": "NewsNation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENpMXo5eU1mTEh0UFhBS25LZEFKSFRmSkZNOVJuRjMyY0dpM2pZVko1b2pRTTNWMVlLREcwUEtTT2NaTVhpcXpVTk5qSlZJN3VmSVlaRXNKSk9ocnNISEdxeEY4XzJHRGU5NUJkX0E0NFRpSjFWa0xJT1lxSUVuc19FdW91cFNNeVN1RtIBkgFBVV95cUxQX2dFYVY3UzE3R2FleHh4aFduNXgzMUFhSHRlMmZWMXdEbHJyRERScVl3NExYQzFkVzlxa1I3Rmt3Y2dSbVcyNTdZZEJqb2R3bWNuN3Z0NGI2UEdkUFFkbDBDY3VET3ViVkcwSGt3VVIzeXFVU0FhSWdnNDhmTzhCRjQ2dXZRM0ZVd3FEcnFhRGdiQQ?oc=5"
+      }
+    ]
   }
 ]

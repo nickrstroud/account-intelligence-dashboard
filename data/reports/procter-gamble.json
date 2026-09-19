@@ -695,5 +695,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ldlplZ3Q1SnBVZXQwZXlfNnZEZTJldklIWXhJUmxHR0JPX2Y3czRVeW93UlpwcU9MWDVWWGEtcDFPbkxET0hJSVJQZU81QlF0VEZkR0JhMS1vVDhlUFE?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-19T16:19:21.441Z",
+    "source": "daily",
+    "headline": "P&G shows mixed signals: major capex and AI initiatives offset by ongoing headcount reductions",
+    "signals": [
+      {
+        "category": "Capital Investment & Capacity Expansion",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "P&G completed a $501M expansion of its Ohio manufacturing plant, adding 120 jobs. Demonstrates significant capex commitment and confidence in production capacity.",
+        "suggestedAction": "Positive signal for B2B vendors serving manufacturing, supply chain, and operational efficiency. Consider pitching modernization, automation, or supply chain optimization solutions to support the expanded facility.",
+        "sourceName": "bizjournals.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q?oc=5"
+      },
+      {
+        "category": "AI & Digital Transformation Adoption",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G highlighted as a case study for speeding AI adoption across the organization, per Harvard Business School coverage. Signals active modernization and technology investment.",
+        "suggestedAction": "Opportunity to align solutions with P&G's stated AI/digital transformation priorities. Could indicate budget availability and openness to tech vendors supporting these initiatives.",
+        "sourceName": "Harvard Business School",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDRfNVVXWXJVcTZVZGhISjNhRl9YQzRXempCZ0RuRy1nWGhUSEtEZUhBdlBKQTg2RUJkblZDdy1JR1RSVmJDUmNCN1hsMFQxQVk2SVMtZG9CRzBUY1VMTUNnV2xyUVU3SUdUT3RPOENXVVp5dDlyOTNNa0lCc0hZVFVNUkIyc3BERzhxcnRYWFI4S2FsTVBibmVrZDVBcXc?oc=5"
+      },
+      {
+        "category": "Workforce Reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "P&G has cut 5,000 jobs as part of ongoing restructuring. While not buyer-function-specific, broad headcount reduction may signal budget constraints and 'do more with less' posture across the organization.",
+        "suggestedAction": "Monitor for impact on buying cycles and budget availability. Position cost-reduction and efficiency-focused solutions. May indicate pressure on discretionary spend, but also opportunity for productivity/automation tools.",
+        "sourceName": "247wallst.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPN3liOGVidDVTU3lRWnQ3MkZCNEVXWEpjT3ZINzJPQ0FTVXBFU0U1TUE4N3JGVGlXdzNfTHhiR3pmUGY4SUwtb0pxbm5HY2tFT01UNTlBUFhJRmtBRFN3ZnlkQzRjaHBxYVM4Ny1nWlFEcHFDNmdENWNRbjR3UTktaEppOHFsM3A3MEIwUGtJU2FlMTY0RUFGQ3hJQ3Z4QlBOZ2RuQ2I3b2JKOGlxczdyNG9acDhHOXJSMHh4UnJ4clZIOXJfUmFkTjVDWFRPSENJdU9ZNXFXYWRtdVBmcXZEUWNJTTQ4SW5VS1R1VndvS1ZqblFSYWFZS3FPcFVXdlQyTEFFWmp0clQ4VVMwRHJHbWM5U1g5V3hobkhLM3YxYTZRYlE5a1l6OGtER2FGZw?oc=5"
+      },
+      {
+        "category": "Board Leadership Transition",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed as Chairman of P&G Board of Directors (July 2026). Board-level change; requires monitoring for strategic direction shifts but less immediate account risk than C-suite operational leadership change.",
+        "suggestedAction": "Research Jejurikar's background and strategic priorities. Could signal shifts in company strategy or priorities that may affect vendor relationships. Monitor for any related executive team changes.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
+      }
+    ]
   }
 ]

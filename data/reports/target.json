@@ -564,5 +564,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3A3dDFnTDVObV9iSWRjWlhsVV9vNjJzdVRpY193eGhhNDRlZXdQY2V5ZHBzTlhmYVJoOG1HWGR6M2tOQ2RoTklkRm5xTzU1SEFGUUF4dVhwMUpybHpCc1pPbFJDaWMtSHA2eVl3OVBRa2cyOURPTERNMzJLeXVfdEg0bVl1MXM4N1o0dW44VHZFZw"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-20T16:44:33.026Z",
+    "source": "daily",
+    "headline": "Target shows strong summer sales momentum but faces demand reset headwinds; key leadership hiring signals re-pitching opportunity",
+    "signals": [
+      {
+        "category": "Earnings & Revenue Performance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target reported strong summer sales and received analyst target price hike, indicating solid financial performance and market confidence",
+        "suggestedAction": "Leverage positive earnings narrative in renewal/expansion conversations; use as credibility marker for budget discussions",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdE1tVjNIOUY5M05nSTF0RXowb3hHRDRTdXBkcFJsWC02SUlaT3NSRHJnSEZNYTgyMWpIcDRqM3BpQldOUXhqWW1KZUp4aVhJM3ZIUzdoZEIya3pQU0RZSVVRbVhaRGRiZm5tTXBIS1hFOE10aEdyUGhiUF9MdExtSEdiYWw1UVFNVUU3TDNRTzFGMFlaeXVDWGRzbUJXQlVDZnNzZUV1WUl1bTd1SXRPdU4wQ1BYT3FRSnVDR3FtY0otVGpoY1djQzhB?oc=5"
+      },
+      {
+        "category": "Leadership Change - New Hire",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Target named Mark Weinstein as Chief Marketing and Guest Experience Officer, a key new leadership position suggesting strategic focus on customer experience and brand",
+        "suggestedAction": "Identify if new CMO is a known champion or decision-maker for relevant vendor categories; prepare re-pitch/relationship-building strategy with new leadership; monitor for changes in marketing/guest experience vendor partnerships",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjVLUXZ1Ti1SUXNUOFdDQzRHOHBBMzYtWkV0MlFCWTB1QXdWR3ZNNWdBcmhxalpWVzF6QjkxNTdJZjBfZlBMZ0swSGRoRXR5blZpcTZEbzIwdDdLOTk0aFBDMkdlenI1NTd3NW90YUtqR2VJNGdoSzdGSzVaTFZhTk02Y2NxcUoxS0dYZ3JEUnJ6d3VlM2xCS1R2OGFTQXpkRGZYa3pHYThnSU5EN3B1SjlLTVNKOFU0SUhyT1JUNlNxQ3Z4dm93?oc=5"
+      },
+      {
+        "category": "Market Headwind - Demand Reset",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Target faces demand reset challenges despite strong summer sales, indicating potential softening in consumer spending or category-specific headwinds",
+        "suggestedAction": "Proactively frame vendor solutions as 'do more with less' and efficiency/cost-optimization plays; be prepared for budget tightening conversations and longer sales cycles",
+        "sourceName": "Kalkine Media",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnJtcVh3Z0ZncDFfblhIbWpXaVB1NzRmWmJkSGMxNXZNV0pwcEZsRFZpbzBkY3hBbmx0czBLSlBVaDhnSkdDdDdITFd4ZkRUN2NwOTRlSkxDU3d0UXBWRDZUeV9qOEV5ZzBTVEJOcndUS1VjYlVrMmhUN3BZTWxPYzJBU3N0ODFTZHhxczdPeEhPNUxSbHFMNHVSSWN0dw?oc=5"
+      },
+      {
+        "category": "Business Expansion - Grocery Strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target is leveraging groceries as a driver for in-store traffic and broader sales growth, signaling expansion into or acceleration of the grocery/food business line",
+        "suggestedAction": "Explore cross-selling opportunities tied to grocery expansion (supply chain, inventory management, customer analytics); assess if grocery suppliers/vendors or related categories align with your offering",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3A3dDFnTDVObV9iSWRjWlhsVV9vNjJzdVRpY193eGhhNDRlZXdQY2V5ZHBzTlhmYVJoOG1HWGR6M2tOQ2RoTklkRm5xTzU1SEFGUUF4dVhwMUpybHpCc1pPbFJDaWMtSHA2eVl3OVBRa2cyOURPTERNMzJLeXVfdEg0bVl1MXM4N1o0dW44VHZFZw?oc=5"
+      }
+    ]
   }
 ]

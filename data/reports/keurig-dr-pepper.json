@@ -775,5 +775,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-20T16:43:34.890Z",
+    "source": "daily",
+    "headline": "KDP demonstrates financial stability with dividend declaration and strategic partnerships, offsetting market volatility concerns",
+    "signals": [
+      {
+        "category": "Financial Stability & Shareholder Returns",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper declared a quarterly dividend of $0.23 per share, demonstrating consistent cash generation and commitment to shareholder returns despite ongoing business evaluation discussions.",
+        "suggestedAction": "Monitor dividend sustainability as a positive signal of financial health; use as rapport point during renewal discussions to highlight company stability.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEVlUjF0dGhuaEVuNEJucElVTzRzRlpwdzM3OUZPdEtOSGVmWUV0aVlvQklpSFVDb2t2S0FGX1p3eWo5MlhlTUVXNS1KS0QtLVdPYTgySVJnSVo2THJ5Y0xENzI3QkR3Wl9nTVVzbm9CTEZIdEY2cUYtQlFRNFZZLWR1SHh1a0dmOHhtWDdrSkY"
+      },
+      {
+        "category": "Strategic Partnership & Business Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced an enhanced partnership with Chobani, advancing strategic priorities and potentially signaling diversification or category expansion into complementary segments.",
+        "suggestedAction": "Investigate partnership scope to identify new business units or customer segments within KDP; position vendor solutions to support expanded product offerings.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
+      },
+      {
+        "category": "Business Portfolio Evaluation Risk",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Media reporting on a potential KDP breakup and brand extension strategy changes suggests the company is evaluating its portfolio structure. While not confirmed, this indicates potential restructuring that could affect organizational alignment and procurement priorities.",
+        "suggestedAction": "Schedule check-in with procurement and finance stakeholders to understand any anticipated organizational changes; position flexibility in contract terms to accommodate potential business unit realignment.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM"
+      }
+    ]
   }
 ]

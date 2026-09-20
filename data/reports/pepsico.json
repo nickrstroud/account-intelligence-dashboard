@@ -973,5 +973,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGltTUcxNlI3YTIzWGxGclU1dWx4ZUQxSVRrQ3JhUUVWMngtbFJaU2V3MDdINGQ1bG9lYWRCMjlwWWZrLTNKbWdnVDVEYnFBZkVaYmFNeFlUV0tLa2o3QU5KU1E5MUEzcmFhRWxPN2h4T1hjMjB3S2J1c2M5c2VlelEzWnJ5b1RjaWVhZ0JrZzc1V2dCSXhPd2xBZzhHYmZmRnhaLTIwZ0Nybk5zUzBXRlZua08ycDZLZFVnbmhDMngzX2Itcnc?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-20T16:43:13.485Z",
+    "source": "daily",
+    "headline": "PepsiCo loses media agency to Publicis; stock decline and board refresh signal operational challenges",
+    "signals": [
+      {
+        "category": "Marketing agency relationship change",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo's global media business was won by Publicis, resulting in loss of the Omnicom relationship. Omnicom CFO expressed disappointment over losing this major account.",
+        "suggestedAction": "Verify if this agency change affects your vendor's media/marketing planning relationship with PepsiCo; assess whether Publicis transition creates disruption opportunity or risk.",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHpJUVZrZmJTbTJWLS1EQlRMZE5WVWxGbXlPMXRmZUhRdTdSVGYxNDh0d192WTVKUS1BeEVJZXdvWVJIUktjV296ZDJjZi03U1BzdjNocFRsZHBNcGFWNG1mQkRUOUVvcXVkQUNaeWZjSzEtbkN1NU8wbkxOQzFvYTRiaENWaUp5YVlZRTB2NHgxTWdDNWZQU25tNVdlblhqTVYyT1BNbw"
+      },
+      {
+        "category": "Stock price decline and market performance weakness",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock has declined significantly, dropping to a 52-week low while the broader consumer staples sector held firm. Stock fell 3% in recent trading, underperforming peers like Coca-Cola.",
+        "suggestedAction": "Monitor for budget constraints or spending freeze announcements; weak stock performance may constrain marketing/media budgets in coming quarters.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFVrVFd5cExERWFBcGdDdF9IOHBPd0p4QTUyaG82M2dENFBpSjNVQ2QyandEcjRLamwzbWRLLUhkSGZrNUpoaDc3TnBaWms3OFFaZXJOZU1GYi1zZEFycWNPNFRkc3UxU0s3dFlTSXlXcXc4Vmh3Nm5SRFRrX1ZlWnduTzFYaEhFMFJCNEE2U3dWTDYxMDJmSTNuUQ"
+      },
+      {
+        "category": "Board/leadership change – new director added",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "PepsiCo added a new director to its board. Minimal details provided but indicates board-level activity.",
+        "suggestedAction": "Research the new director's background and industry connections; assess whether this signals strategic direction shift or governance strengthening.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3p0Wk1vWFFWcVU2V1E2Unc3RkNNZ3Nqa3NnSmF6RjE4VVJiNVVNVVJvRF9oX2hlRURCRWFzbVdGa0F2N2NaVkd4YlJuR01sWHJCMnVvLUxBd0lKRnZiZE9RMGRfRk5OaTNqdEpTVVRZeW5wMGNSUE5ER3p2d21YOGF5aHVQek5rRm1KLTFOYzJtdjlhdDFFYUozZ043WXdn"
+      }
+    ]
   }
 ]

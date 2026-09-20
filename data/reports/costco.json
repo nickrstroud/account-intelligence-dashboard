@@ -657,5 +657,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWxhMk5ia3hNYkYxWVF2VGZ2el95YUhrdUdFQ09PUlZ2NzlkQ3JDc0ZZTDNoeXJmLU93UkMwQklJVi05LUNJRUpvckNHQ1h4dGgzSzZyNTVfRFZscGNjcnE1NkNkRmhTX3pGMnBTMjBELThQdVQxa3d5M0FRTXhQa0JXVHRDZXBCaXFpUmc4TkVqNlU?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-20T16:44:17.761Z",
+    "source": "daily",
+    "headline": "Costco expands delivery partnerships and food court offerings—expansion opportunity with new vendor channels",
+    "signals": [
+      {
+        "category": "Delivery partnership expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco expands Uber Eats delivery partnership to 47 states, representing significant scaling of e-commerce and delivery capabilities.",
+        "suggestedAction": "Identify cross-sell opportunities for logistics, fulfillment, or delivery-adjacent services; assess if new vendor integrations are needed for expanded delivery operations.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTjhCbDV3ejUwX1hnMEpuRTdIQklVNEhIR0FNT0JTTno3Nm1Mbnk5VDkyOVJLV3h4YTZtamFNN196ZWtyWExHWHRmeHNxSUd5dHZHTHJsTk40bjVYWnhwcWVTSFdjc2lrVlFOZ1pXVmsyZ9IBd0FVX3lxTE1pWWVHM1ZDRnFxNG83Ti1fVzZySVdFbnBwV0VTWGlMbm51LXVJeFdVU1JYQWJrcFlPcjNJakdhUUlEMy1nNEg4LUwyV3BKVUp3U1ZtWUE4OWxHc052Um9CNzB6cVhZakE1Mm5fcU9YV19YSWNyR19n"
+      },
+      {
+        "category": "Multi-vendor delivery partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "DoorDash and Uber Eats both now offer delivery from US Costco stores, indicating Costco's dual-vendor strategy to maximize delivery reach and operational flexibility.",
+        "suggestedAction": "Explore partnership opportunities with both major delivery platforms; assess if vendor solutions can support multi-channel fulfillment complexity.",
+        "sourceName": "AP News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjVSNDNnSXkzd3hkcmpwdzVyNndfZTdrQ1pjZzNCYzg1MzFjbi10VTJzaWRLcEJwQUp3Znc5TN04OXNtc1NGeWc4OHc2QktzdlFPVUxLM2tuWDZPUlFNLXRKLWlQdnU2SzFtdXF2WUJMQ2hWaThDU0JoSTVtTjl4WjhvS0Y2cVZBcTRmWnBPNFFtQmp4eGx0UTdB"
+      }
+    ]
   }
 ]

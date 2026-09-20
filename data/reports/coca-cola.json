@@ -758,5 +758,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENpMXo5eU1mTEh0UFhBS25LZEFKSFRmSkZNOVJuRjMyY0dpM2pZVko1b2pRTTNWMVlLREcwUEtTT2NaTVhpcXpVTk5qSlZJN3VmSVlaRXNKSk9ocnNISEdxeEY4XzJHRGU5NUJkX0E0NFRpSjFWa0xJT1lxSUVuc19FdW91cFNNeVN1RtIBkgFBVV95cUxQX2dFYVY3UzE3R2FleHh4aFduNXgzMUFhSHRlMmZWMXdEbHJyRERScVl3NExYQzFkVzlxa1I3Rmt3Y2dSbVcyNTdZZEJqb2R3bWNuN3Z0NGI2UEdkUFFkbDBDY3VET3ViVkcwSGt3VVIzeXFVU0FhSWdnNDhmTzhCRjQ2dXZRM0ZVd3FEcnFhRGdiQQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-20T16:42:58.216Z",
+    "source": "daily",
+    "headline": "Coca-Cola pursuing product innovation (prebiotic sodas) and evaluating agency partnerships; no material account relationship signals detected",
+    "signals": [
+      {
+        "category": "Product Innovation & Marketing Strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola's top marketer discussing agency search criteria and company testing prebiotic sodas in signature flavors this fall, indicating active product innovation and marketing investment",
+        "suggestedAction": "Monitor agency RFP activity; positioning opportunity if your firm supports beverage/CPG marketing or product launch campaigns",
+        "sourceName": "ADWEEK",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1l1S2l3ek1QOW1MYW5leEl6WlJwNTU3RkdmZWV4XzZsbGY4ZjFFeTV0Nmo2TEdQel9GMVRYOC1WTHBlX0E4aENWd0ZteHdLaV91OUJvXzlNRU9DS0diUW5jVjgzN3gyN3BfYTlfY1lwUVRZMjluR01Kd1NWQ3ZnUEtoN1JjZTlsekVMRDAyMFVYY25hN0VGUFJlMGdOU3ducElLSFJmaw?oc=5"
+      },
+      {
+        "category": "Product Innovation & Marketing Strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola testing prebiotic sodas across signature flavors in fall 2026, representing new product line expansion and health-focused innovation",
+        "suggestedAction": "Identify cross-sell opportunities if your solutions support product development, supply chain, or health-and-wellness positioning",
+        "sourceName": "NewsNation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENpMXo5eU1mTEh0UFhBS25LZEFKSFRmSkZNOVJuRjMyY0dpM2pZVko1b2pRTTNWMVlLREcwUEtTT2NaTVhpcXpVTk5qSlZJN3VmSVlaRXNKSk9ocnNISEdxeEY4XzJHRGU5NUJkX0E0NFRpSjFWa0xJT1lxSUVuc19FdW91cFNNeVN1RtIBkgFBVV95cUxQX2dFYVY3UzE3R2FleHh4aFduNXgzMUFhSHRlMmZWMXdEbHJyRERScVl3NExYQzFkVzlxa1I3Rmt3Y2dSbVcyNTdZZEJqb2R3bWNuN3Z0NGI2UEdkUFFkbDBDY3VET3ViVkcwSGt3VVIzeXFVU0FhSWdnNDhmTzhCRjQ2dXZRM0ZVd3FEcnFhRGdiQQ?oc=5"
+      }
+    ]
   }
 ]

@@ -989,5 +989,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelVPY2JtbFBBLU1DUzVwaTF3SjMyY0ItY3hKYjUyVGhlRVlxb2Z6Nkw1N2E4Y01hZkVqYUhrdXMtbzNVM0JKNnRsRTJ6SHBtYUlLQ1lkcUdERDZZc011R0ZVdmxlOEJsVHp3OWlhajRNbmljcUdaQWdTcGFvbTdsZWZjeFZlZldtWDV5M0lsd1JCUUpqZzBBS2QzVzRwT1U?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-20T16:44:56.121Z",
+    "source": "daily",
+    "headline": "Kroger faces regulatory scrutiny on acquisition, consumer trust issues, and sales weakness amid strategic capex investment",
+    "signals": [
+      {
+        "category": "Regulatory antitrust review of planned grocery deal",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Kroger's planned grocery acquisition is drawing tougher antitrust scrutiny, creating uncertainty around M&A strategy and management focus.",
+        "suggestedAction": "Monitor deal timeline and regulatory outcome; expect potential distraction of leadership and deal-related spend delays.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelVPY2JtbFBBLU1DUzVwaTF3SjMyY0ItY3hKYjUyVGhlRVlxb2Z6Nkw1N2E4Y01hZkVqYUhrdXMtbzNVM0JKNnRsRTJ6SHBtYUlLQ1lkcUdERDZZc015R0ZVdmxlOEJsVHp3OWlhajRNbmljcUdaQWdTcGFvbTdsZWZjeFZlZldtWDV5M0lsd1JCUUpqZzBBS2QzVzRwT1U"
+      },
+      {
+        "category": "Sales weakness despite earnings guidance",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Kroger faces questions about whether it can meet earnings commitments amid weak sales performance.",
+        "suggestedAction": "Request updated guidance and pipeline review; assess budget stability for Q4 and next fiscal year.",
+        "sourceName": "Trefis",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXc2UmF0dnVGSFU5bjFkeXBnRGJSeVZ1MVNRWjlxNmpldGFkVHQ1RTJjVzBMSEo2N2xLS3JNQ3JPYmRyQWlMVjFDSnlJejBYRlVsdHl0Y1l3TkFLOEM3T0JlNF9VbkRJSUQzZWkwMTRDOE5pRUdRX2lIT3QxYk80ZXp2a2FlR3laV0dvNWg5QzlhczY3MGNYSTg2ejFxdGNJa1JvdjdacU8waVNkTGk4bi1MQVNxT0U"
+      },
+      {
+        "category": "Strategic capex commitment ($253M for brand upgrade and new stores)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is investing $253 million in brand upgrades and new store openings, signaling confidence in growth and modernization.",
+        "suggestedAction": "Opportunity to pitch technology and services supporting store expansion and brand modernization initiatives.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnNDcDZrcmVfLVRSaE5lZHl3RU9tQVF1UDRndF93UGpMNlBjMW9sQUM1VmdGdUFFZWZkcTlOeDIwLTRTdmtGMUUzaUhKc05qZjV1UTBmY0NDLUVWRndIVjFWaVpKZGJyamxMb0EtMFFJNlJiTnZhOU9jR001cC1ONlIwcWltVTE3WEZ0OEltYU8zS21CUnFveHh1SUNzdWRaMTVlNDJGZEtDR0FQLWtFZ2Qyd3gyZ09XR0pFZEZFUnI"
+      },
+      {
+        "category": "Public trust/pricing perception issues (overcharging allegations)",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple reports accuse Kroger of frequent overpricing, with shoppers in Ohio overcharged nearly 3x as often as undercharged. This damages brand reputation and customer loyalty.",
+        "suggestedAction": "Monitor impact on customer retention and budget cycles; potential opportunity to pitch pricing transparency or customer analytics solutions.",
+        "sourceName": "wtol.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzZ4ZTk4MnpvZ3pPUGxuRlZjR1FOX0dRYnFhbnhxNjlwTXl0bWFKcWt3RldhYTQ4Q3ctdGkxOEFLVEZ4VzdTTE1ESU1VRHljQ1BLZ09RT21OOFdsU0U4bGxVc0RpSzdBaWszM292UGszZWd4N09pbTUtcVVCYkhhckdaQmItVG9qLUhNTTN4ZkR5N2VZYkRZNldOekU3MUI0Vm5JUEpsMjBtQWlXaXpxT3ZaaktwMjFOTkVMOGlybw"
+      },
+      {
+        "category": "Supplier leverage: removing premium brands (Red Bull) from shelves",
+        "updateType": "competitive",
+        "score": 0,
+        "summary": "Kroger is removing premium brands like Red Bull and Boar's Head from shelves, demonstrating increased negotiating power but also signaling willingness to de-shelf partners.",
+        "suggestedAction": "Assess if vendor is in a similar category; review supply agreement terms and margin protection clauses given demonstrated willingness to remove partners.",
+        "sourceName": "MyNorthwest.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JVWdtQ2pEMlM0WjdKTnViNVk4R2FFTk1ySWlyLUo3Q3NLY1g4SWk3QmZKXy05TlJQUG13WGlnZncyZUhqRURDUERXTXpiRHBJVFI0VFVXT2lISi1SNHR4VkdRNHFmQmE5ZGhBd3Rn"
+      }
+    ]
   }
 ]

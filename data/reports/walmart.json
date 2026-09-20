@@ -701,5 +701,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVhVemI2Mk5zY01IWVFSeEk0RXF6b2JfMk1DOFItS1hSRU9wNXZ0SWQzdks4ck1ZTUlnMXM0Sk1GcTItWThPZU9PVFRhUHRWQmhPZ29ZajJQaUU0czliNl9RQTExZFNfbTlBMGlsZ3lrbXk0NFdGYklONENZRDl6dmU4NkVrX3R3dHpOSUkyaTRSM2ZNRjJ4WDZZRzhqejNkSXItZDVDSC04N2pEV2o2LXphWTE1UFZ6cmRvSG12VQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-20T16:44:02.789Z",
+    "source": "daily",
+    "headline": "Violent incident at Walmart store and labor unionization in Canada—minimal direct impact on B2B vendor relationship",
+    "signals": [
+      {
+        "category": "Labor unionization at Canadian Walmart operations",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Canadian Walmart workers achieved their first union contract, signaling a shift in labor relations and potential operational changes at that region.",
+        "suggestedAction": "Monitor for any procurement or HR-related policy shifts that could affect vendor relationships or contract negotiations in Canada; low immediate impact on core account relationship.",
+        "sourceName": "Labor Notes |",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNsejlWVnEtVGp0R05FQ2V1eHk2bGpxUzhvSl9sWTRSUEhfRUhHbTFFOTBsWGdjNmVBRTRNSlp6WklsSjFFYWYwSUdFQjJCMGwyT2hXTXFnMXN0c3RGcmtpVUg2eFdac05pLTUxYWIwTkVvRlBiNk9aV1kzX1MtMHpaLVM2MmstbXhVbmkxeU4"
+      }
+    ]
   }
 ]

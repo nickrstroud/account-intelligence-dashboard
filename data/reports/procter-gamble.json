@@ -739,5 +739,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-20T16:43:58.622Z",
+    "source": "daily",
+    "headline": "P&G shows expansion momentum with major capex investment and AI adoption, offset by leadership transition and shareholder pressure",
+    "signals": [
+      {
+        "category": "Capital investment and job creation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M expansion of its Ohio manufacturing plant, adding 120 jobs. This signals continued capital deployment and business expansion momentum.",
+        "suggestedAction": "Positive signal for account stability and growth. Monitor for new operational needs or systems requirements at expanded facilities.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q?oc=5"
+      },
+      {
+        "category": "Leadership transition - Board Chairman appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed as Chairman of P&G Board of Directors. This is a board-level governance change, not a commercial leadership shift affecting buyer decisions or account relationships directly.",
+        "suggestedAction": "Monitor for any downstream strategic changes, but this is primarily a governance matter. No immediate action required unless Jejurikar signals operational strategy shifts.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
+      },
+      {
+        "category": "Technology modernization - AI adoption",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G highlighted as a leader in AI adoption across enterprise operations. Demonstrates commitment to digital transformation and operational efficiency.",
+        "suggestedAction": "Opportunity to discuss AI-enabled solutions, process automation, and how vendor offerings can support P&G's AI integration roadmap.",
+        "sourceName": "library.hbs.edu",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDRfNVVXWXJVcTZVZGhISjNhRl9YQzRXempCZ0RuRy1nWGhUSEtEZUhBdlBKQTg2RUJkblZDdy1JR1RSVmJDUmNCN1hsMFQxQVk2SVMtZG9CRzBUY1VMTUNnV2xyUVU3SUdUT3RPOENXVVp5dDlyOTNNa0lCc0hZVFVNUkIyc3BERzhxcnRYWFI4S2FsTVBibmVrZDVBcXc?oc=5"
+      },
+      {
+        "category": "Shareholder activism and governance pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "P&G faces new shareholder proposals ahead of October 2026 annual meeting, indicating investor pressure on governance, strategy, or performance.",
+        "suggestedAction": "Monitor outcomes of shareholder meeting. If proposals target cost reduction or operational efficiency, could create budget pressure on vendor spending. May also indicate strategic review of operations.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmlkLVNDZUtzVTFiazJraC1YMDZiVHR3OE81WGJsN21VNjZzUm9CejM2bXZqVVJZaUlyUlcweXl3bDEyVE1vQlFfbXE2dWVwNHgwb0VOa1JkRmcyRmdEeXlZWUp1dmo3MGFLRWg5LWpLUGFYaGt4RnA5aERsaWVoZ3lyNUlyNGJZRXEwYWh1aFNrTXZGSlE0ZVNQenRaYkxYZmc?oc=5"
+      }
+    ]
   }
 ]

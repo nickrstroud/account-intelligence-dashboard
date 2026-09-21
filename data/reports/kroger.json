@@ -1042,5 +1042,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JVWdtQ2pEMlM0WjdKTnViNVk4R2FFTk1ySWlyLUo3Q3NLY1g4SWk3QmZKXy05TlJQUG13WGlnZncyZUhqRURDUERXTXpiRHBJVFI0VFVXT2lISi1SNHR4VkdRNHFmQmE5ZGhBd3Rn"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-21T18:34:32.411Z",
+    "source": "daily",
+    "headline": "Kroger faces brand and regulatory headwinds amid pricing disputes and leadership transitions",
+    "signals": [
+      {
+        "category": "Brand Trust & Pricing Controversy",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Multiple reports indicate Kroger shoppers were overcharged nearly 3x more often than undercharged in Ohio, eroding customer trust in pricing accuracy and fairness.",
+        "suggestedAction": "Monitor for impact on customer retention and willingness to engage with loyalty programs or new vendor solutions; positioning as a trust/transparency partner could be a re-pitch angle.",
+        "sourceName": "WUSA9",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnEySGxPbXl3ZXBxMWotZlA1VkpKa2Y1ZklOYVFTY0czS3pPRHsCbEh5SmFuWjRJLXU1X1B1Tk9uc0tOR3lGeXJFZlRIdUtoSW5EbEZpam9fU2JESEJ2THp5MXh4RVVVdFZXcUU1WFNKWVJoeE96MC1TNWV5bEJtcVFwY2NVaGhYcXEzSmdIOHBnZDJLMHRxX3FCeG90QVplUVY1V2tjMWJnbkZYMG9mbklob0hvekZrM2xlUjNQYS0?oc=5"
+      },
+      {
+        "category": "Regulatory & Antitrust Risk",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Kroger faces tougher antitrust review for its planned grocery deal, indicating regulatory scrutiny that could impact M&A strategy and capital allocation.",
+        "suggestedAction": "Flag potential delays in planned acquisitions or divestitures; monitor for budget pressure if regulatory compliance costs rise or if deal falls through.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelVPY2JtbFBBLU1DUzVwaTF3SjMyY0ItY3hKYjUyVGhlRVlxb2Z6Nkw1N2E4Y01hZkVqYUhrdXMtbzNVM0JKNnRsRTJ6SHBtYUlLQ1lkcUdERDZZc015R0ZVdmxlOEJsVHp3OWlhajRNbmljcUdaQWdTcGFvbTdsZWZjeFZlZldtWDV5M0lsd1JCUUpqZzBBS2QzVzRwT1U?oc=5"
+      },
+      {
+        "category": "Supplier Relationship Tension",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger dropped Red Bull from all stores in a pricing dispute, signaling increased buyer leverage but also fragile vendor relationships and potential channel disruption.",
+        "suggestedAction": "Assess whether Kroger is using increased negotiating power to renegotiate terms with all vendors; ensure competitive offering and pricing remain competitive.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkJLc2VtWG5tblY1MEQ2TTRoVXl1bUJRcVhyb0Nnb192SVJJd1R6ZEVoUXJRRVpfOG9BYlczdkE5YWFPOUZaYUVjUklTY0dOalFZZzZjbHVVS1U1QjBoVmpMY1NpMDFld1lidzA0VXRHOXU3VFVnQXk1NWd0ZVdaZXpOblNtN0ZXdk02Q2NUWnhGRFVyMmJJXw?oc=5"
+      },
+      {
+        "category": "Leadership Transition",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Colleen Lindholz, a 31-year Kroger career veteran and health/wellness pioneer, has retired. C-suite reshaping underway, indicating potential shifts in buying priorities and champion relationships.",
+        "suggestedAction": "Identify new health/wellness and CSR decision-makers; assess whether new C-suite leadership aligns with current vendor strategy or signals re-prioritization.",
+        "sourceName": "massmarketretailers.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHhpLXhGODJ5UVFXMGZJVTExMWt0dDBEYkpVaUtiVmk4dVB3dFlacEJPcDlFaUZHWDd6OWEzVXEzNzBUUXl4ZE1rLUZhVDAwNzFWMzYyWjJkeGhQeWJKZEtRWnllWF8tcEVPWnI0eUNNM0lEWlVvSU84dllTcGhValZxdlp6dG54SWFRWVdGbGpGY2pFSFFYNzluYTNyUGxHT0E4eUg4OGxGcHFhd1l1Y1NuZWhJbHRaQjNhbkVHdWhlWlBENDhJMWlYUXVHYXB4dTJ0YjN1Nmowb2JHSnc?oc=5"
+      }
+    ]
   }
 ]

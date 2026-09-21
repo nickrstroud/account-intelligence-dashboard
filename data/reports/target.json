@@ -608,5 +608,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3A3dDFnTDVObV9iSWRjWlhsVV9vNjJzdVRpY193eGhhNDRlZXdQY2V5ZHBzTlhmYVJoOG1HWGR6M2tOQ2RoTklkRm5xTzU1SEFGUUF4dVhwMUpybHpCc1pPbFJDaWMtSHA2eVl3OVBRa2cyOURPTERNMzJLeXVfdEg0bVl1MXM4N1o0dW44VHZFZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-21T18:34:05.942Z",
+    "source": "daily",
+    "headline": "Target posts strong Q2 earnings beat with revenue growth; leadership visible in media",
+    "signals": [
+      {
+        "category": "Financial Performance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corporation reported strong Q2 revenue and earnings beat, driving stock gains. Positive financial performance indicates healthy business momentum and maintained budget capacity.",
+        "suggestedAction": "Leverage strong financial performance as rapport-building talking point; strong earnings support continued spending and expansion conversations with the account.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjNqNHJpYnhZYVBlS05rMW5JZDB3RTZpV3hWeF90WkhRM0ZZTXRSREZZTXRSRElWYmlmZmhmNmJxVml3Mk8yLTZMUWFaMUFPNVFBU3R3cnhFam41RkRIMFhTZmZmRXJtWVlsQnZudzY3TWxrUk5vTmhVTEduV2hsb0tKSk5GYzAzNm5hOWJjeFU2OVNBSUdpZUxxTWthYmYxUlVpMDZrT21UK2pQbkhLX2xwMEloRFpXSzNva1E3RS1xNEQ4bTRQT1dFM1lF"
+      },
+      {
+        "category": "Leadership Visibility",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Mark Weinstein biography published by Target Corporation indicates visible leadership presence. Confirms existing key stakeholder at the account.",
+        "suggestedAction": "Note Mark Weinstein as active stakeholder; use leadership visibility to inform stakeholder mapping and relationship strategy.",
+        "sourceName": "Target Corporation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVlJNWFozNlVIZ3pRLUsxYVFGcHE1WFJQTjlPOVBBOVM2X29ZdHVNQ0ZiM2ZUUzE1eVF1b21xSzBLcXlrVHhaR1o5bnhQOFZKdjBtM000Vmh0R3FkOWZDd3lNRkZoSGtpS3pQN0V4QURtVnc"
+      }
+    ]
   }
 ]

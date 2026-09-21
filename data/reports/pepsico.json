@@ -1008,5 +1008,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3p0Wk1vWFFWcVU2V1E2Unc3RkNNZ3Nqa3NnSmF6RjE4VVJiNVVNVVJvRF9oX2hlRURCRWFzbVdGa0F2N2NaVkd4YlJuR01sWHJCMnVvLUxBd0lKRnZiZE9RMGRfRk5OaTNqdEpTVVRZeW5wMGNSUE5ER3p2d21YOGF5aHVQek5rRm1KLTFOYzJtdjlhdDFFYUozZ043WXdn"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-21T18:33:02.042Z",
+    "source": "daily",
+    "headline": "PepsiCo faces near-term headwinds amid stock weakness and agency transition, offset partially by brand portfolio expansion and new board leadership",
+    "signals": [
+      {
+        "category": "Stock performance decline amid market headwinds",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock fell 3% while consumer staples held firm, dropping to 52-week low despite broader market gains. Stock dips reflect broader concern about revenue and earnings trajectory.",
+        "suggestedAction": "Monitor for Q3/Q4 earnings calls and management guidance; assess customer budget planning cycles for potential procurement delays or scrutiny.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxUV3lcThd5bFFFWXFLRFVVWWQpQVFpxVlRYVFd5cExERWFBcGdDdF9IOHBPd0p4QTUyaG82M2dENFBpSjNVQ2QyandEcjRLamwzbWRLLUhkSGZrNUpoODc3TnBaWms3OFFaZXJOZU1GYi1zZEFycWNPNFRkc3UxU0s3dFlTSXlXcXc4Vmh3Nm5SRFRrX1ZlWnduTzFYaEhFMFJCNEE2U3dWTDYxMDJmSTNuUQ?oc=5"
+      },
+      {
+        "category": "Loss of major marketing/advertising account to competitor",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "PepsiCo switched marketing agency relationship from Omnicom to Publicis, representing loss of a significant strategic partnership and potential vendor ecosystem disruption.",
+        "suggestedAction": "Assess whether account controls any Omnicom-dependent workflows or integrations; prepare to support any vendor-stack migrations or new agency onboarding that could affect procurement cycles.",
+        "sourceName": "digiday.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWNoSHR6NGVQR3EwdzVIWTBmMVZpdFJaRG53OUV1V0tIOW5iYWlGcUVGa1gxMmZhLUxZSnNyN2pnVEhMWDVnZUxDN2dGQUpyNzhPVDN5M1xiMzY3X1o2SURVbGVITDRBV1QtUVRpWk9yMEQ5dENaeTY3S3BaV2kyRXRwSlFVNlNjcEl3aHBNQkdQM21hX1JONEZXekFBbncxMzFuOVJFTThPN2JMSW10OQ?oc=5"
+      },
+      {
+        "category": "New board director appointment",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "PepsiCo added a new director to the board, indicating governance refreshment and potential shift in strategic priorities or oversight.",
+        "suggestedAction": "Research new director's background and industry connections; assess if their expertise signals new strategic direction (e.g., digital transformation, sustainability, supply chain) that could open expansion opportunities.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3p0Wk1vWFFWcVU2V1E2Unc3RkNNZ3Nqa3NnSmF6RjE4VVJiNVVNVVJvRF9oX2hlRURCRWFzbVdGa0F2N2NaVkd4YlJuR01sWHJCMnVvLUxBd0lKRnZiZE9RMGRfRk5OaTNqdEpTVVRZeW5wMGNSUE5ER3p2d21YOGF5aHVQek5rRm1KLTFOYzJtdjlhdDFFYUozZ043WXdn?oc=5"
+      },
+      {
+        "category": "New brand portfolio marketing campaign launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo launched its first-ever integrated brand portfolio campaign, signaling renewed marketing push and potential strategic repositioning to drive growth and brand momentum.",
+        "suggestedAction": "Engage account on campaign scope, technology stack, and associated spending initiatives; identify whether campaign requires new tools, analytics, or vendor partnerships that represent expansion opportunity.",
+        "sourceName": "Marketing Week",
+        "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TbDlpRTV3akpMS2lYWnlUM1MyaXI5eTctU2Rkc21jZWd1QUYwbGZ6VE5PTnZuT0RSQXhSVnhCbms4N2ZJV1lZWHIteWY2QTZMSnZaR3RDUUk1clFnbXlGdmlhSGJQWndSM09uZlJKQQ?oc=5"
+      },
+      {
+        "category": "Domestic sales decline vs. competitor",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "PepsiCo's domestic sales stumbled and the company lags Coca-Cola, indicating competitive pressure and revenue headwinds in core US market.",
+        "suggestedAction": "Monitor for cost-cutting initiatives or procurement consolidation as account seeks efficiency gains; prepare case studies on customer success in adjacent markets or non-core geographies.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcllUR3BqOVB1eEMxMnJFcmFiOU1vWnpCN29VUXhvM1pxYTMteXRuc3JVbVpCa1BsaVB5NHlqZGQ1c0V5dDYyYXZqT18tS3lPeXJFcmQ2LV83WDRwRUd0ZThIWXhmYWFhdzRKc0VHZHhFZHJ5Q0l3clRidHZKd1N2dUZfVjJtUW1JdUZzYkZLOXpWb2tNNVRZTmRpNWg?oc=5"
+      }
+    ]
   }
 ]

@@ -784,5 +784,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENpMXo5eU1mTEh0UFhBS25LZEFKSFRmSkZNOVJuRjMyY0dpM2pZVko1b2pRTTNWMVlLREcwUEtTT2NaTVhpcXpVTk5qSlZJN3VmSVlaRXNKSk9ocnNISEdxeEY4XzJHRGU5NUJkX0E0NFRpSjFWa0xJT1lxSUVuc19FdW91cFNNeVN1RtIBkgFBVV95cUxQX2dFYVY3UzE3R2FleHh4aFduNXgzMUFhSHRlMmZWMXdEbHJyRERScVl3NExYQzFkVzlxa1I3Rmt3Y2dSbVcyNTdZZEJqb2R3bWNuN3Z0NGI2UEdkUFFkbDBDY3VET3ViVkcwSGt3VVIzeXFVU0FhSWdnNDhmTzhCRjQ2dXZRM0ZVd3FEcnFhRGdiQQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-21T18:32:39.340Z",
+    "source": "daily",
+    "headline": "Coca-Cola News Roundup: Product Innovation and Strong Market Performance with No Direct Account Relationship Impact",
+    "signals": [
+      {
+        "category": "Product Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola plans to test prebiotic sodas in signature flavors this fall, indicating R&D investment and new product category expansion.",
+        "suggestedAction": "Monitor for broader product line expansion; potential discussion point for vendor solutions supporting new SKU management, supply chain, or marketing operations.",
+        "sourceName": "NewsNation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENpMXo5eU1mTEh0UFhBS25LZEFKSFRmSkZNOVJuRjMyY0dpM2pZVko1b2pRTTNWMVlLREcwUEtTT2NaTVhpcXpVTk5qSlZJN3VmSVlaRXNKSk9ocnNISEdxeEY4XzJHRGU5NUJkX0E0NFRpSjFWa0xJT1lxSUVuc19FdW91cFNNeVN1RtIBkgFBVV95cUxQX2dFYVY3UzE3R2FleHh4aFduNXgzMUFhSHRlMmZWMXdEbHJyRERScVl3NExYQzFkVzlxa1I3Rmt3Y2dSbVcyNTdZZEJqb2R3bWNuN3Z0NGI2UEdkUFFkbDBDY3VET3ViVkcwSGt3VVIzeXFVU0FhSWdnNDhmTzhCRjQ2dXZRM0ZVd3FEcnFhRGdiQQ?oc=5"
+      },
+      {
+        "category": "Stock Performance",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Coca-Cola stock has significantly outperformed the S&P 500 over the last 5 years, alongside Monster Beverage.",
+        "suggestedAction": "Use as rapport-building talking point; strong financial performance may indicate healthy IT/operational budgets for vendor solutions.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEZWZDdMY3ViZU9ZUHZYRUFtNzFWTGlsbk9lcF9Qak50T1RVbFMyd0JCZF9ia2NBZF81b1J4RE5sM3dya3NsTnFvTkVxMlJQaElNV2F5cVFKSnlYUUZfN0hFZnVxOW5uU0I5WWprS2p1UEFNa25DR1IyRnVHWHVLVTB3bFFiOFAxS3FtVWlmQ21xdFNIYlhpbw?oc=5"
+      }
+    ]
   }
 ]

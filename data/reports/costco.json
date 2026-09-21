@@ -683,5 +683,12 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjVSNDNnSXkzd3hkcmpwdzVyNndfZTdrQ1pjZzNCYzg1MzFjbi10VTJzaWRLcEJwQUp3Znc5TN04OXNtc1NGeWc4OHc2QktzdlFPVUxLM2tuWDZPUlFNLXRKLWlQdnU2SzFtdXF2WUJMQ2hWaThDU0JoSTVtTjl4WjhvS0Y2cVZBcTRmWnBPNFFtQmp4eGx0UTdB"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-21T18:33:52.583Z",
+    "source": "daily",
+    "headline": "Costco news cycle shows operational/marketing activity with upcoming earnings report; no material account relationship signals detected",
+    "signals": []
   }
 ]

@@ -783,5 +783,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmlkLVNDZUtzVTFiazJraC1YMDZiVHR3OE81WGJsN21VNjZzUm9CejM2bXZqVVJZaUlyUlcweXl3bDEyVE1vQlFfbXE2dWVwNHgwb0VOa1JkRmcyRmdEeXlZWUp1dmo3MGFLRWg5LWpLUGFYaGt4RnA5aERsaWVoZ3lyNUlyNGJZRXEwYWh1aFNrTXZGSlE0ZVNQenRaYkxYZmc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-21T18:33:49.462Z",
+    "source": "daily",
+    "headline": "P&G balancing pricing strength with volume headwinds; capacity expansion and AI manufacturing initiatives signal operational optimization amid market uncertainty",
+    "signals": [
+      {
+        "category": "Volume growth challenges despite pricing power",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "P&G relying on pricing rather than volume growth to sustain performance, indicating potential demand softness or market maturity challenges that could pressure future revenue growth",
+        "suggestedAction": "Monitor P&G's quarterly earnings for volume trend deterioration; assess whether pricing power can be sustained if consumer spending slows",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDNXQzJQLU5DYlo5WVhoVXV2UXBlcHdxdkZVdTY4ajhBdGw1TjhhQ2JNdjgzMTE3LTgwWHFPeGlaOWVTU2pjcDlnZVl5elJ2bTh0dm8wV0JyOXFhVTItNmxRdnl1bG11NjJQWVJJTmFpSlJfSi1DZVM4bmI5RG9POUFKbGNGcklCdklUYnE2X1JLQ1hmWGJQeE5lT2F2ZnNST0tYRldJdEVpcVpqZWlWTC1yYVFZWTlDMElKMzlYMA?oc=5"
+      },
+      {
+        "category": "Major capital investment and headcount addition in U.S. manufacturing",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed $501M expansion of Ohio plant adding 120 jobs, demonstrating confidence in U.S. production capacity and domestic market demand",
+        "suggestedAction": "Identify opportunities to support P&G's expanded manufacturing footprint with operational efficiency, supply chain, or automation solutions",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q?oc=5"
+      },
+      {
+        "category": "AI-driven manufacturing and quality inspection technology adoption (Siemens partnership)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G partnering with Siemens on AI-based visual inspection technology for manufacturing quality control, deployed globally—signals modernization of production systems and competitive focus on operational excellence",
+        "suggestedAction": "Explore alignment opportunities around P&G's digital manufacturing agenda; assess fit for complementary analytics, automation, or supply chain solutions",
+        "sourceName": "webwire.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wTVZpYTF5WlNTTWlldjc0RmUwOXd3Y0lnVFhPeDFSQ3ZmckoyaXRvcHFWbkc4NWRvc3ZWNlQ2Nzl4QVBfaklTMUlKbzFtV1RJc2VEcnQta1ppeWI2SzZhSQ?oc=5"
+      },
+      {
+        "category": "Leadership transition: New Board Chairman appointed",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Shailesh Jejurikar appointed Chairman of P&G Board; David Taylor (former CEO) transitioned to advisory role—routine succession planning with no indication of strategic disruption",
+        "suggestedAction": "Monitor for any strategic shifts or account relationship changes under new Board leadership; maintain relationships with both outgoing and incoming executive contacts",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
+      }
+    ]
   }
 ]

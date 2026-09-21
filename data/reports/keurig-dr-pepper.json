@@ -810,5 +810,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-21T18:33:31.678Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper shows mixed signals: dividend stability and strategic partnerships offset restructuring and potential breakup speculation",
+    "signals": [
+      {
+        "category": "Dividend declaration indicates financial stability and shareholder commitment",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper declared a quarterly dividend, signaling confidence in cash flow and financial health—a positive indicator for account stability and relationship continuity.",
+        "suggestedAction": "Use dividend announcement as talking point for customer stability narrative; reinforces confidence in KDP's financial position.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEVlUjF0dGhuaEVuNEJucElVTzRzRlpwdzM3OUZPdEtOSGVmWUV0aVlvQklpSFVDb2t2S0FGX1p3eWo5MlhlTUVXNS1KS0QtLVdPYTgySVJnSVo2THJ5Y0xENzI3QkR3Wl9nTVVzbm9CTEZIdEY2cUYtQlFRNFZZLWR1SHh1a0dmOHhtWDdrSkY?oc=5"
+      },
+      {
+        "category": "Enhanced partnership with Chobani expands KDP's product portfolio and market reach",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper announced an advanced partnership with Chobani, indicating strategic expansion into new product categories and distribution channels—positive for growth outlook.",
+        "suggestedAction": "Explore if partnership expansion creates new opportunities for vendor integration; discuss how vendor solutions can support expanded product lines.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      },
+      {
+        "category": "Leadership restructuring announced across KDP executive team",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Keurig Dr Pepper is reshaping its executive team, creating potential relationship risk if named stakeholder/champion departs, but also re-pitch opportunity with incoming leaders.",
+        "suggestedAction": "Monitor departures closely; identify incoming leaders and schedule introductory meetings to re-establish relationship context and business case.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2J1QmlfX0kzNlZsYUo3SGZGLUpUUm55bDY4MGs1T3U2TWQ3d0JZVnVIQmhUcnY2bDBmNHpIYTRYZWdGMUI1dVVjczQ3TENrNXRFNTZ5OHkzWE1YNFI2RnFiakt6Nk9GbmtaY0JsOWREaU5hdTRGQjBCRnVXS2h0V09GRC1WNDFUTlA4NnR6dUdqa1BZMkRZ?oc=5"
+      },
+      {
+        "category": "Potential breakup being considered; creates strategic uncertainty",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Speculation about a potential Keurig Dr Pepper breakup raises uncertainty about future corporate structure, reporting lines, and budget decision-making processes—introduces account planning complexity.",
+        "suggestedAction": "Monitor M&A discussions and scenario-plan for potential separation; prepare messaging for both standalone Keurig and Dr Pepper divisions if breakup occurs.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
+      },
+      {
+        "category": "Brand extension with Round Table Pizza creates new market application for Dr Pepper",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Dr Pepper pizza launch through Round Table Pizza demonstrates innovative brand extension and market penetration—positive signal for KDP's growth initiatives and brand strength.",
+        "suggestedAction": "Reference brand innovation in customer conversations; explore how vendor solutions support multi-channel brand activations.",
+        "sourceName": "markets.businessinsider.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1pSaTY3bV9XV19ialIwQkZiRWFnUDJSb3MzOTBVbERTbG9vUlZhczNwZlp3akFCUGJzOHdMOTlLcWVReHNYcS1iYXBwWGJxUWZBcWZtcUd2aTZ1WjEybkdmVXlGbTVTbzdLc012a1hDMXdtWHM5Qm1tbDYycTlfZTlMLUtPeGlZU0dkUHp6TDdwc0xOa1c3Ni1UOTJWQjRsMjFqNzloazIxRm90WV8xMFJXcE1LSkI4VVE?oc=5"
+      }
+    ]
   }
 ]

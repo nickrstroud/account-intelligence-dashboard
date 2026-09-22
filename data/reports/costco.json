@@ -690,5 +690,31 @@
     "source": "daily",
     "headline": "Costco news cycle shows operational/marketing activity with upcoming earnings report; no material account relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-22T17:36:13.790Z",
+    "source": "daily",
+    "headline": "Costco expansion and operational momentum with new store openings and product initiatives",
+    "signals": [
+      {
+        "category": "Store expansion and geographic growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco announced opening 10 new US stores in the next two months, signaling continued real estate expansion and capacity growth",
+        "suggestedAction": "Monitor expansion footprint; consider how Costco's growth trajectory may expand their supply chain, logistics, and services spending",
+        "sourceName": "The Independent",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2lNcGxoMWJGR3JqX2RGMVRfOV85aERWekFBeWlmZTNEemJVcEQzd3VOR0dMSV8wVHJUc2hMR1oyUXQ2bnd4UHB0QnNTOS0zTTFxaEI3ZmQ4RW0zNWVvc0JqQVFNeE5hZFQ1LWhFNmZUYTVHSXlVSUFYUTZ3YnNzcFZVdGtjNDZGdi1ISQ?oc=5"
+      },
+      {
+        "category": "New revenue stream and business line",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco launched rental car services, expanding beyond traditional wholesale grocery/goods into services sector",
+        "suggestedAction": "Assess if this new revenue stream creates opportunities for supporting services (booking systems, partnerships, logistics)",
+        "sourceName": "The Washington Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaC1qT040ek1YU3Z3U3c0MVc3eVZ0RzJRRjVneU1kbWUwWlJsV3pRbERCLUFkOXZZSUJNRk1TRjFodnRUd3ZfTURLZ2ZSNXBNTnBvUnU1WFRJNmJzRF9XT0xWSVdsRWVQUXVkaUcwV1dxWHl5UERnOTVJNkFRRUI5NmVaY0JZQVZ2ZkpaRF8yOE5GeEE4X2xoUTZxUUpvRzFrUDhqZXR4RWxXcW5rdHNRVEFEQklxUzJRc2V4RGFrNDY?oc=5"
+      }
+    ]
   }
 ]

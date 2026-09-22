@@ -1061,5 +1061,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcllUR3BqOVB1eEMxMnJFcmFiOU1vWnpCN29VUXhvM1pxYTMteXRuc3JVbVpCa1BsaVB5NHlqZGQ1c0V5dDYyYXZqT18tS3lPeXJFcmQ2LV83WDRwRUd0ZThIWXhmYWFhdzRKc0VHZHhFZHJ5Q0l3clRidHZKd1N2dUZfVjJtUW1JdUZzYkZLOXpWb2tNNVRZTmRpNWg?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-22T17:34:52.507Z",
+    "source": "daily",
+    "headline": "PepsiCo shows mixed signals: accelerating international growth and innovation offset by operational consolidation and stock pressure",
+    "signals": [
+      {
+        "category": "International Business Acceleration",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo's international business continues to accelerate, indicating strong growth in non-domestic markets and potential for expanded business opportunities.",
+        "suggestedAction": "Highlight global expansion as a growth lever in account conversations; explore international market penetration opportunities with PepsiCo.",
+        "sourceName": "Trefis",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEZnZU9qOW1uV0lwc2NOM3dFZDJJWHJSdEEwSzdkYlNVdEdOS2MtNEcxYVJvbnpZSEZqd1dGd1VGQ0xCWEhaMnNva2Fudy1Da0xkTkNyamdlc0pfZmdBRUkxMnc5clpUdzJhVEJOWlRaMmh3dFVhWVF0YWlCNm9uaTVQR01GUVZFN0lDejdWYk9sWlNmalFzYWc0OGFBV2VIR3ZpN0ZEdGllaDQ4Yjg5VEZVS0JZWFlteGtJSDJ0NmNHUVVSdmxmbTNVdDdhY2pWN3BLaGQtSlFoQQ?oc=5"
+      },
+      {
+        "category": "Zero Sugar Product Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo exploring zero sugar drinks as a next growth phase, indicating product innovation and portfolio diversification in response to health-conscious consumer trends.",
+        "suggestedAction": "Position vendor capabilities around health/wellness product enablement; discuss how solutions support emerging product categories.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazZ4UklTYlhGMXJvLTQwajc2ZXNFbEZjT0w3aVpqd0NtaTVzR2JBOTQxT2VoU0tSY1l3ejN6Tm82S09PT1Z5RWcteHVUdTUweG9vX3lJQkNqYnNVY3RiYTZlcHpaczlkLU1aQjdhSVVoUVlReU43bmUtSDBxZXFOdUVDUS00Vkx5RUZZUmhzaDRxZkg5WF9SZ3pOM0Y?oc=5"
+      },
+      {
+        "category": "Sustainability Packaging Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo investing in paper bottle technology alongside industry peers, demonstrating commitment to sustainable packaging innovation and environmental leadership.",
+        "suggestedAction": "Leverage sustainability initiatives as rapport-building topic; explore how vendor solutions support eco-friendly manufacturing or supply chain goals.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpoN09JdU1Ddy1ZTWVPYVR6Z3Y4anNza2dhMDB3LVpCX00ycF9nR2l2ZzllRXNkQW45WEZFbGlQdHd1MmlCYWMzdTZjNkFMdmVGR0IzQmp3WUROQlZhTWNhT0FqSHpmM2NhMlZGenptcEVZaERWMlpGdDVEOFQzYzIzeTNFNzNyRE81ZjdlUnRodGNlRlQ1aEowSzdVSG44?oc=5"
+      },
+      {
+        "category": "Maryland Bottling Plant Shutdown",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo ending manufacturing operations at Maryland bottling plant, indicating operational consolidation and potential workforce reduction in production.",
+        "suggestedAction": "Monitor for broader restructuring signals; assess impact on regional operations and any implications for vendor service delivery or contract scope.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjR5WGNnMWJfeElCMUoweTIydlBDc3ZBY0Fpc251ZGRKd0Uzc1BCNXNzZnRQYmViTnlzT0lFcXNfajBPRDluX2RWWWQ1anJmYUl3a0xhT3pvYWhESTRyZ01oOW9WSnE5d1NsM3pZMnU2R19Vd01iVGJJaEJ0OVJ4YmJYMzY5SExsVGU0WU5lYzRESXhzNGhiRmhaY3ZxWGlUcHdySQ?oc=5"
+      },
+      {
+        "category": "Stock Price Decline and Valuation Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock experiencing decline with analyst pressure, yet one prominent firm maintains bullish target suggesting 41% upside, indicating mixed investor sentiment and near-term valuation concerns.",
+        "suggestedAction": "Use analyst optimism as positive conversation point while being mindful of near-term financial pressure; avoid aggressive expansion discussions until stock stabilizes.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVl9rYjExNnFrQmlMY1IyQ3RBMkpfUFlQNEoyUGFYaG5IWGdhTVpqUjRNcXRrSnRfSms5ak5qcW5oTXltYnBLTTRQcXZnbFhBQjF4dl95cEZFbTYyYmZKM1ZEUmxsMk9IeTF6S0ZTZlMydHpMRzdTRVNYT1NURFA4N1BHbHR5N1NIRTR1U1Rsb2lkaDdHWlpxYmVsd1NQc21r?oc=5"
+      }
+    ]
   }
 ]

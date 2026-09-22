@@ -827,5 +827,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSENGSWxRRWRNR3lJekxTaTZkcmJOWWlrTVdBQjBHRHliOXRLQkJ4bjczMkoxZ3B1d1EwUUZVd0E2RGtXX05uV1h3UWFGWmxtSkk2ZE5uaWxNVmQ0OGx3VkxfbmlRSG41dm1rZXVLeG9CS0Z3OGtUTGlyOWJFbi1xeVdNS1Y3dkZZNGlMUTBfQkFPTGtCbkpXQUZBdWo4dERPdVNmRmtOSQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-22T17:35:45.273Z",
+    "source": "daily",
+    "headline": "P&G shows mixed signals: Ohio plant expansion adds capacity & jobs, but solar farm project stalled; retailer engagement broadening",
+    "signals": [
+      {
+        "category": "Capital Investment & Manufacturing Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M expansion of its Ohio manufacturing facility, adding 120 jobs. This signals confidence in production capacity and regional presence.",
+        "suggestedAction": "Highlight expansion as growth signal in account planning; explore how vendor solutions support increased production complexity or supply chain needs at scaled facility.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q"
+      },
+      {
+        "category": "Product Innovation - Dandruff Care",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G refreshed its dandruff care portfolio with HydraZinc Complex formulation, indicating continued R&D investment in personal care lines.",
+        "suggestedAction": "Use product innovation as rapport point; understand if new SKU launches impact demand for vendor's services in product development, formulation, or supply chain.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbGt0aHRBMGFuWHJULUc3UF85cDBCZzVYaXdFVDVPWjU3eE5hWlhzc1p5R2g1aEo2ZWQyd0dTQUJLaE1FaU9INVZwTVR6RExUaHFOd0pOTk94dWt4T2xrdHhTeGtwdmtyaVUtcGNsbWpKMkctNW4yby1nRXotZS1IQnVWY3pXdEpESWtKUlN2X21KaGY2bGlHRm1weVBVbWVBazAwUWFpV2xCNHJ1Rl9XRGF5M1lpdzM4RG1FY1ZOSVZNcmNJUmNEWmJn0gHPAUFVX3lxTE5MOU1zdW9jcHJ5aGs1Y1ZNY2VqaDVLZEc1TC1wRWI1bFZXbWRCa0xkRGV4TFhNNnQ4R0VKT3dOUzhWNjFsMXpaR2tlMGo1WnpXVDhELVNnVzdDLVczUGhZcm5EQ1NDak1nMWRkd04xdWdtOG9uczNjeXlPTzAyZWNnblV4d05VUXE0YUl4cHZSZFVWdENPVVpJUHNBdHQ5czNsMEFXRXloQk16djBuVExfc0hSb296X1A1b0JBMkJOZE4wYXlzSTFVVEt5bTE3MA"
+      },
+      {
+        "category": "Strategic Retailer Engagement",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is expanding retailer conversations beyond traditional pricing and promotions topics, signaling deeper strategic engagement with distribution partners.",
+        "suggestedAction": "Monitor for expansion of P&G's go-to-market strategy; potential opportunity if vendor supports retailer collaboration, data sharing, or joint planning initiatives.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjJJTzZ0d1BxdElWckFKTVJJS1BFMjhMZHpEUS14azkzOXIyeXVUT19wUzlDVVJGRGFUR1NmYy1oT1ZxVjZfX1k5VnBHQ2hfUHFRLXlHSFQ1QkpfWnVxSG9NZDR6S0hFb0Z4OEt3cDF1X051LUNMV3ZZU3E5c1NEbTNFVGVjanh5eVBfZ3B3"
+      }
+    ]
   }
 ]

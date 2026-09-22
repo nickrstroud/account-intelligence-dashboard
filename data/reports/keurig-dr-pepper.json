@@ -863,5 +863,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1pSaTY3bV9XV19ialIwQkZiRWFnUDJSb3MzOTBVbERTbG9vUlZhczNwZlp3akFCUGJzOHdMOTlLcWVReHNYcS1iYXBwWGJxUWZBcWZtcUd2aTZ1WjEybkdmVXlGbTVTbzdLc012a1hDMXdtWHM5Qm1tbDYycTlfZTlMLUtPeGlZU0dkUHp6TDdwc0xOa1c3Ni1UOTJWQjRsMjFqNzloazIxRm90WV8xMFJXcE1LSkI4VVE?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-22T17:35:22.621Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper maintaining shareholder returns and exploring strategic partnerships and restructuring amid stock volatility",
+    "signals": [
+      {
+        "category": "Strategic Partnership & Channel Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper announced an enhanced partnership with Chobani, advancing strategic priorities and expanding distribution channels into yogurt/better-for-you segment.",
+        "suggestedAction": "Understand the scope of the partnership and whether it opens new product categories or customer segments that our solutions can serve. Assess if KDP's supply chain or operations team is involved.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk"
+      },
+      {
+        "category": "Executive Restructuring",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Keurig Dr Pepper reshaping executive teams, indicating leadership changes that could affect organizational priorities, buyer contacts, and decision-maker relationships.",
+        "suggestedAction": "Obtain details on which executives departed and who replaced them. Identify if any procurement, operations, or IT leaders were affected. Update relationship map and reassess buyer champion strength.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2J1QmlfX0kzNlZsYUo3SGZGLUpUUm55bDY4MGs1T3U2TWQ3d0JZVnVIQmhUcnY2bDBmNHpIYTRYZWdGMUI1dVVjczQ3TENrNXRFNTZ5OHkzWE1YNFI2RnFiakt6Nk9GbmtaY0JsOWREaU5hdTRGQjBCRnVXS2h0V09GRC1WNDFUTlA4NnR6dUdqa1BZMkRZ"
+      },
+      {
+        "category": "Stock Price Decline",
+        "updateType": "market",
+        "score": -1,
+        "summary": "KDP stock declined 1.2% recently, signaling investor concerns about near-term performance or strategic direction that could impact budget allocation and capex spending.",
+        "suggestedAction": "Monitor broader market sentiment and earnings guidance. Stock weakness may delay discretionary IT/operations spending; position for cost-efficiency angle if engaging with procurement.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0ZYdUJyY3pmMHpXbGVCQTduMFpHRmFudVhZeWZWVk54OTE5aWh6d3h3T0hDQzliQ3J0OGFZN2R3N2pNZ09zb3otRHh3eElVbjlhMm40MmxpSXdpYjhSdkI2MXRnbE9TRFhKT0VXZXE1eFMxODZ5aXVYcGZTTTcxamh3SGpMdUVzXzk4UTlaSHlSS2NLTWJfSXZPaUIyTHg2dkR5T2syYWZqLWZJeTN5aGVRcGpwWWljdzZBTzZUR2c5OVZsT2lYR1dB"
+      },
+      {
+        "category": "Potential Structural Breakup Discussion",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Market commentary suggests potential breakup scenario for KDP's beverage and coffee businesses, indicating strategic restructuring discussions that could fragment buyer relationships and IT infrastructure.",
+        "suggestedAction": "Monitor for official announcements on spin-offs or divestitures. If breakup occurs, budget cycles and decision-making authority may shift. Prepare to engage with both resulting entities separately.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM"
+      },
+      {
+        "category": "Dividend Maintenance & Shareholder Returns",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper declared quarterly dividend, demonstrating continued profitability and shareholder commitment despite market volatility.",
+        "suggestedAction": "Positive signal on cash flow stability. Indicates capacity to fund operations and strategic initiatives. Monitor dividend sustainability relative to capex and debt levels.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEVlUjF0dGhuaEVuNEJucElVTzRzRlpwdzM3OUZPdEtOSGVmWUV0aVlvQklpSFVDb2t2S0FGX1p3eWo5MlhlTUVXNS1KS0QtLVdPYTgySVJnSVo2THJ5Y0xENzI3QkR3Wl9nTVVzbm9CTEZIdEY2cUYtQlFRNFZZLWR1SHh1a0dmOHhtWDdrSkY"
+      }
+    ]
   }
 ]

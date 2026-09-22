@@ -810,5 +810,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEZWZDdMY3ViZU9ZUHZYRUFtNzFWTGlsbk9lcF9Qak50T1RVbFMyd0JCZF9ia2NBZF81b1J4RE5sM3dya3NsTnFvTkVxMlJQaElNV2F5cVFKSnlYUUZfN0hFZnVxOW5uU0I5WWprS2p1UEFNa25DR1IyRnVHWHVLVTB3bFFiOFAxS3FtVWlmQ21xdFNIYlhpbw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-22T17:34:28.387Z",
+    "source": "daily",
+    "headline": "Coca-Cola's $10B investment signals growth momentum, but legal/environmental challenges present compliance risk",
+    "signals": [
+      {
+        "category": "Capital Investment & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola announces $10 billion investment plan, signaling continued capital deployment and business expansion. Though analyst scrutiny notes the investment's true scope is smaller than headline suggests, it still demonstrates confidence in future growth and modernization.",
+        "suggestedAction": "Monitor investment details for new operational regions or product lines that could require updated solutions; opportunity to position vendor services as efficiency-enabler within expanded footprint.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00YWVtS0I3ckVNVEM4SGFCU2FXZHZsd3llR3JOSy1hNDZVMGtFcVo3WnROLVNsSWo2ZTEtclJ5c1N0SXpMNGFqM0RmSHl3RXhTcmVvUHJaX0hITVdWVjlFbHRJQnJoVlFwZy1pZGFzMA?oc=5"
+      },
+      {
+        "category": "Environmental Compliance & Legal Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Coca-Cola faces multiple lawsuits regarding pollution and contaminated runoff from its Bellevue/Lake Washington facility. Unresolved environmental litigation could distract leadership, trigger operational restrictions, or require facility upgrades.",
+        "suggestedAction": "Flag for account team: potential budget realignment toward compliance/remediation could impact discretionary spending. Monitor case outcomes; if facility requires upgrades, may present opportunity to discuss operational efficiency solutions.",
+        "sourceName": "KING5.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXNMQXR0b3N2bXA5LThZRlJXLVV1U01QdFNVc1dvUU5sYy1fWlh5RDNaTzdYS3JuVlJHcWNCelM4ekRoTlhZSkNYcEtSbHFWczlPNV9taUt4bkFUQ0RwaGllNVQtOWlqT3FHQmxFdUF4cUplOGpXR0tseVFRb0pfdDhtS1c0REZoWExuMFhGV2g1NGpaTnM4OWNhSnpNelJIUklSVk5tUC1fYTQ5RFZ1ckNmNV93eUpxLUFqZEZRb0dEdVQ0S28yZVF4Tl9jRzQwdWlYeXA5MVlLVjYx?oc=5"
+      },
+      {
+        "category": "Operational Innovation & Sustainability",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola is trialing adhesive dots to replace shrink film in packaging, demonstrating commitment to sustainable packaging innovation and waste reduction. Signals investment in modernizing production processes.",
+        "suggestedAction": "Positioning opportunity: highlight vendor capabilities around sustainability compliance and production efficiency; could tie sustainability initiatives to cost savings in account conversations.",
+        "sourceName": "Packaging World",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPcjlhMWdwU2RNZFI2Ql9oWk9EeHhyc0lfX3BuZXpnMWdFZE9ZQUxGLXAtREMwalNvbVpHS2VaYi1sU3FmTHpXc1FOZXJGY1BQczNZY2dtSngwWmZZNTdpQWktYy1POUpuTjBybmNXcVNwamg4WUI3Y2hXa1hBTENnSV9acXNxbGtfUG1lQ1drOVBPWG56bUtVQ0d2Ynk3eWV6aDF6UkVXTTlCcDlmNk1JZmJtTC1VdnZVaFliNXBzdlF6Z0hfT28zWFJ4MVN6QnA2YjdUZ015UEtLTGdDSm1KeGlVOFVjVFRMWWFvYnV3b3dnZndub0FYUXFUVDU1UkRLeXpDVU42S1RBWlAzdy1UdzJpYTA0dXlFNGNobUd2Q0JGYUlQeU5BV0E1OHAza05HeXgzcw?oc=5"
+      },
+      {
+        "category": "Operational Technology & Automation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Swire Coca-Cola (China bottling partner) is deploying robotics in manufacturing to improve efficiency in the demanding China market. Reflects broader operational modernization and productivity focus.",
+        "suggestedAction": "Monitor for similar automation initiatives at other Coca-Cola bottling operations or manufacturing facilities. Could present opportunity to discuss complementary digital/operational solutions.",
+        "sourceName": "South China Morning Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNGRpdjhLeV9YME9kc2ZVZzkyaTFSOFc2blczTUJuSGs1LWpCUEI3M1BickRLUXRIVmtqd0RoOVZMZVFZSDJXVHNER2lLRWNqb2VFN1c3X0h0N0JGaGVqcHQyWTJ3U0dZOWZGX0xWajlrX2NLaUI4cGdKektvb0VJLWpZaVUzUUFNcVpaeEkyRnNXcDF0WmZ3YVZNNHpjcmNrbHhsNGlXQ3pWTERxWlBTMjhIa0UyZmdjQ010SHBHQTFybzctM0RRaGtMUEVZeVl4WDN3dNIB1AFBVV95cUxOaVRtamlxaDhhaGszcXBudTZ6YlNrb2tMdEYtYWEyM3o0LUNQMW1xMVFqRUx3VDFiZ1ZISWFSMXlMU2ZnMF9yYnhkUVlNOFp1RGhYUTRjaXpmbG1CTGI0OFJ3b2pyRkxOX2R5VVVXVTlfV2dhNnlGUWotZEo5cW5Xakl3YjNpNGpuUTdyQVVnVmlaY2xIMmhDcl9ob3czSnU5VzVkLWZtXzBqbXFMUnBXV2ZJdjduaWhiMk5qdmhaWlBaUnBpV2hIRTdub2t6RVZETUlCNw?oc=5"
+      }
+    ]
   }
 ]

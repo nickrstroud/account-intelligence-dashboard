@@ -725,5 +725,31 @@
     "source": "daily",
     "headline": "Walmart's recent news shows no strategic account-relationship risks or opportunities—negative press limited to isolated incidents and regulatory recalls.",
     "signals": []
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-22T17:36:00.210Z",
+    "source": "daily",
+    "headline": "Product recall and brand reputation risk from food safety issues; policy shift on digital payments shows operational agility",
+    "signals": [
+      {
+        "category": "Product Safety & Compliance",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "FDA-announced nationwide recall of pasta sold at Walmart locations over listeria contamination. Multiple reports indicate widespread product recall affecting Walmart's retail operations and brand reputation.",
+        "suggestedAction": "Monitor Walmart's recall response, supply chain remediation efforts, and any potential customer liability or regulatory penalties. Assess impact on Walmart's vendor quality assurance processes and procurement standards.",
+        "sourceName": "The Hill",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFgyRVhuVnZncm1TS3FKSXlTTWpBQVRFdU1DaHZ1UXJBSkNmSXpCdmY0VnpNQjVRY25mVXJrV0ZOSUgyeHhRWV9VV3lNUWxnNjNWR1h0OWUwdkFsY0FmdWl0dkVCaGhvZDNrWHoxcUdmYnprd0JSb09lS1d0TDVaYWRyLVpmYjBIQ0dlUVFLMHhLNll5X2xCYTBn0gGfAUFVX3lxTE02aU03VzdrX0stZ0oyNjZYRUdHeE5Td0hsMFM4ZmduOHVnclQ0QkZJakExR1hQeHNBUzJrUTg5S01jd293Y21pYTR4U3VMY1hiN0Q5T1FWS3prMWV6MkN2N0RyMzJMS2tsRFNRdjRUSDFVaGQwdFZDZVR1Sm5PYkVsMUpuV1lnRlJ5ekpQTmh0SFhJZFZxUG5oWlJLWVdGVQ"
+      },
+      {
+        "category": "Strategic Business Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart announced policy reversal to accept Apple Pay and Google Wallet, signaling openness to expanded digital payment options and mobile wallet ecosystem integration. This represents a strategic shift in Walmart's fintech positioning.",
+        "suggestedAction": "Identify expansion opportunities in Walmart's digital commerce and payments ecosystem. Reassess any competing priorities around proprietary Walmart Pay; explore integration partnership opportunities with Walmart's revised payment strategy.",
+        "sourceName": "American Banker",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamliV3g1OHh5akNmM2YwUzdabGlPSzhSb1dLMnM2ZmktQTlzWngyYmpLX1NldWJRN3B1eXVqeVZlc2NwYzY0cVZlZ0J6X1J5ZF9sUnZkNGk3eEFSQnhHcHBzRm9PM1I0dGpnU1N3b1UwbldkZmh4WG8yRDBuTGJlcTFwTjdQSVJYWERJZFNRa2tOUE9OVHhNeGlhUFVQa2ZBUUZXM09kM0poT3dVbGltUHRCcnpFOEFo"
+      }
+    ]
   }
 ]

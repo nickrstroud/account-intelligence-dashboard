@@ -1086,5 +1086,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHhpLXhGODJ5UVFXMGZJVTExMWt0dDBEYkpVaUtiVmk4dVB3dFlacEJPcDlFaUZHWDd6OWEzVXEzNzBUUXl4ZE1rLUZhVDAwNzFWMzYyWjJkeGhQeWJKZEtRWnllWF8tcEVPWnI0eUNNM0lEWlVvSU84dllTcGhValZxdlp6dG54SWFRWVdGbGpGY2pFSFFYNzluYTNyUGxHT0E4eUg4OGxGcHFhd1l1Y1NuZWhJbHRaQjNhbkVHdWhlWlBENDhJMWlYUXVHYXB4dTJ0YjN1Nmowb2JHSnc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-22T17:36:28.837Z",
+    "source": "daily",
+    "headline": "Kroger asserting supplier leverage on pricing; C-suite reshaping underway",
+    "signals": [
+      {
+        "category": "Pricing dispute leverage with suppliers",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "Kroger removed major brands (Boar's Head, Red Bull) from shelves in pricing disputes, demonstrating increased buyer leverage over suppliers and willingness to flex negotiating power.",
+        "suggestedAction": "Monitor Kroger's overall pricing strategy and category management approach; position solutions that help suppliers optimize pricing/margins to work with large retailers. Consider how Kroger's strengthened negotiating position affects vendor ecosystem.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGVQN0JjTHlsTlhmMEgxb21vcnBMUVpMc0RzVUhFLXhnNHliMVlfQ0FCbEZVN3dFeXIyOG9NcDM1UVQ3VktCb05tM3RQY2U5ZWlDQVd1Y0pwYUc1U1lnYVNqM1U2blRqUXVzWk42cHk4Z2tzWm1jX3pmekVBRV9OVTJ4TXNyZTk4S29jYllpLWxxSUhkemplLWtVTml2N0k3R3lqS0xoX1FwaHJDVTVtU3BGQWxKOUM0eEFIYXFlQ1M"
+      },
+      {
+        "category": "C-suite restructuring",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "Kroger is reshaping its C-suite, indicating leadership transitions that may affect decision-making, vendor relationships, and strategic priorities within executive procurement/vendor management.",
+        "suggestedAction": "Research specific C-suite changes and identify new procurement/category management executives. Prepare re-engagement strategy and relationship-building outreach to new leadership once appointments are confirmed.",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXOXl6YWx4ZDJMUFZSZjJSaU9hS2hGMERmWWNma2c3enZpX3FDVFhfbVE0OUhuZ0tabFJ3TTFnaHJGSC1WblR2SkZxVEhub3V0QWZRUDBJeTZVY0VWWGRTNGx3RFJfUzVWYWJYRU5WMW9PVEA"
+      }
+    ]
   }
 ]

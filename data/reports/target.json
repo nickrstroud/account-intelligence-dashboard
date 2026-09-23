@@ -641,5 +641,12 @@
     "source": "daily",
     "headline": "Target shows mixed financial signals with stock near USD 158 ahead of November earnings; no significant account relationship changes detected",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-23T17:47:16.321Z",
+    "source": "daily",
+    "headline": "Target declares regular quarterly dividend with no material changes to operations or leadership",
+    "signals": []
   }
 ]

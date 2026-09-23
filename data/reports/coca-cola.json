@@ -854,5 +854,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNGRpdjhLeV9YME9kc2ZVZzkyaTFSOFc2blczTUJuSGs1LWpCUEI3M1BickRLUXRIVmtqd0RoOVZMZVFZSDJXVHNER2lLRWNqb2VFN1c3X0h0N0JGaGVqcHQyWTJ3U0dZOWZGX0xWajlrX2NLaUI4cGdKektvb0VJLWpZaVUzUUFNcVpaeEkyRnNXcDF0WmZ3YVZNNHpjcmNrbHhsNGlXQ3pWTERxWlBTMjhIa0UyZmdjQ010SHBHQTFybzctM0RRaGtMUEVZeVl4WDN3dNIB1AFBVV95cUxOaVRtamlxaDhhaGszcXBudTZ6YlNrb2tMdEYtYWEyM3o0LUNQMW1xMVFqRUx3VDFiZ1ZISWFSMXlMU2ZnMF9yYnhkUVlNOFp1RGhYUTRjaXpmbG1CTGI0OFJ3b2pyRkxOX2R5VVVXVTlfV2dhNnlGUWotZEo5cW5Xakl3YjNpNGpuUTdyQVVnVmlaY2xIMmhDcl9ob3czSnU5VzVkLWZtXzBqbXFMUnBXV2ZJdjduaWhiMk5qdmhaWlBaUnBpV2hIRTdub2t6RVZETUlCNw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-23T17:45:52.060Z",
+    "source": "daily",
+    "headline": "Coca-Cola facing labor disruptions and legal challenges; $10B investment signals resilience despite operational headwinds",
+    "signals": [
+      {
+        "category": "Labor Disputes - Multiple Teamster Strikes",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Teamster strikes extended across multiple Coca-Cola facilities in Akron, Toledo, Twinsburg, Indiana, and other locations. Labor disruptions pose operational and cost risks.",
+        "suggestedAction": "Monitor labor negotiations closely; flag potential supply chain impacts and cost inflation pressures that may affect Coca-Cola's ability to fulfill orders or pricing negotiations.",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHJmQ01lelp0Yjlyc25DTkhGd1FXQXhMLWF2dzNTaGo5dDBkVGNxeV8zR0tVc3RpNVBzTUVuZlR2VHREcVNINWVXd3BVdkhmOURfYnRCTHgzYlVXR0drUzhRai1vX3RNdERkNnZ6bnF4eUhhOEUzMVNzNC1tdXdGVkZjdUNzcUhFbU91Z1Jqc25QV19sOXc?oc=5"
+      },
+      {
+        "category": "Environmental Litigation - Lake Washington Pollution",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Coca-Cola Bellevue facility sued over alleged polluted runoff reaching Lake Washington. Legal exposure and potential operational/remediation costs.",
+        "suggestedAction": "Track litigation outcome; assess potential for production delays, fines, or facility restrictions that could impact order fulfillment or pricing.",
+        "sourceName": "KIRO 7 News Seattle",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa0VnT3VjZ09aWGRiR05qWlNYQmdPekJudktZT2pPOHFKTk5NeDAyT2FWdTNqYVpCV2NKNmRIazNXUUxJcDdkSVY0UmVGZVpPYzhqS3VmbWpiNjBmSGREZVBYY2xqQjNvcjZRRG9rdXJsSndSUmlRM2hOc3hiMTNyRi1zdnRZSjNJLW9tQ1IwcnJ6UnBWVVA2dVFVQkVNSGtsVUlsLWhnSWtqR241eUpnT3BYekJLTzVLc09sZFIzOEVMWk9uQjFibHJCVC14cjZEenpsdnFzS3Z6X0pfZ21zbNIB9AFBVV95cUxOMkJRSWN0d3pmcG82d3kybC1HeGpkYUpDTHVVQ1FHZDlSblIwa0I4amZwY0I0UjlSaS1wdU5ObjR2dUdQSW9aQ0RiUVpYR1o0QmhoLVc4Q0VuSUFiaVNnZEFYXzRyd01BaUdqUEFIUzc1MTdxMkhTc2FmVGhUZ1dqZXpMY0ppeTdGb3FmZzRfOWlPN2FNc1JKdllJT1lSNnB2Sk50di1DU01MNTJTVk1HY0U4YU51cC1ZVTdWajlJeTRzMWR5OTU5blI0TG53V1JmV0wzeTJiTFgtWThRMnpQZFZvODU2Sk9vU2ZCVGFNenZ3dlMx?oc=5"
+      },
+      {
+        "category": "Strategic Investment & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola plans $10B investment, demonstrating strong capital commitment and confidence in growth. Signals expansion ambitions despite near-term headwinds.",
+        "suggestedAction": "Identify new business initiatives funded by $10B investment; proactively pitch expanded services/solutions for new product lines, markets, or operational efficiencies arising from capital deployment.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80YWVtS0I3ckVNVEM4SGFCU2FXZHZsd3llR3JOSy1hNDZVMGtFcVo3WnROLVNsSWo2ZTEtclJ5c1N0SXpMNGFqM0RmSHl3RXhTcmVvUHJaX0hITVdWVjlFbHRJQnJoVlFwZy1pZGFzMA?oc=5"
+      },
+      {
+        "category": "Dividend Resilience & Financial Stability",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Coca-Cola has consistently raised its dividend through every market crash since 1962, demonstrating financial strength and shareholder commitment.",
+        "suggestedAction": "Leverage financial stability narrative in account conversations; reinforces Coca-Cola's creditworthiness and suggests steady budget availability for vendor partnerships.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUtNTFE4RjFrbjVWeF9YdlJiZWI2SFUyQzExZldzVFhXcnU0VzJWOHJ1MlpxX2ROcE9kTi1KN2NreEZ0ZGZBcXkzanB4TndlZEx5Nnl1ZDM2ZmtrSjJORmlBc0FzVHhkSk1fNXoxZ3h5UVQ1Wm9aS3JSUWsydk1sZkRIWk5ENVdDN0FwMUhlNkZpTlRPMklVWQ?oc=5"
+      }
+    ]
   }
 ]

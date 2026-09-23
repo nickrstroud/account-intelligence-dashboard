@@ -916,5 +916,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEVlUjF0dGhuaEVuNEJucElVTzRzRlpwdzM3OUZPdEtOSGVmWUV0aVlvQklpSFVDb2t2S0FGX1p3eWo5MlhlTUVXNS1KS0QtLVdPYTgySVJnSVo2THJ5Y0xENzI3QkR3Wl9nTVVzbm9CTEZIdEY2cUYtQlFRNFZZLWR1SHh1a0dmOHhtWDdrSkY"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-23T17:46:39.592Z",
+    "source": "daily",
+    "headline": "KDP expanding A&W energy brand and enhancing Chobani partnership, signaling growth momentum; executive reshuffling presents relationship continuity question",
+    "signals": [
+      {
+        "category": "A&W Brand Expansion into Energy Segment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper is extending its A&W brand into the energy beverage category, representing a new business line extension and portfolio expansion opportunity.",
+        "suggestedAction": "Identify opportunities to support KDP's energy category growth initiatives, including potential supply chain, distribution, or capability enablement needs.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlUtNnNmUzlUdnNETlRMUGI3eHhWcHdNNFFwdnJJai1LOWIyUW1TNWxDbkFsbDBSQlV0VHFoRl9qTk9tZ2ZFeEdmZFJyZVlnQWdxRXhNMUtHeHlCQ0RhNWRVMDRuTlZkSWVHajR4ZDBUZ2FMV1pSY0VwRFpqSzB2VnpzMUJhVUhkWTdCUmxXZDN2ZFZ0RXR6QjdNc2lZNEZGdnFLX2trLURydExTYWt6Y0J3M0l0MGI0THlqRkJFZV9TMkNza1RKT0p4TW5jUzdtNXd0Nk55LTZBbEVLWk10b9IB5gFBVV95cUxOQnVHSkhkX2oyM294eHJ3TUFtc3JHeWV0czhKY2h0YmU3SHJ0SUNHNWNiOEpzR0VaWDRuV3lPeEFiOTE3OXNZS2U1SmxiRmFuU1BtakNzbGFlYURNN0l5ZXRWZWdlbWdINHJsNmVNNWg1S0dkaFE2cW1kSWdtaXZzeTktY19CQjViNkFCOWQ4MHZScVIzcUtGODFMbG9Vd01QVVVDSHFRZllPX2FFTUZIM000MFJCMzZ5Z2ktandTV3pEOG1TNnNuNWp0YVZYK3V0TVU3Q3RzLTNtQnFGaU1yWno1OU50Zw?oc=5"
+      },
+      {
+        "category": "Enhanced Chobani Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP is advancing strategic priorities through an enhanced partnership with Chobani, indicating deepened collaboration and cross-category growth opportunities.",
+        "suggestedAction": "Explore synergies with KDP's expanded yogurt/dairy partnerships and assess whether vendor capabilities can support the integrated go-to-market strategy.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      },
+      {
+        "category": "Executive Team Reshuffling",
+        "updateType": "leadership",
+        "score": -1,
+        "summary": "KDP is reshaping its executive teams, which may indicate leadership transitions or strategic organizational changes. Requires clarification on specific personnel changes and buying-function roles affected.",
+        "suggestedAction": "Obtain details on which executives have departed or joined, particularly in procurement, supply chain, or vendor management roles. Identify new contacts and re-establish relationship clarity with new decision-makers.",
+        "sourceName": "Consumer Goods Technology",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2J1QmlfX0kzNlZsYUo3SGZGLUpUUm55bDY4MGs1T3U2TWQ3d0JZVnVIQmhUcnY2bDBmNHpIYTRYZWdGMUI1dVVjczQ3TENrNXRFNTZ5OHkzWE1YNFI2RnFiakt6Nk9GbmtaY0JsOWREaU5hdTRGQjBCRnVXS2h0V09GRC1WNDFUTlA4NnR6dUdqa1BZMkRZ?oc=5"
+      },
+      {
+        "category": "Potential Breakup/Restructuring Exploration",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Commentary on potential KDP breakup scenarios, suggesting strategic review of business composition. Currently speculative but warrants monitoring for organizational impact.",
+        "suggestedAction": "Monitor for official announcements on strategic restructuring or divestitures. Assess potential impact on consolidated procurement and vendor consolidation strategies if breakup proceeds.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZ2VldqVnFRQUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
+      }
+    ]
   }
 ]

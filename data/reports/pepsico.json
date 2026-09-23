@@ -1114,5 +1114,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVl9rYjExNnFrQmlMY1IyQ3RBMkpfUFlQNEoyUGFYaG5IWGdhTVpqUjRNcXRrSnRfSms5ak5qcW5oTXltYnBLTTRQcXZnbFhBQjF4dl95cEZFbTYyYmZKM1ZEUmxsMk9IeTF6S0ZTZlMydHpMRzdTRVNYT1NURFA4N1BHbHR5N1NIRTR1U1Rsb2lkaDdHWlpxYmVsd1NQc21r?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-23T17:46:10.243Z",
+    "source": "daily",
+    "headline": "PepsiCo faces near-term operational headwinds with plant shutdown and stock decline, offset by international growth and sustainability innovation positioning",
+    "signals": [
+      {
+        "category": "Operational Restructuring & Cost Reduction",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "PepsiCo announced shutdown of manufacturing operations at its Maryland bottling plant, indicating operational consolidation and potential cost-cutting measures.",
+        "suggestedAction": "Investigate whether this shutdown affects buyer-side operations or supply chain relationships; assess if consolidation signals budget constraints or efficiency-driven capex decisions.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjR5WGNnMWJfeElCMUoweTIydlBDc3ZBY0Fpc251ZGRKd0Uzc1BCNXNzZnRQYmViTnlzT0lFcXNfajBPRDluX2ZWWWQ1anJmYUl3a0xhT3pvYWhESTRyZ01oOW9WSnE5d1NsM3pZMnU2R19Vd01iVGJJaEJ0OVJ4YmJYMzY5SExsVGU0WU5lYzRESXhzNGhiRmhaY3ZxWGlUcHdySQ"
+      },
+      {
+        "category": "Stock Price Decline & Valuation Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock has fallen 24% from its high, with analyst commentary suggesting near-term challenges overshadow opportunities. Multiple sources cite valuation and performance concerns.",
+        "suggestedAction": "Monitor for budget freezes or delayed capex decisions at customer level; assess whether stock performance triggers risk-aversion in procurement cycles.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTVKMmxYcXAyeGxJU21lM1JGbmIybV8wd2xLeDVyTGJJUy1acjJjYjJ6dV83VWg0b0ZsckpEc1QzZ3kwRmdzWnBIeTgxLU9KV3l1OW43SWt5MDN2enQ0QnVueXI1LVNpdnZVT1RiaXVGaHNkLU9scXZjTDJ5SnhUOVB1TDc4REg3VG5WMUlTVmNEcUtvY0UyZQ"
+      },
+      {
+        "category": "International Market Expansion & Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo's international business is accelerating with strong overseas growth noted across multiple analyst reports, presenting opportunity in emerging and developed markets.",
+        "suggestedAction": "Position solutions for international expansion support; explore opportunities in emerging market operations and cross-border supply chain optimization.",
+        "sourceName": "Trefis",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEZnZU9qOW1uV0lwc2NOM3dFZDJJWHJSdEEwSzdkYlNVdEdOS2MtNEcxYVJvbnpZSEZqd1dGd1VGQ0xCWEhaMnNva2Fudy1Da0xkTkNyamdlc0pfZmdBRUkxMnc5clpUdzJhVEJOWlRaMmh3dFVhWVF0YWlCNm9uaTVQR01GUVZFN0lDejdWYk9sWlNmalFzYWc0OGFBV2VIR3ZpN0ZEdGllaDQ4Yjg5VEZVS0JZWFlteGtJSDJ0NmNHUVVSdmxmbTNVdDdhY2pWN3BLaGQtSlFoQQ"
+      },
+      {
+        "category": "Sustainability & Innovation Initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is investing in paper bottle technology alongside Diageo and Unilever, signaling commitment to innovation and sustainable packaging solutions.",
+        "suggestedAction": "Highlight partnership in sustainable supply chain solutions; position as strategic partner for ESG-driven operational improvements and packaging innovation.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpoN09JdU1Ddy1ZTWVPYVR6Z3Y4anNza2dhMDB3LVpCX00ycF9nR2l2ZzllRXNkQW41WEZFbGlQdHd1MmlCYWMzdTZjNkFMdmVGR0IzQmp3WUROQlZhTWNhT0FqSHpmM2NhMlZGenptcEVZaERWMlpGdDVEOFQzYzIzeTNFNzNyRE81ZjdlUnRodGNlRlQ1aEowSzdVSG44"
+      }
+    ]
   }
 ]

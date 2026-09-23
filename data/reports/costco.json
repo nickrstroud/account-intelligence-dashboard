@@ -716,5 +716,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaC1qT040ek1YU3Z3U3c0MVc3eVZ0RzJRRjVneU1kbWUwWlJsV3pRbERCLUFkOXZZSUJNRk1TRjFodnRUd3ZfTURLZ2ZSNXBNTnBvUnU1WFRJNmJzRF9XT0xWSVdsRWVQUXVkaUcwV1dxWHl5UERnOTVJNkFRRUI5NmVaY0JZQVZ2ZkpaRF8yOE5GeEE4X2xoUTZxUUpvRzFrUDhqZXR4RWxXcW5rdHNRVEFEQklxUzJRc2V4RGFrNDY?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-23T17:47:14.817Z",
+    "source": "daily",
+    "headline": "Costco expanding footprint and service offerings with new business-format store and rental car services",
+    "signals": [
+      {
+        "category": "New Business Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco investing in another Costco Business store in Dallas-Fort Worth area, signaling continued geographic and format expansion",
+        "suggestedAction": "Monitor for additional business-format locations; potential opportunity to expand solutions for their B2B operations",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWtMVG15dUUyNHkzOUdmdlpqbkw1cWZpV0lybmgzaHpMa2tra1FvS0REUHdtcGJYOG5QeDF4eU1QWWtLWmxVYlRlZnJGbUQ3NGtwOUl3ckNEYzhOOFdJa2VrZlEwd1NHdThwdDk4YTB3MDJBb0lGOTF4VVE3YkJ1OWZxanlmb28?oc=5"
+      },
+      {
+        "category": "Service Line Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco launching rental car service through partnership, expanding beyond traditional retail into services sector",
+        "suggestedAction": "Assess whether current solutions support their membership/loyalty integration; potential for ancillary service vendor partnerships",
+        "sourceName": "The Washington Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaC1qT00wek1YU3Z3U3c0MVc3eVZ0RzJRRjVneU1kbWUwWlJsV3pRbERCLUFkOXZZSUJNRk1TRjFodnRUd3ZfTURLZ2ZSNXBNTnBvUnU1WFRJNmJzRF9XT0xWSVdsRWVQUXVkaUcwV1dxWHl5UERnOTVJNkFRRUI5NmVaY0JZQVZ2ZkpaRF8yOE5GeEE4X2xoUTZxUUpvRzFrUDhqZXR4RWxXcW5rdHNRVEFEQklxUzJRc2V4RGFrNDY?oc=5"
+      },
+      {
+        "category": "Delivery Service Challenge",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Costco's new delivery service encountered operational issues, indicating execution risk in launching new channels",
+        "suggestedAction": "Opportunity to position complementary logistics/fulfillment solutions if Costco seeks partners to improve delivery operations",
+        "sourceName": "Currently.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV29mbjhoN2FnU2pEZ0NVRjc1M01mR2lrOUFhYnVyNjNvc1hSYm5uTHBJRHZLaHBPWXVsR094VHMwTnp2RjJVYlIwbTdGelVISFM2dF9ZQ3Vjck1BbjQtSFFpdnI2UkhRcEdaekk3dDNPdjFlN0RJbW9YSWRjcEZBLVJKVFBFbTJzT21MckVB?oc=5"
+      }
+    ]
   }
 ]

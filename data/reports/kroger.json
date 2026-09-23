@@ -1112,5 +1112,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXOXl6YWx4ZDJMUFZSZjJSaU9hS2hGMERmWWNma2c3enZpX3FDVFhfbVE0OUhuZ0tabFJ3TTFnaHJGSC1WblR2SkZxVEhub3V0QWZRUDBJeTZVY0VWWGRTNGx3RFJfUzVWYWJYRU5WMW9PVEA"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-23T17:47:25.482Z",
+    "source": "daily",
+    "headline": "Kroger faces activist protests and unrelated legacy incident coverage; AI strategy signals operational modernization",
+    "signals": [
+      {
+        "category": "Brand & PR Risk",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Animal rights activists protested and chained themselves to Kroger's Cincinnati headquarters, with 9 arrests. Multiple outlets covered the disruption and street closures.",
+        "suggestedAction": "Monitor for any escalation of activist campaigns targeting Kroger's supply chain practices or vendor relationships. Low immediate account impact but reputational risk.",
+        "sourceName": "WLWT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnp0Tk9Qd3hNSE1BOEtxREJNZHo4V1RfalF1Rkt5WWVKZ0hxU3pXaFRyb0tBVk5lSGRieGQydzRGdlc4THhPMDlRSHJLcDZhRm9EVmlKenI3dzB5UG0xZUtpMHRHSzhuLUd6ZWdManNQWkc0UnJsbEIxc1RaNFo4c1dOQ2JHUTBTOVhUYUlTN0VWeWZwSlBqTWhn?oc=5"
+      },
+      {
+        "category": "Digital & AI Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger's digital chief highlighted the company's AI strategy focused on 'flexibility and control,' signaling continued investment in digital transformation and vendor partnerships for tech enablement.",
+        "suggestedAction": "Assess whether current vendor solutions align with Kroger's stated AI priorities. This represents a growth vector for tech/digital service vendors.",
+        "sourceName": "grocerydive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sRWhLdkZCT2dMTzVrOUdRYkVMTjRPZVZmOWxRWmVzMl9yWkRVUHU5MTJ4SW5NYlc1R0RFeEZET25rVUZXaE0zYlNxNnVaNmNBTEpnRVpLVnNyMzJNWW1tMjk5a0liWDRGMjFkSS1UbmVqVXc2MjJLamhpWUxtUQ?oc=5"
+      }
+    ]
   }
 ]

@@ -862,5 +862,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjJJTzZ0d1BxdElWckFKTVJJS1BFMjhMZHpEUS14azkzOXIyeXVUT19wUzlDVVJGRGFUR1NmYy1oT1ZxVjZfX1k5VnBHQ2hfUHFRLXlHSFQ1QkpfWnVxSG9NZDR6S0hFb0Z4OEt3cDF1X051LUNMV3ZZU3E5c1NEbTNFVGVjanh5eVBfZ3B3"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-23T17:46:54.758Z",
+    "source": "daily",
+    "headline": "P&G launches science-led product innovations and completes major Ohio facility expansion, signaling growth investments and competitive positioning",
+    "signals": [
+      {
+        "category": "Product Innovation & Competitive Positioning",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is launching science-led pushes for Head & Shoulders and Oral-B iO, reframing its narrative and suggesting active innovation in core categories. This indicates ongoing investment in premium/differentiated product lines.",
+        "suggestedAction": "Positive rapport-building: Discuss P&G's innovation roadmap and how your vendor offerings can support their science-led positioning and product launches.",
+        "sourceName": "finance.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUVoRGotT2l5aG9zdTNacmpMRDgtVTktcVhfYTAxT25WSFZDWjNGTUJMSFJ5UVpaZlcxdEFFT0xwRHdpQ0RaZXExOW5temMweXl6elNVUXBhcllrbFc1S0QxYlBYZTR1enQzdDFteWJpNmZGM3o5U0ZmeHBrWW9Jenp5cGkyd3dzWmJ3?oc=5"
+      },
+      {
+        "category": "Capital Investment & Capacity Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M expansion of its Ohio manufacturing plant, adding 120 jobs. This significant capex deployment signals confidence in demand and capacity growth.",
+        "suggestedAction": "Opportunity to position vendor solutions around operational efficiency, supply chain optimization, or manufacturing support for the expanded facility.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q?oc=5"
+      },
+      {
+        "category": "Competitive Resilience",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "P&G has successfully fended off disruptive start-ups, demonstrating competitive strength and market leadership. The company's ability to defend its market position suggests stable, mature customer with pricing power.",
+        "suggestedAction": "Use as positive indicator of account stability. Reference P&G's market leadership as context when discussing account expansion opportunities.",
+        "sourceName": "In.Comms",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ?oc=5"
+      }
+    ]
   }
 ]

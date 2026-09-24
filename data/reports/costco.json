@@ -751,5 +751,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV29mbjhoN2FnU2pEZ0NVRjc1M01mR2lrOUFhYnVyNjNvc1hSYm5uTHBJRHZLaHBPWXVsR094VHMwTnp2RjJVYlIwbTdGelVISFM2dF9ZQ3Vjck1BbjQtSFFpdnI2UkhRcEdaekk3dDNPdjFlN0RJbW9YSWRjcEZBLVJKVFBFbTJzT21MckVB?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-24T17:48:49.971Z",
+    "source": "daily",
+    "headline": "Costco pursuing same-day delivery expansion while discontinuing select private-label products; minimal strategic account relationship signals",
+    "signals": [
+      {
+        "category": "Same-day delivery capability expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco launching nationwide same-day delivery service, signaling investment in logistics infrastructure and omnichannel capabilities.",
+        "suggestedAction": "Monitor for supply chain, fulfillment, and logistics vendor opportunities; potential platform expansion could create new procurement needs.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlg1Mi1Hbzh5VTNDVjJINnZyWlBSWVNGOEJoblVreHQwQU14aTdTZjNkMkU4akdBYS12TlRuZnFFMmMxejJjTGdJMDdWVUtxZ3BhV2pDQ1BZd3BDZFdWb0hyYWRKNEdlX3gzWXNUN2dKbmhfN0k5dVZEYW1Nd3Y4ckF4OUZiTGVNbjFyc1NzMUI0NUVBa1Jub0dWbmYzcm94Y3hDSQ?oc=5"
+      },
+      {
+        "category": "Product portfolio rationalization (Kirkland beer discontinuation)",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Costco discontinuing Kirkland private-label beer line; operational/merchandising change unrelated to core account relationship dynamics.",
+        "suggestedAction": "No direct action; monitor as part of broader Costco portfolio management strategy.",
+        "sourceName": "Chicago Tribune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DdGxyaHYyLVBOazVEZzk3RUMzMlhTSVBHV1NVTHJLMFBrUWF1WUZraFI1T0tfb1NicGRUN0NiSEtyd0xzSjJjTkZKS1I5LVVycHc2NGlQWkdiRGN3THgzbGd1MlUtNzFiS1g4eGNCRlM?oc=5"
+      }
+    ]
   }
 ]

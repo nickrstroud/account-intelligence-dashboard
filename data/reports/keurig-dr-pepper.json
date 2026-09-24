@@ -960,5 +960,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZ2VldqVnFRQUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-24T17:48:16.445Z",
+    "source": "daily",
+    "headline": "KDP expanding into energy drink channel while divesting non-core Chobani assets; mixed signals on strategic direction",
+    "signals": [
+      {
+        "category": "A&W Energy Extension",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper extending A&W brand into energy drink category, indicating category expansion and portfolio growth initiative",
+        "suggestedAction": "Positive signal for account expansion—monitor whether category needs new capabilities, packaging, or distribution support from vendors",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlUtNnNmUzlUdnNETlRMUGI3eHhWcHdNNFFwdnJJai1LOWIyUW1TNWxDbkFsbDBSQlV0VHFoRl9qTk9tZ2ZFeEdmZFJyZVlnQWdxRXhNMUtHeHlCQ0RhNWRVMDRuTlZkSWVHajR4ZDBUZ2FMV1pSY0VwRFpqSzB2VnpzMUJhVUhkWTdCUmxXZDN2ZFZ0RXR6QjdNc2lZNEZGdnFLX2trLURydExTYWt6Y0J3M0l0MGI0THlqRkJFZV9TMkNza1RKT0p4TW5jUzdtNXd0Nk55LTZBbEVLWk10b9IB5gFBVV95cUxOQnVHSkhkX2oyM294eHJ3TUFtc3JHeWV0czhKY2h0YmU3SHJ0SUNHNWNiOEpzR0VaWDRuV3lPeEFiOTE3OXNZS2U1SmxiRmFuU1BtakNzbGFlYURNN0l5ZXRWZWdlbWdINHJsNmVNNWg1S0dkaFE2cW1kSWdtaXZzeTktY19CQjViNkFCOWQ4MHZScVIzcUtGODFMbG9Vd01QVVVDSHFRZllPX2FFTUZIM000MFJCMzZ5Z2ktandTV3pEOG1TNnNuNWp0YVZYZ3V0TVU3Q3RzLTNtQnFGaU1yWno1OU50Zw?oc=5"
+      },
+      {
+        "category": "Chobani Stake Divestiture",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "KDP selling back equity stake in Chobani plus manufacturing site for $925M, signaling strategic refocus away from yogurt partnership",
+        "suggestedAction": "Monitor for operational changes or cost-cutting tied to manufacturing/supply chain reorganization; assess whether divestiture affects existing vendor relationships or procurement priorities",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm?oc=5"
+      },
+      {
+        "category": "Enhanced Chobani Partnership (Concurrent)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced enhanced strategic partnership with Chobani while divesting ownership stake, suggesting continuation of commercial relationship in different form",
+        "suggestedAction": "Clarify nature of enhanced partnership (supply, distribution, co-manufacturing) and whether it creates new vendor or service needs for the relationship",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
+      }
+    ]
   }
 ]

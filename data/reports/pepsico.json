@@ -1158,5 +1158,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpoN09JdU1Ddy1ZTWVPYVR6Z3Y4anNza2dhMDB3LVpCX00ycF9nR2l2ZzllRXNkQW41WEZFbGlQdHd1MmlCYWMzdTZjNkFMdmVGR0IzQmp3WUROQlZhTWNhT0FqSHpmM2NhMlZGenptcEVZaERWMlpGdDVEOFQzYzIzeTNFNzNyRE81ZjdlUnRodGNlRlQ1aEowSzdVSG44"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-24T17:47:56.069Z",
+    "source": "daily",
+    "headline": "PepsiCo faces near-term margin pressure from failed price-cut strategy, executing selective price increases while managing cost inflation and supplier contract shifts",
+    "signals": [
+      {
+        "category": "Pricing Strategy & Volume Dynamics",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "PepsiCo's earlier price-cut strategy failed to drive volume growth as expected, forcing the company to pivot toward selective price increases on chips and sodas. This signals weakening consumer demand elasticity and potential margin pressure in near term.",
+        "suggestedAction": "Monitor next earnings call for volume/mix impact of price increases; assess if demand softness extends beyond snacks category. Understand if this affects customer promotional support budgets or joint business plans.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHdMMTQwc3ZIQlFiSmxPbWNoQTNfTlZ5UlJnX202QTNHNUdsZnBzWk9ENFdFNC1oT2daVGJXcXlLSC1sTl9zdjRYQmN3R0NYQ19Ea01NS0FDLVR6b29GSU1GZ0ZUNVhta2tDYnlfdFE0Vlg2elFhaEwzTzJxNmthdTRiWi1pOVZPcVh6RDY3dkRzaDR5ejg1dDlabFc3RmpNZFVuOWVGNEw5ek9mNUFLNg?oc=5"
+      },
+      {
+        "category": "Stock Performance & Market Sentiment",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock has fallen 24% from its 52-week high, reflecting investor concerns about near-term challenges, margin compression, and demand headwinds despite strong international growth prospects.",
+        "suggestedAction": "Assess whether customer-level budget cycles are being impacted by their own stock performance; note any changes in customer procurement pace or capex plans tied to their market valuation.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTVKMmxYcXAyeGxJU21lM1JGbmIybV8wd2xLeDVyTGJJUy1acjJjYjJ6dV83VWg0b0ZsckpEc1QzZ3kwRmdzWnBIeTgxLU9KV3l1OW43SWt5MDN2enQ0QnVueXI1LVNpdnZVT1RiaXVGaHNkLU9scXZjTDJ5SnhUOVB1TDc4REg3VG5WMUlTVmNEcUtvY0UyZQ?oc=5"
+      },
+      {
+        "category": "Supplier/Contract Risk",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "ISPD flagged material exposure to a PepsiCo contract shift, indicating potential supply chain or vendor consolidation risk that could affect third-party service/product providers in PepsiCo's ecosystem.",
+        "suggestedAction": "If account sells into PepsiCo's supply chain or operations (logistics, manufacturing, packaging), investigate the nature of this contract shift immediately. Assess whether similar vendor rationalization could impact our footprint.",
+        "sourceName": "TipRanks",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1FyQy03Z0V2YlR5d2FNM1owbXdDMjFsVHduRHQxLVV6cjh5UWY0ODlJUjYzTXdXbHY4VUVVZWoyNGZLb2NNcWRwaVhQanFjbWhweXFSNVpQOTlSN0Jja3ZmaWQybTY2MlhnU2k5X3NETlNNbUlrbf94ZkZXdkFzS1JUOFFzZklrb2VUNFVuQ2pZMWNya3RjODA2NXNRODZ1WTJhZ282eXUwSGRRTktwZkE?oc=5"
+      },
+      {
+        "category": "Innovation & Sustainability Positioning",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is investing in alternative packaging (paper bottles) alongside Diageo and Unilever, signaling commitment to innovation and sustainability-driven business expansion in next-gen product formats.",
+        "suggestedAction": "Identify whether our solutions support PepsiCo's packaging innovation, manufacturing, quality control, or supply chain optimization for new bottle formats. Potential upsell or co-innovation opportunity.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpoN09JdU1Ddy1ZTWVPYVR6Z3Y4anNza2dhMDB3LVpCX00ycF9nR2l2ZzllRXNkQW41WEZFbGlQdHd1MmlCYWMzdTZjNkFMdmVGR0IzQmp3WUROQlZhTWNhT0FqSHpmM2NhMlZGenptcEVZaERWMlpGdDVEOFQzYzIzeTNFNzNyRE81ZjdlUnRodGNlRlQ1aEowSzdVSG44?oc=5"
+      },
+      {
+        "category": "International Market Opportunity",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo's international business continues to accelerate, presenting growth opportunity despite domestic near-term headwinds. International segment offers margin and volume expansion potential.",
+        "suggestedAction": "Review account's international footprint and market-entry strategies; identify opportunities to expand our presence in PepsiCo's fastest-growing regions (emerging markets). Consider international sales engagement.",
+        "sourceName": "Trefis",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEZnZU9qOW1uV0lwc2NOM3dFZDJJWHJSdEEwSzdkYlNVdEdOS2MtNEcxYVJvbnpZSEZqd1dGd1VGQ0xCWEhaMnNva2Fudy1Da0xkTkNyamdlc0pfZmdBRUkxMnc5clpUdzJhVEJOWlRaMmh3dFVhWVF0YWlCNm9uaTVQR01GUVZFN0lDejdWYk9sWlNmalFzYWc0OGFBV2VIR3ZpN0ZEdGllaDQ4Yjg5VEZVS0JZWFlteGtJSDJ0NmNHUVVSdmxmbTNVdDdhY2pWN3BLaGQtSlFoQQ?oc=5"
+      }
+    ]
   }
 ]

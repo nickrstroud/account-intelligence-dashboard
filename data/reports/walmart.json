@@ -758,5 +758,31 @@
     "source": "daily",
     "headline": "No account-relationship signals detected; Walmart news focuses on product recalls, pricing patents, and unrelated incidents",
     "signals": []
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-24T17:48:42.766Z",
+    "source": "daily",
+    "headline": "Walmart showing expansion momentum (restaurant partnership) offset by minor supply-chain and workplace safety incidents; competitive positioning stable",
+    "signals": [
+      {
+        "category": "Business Partnership & Revenue Channel",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launching first-of-its-kind partnership with a popular restaurant chain, signaling new revenue stream and customer engagement channel expansion",
+        "suggestedAction": "Explore opportunities to support Walmart's restaurant/food-service integration strategy; discuss adjacent vendor capabilities that could enhance this partnership (e.g., POS, inventory, fulfillment solutions)",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcklIYlVTc0VVSmI2ekVrTVcxT2hEWl9WSElKSm1sNG5MUDJtVDI1aGpkRTVRQVJNc1RzV3ZxeWRMd1N3MUE0M3J1bVVXWllESGxSaVdVcjJfN2Z4Mk4welo4c3NJWVJEa0E0T3FWODVZdEtwR25mNTBrZFBVazJZMjV3"
+      },
+      {
+        "category": "Promotional & Sales Activity",
+        "updateType": "market",
+        "score": 1,
+        "summary": "October Deal Day sale returning; active promotional strategy and deal marketing with brand partners (KitchenAid, Oxo, Stanley) indicates healthy sales momentum and vendor collaboration",
+        "suggestedAction": "Monitor Walmart's promotional calendar and vendor mix strategy; confirm vendor participation requirements and identify opportunities to support promotional execution",
+        "sourceName": "NBC News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcMyTHpvbTV3M2JvRTVvWThNdGI2MlBmZGpaUGNCR19Cb2Y4VXQtU3hfOVdkMHQ3bnJ0dFdfamFwTFdhbENXald2RkJBc3ZqTmVXdWVyQ2l0VUJlSmJwY3VSMFlOai1nS1VRSDNTbEJnbEU5SUJBNDhhOUFBTzJBTE1JYS1COFJfV05VdUlMNTNTdnNNQ2YxN193"
+      }
+    ]
   }
 ]

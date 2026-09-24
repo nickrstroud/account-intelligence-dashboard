@@ -648,5 +648,31 @@
     "source": "daily",
     "headline": "Target declares regular quarterly dividend with no material changes to operations or leadership",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-24T17:49:00.139Z",
+    "source": "daily",
+    "headline": "Target shows financial stability with consistent dividend declarations and retail media expansion",
+    "signals": [
+      {
+        "category": "Retail Media Business Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Target is actively scaling its retail media network alongside Walmart and Dollar General, indicating revenue diversification and new business channel development",
+        "suggestedAction": "Explore retail media infrastructure needs—CDP, analytics, or ad tech solutions Target may require to support this expansion",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOERnYUItaGZPbG9BRzZyeVJEQVoxTXo0elNUdjRadEQ3YnE2VHBRYWNDcmk5ZlRrRk40WkNrX1lYVXJpcTNPLVUyQlFmQTFxbzV6V0ZXdUdTZWRRYmV2a0tCZm1iTnYxQU1IWmtwSUhMdjZ5bFFFTUVoNkVibXMxcnhvUnZjRzZvMmpLQkZCTTZVaktPRDNkdlRkQ3pmV3lHU0RMbVllNldkRlNUYXpEV1RDc1REMDV3T3c?oc=5"
+      },
+      {
+        "category": "Dividend Stability & Financial Health",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target maintains strong financial discipline with 237 consecutive dividend payments and a declared $1.16 quarterly dividend, signaling consistent cash flow and business stability",
+        "suggestedAction": "Use financial strength as positive relationship talking point; stable account with predictable budget allocation likely to continue",
+        "sourceName": "Stock Titan",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnJOd2hjMWhnUXMxWXRqYTNnUVp6MVFJdHFUaFJfczA3ZzN1VXBsdXhZZ0NmaUJ1a1hFbjNCdVBQc3N3WW54U3VDTl9pVC02N05tZjNYT21ZNnJXWHFCOUlRbndJRFdSOFd5dG95aUhtWGEtbUcwV20xTXdzTWVZNE5YMjFBRzcyX3FUVDRUTldrYzJsdGJLLUlpTE9iY1VX?oc=5"
+      }
+    ]
   }
 ]

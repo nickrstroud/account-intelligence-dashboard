@@ -897,5 +897,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-24T17:48:31.381Z",
+    "source": "daily",
+    "headline": "P&G showing modest expansion plans and margin-for-growth trade-off; upcoming earnings announcement with mixed competitive narrative",
+    "signals": [
+      {
+        "category": "Capacity and Capability Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G completed a $501M plant expansion in Ohio, adding 120 jobs. This signals confidence in production capacity and commitment to domestic operations.",
+        "suggestedAction": "Confirm expansion timeline is complete and monitor for any follow-on capacity investments that could create new procurement or efficiency opportunities.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVmZTN4YV9wT0FYbmVIY0FBWVBMMl9wcEM2TW5ubEplcnNXT0RDa0czNkRYR3cxRUhFZC16cUZXa0FYZXFtT0ljNnR3RnFzeVZBOGRoVlgzZ1dIOU9tSDd5SXY2ME13dzdjaHBkbjJsLUtzdGxjUy1tT2ZZTS1CZGc3N2QwSTNXbmFLbzA3QTR1LWRMRnprcFkwNGRLc2NNRGh5eU9Hd2Q"
+      },
+      {
+        "category": "Strategic Growth Investment Philosophy",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "P&G CFO stated willingness to trade 3 points of gross margin for 3 points of growth, indicating aggressive growth strategy and potential investment phase that could drive higher spending.",
+        "suggestedAction": "Use growth-focused posture in competitive conversations; explore how vendor solutions can enable this growth without further margin pressure.",
+        "sourceName": "TIKR.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGpYTWRid0plWC1PRjJQNTZDZUkyWVZRVXdvTERVWFg4RDF3bE1rZUpuWllQMkR6bXh4SDdDZzJtX2hzclZqVzJWTERRcGRlNnZQeE1HYWN5dHhJcE1xdzlOcHVLajdpX2R0SXVjWUd4NlNWZjUzelhZZE1tTjdsa2lHZVM1R0RTaW9vVEFkMHJ2MDY0Ti1obWR0QTFjOE1BeHlwbkI2TFJueXRGTjlwTkkxdEd6OEdXbTk2enlZTDVJUk0"
+      },
+      {
+        "category": "Competitive Positioning Against Disruption",
+        "updateType": "competitive",
+        "score": 0,
+        "summary": "P&G has successfully defended its market position against start-up disruptors, demonstrating competitive resilience but also indicating ongoing competitive pressure in its core categories.",
+        "suggestedAction": "Monitor competitive dynamics; use as conversation context regarding P&G's need for innovation and efficiency to maintain market leadership.",
+        "sourceName": "In.Comms",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ"
+      }
+    ]
   }
 ]

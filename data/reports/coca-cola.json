@@ -898,5 +898,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUtNTFE4RjFrbjVWeF9YdlJiZWI2SFUyQzExZldzVFhXcnU0VzJWOHJ1MlpxX2ROcE9kTi1KN2NreEZ0ZGZBcXkzanB4TndlZEx5Nnl1ZDM2ZmtrSjJORmlBc0FzVHhkSk1fNXoxZ3h5UVQ1Wm9aS3JSUWsydk1sZkRIWk5ENVdDN0FwMUhlNkZpTlRPMklVWQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-24T17:47:28.854Z",
+    "source": "daily",
+    "headline": "Coca-Cola shows resilience amid labor disputes and regulatory challenges, with strategic AI investments and major capital deployment offsetting operational headwinds",
+    "signals": [
+      {
+        "category": "Labor Dispute - Teamsters Strike",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Teamsters union extended picket lines to additional Coca-Cola facilities, with workers striking in Indiana and other locations",
+        "suggestedAction": "Monitor labor cost implications and potential supply chain disruptions; assess impact on customer fulfillment timelines and pricing",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmNqYUR4bnBxUmtWRk9tN1pzM25zN1BOa2R3aEs5YURYdjJwcml4LWxSM3JkWDBDZVZwb01mYU03QnROQm0zcVhrZDhtcXdSY1lSZEkwWGFnSVRHQTN1c1hNNmlfY0hyeGdLY2FvSWo2MlY4RU1IaVREdzRtclFKeWlCNWpDYVRXalhvOUpYYVdPOVdlRmJtVjd3U3VReTZNNGYtWk15eWw"
+      },
+      {
+        "category": "Strategic Technology Investment - AI Shelf Management",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola partnering with AB InBev to deploy AI systems for store shelf data capture, signaling technology modernization and data-driven retail innovation",
+        "suggestedAction": "Investigate potential collaboration/integration opportunities with Coca-Cola's retail tech initiatives; consider positioning solutions that enhance data analytics or retail visibility",
+        "sourceName": "barchart.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXBOOTdhWmNQMGFqY2JFMTNoaDFaNEtSNzdJcUw3YjZ4SFRKVWRCU0tUTlVnLTFhMXpwVWY0d0VHTGx6OFh3UjV0RzdZMHZJdUlTR2Z2QVhla21vanBKWnZGNmNleHVrWnBhSUxJdm5hNlFjbHFtZ3dxZjlWaVlTU0t0cUM5eXlBLVZvTnkyWEdFcko3RnA0YlB3NzgzM0d6RUh5ZFdtdzFJRGg0VndBV2lDTQ"
+      },
+      {
+        "category": "Major Capital Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola announced a $10 billion investment plan, demonstrating financial strength and commitment to growth initiatives",
+        "suggestedAction": "Use as context for expansion conversations; identify which business units/regions may benefit from the investment and align offerings accordingly",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80YWVtS0I3ckVNVEM4SGFCU2FXZHZsd3llR3JOSy1hNDZVMGtFcVo3WnROLVNsSWo2ZTEtclJ5c1N0SXpMNGFqM0RmSHl3RXhTcmVvUHJaX0hITVdWVjlFbHRJQnJoVlFwZy1pZGFzMA"
+      },
+      {
+        "category": "Sustainability Innovation - Packaging Reduction",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Coca-Cola trialing adhesive dots to replace shrink film, demonstrating environmental sustainability efforts",
+        "suggestedAction": "Potential talking point for relationship building around Coca-Cola's ESG commitments; not directly relevant to account relationship but positive brand signal",
+        "sourceName": "Packaging World",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPcjlhMWdwU2RNZFI2Ql9oWk9EeHhyc0lfX3BuZXpnMWdFZE9ZQUxGLXAtREMwalNvbVpHS2VaYi1sU3FmTHpXc1FOZXJGY1BQczNZY2dtSngwWmZZNTdpQWktYy1POUpuTjBybmNXcVNwamg4WUI3Y2hXa1hBTENnSV9acXNxbGtfUG1lQ1drOVBPWG56bUtVQ0d2Nnk3eWV6aDF6UkVXTTlCcDlmNk1JZmJtTC1VdnZVaFliNXBzdlF6Z0hfT28zWFJ4MVN6QnA2YjdUZ015UEtLTGdDSm1KeGlVOFVjVFRMWWFvYnV3b3dnZndub0FYUXFUVE5RUkRLeHpDVU42S1RBWlAzdy1UdzJpYTA0dXlFNGNobUd2Q0JGYUlQeU5BV0E1OHAza05HeXgzcw"
+      },
+      {
+        "category": "Environmental/Legal Risk - Alleged Polluted Runoff",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Coca-Cola facility in Bellevue sued over alleged polluted runoff reaching Lake Washington; environmental compliance concern",
+        "suggestedAction": "Monitor regulatory/legal outcomes; assess potential impact on facility operations and future compliance investments that could affect account priorities",
+        "sourceName": "MyNorthwest.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HX2V6aFVPalIyVEtmOUJiUDVDQlRPcnRiQWd5dml2MVBfRkVlNTJoVk9hcHBWZVEyQnJzZzZ4NmV4TjNDblBNOWY0UUtEOTZXeVN1OTJVOVFrUnNMbDRHY3d6YWJYRWM"
+      }
+    ]
   }
 ]

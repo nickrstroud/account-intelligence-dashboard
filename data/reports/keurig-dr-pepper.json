@@ -995,5 +995,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzZnTFNpck1Mb2pLR3V1aUhpeVJtc3hXTzlhQWp4amxOSWhfeXFiVVJrdVA0ZDJsMl9GU2pZT2xsYTFXdlFwcFRPZ18yQzBYZENBdDFfNDVTQWhacmUtbDItNzZGNHhRVGFKbzNDWXhDb0VRV2JpR0dUMlFZNkstYlA1cWZvVDdUSUhaTzhBd25PeU9EcEo4R3A4djl5MFNQeFZMU3VHQXdGa09ldHozY19lM0FybkNKeVJvOWQ2TEphdGRFMXhOSmpUOXBQMS1sRTVTM0dUMVl1d2tk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-25T17:50:19.122Z",
+    "source": "daily",
+    "headline": "KDP pursuing strategic repositioning—new business expansion (A&W Energy) and partnership restructuring (Chobani divestment), alongside potential portfolio breakup discussions and participation in sustainability initiatives",
+    "signals": [
+      {
+        "category": "Business Line Extension",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper extends A&W brand into the energy drink category, signaling portfolio diversification and market expansion into a high-growth segment.",
+        "suggestedAction": "Explore whether new A&W Energy line requires expanded support services, packaging, or supply-chain solutions; identify sales opportunity for suppliers serving energy/functional beverage segment.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlUtNnNmUzlUdnNETlRMUGI3eHhWcHdNNFFwdnJJai1LOWIyUW1TNWxDbkFsbDBSQlV0VHFoRl9qTk9tZ2ZFeEdmZFJyZVlnQWdxRXhNMUtHeHlCQ0RhNWRVMDRuTlZkSWVHajR4ZDBUZ2FMV1pSY0VwRFpqSzB2VnpzMUJhVUhkWTdCUmxXZDN2ZFZ0RXR6QjdNc2lZNEZGdnFLX2trLURydExTYWt6Y0J3M0l0MGI0THlqRkJFZV9TMkNza1RKT0p4TW5jUzdtNXd0Nk55LTZBbEVLWk10b9IB5gFBVV95cUxOQnVHSkhkX2oyM294eHJ3TUFtc3JHeWV0czhKY2h0YmU3SHJ0SUNHNWNiOEpzR0VaWDRuV3lPeEFiOTE3OXNZS2U1SmxiRmFuU1BtakNzbGFlYURNN0l5ZXRWZWdlbWdINHJsNmVNNWg1S0dkaFE2cW1kSWdtaXZzeTktY19CQjViNkFCOWQ4MHZScVIzcUtGODFMbG9Vd01QVVVDSHFRZllPX2FFTUZIM000MFJCMzZ5Z2ktandTV3pEOG1TNnNuNWp0YVZYZ3V0TVU3Q3RzLTNtQnFGaU1yWno1OU50Zw"
+      },
+      {
+        "category": "Strategic Partnership & Restructuring",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP sells back equity stake to Chobani for $800M and announces enhanced partnership, indicating strategic repositioning and capital gains that may support reinvestment in core priorities.",
+        "suggestedAction": "Monitor how capital is redeployed; determine if partnership restructuring opens new purchasing needs or consolidates supplier relationships; clarify if Chobani divestment affects existing vendor arrangements in their co-branded operations.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXVfUklWek1SaEdSZWM2Q251THJjaGR4QjNYYVRLdm1JUnA5eDd1QVhaOE1jR2RHYVpwZmJ5cEkxZlU4VVJ1VndXSVJseWFpMHBUSWg2ZzNUdDdSZzVkYVY1WGc5VFdfaUZET0ZlUTNnZDNKeFJYUDcyWjcyc1RVTmNXd0xsTUpORVZXWnNpaVJxeGhkeDJDZw"
+      },
+      {
+        "category": "Corporate Strategy / Portfolio Review",
+        "updateType": "ma",
+        "score": 0,
+        "summary": "Industry discussions and analyst commentary suggest potential breakup of KDP portfolio to unlock value, though no formal announcement or confirmed action has been made yet.",
+        "suggestedAction": "Monitor for any formal restructuring announcements; if breakup proceeds, anticipate potential account fragmentation or realignment of purchasing under separate business units; prepare contingency plans for relationship with resulting entities.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM"
+      },
+      {
+        "category": "Sustainability Leadership & Brand",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "KDP leads discussions on coffee's future at Climate Week NYC 2026, demonstrating commitment to sustainability and environmental thought leadership in the beverage industry.",
+        "suggestedAction": "Leverage KDP's sustainability positioning as rapport-building talking point with procurement; explore whether vendor offerings align with ESG goals and climate commitments; identify upsell opportunities in sustainable packaging or carbon-neutral logistics.",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHZlOHg4VjM2eVR0UGxrdms5ZW9Ld0VENkhjVTVUMkZpLXFNUXhFNS1rVHhXR0J3MXN5ay12ZnJueVVhUTNtSTh5bmR0VkVLYmRldkQtT0FyWkxRSDd2S1NGQ3piWFFXV0dsX2FiRVI1VG1tT0gxcjM1SFZJZEtjczV1clR1MjI2VU9HQUVIZzE0Q3JWQzBnb05zUm1na1pVMVg5SjZZdTlEbUdRbGJYOWRVN24tSmt6TF9KeS1zNkU0MUhhN2RVeGg0S0JXella"
+      }
+    ]
   }
 ]

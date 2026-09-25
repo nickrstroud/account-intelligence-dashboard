@@ -951,5 +951,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HX2V6aFVPalIyVEtmOUJiUDVDQlRPcnRiQWd5dml2MVBfRkVlNTJoVk9hcHBWZVEyQnJzZzZ4NmV4TjNDblBNOWY0UUtEOTZXeVN1OTJVOVFrUnNMbDRHY3d6YWJYRWM"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-25T17:49:27.841Z",
+    "source": "daily",
+    "headline": "Coca-Cola facing operational and reputational headwinds from environmental litigation, labor strikes, and historical brand scrutiny",
+    "signals": [
+      {
+        "category": "Environmental lawsuit - polluted runoff allegation",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Coca-Cola facility in Bellevue sued over alleged polluted runoff reaching Lake Washington, creating legal exposure and potential operational/regulatory complications.",
+        "suggestedAction": "Monitor litigation outcome; assess whether client procurement is exposed to environmental compliance risks or operational disruptions at affected facilities.",
+        "sourceName": "kiro7.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa0VnT3VjZ09aWGRiR05qWlNYQmdPekJudktZT2pPOHFKTk5NeDAyT2FWdTNqYVpCV2NKNmRIazNXUUxJcDdkSVY0UmVGZVpPYzhqS3VmbWpiNjBmSGREZVBYY2xqQjNvcjZRRG9rdXJsSndSUmlRM2hOc3hiMTNyRi1zdnRZSjNJLW9tQ1IwcnJ6UnBWVVA2dVFVQkVNSGtsVUlsLWhnSWtqR283eUpnT3BYekJLTzVLc09sZFIzOEVMWk9uQjFibHJCVC14cjZEenpsdnFzS3Z6X0pfZ21zbNIB9AFBVV95cUxOMkJRSWN0d3pmcG82d3kybC1HeGpkYUpDTHVVQ1FHZDlSblIwa0I4amZwY0I0UjlSaS1wdU5ObjR2dUdQSW9aQ0RiUVpYR1o0QmhoLVc4Q0VuSUFiaVNnZEFYXzRyd01BaUdqUEFIUzc1MTdxMkhTc2FmVGhUZ1dqZXpMY0ppeTdGb3FmZzRfOWlPN2FNc1JKdllJT1lSNnB2Sk50di1DU01MNTJTVk1HY0U4YU51cC1ZVTdWajlJeTRzMWR5OTU5blI0TG53V1JmV0wzeTJiTFgtWThRMnpQZFZvODU2Sk9vU2ZCVGFNenZ3dlMx?oc=5"
+      },
+      {
+        "category": "Multi-site labor strikes - Teamsters extended picket lines",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Teamsters union extended picket lines to multiple Coca-Cola facilities across Indiana, Ohio (Akron, Toledo, Twinsburg), signaling potential labor cost pressures, supply chain disruptions, and operational friction.",
+        "suggestedAction": "Assess impact on product availability, delivery timelines, and pricing; understand whether client has alternative sourcing options if strikes persist.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmNqYUR4bnBxUmtWRk9tN1pzM25zN1BOa2R3aEs5YURYdjJwcml4LWxSM3JkWDBDZVZwb01mYU03QnROQm0zcVhrZDhtcXdSY1lSZEkwWGFnSVRHQTN1c1hNNmlfY0hyeGdLY2FvSWo2MlY4RU1IaVREdzRtclFKeWlCNWpDYVRXalhvOUpYYVdPOVdlRmJtVjd3U3VReTZNNGYtWk15eWw?oc=5"
+      },
+      {
+        "category": "Historical brand crisis disclosure - cocaine in original formula",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Former Coca-Cola CEO revelation about cocaine in original formula creates historical PR narrative; while unrelated to current operations, may affect brand perception and internal/external credibility.",
+        "suggestedAction": "Monitor for escalation in brand reputation impact; assess whether this generates customer-facing reputational risk or stakeholder concerns.",
+        "sourceName": "www.israelhayom.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUwxcVpOTGFRY0g0ZzVNNmZYVjVlOXpVWlBUbk9LSkNsaGZDdUNObGt5QlFiRm5ZRzYwSWlTVGpWVDdpOGxtNFFuSG9vblJBOHNNNk9idVRUQkR4eVB5YmZMNFZKWlFsR2dWeGk3czRGTTNDQlVRQmp4c1JDWEg0d0YzRm85OEx0UERUMHZ0aFpLbUNfeXNldlBJVmwxS1Rwd0NMVm5WdE9wbTQ?oc=5"
+      },
+      {
+        "category": "AI-driven shelf analytics partnership with AB InBev",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola and AB InBev jointly deploying AI data analytics on store shelves, indicating investment in retail intelligence capabilities and potential new service/data revenue streams.",
+        "suggestedAction": "Explore whether this expansion into data/AI services creates new buying opportunities or shifts Coca-Cola's vendor requirements; assess competitive implications if they internalize capabilities previously outsourced.",
+        "sourceName": "Barchart.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXBOOTdhWmNQMGFqY2JFMTNoaDFaNEtSNzdJcUw3YjZ4SFRKVWRCU0tUTlVnLTFhMXpwVWY0d0VHTGx6OFh3UjV0RzdZMHZJdUlTR2Z2QVhla21vanBKWnZGNmNleHVrWnBhSUxJdm5hNlFjbHFtZ3dxZjlWaVlTU0t0cUM5eXlBLVZvTnkyWEdFcko3RnA0YlB3NzgzM0d6RUh5ZFdtdzFJRGg0VndBV2lDTQ?oc=5"
+      }
+    ]
   }
 ]

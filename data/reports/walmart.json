@@ -784,5 +784,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcMyTHpvbTV3M2JvRTVvWThNdGI2MlBmZGpaUGNCR19Cb2Y4VXQtU3hfOVdkMHQ3bnJ0dFdfamFwTFdhbENXald2RkJBc3ZqTmVXdWVyQ2l0VUJlSmJwY3VSMFlOai1nS1VRSDNTbEJnbEU5SUJBNDhhOUFBTzJBTE1JYS1COFJfV05VdUlMNTNTdnNNQ2YxN193"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-25T17:50:45.847Z",
+    "source": "daily",
+    "headline": "Walmart expanding retail partnerships and organizational capabilities; brand-building activities with mixed account relevance",
+    "signals": [
+      {
+        "category": "New restaurant partnership launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launching first-of-its-kind partnership with a restaurant chain, indicating business model expansion and new revenue-generating channel",
+        "suggestedAction": "Explore vendor opportunities in new restaurant/food service vertical; identify complementary products/services for expanded channel",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcklIYlVTc0VVSmI2ekVrTVcxT2hEWl9WSElKSm1sNG5MUDJtVDI1aGpkRTVRQVJNc1RzV3ZxeWRMd1N3MUE0M3J1bVVXWllESGxSaVdVcjJfN2Z4Mk4welo4c3NJWVJEa0E0T3FWODVZdEtwR25mNTBrZFBVazJZMjV3?oc=5"
+      },
+      {
+        "category": "New organizational structure for fashion/beauty/home",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart reorganizing Style organization to meld Fashion, Beauty, and Home categories, signaling strategic emphasis on expanding these business lines",
+        "suggestedAction": "Assess fit for fashion, beauty, and home improvement vendor solutions; prepare pitch for new organizational buyers in these merged divisions",
+        "sourceName": "WWD",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1NLUjE0S3F6bVlzeTBsdzNuN1dzSl9OaUJ0SVJmUUVZaFZqc1Z4OHVEWHVEUlZjY1pzM1Y2MzRZMFkzQjhCN2tCNDdYaU9DN1dMc1IwaWdYRG9Eem1PU0hsV0NHbG1QUWVOeHF1VVh0QU5DT0pUUkI5ZThZV0E0Y043VEdad2dGcVBkWFVneGxENmJiVHB5Q2huNA?oc=5"
+      }
+    ]
   }
 ]

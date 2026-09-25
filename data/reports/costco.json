@@ -777,5 +777,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DdGxyaHYyLVBOazVEZzk3RUMzMlhTSVBHV1NVTHJLMFBrUWF1WUZraFI1T0tfb1NicGRUN0NiSEtyd0xzSjJjTkZKS1I5LVVycHc2NGlQWkdiRGN3THgzbGd1MlUtNzFiS1g4eGNCRlM?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-25T17:51:07.152Z",
+    "source": "daily",
+    "headline": "Costco reports strong Q4 earnings and aggressive expansion with 33 new store locations planned for 2027",
+    "signals": [
+      {
+        "category": "Financial Performance & Growth",
+        "updateType": "earnings",
+        "score": 2,
+        "summary": "Costco reported higher fourth-quarter profit and revenue, with financial analysts noting the Q4 profit delivery exceeded expectations. This demonstrates strong financial health and consumer spending resilience.",
+        "suggestedAction": "Positive validation of account health; use in renewal discussions and forecasting conversations to reinforce their market strength and ability to invest in capabilities.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9PTDUtSVlCWUUyY2hNRkFkRzhZSkNFN21NOUNBemdrSjBRdjJ3ZEt2akVCQmtvamc2OTBnU00wOTRja2ZYRjB0RDN4T3NGRjVBdm50dmtEUEYyLTJ1NzFIanZqcUJHYzhRXzg5aERTaWdacEc1aGtIR3ZFY3dUYzU4eGlsZVEzSmoyZVRNcE5Tc0FheEo4OXBpWmNrb01KX2VReEZ6X1dmSUJLS1A4dHpOTUhCM3l5M2pLdw?oc=5"
+      },
+      {
+        "category": "Business Expansion",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco announced 33 new store locations for 2027 (19 additional US locations announced, bringing the year's total to 33). This represents significant capital investment and geographic expansion strategy.",
+        "suggestedAction": "Key expansion signal—new locations represent new operational touchpoints, supply chain needs, and technology deployments. Identify opportunities to support buildout (systems, logistics, analytics, services for new warehouses).",
+        "sourceName": "New York Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGM2V0ltX2JVWnNGUE9CZmhaOHhTTS14aEpzWkw1MU5aUWRRczRTMklXTlhnOTd3YmtiaE9QSDNINHJlZ21XdkloUDlyZDNGUHY1a0o4UEFLZThhb2JlRjJMVXotX3pqRXNjZDZhaFh0bW9tcmpobEpmbTcyN3BUZS1SRDd5a0ZhN1J5aXc4MjctTzRU?oc=5"
+      },
+      {
+        "category": "Capital Investment & Development",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "A new $30M Costco development project is moving forward with site planning, indicating continued capital allocation toward facility expansion and infrastructure.",
+        "suggestedAction": "Monitor for services/solutions that support major real estate development and site optimization; could represent procurement or operational efficiency opportunities.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUktaVndqcHpDVHJGY2VENWh0cmNIVE9hQ1ZnZzJyQ1VBNjlWdXRaMEc2SkI2SXZJbl9DaHFyTTlzMmFmV3ZSc1doamJBUVRuT2JfSWFXRVNuUW9zR25FRzFHTl9yd18wMW1pS28zMnFYaF84bmF2dmVOaE96bGxZX1NqYzk0TnN6cVYzTmotUXpOT2JheU5ISG5iX2h2Uzl1T1RDaGRtekdKRVk?oc=5"
+      }
+    ]
   }
 ]

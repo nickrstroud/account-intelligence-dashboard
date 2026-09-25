@@ -1173,5 +1173,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnREVHhTUmxiQXFYQ2tFaTF5aEtDSWN1ZzFlcWJENlRxSy1CVTM0M19GSURvVDUzWk5tNXpaRnpoeldhLTBRYk9xTHUzUFNNazRuOUxieHBzQWpsTzdXNmJWQVlKdVliRS1XLXgzS2E2OUd0eG4yUGFRSG82bHo1NDZUQkd3UzVJaGw5eEVoRHVvd0ZFVmhOZUlScy1OblR2amc"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-25T17:51:28.123Z",
+    "source": "daily",
+    "headline": "Kroger expanding 24-hour operations and launching new loyalty credit card; facing competitive pressure from ALDI and supplier chain challenges",
+    "signals": [
+      {
+        "category": "Expansion - Service Hours",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is expanding 24-hour shopping operations to multiple Indiana and Michigan locations, indicating continued investment in customer accessibility and convenience.",
+        "suggestedAction": "Discuss how expanded hours create operational complexity that may expand technology/systems vendor opportunities.",
+        "sourceName": "IndyStar",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbjNEUGxDY2pyYXJoTFRkNWpUaG1FdjRRWDdnVGI5RHYxTjM4X0ljR3gwWGVGcU80dk9JOUFHR2tzNE5ZNzBqcmR5QndaQlM0ZzhvVlVtWVRXbUlxcjhiUmNJRDF2alUyX1gwX2Q5MmRIcGtNenZoM2YtV2VWYWRPNGh0bGE2YmJyenJpWk9vVHFWek9IVTZTLXdoYW5fMHZXUUloU1VOSVU4XzNzbUtJcVRaYjNsN3k3cHU1VDFUV0tHZC1hRVAtS0h5VnJQQkluenlvODZoVzVEWHkwRml3aHFCUHk1Wm03Y0pqRVA5S2pRS2Qzd0R3"
+      },
+      {
+        "category": "Expansion - Financial Product",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger launched a new credit card with elevated rewards and welcome bonus, expanding its customer loyalty and financial services ecosystem.",
+        "suggestedAction": "Identify opportunities for fintech integrations, payment processing, or customer data analytics partnerships.",
+        "sourceName": "money.usnews.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUZUZm9pdU1FS18tNFE1RzNveHYxR0l3TTE2WHdtMEdpRDVlbTJiQ3JYSWtTMVVWcW1jVFdvTVpIQWR4dmVKTmRzZXAzWTlHQ0RWVGs4MkpzSHRpM19BdG9uZElOd3o2Slk5RkFaaXNYT3pxa3FvdHJFXy12MFJfd2p5V2pPaUc5N1ZKTnVxS1VPNmN0TlZXM2ZaTnVxU0tSS2lrOWFZcnA2ZndkdUxXNjRlMmhrWWs1X3c"
+      },
+      {
+        "category": "Competitive Threat - ALDI",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "ALDI is executing new strategic initiatives specifically targeting market share from Walmart and Kroger, intensifying direct competition.",
+        "suggestedAction": "Monitor Kroger's competitive response strategy; potential opportunity to support differentiation initiatives or customer retention programs.",
+        "sourceName": "currently.att.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGpxME43Z1loNmpUV0tJYkdHR3FGTklTcy1MMU9ZYW4tNUptRTJJUGV0Qk5rM0lGV1YwdW02d1g0Wi1tUVZVTUxaeHdaaXFQM1VSamtyZmdQZU9hbklDYnc3emRjRmxqNGxHYnJKdWs3VFNKZFljV1l0WTNjRG1yTGw5eTU2QQ"
+      },
+      {
+        "category": "Supply Chain Risk",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Major pizza supplier serving both Costco and Kroger is closing additional restaurant locations, indicating potential supply chain stress and vendor viability concerns.",
+        "suggestedAction": "Assess whether Kroger's supply chain visibility or vendor management processes need enhancement; opportunity to discuss supply chain resilience solutions.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2RaU09HZGVoV3NaNUgxUWc1TGV2X2hYMVBWdEZXZjctaXpxQlNFV2FHWjgyRHBtQldZYmpuRDlrWUxPUGd2R2RpbnBWMG9GV3FEdG9rYy1sVDdUZEYxT194aFd4V3VkV0RvNU42a3lrSVlXX3FZTkRhMUJaUWtxMzZKc3J1amVuZlF2cHlxcGdxSjlRbmFwSmtuaHpPNlRw"
+      }
+    ]
   }
 ]

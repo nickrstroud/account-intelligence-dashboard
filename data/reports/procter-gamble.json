@@ -932,5 +932,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-25T17:50:35.951Z",
+    "source": "daily",
+    "headline": "P&G faces regulatory headwinds in Europe but maintains market positioning and brand strength",
+    "signals": [
+      {
+        "category": "Regulatory compliance and marketing practice",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "Italy's antitrust regulator closed probe into P&G's Braun hair removal device after P&G made ad commitment changes. P&G dropped the '2-year hair-free' claim from marketing to resolve the investigation.",
+        "suggestedAction": "Monitor for similar regulatory actions in other European markets; assess impact on product positioning and marketing claims across portfolio",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM?oc=5"
+      },
+      {
+        "category": "Competitive positioning and market adaptation",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "P&G successfully defended market position against start-up disruptors in recent competition. Article highlights how P&G fought off challenges from newer market entrants.",
+        "suggestedAction": "Opportunity to discuss P&G's innovation and resilience as customer case study or expand partnership around competitive defense strategies",
+        "sourceName": "In.Comms",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ?oc=5"
+      },
+      {
+        "category": "Brand strength and sponsorship presence",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G continues major sports sponsorship as presenting partner of Walmart NW Arkansas Championship (LPGA) celebrating 20th anniversary, demonstrating sustained marketing investment and brand presence.",
+        "suggestedAction": "Positive brand signal; reference when discussing customer's market visibility and portfolio strength",
+        "sourceName": "LPGA",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlVremRNS3VodWRYaHNMQ2p0NGg1Q1lkT3RNVWo0c2xUVVFLMGg0cUhxS2NYek44QnVRb1NRRFJPenZXb0twY0JxUDJCRVJNM041NmtSaVRwZjByOW96OW5EU3BRQWVKSzNLTU1ZdGFlcm94b3A5NWUzaWo5bl9JU0RlUjByNjJPV0pvVGl4SGRTSGhnSndYc0dOWFFqYkdUQmd1Y2hvOHFtRDg?oc=5"
+      }
+    ]
   }
 ]

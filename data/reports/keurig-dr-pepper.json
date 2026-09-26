@@ -1039,5 +1039,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHZlOHg4VjM2eVR0UGxrdms5ZW9Ld0VENkhjVTVUMkZpLXFNUXhFNS1rVHhXR0J3MXN5ay12ZnJueVVhUTNtSTh5bmR0VkVLYmRldkQtT0FyWkxRSDd2S1NGQ3piWFFXV0dsX2FiRVI1VG1tT0gxcjM1SFZJZEtjczV1clR1MjI2VU9HQUVIZzE0Q3JWQzBnb05zUm1na1pVMVg5SjZZdTlEbUdRbGJYOWRVN24tSmt6TF9KeS1zNkU0MUhhN2RVeGg0S0JXella"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-26T16:56:39.973Z",
+    "source": "daily",
+    "headline": "KDP posting strong financial performance vs. PepsiCo with new product innovation (Root Beer Energy), but speculation about potential breakup creates uncertainty",
+    "signals": [
+      {
+        "category": "Stock performance and financial strength",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Keurig Dr Pepper outperformed PepsiCo over the past year with shares surging 3.5% on strong trading day; GF Score of 82 indicates positive financial health and investor confidence",
+        "suggestedAction": "Use KDP's strong financial performance as a confidence-building talking point in account reviews; monitor for expansion opportunities tied to their growth trajectory",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmU0bjFudDJrd0x3Tngya2N5MTdiZDRleXZkcUZwRXRIMk5pcUVjY3NHVXpSWjVmb1dfeEtBWEVCeXJ5S2JnbVFENWdCY0YtYUtFNVBQSkFMemxTSGZwQjI5YXM0TjhFVloyb1FPcVNkeGpzUHpNYUZNWDU2S3NCaFhoMndVdFhZeWxoZmhYem1BTHVHdVg5ZmRaWnlNSGprNnZFbHRuMlFVZTBmbWkyN2NvVEViQnl4YlYzdWNVNTllUkx6ZElpNFdHbUQwMnRUNG5KY19tMm43TzZoeUdlVS1PbkI/"
+      },
+      {
+        "category": "Product innovation and business expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper launching Root Beer Energy, a new product line entry into the energy drink category, representing business expansion and innovation",
+        "suggestedAction": "Inquire about whether the new product launch creates budget allocation needs or opportunities for cross-functional support; position services around product go-to-market activities",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmlsVmNmZm1wMDlWUWNYYmJFT0NUdWpzZUlZRmZiTmYtN0hXc2FsMHkxU0JuSXo5dXJGMFNuWUJNY2pjcWlFU1Uxb2FiWUNiTVBsOERETzRoMTVPU3lQeVI3YmotZHRILWtYT1JDQ09GWUtLUERJd1BWcmcxWmFBcmllS0lWV2NrX09SQXRZbG83SGRQQy1IMU8wUGhWYVI5Q3lXT1RiOTdOdW5FeDAxcEdEVVpwYWNJYUd6am14Mjc0UlZ3bks1XzJ5N3FZMFh1bW8tZ1I5ZTZNampsZThRWNIB5gFBVV95cUxQTnRaVU9lRDVCZ0x6cTlxN0txaWtjRlpVNTBLb1kyNlRpQWdrN0FNOFZvRWJHNTV6VjZQVWtKdzdWTUhQWGl0eWhZVUFqSGJiQXZOYk44VjdDbWFxYmRPcW54Ry10Q24yN2Z5LUhRbDVnZGpNdnhqZGc5TXFCdk5zYVd5UGFIQ2Q4YkdmbjV1VUZhNkRkWTlmNTJkN3hsY3hCN0NGWUZPRnNxTmpna2I4YnVvMERyUG93aGdVeWRWT2xZVURib3V5RUQxUU0zMUFSa1JHWnZQNkpUeDlpeWhaN0JqUFdlZw/"
+      },
+      {
+        "category": "Potential M&A or restructuring activity",
+        "updateType": "ma",
+        "score": -1,
+        "summary": "Speculation about a potential Keurig Dr Pepper breakup suggests possible corporate restructuring or asset separation, creating uncertainty about future organizational structure and decision-making authority",
+        "suggestedAction": "Monitor for official announcements regarding any breakup or restructuring plans; identify stakeholders who would remain in key roles post-breakup to maintain continuity of vendor relationships",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM/"
+      }
+    ]
   }
 ]

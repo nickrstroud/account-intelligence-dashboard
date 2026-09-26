@@ -810,5 +810,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1NLUjE0S3F6bVlzeTBsdzNuN1dzSl9OaUJ0SVJmUUVZaFZqc1Z4OHVEWHVEUlZjY1pzM1Y2MzRZMFkzQjhCN2tCNDdYaU9DN1dMc1IwaWdYRG9Eem1PU0hsV0NHbG1QUWVOeHF1VVh0QU5DT0pUUkI5ZThZV0E0Y043VEdad2dGcVBkWFVneGxENmJiVHB5Q2huNA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-26T16:57:23.833Z",
+    "source": "daily",
+    "headline": "Walmart reinforces customer-friendly pricing stance and expands health/partnership offerings—mixed signals for vendor relationships",
+    "signals": [
+      {
+        "category": "Pricing transparency and customer trust messaging",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Walmart publicly committed to rejecting dynamic/personalized pricing, positioning itself as a customer-advocate retailer. This reinforces brand reputation and customer loyalty strategy.",
+        "suggestedAction": "Highlight Walmart's commitment to simplicity and fair pricing in vendor conversations; emphasize solutions that support transparent, non-discriminatory pricing models.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZTJQZ09tajRzX2kxVTdVODJ2YXVBbnVvajY5RnM5cmtLaFJSWnEtZmxuQWpIc2xuUXc1eEtlM0MyRVZTVzlTS1VVbWlNeTQtcTdDZnFBM2IteFdCYmdqYzM3a1gyb2FYS0F3RlBPYTVhRW1Bejl5T291RXREZFlBeEtCZ2xJR25DV1JCcXNjU1MzaHNGX3RwRjNrYTd0dWNsN3pnNElWTlVrNjUzWncyZjdXaXFsLXZiUFpzbjNTQk1YSjNrN0VoMUI2LUhkczRrQVhpS1Y1b0tXa0FXUGZfOW1B?oc=5"
+      },
+      {
+        "category": "New health program pilot launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is piloting a new health program for customers, indicating expansion into adjacent service offerings and potential new vendor/partnership opportunities.",
+        "suggestedAction": "Investigate the health program's scope and vendor requirements; assess whether our solutions can support program delivery, data integration, or customer engagement.",
+        "sourceName": "AL.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU1LV2MxWkpPU1hpN1lkeWRFVjVjSndQWmxBYW5sbXg3SG5lZzhiSmlrUVNRd1c5SlNraVFKRTV4R2tGcXQ2ZGVyV2hFeDVRM3k0eDJnMEY0OGwtZEMtZFN4dnRpOXZjZGt1V2FKMFpYaXF6NUstZVZjbkVGWjJJSzlPeFZQNUJKMHBKTjhpaTh0TzRiNGVKZ1dhZkJmemZscGxhSmhwZjfSAbwBQVVfeXFMTTRTQVozR0FGOGZCMlVaVnJoaFlRcWJkZzNIOUc2b2ZDc3NWZ1NDVHo3ZTNTZW5ZN1ZxbE5HRTJRblZSVHBxV3VVU2xqUkVLRFNqUFZJTHYydnJmdDNBbnpicWt5VXZHei00X0J0TXBueXFlMExod3RpYTVPcWYxNk9Mb0NWeFUtWjUxYmRnVHNnUGlRdmhlSWhCbFgzQm4wUFNfSUZ4ZjFfQWk1d0pNV0RWTk0zbnB1WEdKSzg?oc=5"
+      },
+      {
+        "category": "Restaurant partnership expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launched a first-of-its-kind partnership with a popular restaurant chain, signaling expansion into food/dining service offerings and new go-to-market channels.",
+        "suggestedAction": "Assess partnership scope; identify potential vendor opportunities in supply chain, logistics, technology, or customer experience for multi-channel retail/food operations.",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcklIYlVTc0VVSmI2ekVrTVcxT2hEWl9WSElKSm1sNG5MUDJtVDI1aGpkRTVRQVJNc1RzV3ZxeWRMd1N3MUE0M3J1bVVXWllESGxSaVdVcjJfN2Z4Mk4welo4c3NJWVJEa0E0T3FWODVZdEtwR25mNTBrZFBVazJZMjV3?oc=5"
+      }
+    ]
   }
 ]

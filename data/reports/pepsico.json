@@ -1246,5 +1246,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOWJBMktSZkE4MS1xMHRKcC1iVGY4ekZyZi15N2VDejNTOUhsZnkwdHM4ZUZoai1ONW1hWjFCVVpEcW1ON3JLZXhNR21pd01YTFEySFZtSmhnaThNV2l3ekhCM3lpS0xGSGxxdDdXbXg1UkFWZjh3X0twVUFKUW1pbGpvZzFNaklGMkZKLWtkVXNScExob3Rwc2NMbHRLZmMtdkdGUUNpQmxwc0NieGpPUGVBdGFPQWt2U1U5YVF3QldTTDNoTlJKQVVKTlVZbl8yRmdPU0Y3NWhNTXphZUYwS0dUbjNCSVFFY184QlJRWldYSG8xMWRkNFJJb1JwOVpjUEtYcEFB?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-26T16:56:12.444Z",
+    "source": "daily",
+    "headline": "PepsiCo raising prices on chips and beverages due to input cost pressures; prior price-cut strategy underperformed",
+    "signals": [
+      {
+        "category": "Pricing/Cost Management",
+        "updateType": "earnings",
+        "score": 0,
+        "summary": "PepsiCo announcing price increases on snacks and beverages due to rising input costs, after earlier price cuts failed to drive sales growth. Signals margin pressure and shift to pricing-power strategy.",
+        "suggestedAction": "Monitor quarterly earnings for gross margin impact and consumer price sensitivity. Assess if price increases stick or lead to volume declines. Relevant for cost-pass-through conversations.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFZJN0d4XzBRaUNTeXNUdkhRQVg1Qm9YbW9PRWdqUmoyT1FKOFM5bGszWDgtVDRMV3ZBa2lLUUYySzNhMnVlZmNZZVVwUk56enhuVjhNVjFnTFBQNHNpVmNkN2M1YUQwNmZfaDRaQ0RFWkJiMUV1dmdDc0hSZ29OZ1FqSFpHTXRvTjRGR1VfX2hvc0dRRXpDejdCUlloclJmSDhUWk41N3o?oc=5"
+      },
+      {
+        "category": "Competitive Performance",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Keurig Dr Pepper outperforming PepsiCo over the past year in stock performance, with income investor preference diverging. Suggests competitive pressure or relative underperformance in the beverage/snack category.",
+        "suggestedAction": "Investigate PepsiCo's competitive positioning versus KDP and other beverage/snack peers. Understand if price increases and margin strategy will help close performance gap or accelerate relative decline.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZkSWt0UElrV3paUXJZekJOZHY4V0xPV1EzQ2piLXdCUGZ5Rnh2OUlvcUxxa3ZyTDdRYm9pRmgwYVNONENzNXFyaXhGRkZQWm1fRTNrVmJtUE8tZFhoTGZDeVpadFNycGVhcFRQeFNwRmRRcXlSUXRfNnV0dXh5aGhvZ0gtdkhZSWFGRGd4ZjEtd3g3SG55Z3p3?oc=5"
+      }
+    ]
   }
 ]

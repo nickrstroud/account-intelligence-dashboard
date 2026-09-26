@@ -995,5 +995,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXBOOTdhWmNQMGFqY2JFMTNoaDFaNEtSNzdJcUw3YjZ4SFRKVWRCU0tUTlVnLTFhMXpwVWY0d0VHTGx6OFh3UjV0RzdZMHZJdUlTR2Z2QVhla21vanBKWnZGNmNleHVrWnBhSUxJdm5hNlFjbHFtZ3dxZjlWaVlTU0t0cUM5eXlBLVZvTnkyWEdFcko3RnA0YlB3NzgzM0d6RUh5ZFdtdzFJRGg0VndBV2lDTQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-26T16:56:02.046Z",
+    "source": "daily",
+    "headline": "Leadership hire from Monster Energy to drive North American operations; $2.6B African bottling expansion underway",
+    "signals": [
+      {
+        "category": "Leadership Change - North America Operations Lead",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola hired Rob Gehring from Monster Energy to lead North American operations. New leadership hire represents re-pitch opportunity and signal of organizational focus on North America, though may also indicate prior leadership gaps.",
+        "suggestedAction": "Schedule executive briefing with new COTO to understand priorities; refresh value proposition for North American markets",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWXpxTll1YVpqblBpanByWVNrYkZlRklPRUNLMm9vZEZ5ZVM2VERqOWVMNHNQS0NGeTU1RFY3di1qTzNBbzNzWEtFaXN2SVVTRmE4ZTFpbjVBeG9JSXFLNDM2eFI3NnNuOU91aFh1MlNXN2dT0gF6QVVfeXFMUHBiVzhOZTF3YWZLNlZKQ0VWekc5emJCd0ZzaElZbnplWHp4cFIyWEtXZ1JGUzRocGxOSUp6TVRoenc3YWRlaEQta0FLVWFWdG9NSEhCNllKbFc4dTc4LUNZYTV6SEhZRmFTNzM5Y2lxaEJJOHlXNmNMLWc?oc=5"
+      },
+      {
+        "category": "Business Expansion - African Bottling",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola moving closer to completing a $2.6 billion African bottling acquisition deal, signaling geographic expansion and increased operational scope in high-growth region.",
+        "suggestedAction": "Assess footprint expansion needs in African market; explore support for new bottling infrastructure and distribution logistics",
+        "sourceName": "africa.businessinsider.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWZlZWY4MzlKV2hJTXU3Vm9qVWh0cnNwaWZnRXFTUGR6dFAyYzZlMGJSbTl0eHN6ZE9US0twaHY5Wk9VbU10Q0ZqcXVuSVM0cUNJRUl4eHc3ZndkcXN0eXlCbHdoa1hVSXQyWWF5MGpObkgyRGl2eWlJRzI1azNDbEtJQnBScGF4d0N1Qm1lenpsQVhEVmJPNlZhRjFtQkJxdzR4cldUQmlkMmF1Y01IRXdwRHZDa09Ra2w2RzhGOUpVY1BKbTA5S2llVXBIY0hLOVRIU3NR?oc=5"
+      },
+      {
+        "category": "Technology & Innovation - Shelf Analytics",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola partnering with AB InBev to deploy AI-powered shelf data analytics, signaling modernization of in-store visibility and potentially new operational/supply chain tech initiatives.",
+        "suggestedAction": "Explore opportunity to support AI/ML infrastructure or data integration for shelf analytics platform",
+        "sourceName": "Barchart.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXBOOTdhWmNQMGFqY2JFMTNoaDFaNEtSNzcJcUw3YjZ4SFRKVWRCU0tUTlVnLTFhMXpwVWY0d0VHTGx6OFh3UjV0RzdZMHZJdUlTR2Z2QVhla21vanBKWnZGNmNleHVrWnBhSUxJdm5hNlFjbHFtZ3dxZjlWaVlTU0t0cUM5eXlBLVZvTnkyWEdFcko3RnA0YlB3NzgzM0d6RUh5ZFdtdzFJRGg0VndBV2lDTQ?oc=5"
+      },
+      {
+        "category": "Labor Action - Teamsters Strike",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Coca-Cola workers in Indiana on strike as Teamsters extended picket line, indicating labor-relation tensions and potential operational disruptions in bottling/distribution.",
+        "suggestedAction": "Monitor labor negotiations and supply chain impact; assess whether customer has contingency plans",
+        "sourceName": "fox8.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdkUFluVUhRY2d3REpTaEU0NkE0RU1CQ2FoNnZXVUtOOGhJNjJBR2xRb3hmMGFPY05McnlIOFBYQTRyZUlsOVNhWmdLcmg1amVLWE5odGd2cXNPUEdvN2E1aDJleTdYMEYtSkdFRVltcHNvUmg5MG9OR1FyWjNOcFFtMnlWalctb2xQMWZja1lPVVdkYmNKTzJMZWdLWkwt0gGmAUFVX3lxTE84OEctQlQ1c1NIS3ByRF9FRU1tSVlBLUhtWk1adlp2dFBRRWFvdm1YOGVNWGQwUmlla01ReFluVGVBYUJ5ai1MTFNwVU54bUFiQVpEZE5VMElVXzZIb3Fnc3c0SklieXBZSkVpS2p0T184cllOOHN1ZnlnYXZUVTJ4eGppUWxhZ3VsT2ROSV9aS0xpZnQ1X2JXeElIZTN6dUlmWmV3LUE?oc=5"
+      }
+    ]
   }
 ]

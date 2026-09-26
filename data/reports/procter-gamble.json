@@ -967,5 +967,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlVremRNS3VodWRYaHNMQ2p0NGg1Q1lkT3RNVWo0c2xUVVFLMGg0cUhxS2NYek44QnVRb1NRRFJPenZXb0twY0JxUDJCRVJNM041NmtSaVRwZjByOW96OW5EU3BRQWVKSzNLTU1ZdGFlcm94b3A5NWUzaWo5bl9JU0RlUjByNjJPV0pvVGl4SGRTSGhnSndYc0dOWFFqYkdUQmd1Y2hvOHFtRDg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-26T16:56:59.997Z",
+    "source": "daily",
+    "headline": "P&G showing stability with dividend focus, regulatory clearance, and competitive resilience; minor regulatory headwind resolved",
+    "signals": [
+      {
+        "category": "Regulatory Approval",
+        "updateType": "regulatory",
+        "score": 1,
+        "summary": "Italy regulator closed P&G hair removal device probe after ad commitments, removing a regulatory overhang",
+        "suggestedAction": "Monitor for similar regulatory risks in other markets; note P&G's willingness to make ad commitments to resolve compliance issues",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM"
+      },
+      {
+        "category": "Business Expansion & Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G advancing brand science and wellness initiatives as noted in earnings webcast positioning, signaling continued investment in growth areas",
+        "suggestedAction": "Explore whether vendor services can support P&G's science and wellness business lines; position for potential budget allocation to these growth initiatives",
+        "sourceName": "kalkinemedia.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2s0ckJieExVUlJkNWtnV2xMQnlsd2JWbXpoc19LTzF1ckRjTUVQcVB6WlhXVmotX1FxZEJpVThSQlhGcjYtc2k4ME83ZXFLTl9YaU4zZU5qRE9RMEdsbUpQcTVVSFlhaGVIcjdxQ0piOFNjQWJYUFk0SXFjbFNfM2Y4UGN3cUFzX2Y3LXI2cTZBUWcweHpOeXFWbmd6MGxQLTlEZDZVR3JpSVdKNGg1Q2haNi13Y0todjZWb0hCUlFJQW1hdlJoWFZVYm1oQVdTNkg5M0h3aVBhOV8wOEZr"
+      },
+      {
+        "category": "Competitive Positioning",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "P&G successfully defended against startup disruptors, demonstrating resilience and maintaining competitive advantage in key categories",
+        "suggestedAction": "Use as rapport-building talking point in account conversations; position vendor as enabler of P&G's competitive defenses",
+        "sourceName": "In.Comms",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ"
+      }
+    ]
   }
 ]

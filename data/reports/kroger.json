@@ -1217,5 +1217,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2RaU09HZGVoV3NaNUgxUWc1TGV2X2hYMVBWdEZXZjctaXpxQlNFV2FHWjgyRHBtQldZYmpuRDlrWUxPUGd2R2RpbnBWMG9GV3FEdG9rYy1sVDdUZEYxT194aFd4V3VkV0RvNU42a3lrSVlXX3FZTkRhMUJaUWtxMzZKc3J1amVuZlF2cHlxcGdxSjlRbmFwSmtuaHpPNlRw"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-26T16:57:57.041Z",
+    "source": "daily",
+    "headline": "Kroger executes targeted store renovations and operational expansions with no material relationship risk",
+    "signals": [
+      {
+        "category": "Store Renovation & Capital Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is investing in store renovations including $2 million remodel in Oakwood and remodeled store reopening in Weirton, plus converting a Fort Wayne location to 24/7 operations.",
+        "suggestedAction": "Positive signal of continued capital deployment and operational optimization. Monitor for similar expansion patterns in existing account markets.",
+        "sourceName": "Gainesville Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT05JNHdPYWozdkUyTUZVbVNJbk5aX3UweDE5VGo1QmJnVVpDSVMza2NUOEVlLUlBMTZmR3VBMFh5SGhPTTRyTGdWU3dBeVQydFg5OHNDMHlSbnFfWXAtNGNJeXNaaGJIcnRZU0ZkNC1qaGlFNkNyQ0VQaEFfQW53T2JpdWRLV1dLUEVVWmdycnBpalVWT0ZiYndSQk50SEtsQnVfbU1IX1FJemg5ajRydWNnUmxocV9tY21LbWRQMEdnNTY5WVE?oc=5"
+      }
+    ]
   }
 ]

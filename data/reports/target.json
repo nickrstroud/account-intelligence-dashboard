@@ -681,5 +681,12 @@
     "source": "daily",
     "headline": "Target declares regular quarterly dividend; stable financial position with no material account-relationship risk signals",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-26T16:57:52.777Z",
+    "source": "daily",
+    "headline": "Target declares regular quarterly dividend; market activity shows stable financial position with no material relationship risks or expansion signals",
+    "signals": []
   }
 ]

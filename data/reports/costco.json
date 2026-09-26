@@ -812,5 +812,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUktaVndqcHpDVHJGY2VENWh0cmNIVE9hQ1ZnZzJyQ1VBNjlWdXRaMEc2SkI2SXZJbl9DaHFyTTlzMmFmV3ZSc1doamJBUVRuT2JfSWFXRVNuUW9zR25FRzFHTl9yd18wMW1pS28zMnFYaF84bmF2dmVOaE96bGxZX1NqYzk0TnN6cVYzTmotUXpOT2JheU5ISG5iX2h2Uzl1T1RDaGRtekdKRVk?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-26T16:57:51.224Z",
+    "source": "daily",
+    "headline": "Costco expansion and margin boost through store growth, tariff refunds, and membership initiatives",
+    "signals": [
+      {
+        "category": "Store expansion and growth capital",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco announced 33 new warehouse locations for 2027, including 10 opening this fall. This represents significant physical expansion and capital investment in growth.",
+        "suggestedAction": "Highlight Costco's aggressive expansion as an opportunity to position supply chain, logistics, or construction-related services. Explore how our solutions can support the scaling of operations across new locations.",
+        "sourceName": "The Hill",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQktzZ29QTTJYUUxvWmJDUFRVa2taSUJ3MHlYVkdqQjR5Z3NURTV4aHg4ajJhSGtTX0g1WnJLSDBETzF5d1g0cVVFM3BWMlNZTTdrN0MxVG1zVWhOTFl3T0xDa0RlZmFzUm01RHVEc0dUUjNDcExrdDN2WEFnUE9ZYmxSeDQxX1BNWGhPbUxvdXBIZXUzV3luaE4tbm04bzI1eGdZa09JRWt3UVozS2lRa0ZB0gG3AUFVX3lxTFBSUlRMb0c4MFlWUTRYOHUtbWdmd1IxVldOZG9PeGtHZmNfa3BkTUhYVk13UGJ6UXhEUk96bUpuMnlZUXNVZzFsb3VVWHNheW9vU213Rm40bGpheFlObF9WVi02YjNsc2JCeHVZTlJxYXM2a0F6d3l0TEMwbzg3NTliQzY5OWViRENSUkxWYVphTHByVTJaeGFfTXd2N1V5X2tlSHYyVWx0SnZKOVkwRGJfS3RqSFVxRQ?oc=5"
+      },
+      {
+        "category": "Tariff refund windfall redirected to customer value",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Costco received $184M in tariff refunds and announced plans to direct most toward lower prices. This improves cash position and signals commitment to competitive pricing and member value.",
+        "suggestedAction": "Use as rapport-building talking point about Costco's financial health and reinvestment in competitive positioning. Could open dialogue about how supply chain optimization services could further enhance their pricing advantage.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDNmXy1lc2oyNVdYeVk3a2xURHl4RVBsSFBucUJubjQ5bnhGZWFQT2ZmTGVYb3hSZFJ5RXNUU050TFMtdzZYcjJna0RPenBpLWt1SU1NaXRWNVRFYnNFWFZPa01PVVdyd0RNTTJjcGdLYTRCLWhNLVVSUkI3MEVtTUg0Mkk0SC15T1FUOVI1MXV0YVEtUEl5aWFDSWNKem5CSGdYc3dsNNIBrAFBVV95cUxQU2RYdjdIOTg4NTgyNHFRa3lBMHo5Q2hLdTl0OFJuLV9SV0hlYTktRU5qU0N3Z2ZhZ1BtdTFpc0cxY2JldVktSXZhSTIyWGxNcHpmalN4MVJ0cFVvU0h0QlpWcXhzTHhXdkpvMENKNDBhdUFyOHhtVjFHaWRqdFZXcVpjSnBILV9KVDNpQ081d19wYmRZMl9RUHNoQ1FEZzVlLXhwRzUzOHNQTkJt?oc=5"
+      },
+      {
+        "category": "Membership value enhancement and customer loyalty",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco launched a $60 rebate card promotion for qualifying members, demonstrating focus on member retention and spend stimulation.",
+        "suggestedAction": "Discuss how member engagement programs correlate with higher retention and wallet share. Explore opportunities for loyalty program optimization or customer analytics services.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSS1TOGZxbDdwcEx5QjhKd2lTMkI3cTlZTUdtTG1wSXFPSzV4dzFFb0VjZ2o5UVIwdmpyd2NjamdXRzNUbkZXMWxwenltMV9CYlpxNlFjdEFVdFg5NXFWcHZQaWdIRy10ejJVN2YtajJEMWJwbXlfRlAtUG11TEpyQmFDSGFrcEpsOE4zTGlJcVNxSmNGVTEtTi1aSlM0RmhRNE9xLWhRdFdETHROTEJZbTJ6dE4?oc=5"
+      }
+    ]
   }
 ]

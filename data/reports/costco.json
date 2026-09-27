@@ -847,5 +847,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSS1TOGZxbDdwcEx5QjhKd2lTMkI3cTlZTUdtTG1wSXFPSzV4dzFFb0VjZ2o5UVIwdmpyd2NjamdXRzNUbkZXMWxwenltMV9CYlpxNlFjdEFVdFg5NXFWcHZQaWdIRy10ejJVN2YtajJEMWJwbXlfRlAtUG11TEpyQmFDSGFrcEpsOE4zTGlJcVNxSmNGVTEtTi1aSlM0RmhRNE9xLWhRdFdETHROTEJZbTJ6dE4?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-27T17:37:02.426Z",
+    "source": "daily",
+    "headline": "Costco expansion with 33 new stores and continued promotional activity signals growth confidence",
+    "signals": [
+      {
+        "category": "Store Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco announced 33 new store openings with multiple locations planned across the US. This represents significant capital investment and business expansion.",
+        "suggestedAction": "Explore opportunities to support warehouse buildout, supply chain logistics, or services supporting new locations. Use expansion as rapport-building talking point.",
+        "sourceName": "The Hill",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQktzZ29QTTJYUUxvWmJDUFRVa2taSUJ3MHlYVkdqQjR5Z3NURTV4aHg4ajJhSGtTX0g1WnJLSDBETzF5d1g0cVVFM3BWMlNZTTdrN0MxVG1zVWhOTFl3T0xDa0RlZmFzUm01RHVEc0dUUjNDcExrdDN2WEFnUE9ZYmxSeDQxX1BNWGhPbUxvdXBIZXUzV3luaE4tbm04bzI1eGdZa09JRWt3UVozS2lRa0ZB0gG3AUFVX3lxTFBSUlRMb0c4MFlWUTRYOHUtbWdmd1IxVldOZG9PeGtHZmNfa3BkTUhYVk13UGJ6UXhEUk96bUpuMnlZUXNVZzFsb3VVWHNheW9vU213Rm40bGpheFlObF9WVi02YjNsc2JCeHVZTlJxYXM2a0F6d3l0TEMwbzg3NTliQzY5OWViRENSUkxWYVphTHByVTJaeGFfTXd2N1V5X2tlSHYyVWx0SnZKOVkwRGJfS3RqSFVxRQ?oc=5"
+      },
+      {
+        "category": "Promotional Activity & Member Engagement",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Costco launched $60 rebate/shop card promotions and early holiday product offerings, indicating strong member engagement and planned promotional campaigns.",
+        "suggestedAction": "Monitor promotional calendar for potential vendor partnerships or marketing support opportunities tied to seasonal initiatives.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSS1TOGZxbDdwcEx5QjhKd2lTMkI3cTlZTUdtTG1wSXFPSzV4dzFFb0VjZ2o5UVIwdmpyd2NjamdXRzNUbkZXMWxwenltMV9CYlpxNlFjdEFVdFg5NXFWcHZQaWdIRy10ejJVN2YtajJEMWJwbXlfRlAtUG11TEpyQmFDSGFrcEpsOE4zTGlJcVNxSmNGVTEtTi1aSlM0RmhRNE9xLWhRdFdETHROTEJZbTJ6dE4?oc=5"
+      }
+    ]
   }
 ]

@@ -1074,5 +1074,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDZxb3Zpc1AxU25MWEpFcjRKLVRtaXp3Nml0WHVHV3Nzc1luaTlLVXZWV2p2QUJvYkNXQXVMVjNEaG1vZmJlR1BUMGFYWFRLMlFxMjA3QVlodDNLc1BXU0hucm1YZnJlaEIwLTUxSlJVbFE2emNSUXV5eHJfRE5XOGxFVWVWNEo5Zm5PUVZoWFVNTENQclpIZ3FtaDRiT1lfMVA3TmxCYzZBeWM/"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-27T17:36:13.881Z",
+    "source": "daily",
+    "headline": "KDP showing positive market momentum and expansion initiatives; stock outperforming, new product launches and innovation leadership positioning strengthen account",
+    "signals": [
+      {
+        "category": "Stock & Market Performance",
+        "updateType": "market",
+        "score": 1,
+        "summary": "KDP stock outperforming competitors on strong trading day; consensus analyst price target of $35.00 indicates market confidence",
+        "suggestedAction": "Monitor investor sentiment and use as positive rapport-building talking point with account stakeholders",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmU0bjFudDJrd0x3Tngya2N5MTdiZDRleXZkcUZwRXRIMk5pcUVjb3NHVXpSWjVmb1dfeEtBWEVCeXJ5S2JnbVFENWdCY0YtYUtFNVBQSkFMemxTSGZwQjI5YXM0TjhFVloyb1FPcVNkeGpzUHpNYUZNWDU2S3NCaFhoMndVdFhZeWxoZmhYem1BTHVHdVg5ZmRaWnlNSGprNnZFbHRuMlFVZTBmbWkyN2NvVEViQnl4YlYzdWNVNTllUkx6ZElpNFdHbUQwMnRUNG5KY19tMm43TzZoeUdlVS1PbkI"
+      },
+      {
+        "category": "Revenue & Earnings Growth",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "KDP beat PepsiCo over the past year, demonstrating strong operational and financial performance relative to a major peer competitor",
+        "suggestedAction": "Reference strong financial performance as indicator of budget availability and account health; use as discussion point on KDP's competitive positioning",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZkSWt0UElrV3paUXJZekJOZHY4V0xPV1EzQ2piLXdCUGZ5Rnh2OUlvcUxxa3ZyTDdRYm9pRmgwYVNONENzNXFyaXhGRkZQWm1fRTNrVmJtUE8tZFhoTGZDeVpadFNycGVhcFRQeFNwRmRRcXlSUXRfNnV0dXh5aGhvZ0gtdkhZSWFGRGd4ZjEtd3g3SG55Z3p3"
+      },
+      {
+        "category": "New Product Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Dr Pepper launching two new creamy flavors permanently in 2027; Root Beer Energy also in pipeline, indicating active product innovation and portfolio expansion strategy",
+        "suggestedAction": "Identify if these new product lines present cross-selling or bundled offering opportunities; proactively discuss how vendor solutions can support new SKU proliferation and supply chain complexity",
+        "sourceName": "Sporked",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzFIbjFHT2wyNlhvQW5Nd2tTOHg1QS1ia1NKdHV5Z0JFY3lQc3ZqWXdZQ2JsRDhya3dfR05ZZG1qQnJxV3d3LV9yeWpucjVnYmVwdWVCcnhUV0xzOHN3Z04tUjlUVmZNN0FFbk9uRURRMEd2ai1LMVRndkliRldrRy0yUFBiYXliOXNLUHkwZDFzWWZlVWM4MEFR"
+      },
+      {
+        "category": "Strategic Positioning & Leadership",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "KDP leading industry discussions on coffee's future at Climate Week NYC 2026, positioning company as thought leader in sustainability and innovation",
+        "suggestedAction": "Leverage KDP's sustainability leadership and ESG focus as rapport-building opportunity; discuss vendor's role in supporting KDP's environmental initiatives and innovation agenda",
+        "sourceName": "marketscreener.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHZlOHg4VjM2eVR0UGxrdms5ZW9Ld0VENkhjVTVUMkZpLXFNUXhFNS1rVHhXR0J3MXN5ay12ZnJueVVhUTNtSTh5bmR0VkVLYmRldkQtT0FyWkxRSDd2S1NGQ3piWFFXV0dsX2FiRVI1VG1tT0gxcjM1SFZJZEtjczV1clR1MjI2VU9HQUVIZzE0Q3JWQzBnb05zUm1na1pVMVg5SjZZdTlEbUdRbGJYOWRVN24tSmt6TF9KeS1zNkU0MUhhN2RVeGg0S0JXella"
+      }
+    ]
   }
 ]

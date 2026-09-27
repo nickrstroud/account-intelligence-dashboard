@@ -1039,5 +1039,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdkUFluVUhRY2d3REpTaEU0NkE0RU1CQ2FoNnZXVUtOOGhJNjJBR2xRb3hmMGFPY05McnlIOFBYQTRyZUlsOVNhWmdLcmg1amVLWE5odGd2cXNPUEdvN2E1aDJleTdYMEYtSkdFRVltcHNvUmg5MG9OR1FyWjNOcFFtMnlWalctb2xQMWZja1lPVVdkYmNKTzJMZWdLWkwt0gGmAUFVX3lxTE84OEctQlQ1c1NIS3ByRF9FRU1tSVlBLUhtWk1adlp2dFBRRWFvdm1YOGVNWGQwUmlla01ReFluVGVBYUJ5ai1MTFNwVU54bUFiQVpEZE5VMElVXzZIb3Fnc3c0SklieXBZSkVpS2p0T184cllOOHN1ZnlnYXZUVTJ4eGppUWxhZ3VsT2ROSV9aS0xpZnQ1X2JXeElIZTN6dUlmWmV3LUE?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-27T17:35:34.598Z",
+    "source": "daily",
+    "headline": "Coca-Cola leadership change and infrastructure expansion signal strategic growth, though rebranding risk noted",
+    "signals": [
+      {
+        "category": "Leadership Hiring - Monster Energy Executive",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Rob Gehring hired from Monster Energy to run North American operations—signals strategic shift toward energy beverage capabilities and potential organizational restructuring under new leadership.",
+        "suggestedAction": "Schedule relationship review with Coca-Cola North America team; assess impact on current vendor priorities and identify re-engagement opportunities with new executive leadership.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWXpxTll1YVpqblBpanByWVNrYkZlRklPRUNLMm9vZEZ5ZVM2VERqOWVMNHNQS0NGeTU1RFY3di1qTzNBbzNzWEtFaXN2SVVTRmE4ZTFpbjVBeG9JSXFLNDM2eFI3NnNuOU91aFh1MlNXN2dT0gF6QVVfeXFMUHBiVzhOZTF3YWZLNlZKQ0VWekc5emJCd0ZzaElZbnplWHp4cFIyWEtXZ1JGUzRocGxOSUp6TVRoenc3YWRlaEQta0FLVWFWdG9NSEhCNllKbFc4dTc4LUNZYTV6SEhZRmFTNzM5Y2lxaEJJOHlXNmNMLWc"
+      },
+      {
+        "category": "Capital Expansion - African Bottling Investment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "$2.6 billion African bottling deal moving closer to completion indicates major geographic expansion and new operational footprint.",
+        "suggestedAction": "Identify opportunities to support African bottling operation buildout; assess vendor services required for new manufacturing and distribution infrastructure.",
+        "sourceName": "Business Insider Africa",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWZlZWY4MzlKV2hJTXU3Vm9qVWh0cnNwaWZnRXFTUGR6dFAyYzZlMGJSbTl0eHN6ZE9US0twaHY5Wk9VbU10Q0ZqcXVuSVM0cUNJRUl4eHc3ZndkcXN0eXlCbHdoa1hVSXQyWWF5MGpObkgyRGl2eWlJRzI1azNDbEtJQnBScGF4d0N1Qm1lenpsQVhEVmJPNlZhRjFtQkJxdzR4cldUQmlkMmF1Y01IRXdwRHZDa09Ra2w2RzhGOUpVY1BKbTA5S2llVXBIY0hLOVRIU3NR"
+      },
+      {
+        "category": "Domestic Plant Expansion - San Antonio",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola Southwest completed $42 million expansion of San Antonio bottling plant—demonstrates continued capital investment in existing U.S. manufacturing capacity.",
+        "suggestedAction": "Confirm completion status and identify any ongoing operational support needs; track for future facility expansion projects.",
+        "sourceName": "KSAT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHNsQXdiVFNuc1NkY1FILUxRaUQ0dmZ1OGd0R0ZfTDMyOVZmRjZBN1AtTlJpSE1UemNwSGhNNDBQN1g0R3pnYW9OZUVnby1EUWZkZkhaanNzZnlYcTNoa3dRc194c1JONWNRdGVlT3IyWk5NUVVMTjVQTzdXMk0xNWFDUkdJWkxZM3RRTVY0djFaVVh2eDFRZS1objhXb0dGUk9tc2k0Q3QzcHRQSWV4Xzh5cXJMVXlGVkhLMG5XbEIyX3ZHWTdJMzhlcVlpeFRHdkhCVA"
+      },
+      {
+        "category": "Domestic Infrastructure Expansion - Idaho Falls",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola building new distribution center in Idaho Falls—signals continued U.S. logistics and distribution network investment.",
+        "suggestedAction": "Monitor new facility buildout timeline; assess vendor opportunities for distribution center operations and services.",
+        "sourceName": "eastidahonews.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWlCWFN5cnF6dDVhMzJuSkxnYmlBckRxZTRTbUQwUjZ6Y3BkLVo2OEpzdXNvV3lxVDRmVTUwM2pFdWxXZl83SnF6enNFckk0U0VFUnBRaWFKaVVGS1A0TUVYNkRtQ2cwbDV5NWI3aUt4MTQwRHRBVmtrMTd4cmJ5NUpxaGlqSDB1YkZWRFlfQk9JY0xtUjMtRlNocGU"
+      }
+    ]
   }
 ]

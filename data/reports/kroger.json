@@ -1234,5 +1234,12 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT05JNHdPYWozdkUyTUZVbVNJbk5aX3UweDE5VGo1QmJnVVpDSVMza2NUOEVlLUlBMTZmR3VBMFh5SGhPTTRyTGdWU3dBeVQydFg5OHNDMHlSbnFfWXAtNGNJeXNaaGJIcnRZU0ZkNC1qaGlFNkNyQ0VQaEFfQW53T2JpdWRLV1dLUEVVWmdycnBpalVWT0ZiYndSQk50SEtsQnVfbU1IX1FJemg5ajRydWNnUmxocV9tY21LbWRQMEdnNTY5WVE?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-27T17:37:05.200Z",
+    "source": "daily",
+    "headline": "No account-relationship signals identified in Kroger news coverage",
+    "signals": []
   }
 ]

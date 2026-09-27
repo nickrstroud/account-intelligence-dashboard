@@ -1002,5 +1002,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-27T17:36:37.454Z",
+    "source": "daily",
+    "headline": "P&G regulatory closure and sponsorship activity; upcoming earnings; shareholder scrutiny",
+    "signals": [
+      {
+        "category": "Regulatory Matter Resolved",
+        "updateType": "regulatory",
+        "score": 1,
+        "summary": "Italy regulator closed P&G hair removal device probe after P&G made advertising commitments. Resolution of regulatory scrutiny is a positive signal.",
+        "suggestedAction": "Use as rapport-building talking point; note P&G's ability to resolve compliance matters efficiently",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM?oc=5"
+      },
+      {
+        "category": "Shareholder Governance Challenge",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "P&G faces new shareholder proposals ahead of October 2026 meeting, indicating governance or strategic concerns from investors that could affect internal focus and budget priorities.",
+        "suggestedAction": "Monitor for any shareholder concerns that might affect discretionary spending or procurement priorities; be prepared to discuss ROI in budget conversations",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmlkLVNDZUtzVTFiazJraC1YMDZiVHR3OE81WGJsN21VNjZzUm9CejM2bXZqVVJZaUlyUlcweXl3bDEyVE1vQlFfbXE2dWVwNHgwb0VOa1JkRmcyRmdEeXlZWUp1dmo3MGFLRWg5LWpLUGFYaGt4RnA5aERsaWVoZ3lyNUlyNGJZRXEwYWh1aFNrTXZGSlE0ZVNQenRaYkxYZmc?oc=5"
+      },
+      {
+        "category": "Competitive Response Success",
+        "updateType": "competitive",
+        "score": 1,
+        "summary": "P&G successfully defended against start-up disruptors, demonstrating resilience and competitive strength in the face of market threats.",
+        "suggestedAction": "Reference P&G's proven ability to compete and innovate as a confidence indicator; strong operational execution suggests budget availability",
+        "sourceName": "In.Comms",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9TZWt1Q3ItTHJEeUpGTTZMWVJ0Rk1HTUROaEJ1OVFwVTRMM2g0MFlwZER6MGdWRlFZeFJQZ3hZUWtlVlJ5VnRuZ0JYNGx0ZnVJVVRlZ3VRWXZoRFNsMEY0dmlRc2FQcF9kSkFoQndGUnNzazJBQ2FhTDVJVGViT09yWWc0dGlGVm9sZURlLTlfZ1BnQ3ViaFN6WlEtLUVWS1pJ?oc=5"
+      }
+    ]
   }
 ]

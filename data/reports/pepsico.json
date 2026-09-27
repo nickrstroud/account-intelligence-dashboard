@@ -1272,5 +1272,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZkSWt0UElrV3paUXJZekJOZHY4V0xPV1EzQ2piLXdCUGZ5Rnh2OUlvcUxxa3ZyTDdRYm9pRmgwYVNONENzNXFyaXhGRkZQWm1fRTNrVmJtUE8tZFhoTGZDeVpadFNycGVhcFRQeFNwRmRRcXlSUXRfNnV0dXh5aGhvZ0gtdkhZSWFGRGd4ZjEtd3g3SG55Z3p3?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-27T17:35:55.704Z",
+    "source": "daily",
+    "headline": "PepsiCo faces margin pressure from input costs and rising inflation, with stock decline signaling investor concern amid pricing actions",
+    "signals": [
+      {
+        "category": "Input cost inflation driving price increases",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo announcing price increases on chips and sodas due to rising input costs. While price increases can protect margins, they often signal margin pressure and potential demand risks if customers resist price hikes.",
+        "suggestedAction": "Monitor customer reactions to pricing; assess whether PepsiCo's suppliers/distributors are being impacted by input cost pressures and may request price relief or renegotiation.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2J6UVhjQ0x4cHJ4eExRajhtVFUwUXNwbXBrUWlIZE1UVmtHMFZKLVVPczR2aXhMaHY1dGF4cHlLZ1pubDJoQXlvRTJqa0xBcjZIUG1fT0Z3djQtZjVmS2dUeDVVLXJSV2d5aldhUUZZeHVpNnROSlFIZFByajVNNVQ5UHhBSXp3US1NekZ4dDBlSmZCR1lUZFhrM052MDI3ZThYdTVzT3I/oc=5"
+      },
+      {
+        "category": "Stock price decline vs. market",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock down 10% YTD while S&P 500 up 13%, suggesting investor concerns about company performance, margins, or competitive position that exceed broader market conditions.",
+        "suggestedAction": "Investigate whether stock decline reflects temporary headwinds (input costs) or structural concerns about PepsiCo's business model or competitive position that could affect budget and purchasing decisions.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEtvc2xNeWtTRlBMY1g5VURtVXJfQWJuZzNCTk5IRVEza2dnVUU5YzRqeC1QRzQzVG9aOFJIbGsyTnBJM2E1NWNyRzJqeVdSQTVEbU15QXcwR0xzU0RFX3RzOWpMakRPZFdhVHBUWkd2V2hyeDlDVE9NOTBONEEwRVVBbUNlRzdVSV8zU0c4WEhHeWFtVVE/oc=5"
+      },
+      {
+        "category": "Marketing campaign reception mixed",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "PepsiCo's 'House of Brands' campaign divides experts on effectiveness and target audience, suggesting potential brand positioning or messaging uncertainty.",
+        "suggestedAction": "Monitor campaign performance and customer sentiment; understand if brand positioning changes could affect buyer relationships or priorities.",
+        "sourceName": "Ad Age",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEtfNlJ2YWlybXJFLUR0MFpfRDlkeDRUb2hTU2x6dGJyTS15bEtfcGMyVkJvTHJZOWZwbW43WkM4dHpiamVpb1dnY0tCN3p5SU9zeENuWjFDd2pyYjFYTkRkUl9OdVpQbTVIM0xWLWI1cXZSVl9SZ0gxTjMweEFNVXU2N3VKdU9iVFNrQnR4OG9CVUlBX2FCbWRNTkJCaUE2cXc/oc=5"
+      }
+    ]
   }
 ]

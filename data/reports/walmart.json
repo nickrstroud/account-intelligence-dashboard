@@ -845,5 +845,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcklIYlVTc0VVSmI2ekVrTVcxT2hEWl9WSElKSm1sNG5MUDJtVDI1aGpkRTVRQVJNc1RzV3ZxeWRMd1N3MUE0M3J1bVVXWllESGxSaVdVcjJfN2Z4Mk4welo4c3NJWVJEa0E0T3FWODVZdEtwR25mNTBrZFBVazJZMjV3?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-27T17:36:54.964Z",
+    "source": "daily",
+    "headline": "Walmart expanding AI-driven commerce capabilities and reinforcing ethical retail positioning; minimal direct account risk signals",
+    "signals": [
+      {
+        "category": "AI/Gemini Integration with Flipkart Commerce",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Google is testing shopping capabilities through Gemini AI Mode on Walmart-owned Flipkart in India, indicating Walmart is expanding its e-commerce channel through AI-driven interfaces and leveraging its Flipkart acquisition.",
+        "suggestedAction": "Monitor for expansion of AI-assisted shopping features across Walmart's platforms; assess if vendor solutions could integrate with or support these new commerce touchpoints.",
+        "sourceName": "TechCrunch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOG84eTZ6VVhkZFdKWEVOWW9scWdXM1Atd2Z1MXZQZlM5bXlMTlItQmxITllkNWVOa2F6dzV3XzlhOXd4Tnhidk5WX2ItLWVuZW9sa0FBWHk1ZjdOZjZqMXVWSFgySnpMeldWQ1RxM3pKNVJHREVTajBhUXVsRjdKd1U5a0YxYUs3ajJZUTNsRE5xSzVMM01xYVRWc0FjMUUtVjJhcGRwaE5YRVVFM1JTSzVrazdKLTNkRkE?oc=5"
+      },
+      {
+        "category": "Ethical Retail Positioning & Anti-Dynamic Pricing Stance",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Walmart CEO publicly ruled out personalized/dynamic pricing, positioning the company as an ethical retailer in contrast to industry trends. This strengthens Walmart's brand reputation and customer trust narrative.",
+        "suggestedAction": "Reference Walmart's ethical positioning in relationship conversations; align vendor messaging with Walmart's commitment to transparent, fair pricing practices.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZTJQZ09tajRzX2kxVTdVODJ2YXVBbnVvajY5RnM5cmtLaFJSWnEtZmxuQWpIc2xuUXc1eEtlM0MyRVZTVzlTS1VVbWlNeTQtcTdDZnFBM2IteFdCYmdqYzM3a1gyb2FYS0F3RlBPYTVhRW1Hejl5T291RXREZFlBeEtCZ2xJR25DV1JCcXNjU1MzaHNGX3RwRjNrYTd0dWNsN3pnNElWTlVrNjUzWncyZjdXaXFsLXZiUFpzbjNTQk1YSjNrN0VoMUI2LUhkczRrQVhpS1Y1b0tXa0FXUGZfOW1B?oc=5"
+      }
+    ]
   }
 ]

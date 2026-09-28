@@ -871,5 +871,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZTJQZ09tajRzX2kxVTdVODJ2YXVBbnVvajY5RnM5cmtLaFJSWnEtZmxuQWpIc2xuUXc1eEtlM0MyRVZTVzlTS1VVbWlNeTQtcTdDZnFBM2IteFdCYmdqYzM3a1gyb2FYS0F3RlBPYTVhRW1Hejl5T291RXREZFlBeEtCZ2xJR25DV1JCcXNjU1MzaHNGX3RwRjNrYTd0dWNsN3pnNElWTlVrNjUzWncyZjdXaXFsLXZiUFpzbjNTQk1YSjNrN0VoMUI2LUhkczRrQVhpS1Y1b0tXa0FXUGZfOW1B?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-28T20:03:35.515Z",
+    "source": "daily",
+    "headline": "Walmart invests in fulfillment infrastructure and consolidates merchant teams; CEO reaffirms responsible AI pricing stance",
+    "signals": [
+      {
+        "category": "Capital Investment & Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart announces $300M fulfillment center in Greater Cincinnati with 300+ job creation, signaling continued infrastructure investment and capacity growth",
+        "suggestedAction": "Explore opportunities to support fulfillment automation, logistics tech, or warehouse management systems for this new facility",
+        "sourceName": "JobsOhio",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTlYQjdIaGhJLURXY0xWY2FFZG5KNm1Lb25aaTlRWjRUOXp3UE83ZlhSd2lKQUFwQ1JrRlBWZnh1LVlpdzFVOW1MN0dSaXZmckQ2SnlTS1hhMDFlU2pMOTllWnY2Q0pzbG5aeXVlQVdvRUZDZTM5VWhqT3hna3hBaWJfc0FLTUdxcmdiOHlQd3JIcFVkZnB0cmFTT29IWlJzcWxyRDZVY3R3MUo2NlJNeWFVR3c4akFDRWVac3NxRk1sWUYzNEZkY0FXOThucS00eUlraHpn"
+      },
+      {
+        "category": "Organizational Restructuring",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Walmart consolidates merchant teams with renewed focus on style; indicates internal reorganization and potential shift in merchandising priorities",
+        "suggestedAction": "Monitor for any changes in procurement processes or buying center structure; may require re-engagement with new consolidated teams",
+        "sourceName": "Retail Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0xhYlRob1h2NlBBalc1Y2VISUFCYTViWTB2alhrUlVMd01zd2ZnUkhEa0YtOFNGUm1INVRSWUw1UzBjMzRmZm9tN0tONW1qS3cwNldtQ2ZyX2s3Ti1JQ3NlcVZaUXl6Nno2SWI2SlJ0Mm0tMlg0YXoxTmFwcEtGOW91eFNrZ0hQd0JYSThRSXRkcUtsdS1rR1hhaVJJU0h0RS1z"
+      },
+      {
+        "category": "Responsible AI & Brand Positioning",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Walmart CEO publicly reaffirms commitment to not using personal data for dynamic pricing and rules out personalized pricing practices; positions company as responsible AI adopter",
+        "suggestedAction": "Use CEO's responsible AI stance as rapport-building opportunity; highlight how vendor solutions align with Walmart's ethical AI commitments",
+        "sourceName": "AP News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm5IeVVqMlkzLWFCbm1VbXJ1YmxidUdsVDVEQjNwQmR1dHgtTXNkblRpbzJ0N0drSnRBVkNHREZiNUIyWUE1WTdEc0Y2NXhoLW8xamFtcGdSYzZBRzlmTWFMTzhfRGdsbmIyajd4TTJJN3ZURDZXb2M4Sk5LeWdyNmtteDdVekxKWFRldFl1X1ZVcnZYVEE"
+      }
+    ]
   }
 ]

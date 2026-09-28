@@ -873,5 +873,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSS1TOGZxbDdwcEx5QjhKd2lTMkI3cTlZTUdtTG1wSXFPSzV4dzFFb0VjZ2o5UVIwdmpyd2NjamdXRzNUbkZXMWxwenltMV9CYlpxNlFjdEFVdFg5NXFWcHZQaWdIRy10ejJVN2YtajJEMWJwbXlfRlAtUG11TEpyQmFDSGFrcEpsOE4zTGlJcVNxSmNGVTEtTi1aSlM0RmhRNE9xLWhRdFdETHROTEJZbTJ6dE4?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-28T20:03:57.697Z",
+    "source": "daily",
+    "headline": "Costco expanding aggressively with 33 new stores while maintaining strong financial performance and customer value messaging",
+    "signals": [
+      {
+        "category": "New store expansion and growth initiative",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco announced 33 new stores, signaling significant expansion plans and continued growth trajectory. This indicates strong capital deployment and market confidence.",
+        "suggestedAction": "Identify opportunities to support Costco's expansion footprint—discuss supply chain solutions, operational support, or services relevant to new store buildouts and operations.",
+        "sourceName": "The Hill",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQktzZ29QTTJYUUxvWmJDUFRVa2taSUJ3MHlYVkdqQjR5Z3NUSTV4aHg4ajJhSGtTX0g1WnJLSDBETzF5d1g0cVVFM3BWMlNZTTdrN0MxVG1zVWhOTFl3T0xDa0RlZmFzUm01RHVEc0dUUjNDcExrdDN2WEFnUE9ZYmxSeDQxX1BNWGhPbUxvdXBIZXUzV3luaE4tbm04bzI1eGdZa09JRWt3UVozS2lRa0ZB0gG3AUFVX3lxTFBSUlRMb0c4MFlWUTRYOHUtbWdmd1IxVldOZG9PeGtHZmNfa3BkTUhYVk13UGJ6UXhEUk96bUpuMnlZUXNVZzFsb3VVWHNheW9vU213Rm40bGpheFlObF9WVi02YjNsc2JCeHVZTlJxYXM2a0F6d3l0TEMwbzg3NTliQzY5OWViRENSUkxWYVphTHByVTJaeGFfTXd2N1V5X2tlSHYyVWx0SnZKOVkwRGJfS3RqSFVxRQ"
+      },
+      {
+        "category": "Strong Q4 earnings performance despite analyst caution",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Costco beat Q4 expectations and stock continued rising despite analysts cutting price targets. Demonstrates underlying business strength and customer loyalty.",
+        "suggestedAction": "Prepare success stories and ROI case studies showing how your solutions support high-growth, high-performing retail operations. Position for contract expansion discussions.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkFnR3UzTHhIXzNVRGRzS3pmdkxub2k0TXVwMUY3LW1uY3ZrQTFPZWVPQ2Rwb3VQNl9UYnlFSjN2OWFpbFl2cVQyb2pZbDdCQkJOZ2ZmZEJOTHBBZEZ0STFyZnM4QXZ0V1dWU2pqaHlzXzlmT0I5MFhDek54dDd2a0RXcGMtMWtueWI5cDY5WnFxQVlnY2U0SWswcw"
+      },
+      {
+        "category": "Tariff refund deployment for customer value and price competitiveness",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Costco received $184M in tariff refunds and committed to passing most back to members through lower prices. Shows commitment to competitive positioning and member value.",
+        "suggestedAction": "Discuss cost optimization and margin protection strategies; explore whether your offerings can help Costco maintain profitability while passing through refunds to members.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDNmXy1lc2oyNVdYeVk3a2xURHl4RVBsSFBucUJubjQ5bnhGZWFQT2ZmTGVYb3hSZFJ5RXNUU050TFMtdzZYcjJna0RPenBpLWt1SU1NaXRWNVRFYnNFWFZPa01PVVdyd0RNTTJjcGdLYTRCLWhNLVVSUkI3MEVtTUg0Mkk0SC15T1FUOVI1MXV0YVEtUEl5aWFDSWNKem5CSGdYc3dsNNIBrAFBVV95cUxQU2RYdjdIOTg4NTgyNHFRa3lBMHo5Q2hLdTl0OFJuLV9SV0hlYTktRU5qU0N3Z2ZhZ1BtdTFpc0cxY2JldVktSXZhSTIyWGxNcHpmalN4MVJ0cFVvU0h0QlpWcXhzTHhXdkpvMENKNDBhdUFyOHhtVjFHaWRqdFZXcVpjSnBILV9KVDNpQ080d19wYmRZMl9RUHNoQ1FEZzVlLXhwRzUzOHNQTkJt"
+      }
+    ]
   }
 ]

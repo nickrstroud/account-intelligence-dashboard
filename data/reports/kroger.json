@@ -1241,5 +1241,12 @@
     "source": "daily",
     "headline": "No account-relationship signals identified in Kroger news coverage",
     "signals": []
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-28T20:04:00.804Z",
+    "source": "daily",
+    "headline": "No material account relationship signals detected in recent Kroger news coverage",
+    "signals": []
   }
 ]

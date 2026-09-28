@@ -695,5 +695,12 @@
     "source": "daily",
     "headline": "Target declares regular quarterly dividend; no material changes to account relationship",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-28T20:03:59.467Z",
+    "source": "daily",
+    "headline": "Target maintains financial stability with regular dividend declaration; no material account-relationship signals detected",
+    "signals": []
   }
 ]

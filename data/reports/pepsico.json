@@ -1307,5 +1307,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEtfNlJ2YWlybXJFLUR0MFpfRDlkeDRUb2hTU2x6dGJyTS15bEtfcGMyVkJvTHJZOWZwbW43WkM4dHpiamVpb1dnY0tCN3p5SU9zeENuWjFDd2pyYjFYTkRkUl9OdVpQbTVIM0xWLWI1cXZSVl9SZ0gxTjMweEFNVXU2N3VKdU9iVFNrQnR4OG9CVUlBX2FCbWRNTkJCaUE2cXc/oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-28T20:02:44.877Z",
+    "source": "daily",
+    "headline": "PepsiCo facing pricing pressure and market headwinds; selective growth investments in emerging markets",
+    "signals": [
+      {
+        "category": "Pricing Strategy & Cost Management",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "PepsiCo announcing price increases on core products (sodas, chips, dip) with Wall Street expressing concern about elasticity and consumer pushback.",
+        "suggestedAction": "Monitor customer procurement patterns and budget sensitivity; prepare value-reinforcement messaging around product quality and supply chain investment.",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlWc2szdkxTU0dTRDI3NndsQXRUSnFLbzRfdzcwOGFYVjl2alM5QWszSE1FQ3ZYc3ZJN1Y2YlFiZWRQdWxfNGNDNTNkdzN4akFzOTdLWnlIb2RTMjFTOGFrZ3kwVXp1Nk1OZ1hjR3ZjSmhGSHcwbnJheTAwTWxhZExJa3pDeG9HNlNmSU53aDkwOTM4dnJBQ3pGa1VpR3JFTjhtR25nTndFT3hoYUNJQWFpSl9kMUNCZDNzcW5EdUY5d2t3Wlpj?oc=5"
+      },
+      {
+        "category": "Strategic Capital Deployment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo committing $1 billion investment in Colombia over five years, signaling confidence in emerging market expansion and regional growth strategy.",
+        "suggestedAction": "Identify opportunities to support international expansion initiatives; explore localization and supply chain services in Colombia and adjacent markets.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT19YeXZLQ01JQVNXZzh4WXNjN3R0RlVaZHlvMXRzSVZCX1FKRndDY0t0c1VLbmNHdXB4REZPcWFQR0RaY3N1YS1mUlAwMTFjWmY1UU9PTjY2UjJaSWE5R3o5a1lJVnZoWFFTOVdJejYyLTBBb1Nydk43MmxCX0tzS3NZOEJRRHBQVUhCSlczX1RxRlNXTDlQdEdwT2JwMWZ3RjhqRWlNSTRKQmpFS1Y2TUlUdld5Z3RSZGgzZXJtbzNZWWc?oc=5"
+      },
+      {
+        "category": "Stock Performance & Analyst Sentiment",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo stock down 10% YTD vs S&P 500 up 13%; Deutsche Bank turned bearish citing turnaround struggles; negative analyst commentary underscores operational challenges.",
+        "suggestedAction": "Monitor customer financial health and budget availability; be prepared for potential cost-consciousness and procurement scrutiny as shareholder pressure mounts.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEtvc2xNeWtTRlBMY1g5VURtVXJfQWJuZzNCTk5IRVEza2dnVUU5YzRqeC1QRzQzVG9aOFJIbGsyTnBJM2E1NWNyRzJqeVdSQTVEbU15QXcwR0xzU0RFX3RzOWpMakRPZFdhVHBUWkd2V2hyeDlDVE9NOTBONEEwRVVBbUNlRzdVSV8zU0c4WEhHeWFtVVE?oc=5"
+      }
+    ]
   }
 ]

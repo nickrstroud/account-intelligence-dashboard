@@ -1118,5 +1118,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHZlOHg4VjM2eVR0UGxrdms5ZW9Ld0VENkhjVTVUMkZpLXFNUXhFNS1rVHhXR0J3MXN5ay12ZnJueVVhUTNtSTh5bmR0VkVLYmRldkQtT0FyWkxRSDd2S1NGQ3piWFFXV0dsX2FiRVI1VG1tT0gxcjM1SFZJZEtjczV1clR1MjI2VU9HQUVIZzE0Q3JWQzBnb05zUm1na1pVMVg5SjZZdTlEbUdRbGJYOWRVN24tSmt6TF9KeS1zNkU0MUhhN2RVeGg0S0JXella"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-28T20:03:13.121Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper shows strong operational performance with new product launches and stable guidance; competitive positioning intact",
+    "signals": [
+      {
+        "category": "New product launch - Liquid Espresso Concentrate global expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper expanding Liquid Espresso Concentrate globally, indicating new distribution channels and revenue growth opportunity",
+        "suggestedAction": "Monitor for increased product line penetration; potential upsell opportunity for supporting new SKU infrastructure, supply chain visibility, or compliance tracking",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KT1FTaTZXUUhwX19SY000OTB0OTFYc3VHeG9HTTV3SWVtek80em00QXVhSkNKSkRxcXRFWnhSdm1VeU82LUd4RVZwNHlHQW8wWWdldllYRXJxak9LUlJ0VHhQVlJwdXJKUk9fb1JURktheDU0bWhIbU5aUQ?oc=5"
+      },
+      {
+        "category": "Root Beer Energy product launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Root Beer Energy product launch indicates portfolio expansion into energy beverage category, supporting revenue diversification",
+        "suggestedAction": "Assess need for supply chain, logistics, or compliance support for new energy drink category; potential cross-sell of category-specific tools",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmlsVmNmZm1wMDlWUWNYYmJFT0NUdWpzZUlZRmZiTmYtN0hXc2FsMHkxU0JuSXo5dXJGMFNuWUJNY2pjcWlFU1Uxb2FiWUNiTVBsOERETzRoMTVPU3lQeVI3YmotZHRILWtYT1JDQ09GWUtLUERJd1BWcmcxWmFBcmllS0lWV2NrX09SQXRZbG83SGRQQy1IMU8wUGhWYVI5Q3lXT1RiOTdOdW5FeDAxcEdEVVpwYWNJYUd6am14Mjc0UlZ3bks1XzJ5N3FZMFh1bW8tZ1I5ZTZNampsZThRWNIB5gFBVV95cUxQTnRaVU9lRDVCZ0x6cTlxN0txaWtjRlpVNTBLb1kyNlRpQWdrN0FNOFZvRWJHNTV6VjZQVWtKdzdWTUhQWGl0eWhZVUFqSGJiQXZOYk44VjdDbWFxYmRPcW54Ry10Q24yN2Z5LUhRbDVnZGpNdnhqZGc5TXFCdk5zYVd5UGFIQ2Q4YkdmbjV1VUZhNkRkWTlmNTJkN3hsY3hCN0NGWUZPRnNxTmpna2I4YnVvMERyUG93aGdVeWRWT2xZVURib3V5RUQxUU0zMUFSa1JHWnZQNkpUeDlpeWhaN0JqUFdlZw?oc=5"
+      },
+      {
+        "category": "Strong stock performance and guidance stability",
+        "updateType": "market",
+        "score": 1,
+        "summary": "KDP stock gained 3.47% as guidance holds, beating PepsiCo performance year-over-year, indicating operational stability and investor confidence",
+        "suggestedAction": "Positive indicator for account health and budget availability; suitable time for renewal discussions or expansion conversations with stable, performing customer",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHE0a2NEWXY5TXpOQlI5SFdnYkJaUUUzTGhNTDE3dnhqS2dJZjlLd1ZOSmZBUDRmVDJ3c2RMbmt3VjBpYkxER0FnQVhzMWgxdG9NaTJJUTgtNXBvaVViTFlJZUx3eFNsQXdFVl9DbDhGdzdXYUQ5OUNXNnlONFZkalJsMnFpMVR3UE1oVjZWdTVLZnM3YjBWLWh0WEFJMWI4Qk5VWkk2bnQ5Y3ptc1NnMndrS2w1VDNVbVVoRS0wMA?oc=5"
+      }
+    ]
   }
 ]

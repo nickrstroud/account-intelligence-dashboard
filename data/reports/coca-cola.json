@@ -1083,5 +1083,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWlCWFN5cnF6dDVhMzJuSkxnYmlBckRxZTRTbUQwUjZ6Y3BkLVo2OEpzdXNvV3lxVDRmVTUwM2pFdWxXZl83SnF6enNFckk0U0VFUnBRaWFKaVVGS1A0TUVYNkRtQ2cwbDV5NWI3aUt4MTQwRHRBVmtrMTd4cmJ5NUpxaGlqSDB1YkZWRFlfQk9JY0xtUjMtRlNocGU"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-28T20:02:26.835Z",
+    "source": "daily",
+    "headline": "Leadership hire signals growth momentum; new NA operations head + African expansion + distribution infrastructure investment",
+    "signals": [
+      {
+        "category": "Leadership Change - North America Operations",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola hired Rob Gehring from Monster Energy to run North American operations. This is a new buyer-side leadership hire representing both relationship risk (potential strategy shift) and re-pitch opportunity with fresh leadership.",
+        "suggestedAction": "Schedule briefing with new NA leadership to understand strategic priorities and confirm our support for their initiatives.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWXpxTll1YVpqblBpanByWVNrYkZlRklPRUNLMm9vZEZ5ZVM2VERqOWVMNHNQS0NGeTU1RFY3di1qTzNBbzNzWEtFaXN2SVVTRmE4ZTFpbjVBeG9JSXFLNDM2eFI3NnNuOU91aFh1MlNXN2dT0gF6QVVfeXFMUHBiVzhOZTF3YWZLNlZKQ0VWekc5emJCd0ZzaElZbnplWHp4cFIyWEtXZ1JGUzRocGxOSUp6TVRoenc3YWRlaEQta0FLVWFWdG9NSEhCNllKbFc4dTc4LUNZYTV6SEhZRmFTNzM5Y2lxaEJJOHlXNmNMLWc?oc=5"
+      },
+      {
+        "category": "M&A and Geographic Expansion - Africa",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "$2.6 billion African bottling deal moving closer to completion signals major geographic expansion, creating new business unit and regional revenue opportunity.",
+        "suggestedAction": "Research African bottling acquisition scope and identify selling opportunities into new African operations and distribution network.",
+        "sourceName": "Business Insider Africa",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWZlZWY4MzlKV2hJTXU3Vm9qVWh0cnNwaWZnRXFTUGR6dFAyYzZlMGJSbTl0eHN6ZE9US0twaHY5Wk9VbU10Q0ZqcXVuSVM0cUNJRUl4eHc3ZndkcXN0eXlCbHdoa1hVSXQyWWF5MGpObkgyRGl2eWlJRzI1azNDbEtJQnBScGF4d0N1Qm1menpsQVhEVmJPNlZhRjFtQkJxdzR4cldUQmlkMmF1Y01IRXdwRHZDa09Ra2w2RzhGOUpVY1BKbTA5S2llVXBIY0hLOVRIU3NR?oc=5"
+      },
+      {
+        "category": "Business Expansion - Distribution Infrastructure",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "New distribution center being built in Idaho Falls indicates capital investment in North American logistics infrastructure and operational expansion.",
+        "suggestedAction": "Understand infrastructure modernization plans and potential for logistics/supply chain solution opportunities.",
+        "sourceName": "East Idaho News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWlCWFN5cnF6dDVhMzJuSkxnYmlBckRxZTRTbUQwUjZ6Y3BkLVo2OEpzdXNvV3lxVDRmVTUwM2pFdWxXZl83SnF6enNFckk0U0VFUnBRaWFKaVVGS1A0TUVYNkRtQ2cwbDV5NWI3aUt4MTQwRHRBVmtrMTd4cmJ5NUpxaGlqSDB1YkZWRFlfQk9JY0xtUjMtRlNocGU?oc=5"
+      },
+      {
+        "category": "Brand Partnership - Sports Marketing",
+        "updateType": "brand",
+        "score": 0,
+        "summary": "Newcastle football club partnership agreement confirms brand activation and sports sponsorship strategy. Positive brand news but indirect account relevance.",
+        "suggestedAction": "Note partnership for rapport/industry conversation but limited direct account impact.",
+        "sourceName": "Yahoo Sports",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmUxRU5QSzg5YzloZmpnVHdCQVdOR1hldEg5NVJxNWgwRDJyNEozMXNDLUNITVRnWkNBRm9QVDB5LWtEOGx4UnVkUk5kT0YtMjBxRTN6SjQyUURNNTkza1BoeXo0UnE3dWVqdTJickpkdE9uR0l3ejZKaUljS2Vfb0NoVEpLUFY3UkM1Z2dVNk9UV1E?oc=5"
+      }
+    ]
   }
 ]

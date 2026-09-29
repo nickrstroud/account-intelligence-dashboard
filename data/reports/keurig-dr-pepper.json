@@ -1153,5 +1153,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHE0a2NEWXY5TXpOQlI5SFdnYkJaUUUzTGhNTDE3dnhqS2dJZjlLd1ZOSmZBUDRmVDJ3c2RMbmt3VjBpYkxER0FnQVhzMWgxdG9NaTJJUTgtNXBvaVViTFlJZUx3eFNsQXdFVl9DbDhGdzdXYUQ5OUNXNnlONFZkalJsMnFpMVR3UE1oVjZWdTVLZnM3YjBWLWh0WEFJMWI4Qk5VWkk2bnQ5Y3ptc1NnMndrS2w1VDNVbVVoRS0wMA?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-29T18:30:38.479Z",
+    "source": "daily",
+    "headline": "KDP revenue growth and product expansion offset by portfolio rationalization; strong stock performance",
+    "signals": [
+      {
+        "category": "Business Expansion - New Product",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper launched Liquid Espresso Concentrate globally and Root Beer Energy, expanding product portfolio into new categories and markets.",
+        "suggestedAction": "Identify if these new product lines create procurement, supply chain, or service expansion opportunities for vendor solutions.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KT1FTaTZXUUhwX19SY000OXB0OTFYc3VHeG9HTTV3SWVtek84em00QXVhSkNKSkRxcXRFWnhSdm1VeU82LUd4RVZwNHlHQW8wWWdldllYRXJxak9LUlJ0VHhQVlJwdXJKUk9fb1JURktheDU0bWhIbU5aUQ?oc=5"
+      },
+      {
+        "category": "Capital Allocation - Chobani Exit",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "KDP completed a $925M exit from Chobani investment, raising capital that could be redeployed toward organic growth, acquisitions, or debt reduction.",
+        "suggestedAction": "Monitor capital deployment strategy; potential M&A activity or increased investment in core business lines may create expansion opportunities.",
+        "sourceName": "GuruFocus",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjhkc083VTZMTmFYYS1FaGxhck9JS01FZWxmdHktLUhSRGttUERiWHhlNVlqTldFUWRpc3hzeTZaZkxiRWktbm5HZnFHaVJEWEF1SWZaSXFyVmJXQk03eVNHS3ZYOEd4VEZVRzVhWC1fMDJlSV9VeEJrWXBndmNRQW83aC1uSFE3Wm8yV1h4LUowcjhNdTdZTEFGeHFsSnRRcVFIT1ZFclRucDJqeGc?oc=5"
+      },
+      {
+        "category": "Financial Performance - Revenue Growth",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "KDP outperformed PepsiCo over the past year with strong stock performance, indicating solid operational and financial momentum.",
+        "suggestedAction": "Use strong financial performance as rapport-building talking point; potentially discuss partnership expansion opportunities aligned with growth trajectory.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZkSWt0UElrV3paUXJZekJOZHY4V0xPV1EzQ2piLXdCUGZ5Rnh2OUlvcUxxa3ZyTDdRYm9pRmgwYVNONENzNXFyaXhGRkZQWm1fRTNrVmJtUE8tZFhoTGZDeVpadFNycGVhcFRQeFNwRmRRcXlSUXRfNnV0dXh5aGhvZ0gtdkhZSWFGRGd4ZjEtd3g3SG55Z3p3?oc=5"
+      }
+    ]
   }
 ]

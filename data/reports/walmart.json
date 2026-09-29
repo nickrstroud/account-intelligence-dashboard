@@ -906,5 +906,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm5IeVVqMlkzLWFCbm1VbXJ1YmxidUdsVDVEQjNwQmR1dHgtTXNkblRpbzJ0N0drSnRBVkNHREZiNUIyWUE1WTdEc0Y2NXhoLW8xamFtcGdSYzZBRzlmTWFMTzhfRGdsbmIyajd4TTJJN3ZURDZXb2M4Sk5LeWdyNmtteDdVekxKWFRldFl1X1ZVcnZYVEE"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-09-29T18:31:20.424Z",
+    "source": "daily",
+    "headline": "Walmart strengthens brand positioning on AI ethics and operational efficiency; modest internal restructuring underway",
+    "signals": [
+      {
+        "category": "AI pricing transparency - leadership commitment to consumer trust",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Walmart CEO publicly commits to not using AI for personalized pricing, positioning the company as ethically grounded on a high-profile consumer privacy issue.",
+        "suggestedAction": "Use this as a rapport-building talking point with procurement leadership; signals Walmart's strategic focus on consumer trust and brand reputation—relevant if your solution touches customer-facing systems or data practices.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDlKenB1NDRmcWdiRzJ4anNQUXJLMVpuSTJROXRiczcyVnBTNVAxbE5nUVk1UEtGVkFHeExVaXA0RmJKZnZoNkFuV3FWc0NpR0x5a2ZEeEJ3RTlKN1dEUjBqWmFQampCQjdNd0RVc1FfNHRxUVg2UnJVWDQxdk1DenRRTThpN2owdzhmOXpONkdvUUM2dy1mbHVvbHAwWnBlUkJHSXducnhISGYxQjJV?oc=5"
+      },
+      {
+        "category": "Merchant team consolidation with style focus",
+        "updateType": "restructuring",
+        "score": 0,
+        "summary": "Walmart is consolidating merchant teams with a strategic shift toward style/apparel emphasis. This signals internal operational restructuring but direction suggests growth in merchandising, not contraction.",
+        "suggestedAction": "Monitor for budget/headcount impacts in procurement or category management; consolidations can free up budget for strategic investments. Clarify if restructure affects buying-function staffing or opens new vendor evaluation cycles.",
+        "sourceName": "Retail Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0xhYlRob1h2NlBBalc1Y2VISUFCYTViWTB2alhrUlVMd01zd2ZnUkhEa0YtOFNGUm1INVRSWUw1UzBjMzRmZm9tN0tONW1qS3cwNldtQ2ZyX2s3Ti1JQ3NlcVZaUXl6Nno2SWI2SlJ0Mm0tMlg0YXoxTmFwcEtGOW91eFNrZ0hQd0JYSThRSXRkcUtsdS1rR1hhaVJJU0h0RS1z?oc=5"
+      }
+    ]
   }
 ]

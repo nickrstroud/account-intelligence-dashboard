@@ -908,5 +908,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDNmXy1lc2oyNVdYeVk3a2xURHl4RVBsSFBucUJubjQ5bnhGZWFQT2ZmTGVYb3hSZFJ5RXNUU050TFMtdzZYcjJna0RPenBpLWt1SU1NaXRWNVRFYnNFWFZPa01PVVdyd0RNTTJjcGdLYTRCLWhNLVVSUkI3MEVtTUg0Mkk0SC15T1FUOVI1MXV0YVEtUEl5aWFDSWNKem5CSGdYc3dsNNIBrAFBVV95cUxQU2RYdjdIOTg4NTgyNHFRa3lBMHo5Q2hLdTl0OFJuLV9SV0hlYTktRU5qU0N3Z2ZhZ1BtdTFpc0cxY2JldVktSXZhSTIyWGxNcHpmalN4MVJ0cFVvU0h0QlpWcXhzTHhXdkpvMENKNDBhdUFyOHhtVjFHaWRqdFZXcVpjSnBILV9KVDNpQ080d19wYmRZMl9RUHNoQ1FEZzVlLXhwRzUzOHNQTkJt"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-29T18:31:33.163Z",
+    "source": "daily",
+    "headline": "Costco tariff refund windfall signals potential pricing power and customer value messaging opportunity",
+    "signals": [
+      {
+        "category": "Tariff Refund & Customer Value",
+        "updateType": "market",
+        "score": 1,
+        "summary": "Costco received $184M in tariff refunds and announced most will be directed toward lower prices for members. This reinforces Costco's value positioning and customer loyalty.",
+        "suggestedAction": "Position any vendor services/solutions around supporting Costco's cost-leadership strategy and ability to pass savings to members; emphasize ROI/efficiency gains.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDNmXy1lc2oyNVdYeVk3a2xURHl4RVBsSFBucUJubjQ5bnhGZWFQT2ZmTGVYb3hSZFJ5RXNUU050TFMtdzZYcjJna0RPenBpLWt1SU1NaXRWNVRFYnNFWFZPa01PVVdyd0RNTTJjcGdLYTRCLWhNLVVSUkI3MEVtTUg0Mkk0SC15T1FUOVI1MXV0YVEtUEl5aWFDSWNKem5CSGdYc3dsNNIBrAFBVV95cUxQU2RYdjdIOTg4NTgyNHFRa3lBMHo5Q2hLdTl0OFJuLV9SV0hlYTktRU5qU0N3Z2ZhZ1BtdTFpc0cxY2JldVktSXZhSTIyWGxNcHpmalN4MVJ0cFVvU0h0QlpWcXhzTHhXdkpvMENKNDBhdUFyOHhtVjFHaWRqdFZXcVpjSnBILV9KVDNpQ080d19wYmRZMl9RUHNoQ1FEZzVlLXhwRzUzOHNQTkJt"
+      }
+    ]
   }
 ]

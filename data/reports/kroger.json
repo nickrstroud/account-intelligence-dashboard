@@ -1248,5 +1248,40 @@
     "source": "daily",
     "headline": "No material account relationship signals detected in recent Kroger news coverage",
     "signals": []
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-09-29T18:32:01.518Z",
+    "source": "daily",
+    "headline": "Kroger facing brand delisting and stakeholder pressure; advancing AI innovation initiatives",
+    "signals": [
+      {
+        "category": "Brand Delisting & Supply Chain",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger is pulling major brands (Red Bull, Boar's Head) from shelves, signaling supply chain friction and potential shifts in supplier relationships that could impact vendor access and negotiation leverage.",
+        "suggestedAction": "Monitor supplier relationships and brand performance metrics; assess if delisting reflects competitive consolidation or vendor disputes that could affect our category positioning.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHNfTFhHRjZIS1lXMS1mdEQxaHNJck5oLW5BX1hLcVFxUklTa2tsWHFoX3pweGk3VXNqajZyX0N1eE9fbGk0Y3ZtNnBPd3IzN0R2ZExfVllqdzlJdHdEV2VOUkdNYjB6SXF5MXFSRjZ5b3pyTkh2OGJVS0ozS2E3Z29TOTU1OXE0OFVQVUJBR2RYMHpKd0lKemZ3?oc=5"
+      },
+      {
+        "category": "AI & Technology Capability",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger is actively building agentic AI assistants for retail operations, indicating investment in digital transformation and technology infrastructure that could support new digital-first service offerings.",
+        "suggestedAction": "Explore co-innovation opportunities around AI-enabled services, customer analytics, or supply chain optimization; position our solutions as complementary to their AI roadmap.",
+        "sourceName": "Modern Retail",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3o1bzlaSy1SY3d6dDNqdWQ1UURYaWM2X1FTdHBGcDE5QlFTdGNUMnBPcUZTM1RER05GTEYyckJTaGdIMERhQVl3UWcwVnVreGc0bkZBbzNhdHFpWXh1QXFwQ2lMSU1EU1JOT3ZFbkREdjVvOTNkVXRWdDI4UF96MldwM0J4ZWtOU0VFUVU0T3NYbW0ya2ZnTjd1T3ZlTTBpUUNuaUJMME1jd1VLZVhBeWg2cG1Pck0?oc=5"
+      },
+      {
+        "category": "Stakeholder & Operational Pressure",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Kroger facing organized stakeholder pressure (egg protests) and operational challenges (homeless encampments, brand disputes), creating potential distraction from strategic initiatives and customer experience focus.",
+        "suggestedAction": "Be mindful of internal resource constraints; frame account engagement around solutions that reduce operational friction and improve store-level execution.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3ZVRUQza3lDVUw0d2l5V2RTLTcycVE4blJWY3liMFExaVRCTEpoT0dibDJNVThFak9adVFIYW9EdmtRTXlYWW81VDhzb3V4ZzJpdjVxclByeWZxdXR1aEczbFRIeVFNeGJ6NlZDM0I3MjVVMEc2cDR4R0F4elVLYzFyZE5zTlZzQjVRbFhnMDFlY1J5OW1YWC03RFBsNzdTY0dNQVBFd2h0cmN2Y2d0dVJ1TTVycEQ2Z1pVcVVIR2NlRWpVWE8xSWxR?oc=5"
+      }
+    ]
   }
 ]

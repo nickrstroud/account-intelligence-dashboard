@@ -1044,5 +1044,58 @@
     "source": "daily",
     "headline": "P&G maintains brand strength and retail partnerships; regulatory compliance achieved with no material account risk",
     "signals": []
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-29T18:31:06.344Z",
+    "source": "daily",
+    "headline": "P&G drives strategic expansion through AI innovation, major M&A, and retail media growth while navigating minor regulatory headwind",
+    "signals": [
+      {
+        "category": "Major acquisition of Thorne for $3.8B expanding health/nutrition portfolio",
+        "updateType": "ma",
+        "score": 2,
+        "summary": "P&G acquired Thorne Health for $3.8B, gaining a strong brand platform and expanding into the high-growth health and wellness category. This represents a significant strategic move into new business verticals.",
+        "suggestedAction": "Opportunity to expand services into P&G's new health/nutrition business unit; schedule exploratory meeting with Thorne integration team to identify procurement, data, or platform needs.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk43aVd1UnhodnVyVWRXLWN6ZVFXb3AtQTNhaVFOMk1LajZWV0s3R2tfUW5RRUhsemkyOW81a1RPZUM1UkVQXzQ1dDhla3NSYlRzQlNCTzdsWGw1QWxjZU94VkNkejgzWFRiX3ZpZUN1T2NlYU5QcjVVQmRpZXQ1ZklKb1BuSEpHaUZ5OVBPTGNnREh6QXpmcFZPUkZoUGJzVlpVT2F5TUs?oc=5"
+      },
+      {
+        "category": "P&G expanding AI capabilities globally with advanced scrap-killer technology",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is scaling an AI-powered scrap reduction tool to global operations, demonstrating investment in operational efficiency and AI innovation. This reflects confidence in growth and digital transformation initiatives.",
+        "suggestedAction": "Identify if P&G's global AI expansion creates opportunities for integration with existing vendor solutions; consider positioning analytical or AI-adjacent services.",
+        "sourceName": "PYMNTS.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOENJQ21UZkRVTy1BeEEwYWxvNHJfTHVSeU8ydWc3SkdkdWZ6djFvUGd0cEVYa0hkdks2eDJXRGtwX291RVBfdnJkbnQ1RVl5ME55a25DNnU0a1JpLS1XaHZ4Q2huNEc5M2lTVjF4N3lZdHdQRy1mS3VndVYwREtRUUFNS0hGY3VLUnMzbUZNMlNpZWhvSUQ0aQ?oc=5"
+      },
+      {
+        "category": "P&G Q1 sales slip; stock potentially undervalued but revenue headwind evident",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "P&G experienced Q1 sales decline, signaling near-term revenue pressure despite valuation upside potential. This may constrain discretionary spending in the short term.",
+        "suggestedAction": "Monitor quarterly earnings closely; prepare cost-efficiency value propositions and ROI case studies; adjust renewal expectations and may warrant flexibility on contract terms.",
+        "sourceName": "simplywall.st",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDhNNFV4V3VhYjltSjBtbzVmcVEyLV9WUkFrZ1VfTGtNa0loVEV4R3Y2WGx5WDc1V25HeHlLSnVLYUt4N1ljR1luZklUOE43Y3RsR2FibDBMQkVjTE1GMXg3OGQya0w5ZzQ4dHJmekVaR1gwd1ZvVmdQYjlMN0VuUWZNcXJId2J1WV9BRU95d1p0MHBfNTZoS0dnVjczYlpiSWhwR3RkNXNIVExoRXVBazZOVnd5ZzVjR1hZWEdjdTZiQi0xU0hWalBB0gHPAUFVX3lxTFBNWTVra3I4U0ZfUWg5OGwxOExjOWdYTmlqN2VyVkhEd1NNQ0pBRFByQWZ1ODFtZjg3YzF3aWdqNzh6ZGdra2hRSmhmdU04R3hHdGJRUGV1d0kzaVdZLUxDNy1KZXI2MHYxT0ZjeWhndnEyZWZVWFdDcmV5c01rVFg5dHY0SlZ6MXVFQmwzOUJCd3JDb2dpVUw3OWRZMjJaOUtOZ3U5dU1HQTlCV1d1aW81MW5hd0pncjAzc1hhTmd5SFZ0TnNqei02M1VPSTdLWQ?oc=5"
+      },
+      {
+        "category": "P&G investing in retail media growth and consumer-insight platforms",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is actively building out retail media capabilities and leveraging consumer insights for growth. This indicates investment in digital and marketing technology infrastructure.",
+        "suggestedAction": "Explore partnerships in retail media analytics, data integration, or marketing-automation services; position solutions as enablers of P&G's consumer-centric growth strategy.",
+        "sourceName": "Procter & Gamble",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuRXFGX0JtNnYtR0lHb1R1UV9rZlYxZDRLWWV2dDIyQ0RIOGxwbEkxeF9vRkd3cW5iSHRBSVYtRWVGN0Exb05vVTluZ3pmY3N6MFB1WTc3QjhpQW14eF82T191V2hoVlE?oc=5"
+      },
+      {
+        "category": "Italy regulator closes P&G hair removal device advertising probe",
+        "updateType": "regulatory",
+        "score": 0,
+        "summary": "Italian regulator concluded investigation into P&G hair removal device after company made advertising commitments. Regulatory risk has been mitigated but shows compliance sensitivity.",
+        "suggestedAction": "No immediate action required; note for compliance/regulatory monitoring in P&G's regulated product categories.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM?oc=5"
+      }
+    ]
   }
 ]

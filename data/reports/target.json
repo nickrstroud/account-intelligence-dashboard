@@ -702,5 +702,31 @@
     "source": "daily",
     "headline": "Target maintains financial stability with regular dividend declaration; no material account-relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-29T18:31:47.199Z",
+    "source": "daily",
+    "headline": "Target reports 5.3% sales growth and maintains shareholder confidence with regular dividend; positive financial momentum",
+    "signals": [
+      {
+        "category": "Revenue Growth",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corporation reported 5.3% sales growth, indicating solid financial performance and revenue expansion.",
+        "suggestedAction": "Positive signal for account stability and budget availability; use as rapport-building talking point and indicator of increased IT/vendor spending capacity.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUVOZ0lKWjF5YmdzSTNKU2xRemtsNGp6VFhrU1NfaXBwUnJPSTl6X3Z2cldwSEotODBQdy1zMGpENVdQQ1hiQW9TUC1fOUd2NzNMdk1zWjlLZEN1QzJOOWdDUVR1MkRFdlFSbjRzOVRWak5iWmt6cWFFTmhvNWlvdl9XVGxwaHE1ZmhJWkQxZ3NzM0t5VVZWM3A3Z3ZiYjhFWXZHQWdoVm83ZjhyMGJXYkIyaDJXampkNmRDRQ"
+      },
+      {
+        "category": "Dividend Declaration",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target declared regular quarterly dividend payable December 1, 2026, signaling management confidence in financial health and cash flow stability.",
+        "suggestedAction": "Indicates strong cash position and financial confidence; supports continued budget availability for technology and vendor investments.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0"
+      }
+    ]
   }
 ]

@@ -1127,5 +1127,22 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmUxRU5QSzg5YzloZmpnVHdCQVdOR1hldEg5NVJxNWgwRDJyNEozMXNDLUNITVRnWkNBRm9QVDB5LWtEOGx4UnVkUk5kT0YtMjBxRTN6SjQyUURNNTkza1BoeXo0UnE3dWVqdTJickpkdE9uR0l3ejZKaUljS2Vfb0NoVEpLUFY3UkM1Z2dVNk9UV1E?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-29T18:29:59.351Z",
+    "source": "daily",
+    "headline": "Coca-Cola leadership appointment signals operational continuity and potential expansion in key markets",
+    "signals": [
+      {
+        "category": "Leadership appointment from external market position",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola hired Monster Energy executive for a top role managing North America unit. This is a key leadership hire that brings external experience into the organization.",
+        "suggestedAction": "Treat as re-engagement/re-pitch opportunity with new leadership. Verify existing relationships with new executive and assess appetite for incumbent vendor solutions under fresh management.",
+        "sourceName": "ajc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1dPMzZ0dEo5WUdISVBRSFJnTXEzbkZvRm9wWjF2ekw0WUgwTGFyemJQanI5cGJwX0RMRVFLMXU0OFlTT0F0OVRNbE9odVd1aHZMRVF3Nm9CSGxZWE1fLVU5Q2xFT2RIZnpYaHE2S21OT1ZiOWh3QVZINjJ4RjdZNWF2aERHS2l3bERJNndwcVhGb0N2clllZQ?oc=5"
+      }
+    ]
   }
 ]

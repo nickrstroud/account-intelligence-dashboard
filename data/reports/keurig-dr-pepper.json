@@ -1188,5 +1188,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0ZkSWt0UElrV3paUXJZekJOZHY4V0xPV1EzQ2piLXdCUGZ5Rnh2OUlvcUxxa3ZyTDdRYm9pRmgwYVNONENzNXFyaXhGRkZQWm1fRTNrVmJtUE8tZFhoTGZDeVpadFNycGVhcFRQeFNwRmRRcXlSUXRfNnV0dXh5aGhvZ0gtdkhZSWFGRGd4ZjEtd3g3SG55Z3p3?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-09-30T18:19:27.526Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper shows expansion momentum with new product launches and successful portfolio optimization",
+    "signals": [
+      {
+        "category": "Product Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Keurig Dr Pepper is expanding its product portfolio with Liquid Espresso Concentrate going global and launching Root Beer Energy, indicating active business line expansion and innovation.",
+        "suggestedAction": "Monitor new product categories for cross-selling and bundling opportunities; assess if these launches open doors for service offerings around new SKU management or supply chain complexity.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KT1FTaTZXUUhwX19SY000OXB0OTFYc3VHeG9HTTV3SWVtem84em00QXVhSkNKSkRxcXRFWnhSdm1VeU82LUd4RVZwNHlHQW8wWWdldllYRXJxak9LUlJ0VHhQVlJwdXJKUk9fb1JURktheDU0bWhIbU5aUQ?oc=5"
+      },
+      {
+        "category": "Capital Optimization",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP completed a $925M disposition including $800M Chobani equity redemption, freeing up capital and improving balance sheet flexibility for reinvestment or growth initiatives.",
+        "suggestedAction": "Track how freed capital is deployed; this improves customer financial health and may signal readiness for larger growth initiatives or technology investments that could expand vendor opportunities.",
+        "sourceName": "tradingview.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc2JGMTc0RDVmUVJvQ25ielNYUzBiQ2hvLVM2YXdNdEE5TW9JYzlsc3k1QWNfZ1g3djI2d2dUbVhWMnM0ekowWWRNQnI0cmc5QnJLRXNkOWh2Mm9Lbld0Zzl3cnQ4MGpNbHNlbG45b3RSU2ZhU3hndVJxeWFpaUZzRXNuZGNqOXZUbUxiSjh5dllscXVkaGg5U2dPNVlzeGJmM0FVRUJkSUk0MkJWbVlHQUxWRmZHN2NnYnd2NEVyQVlRYzI2X3VLM21ZcVZ0eHZwc19VR0NqdW5CZmJzMG1R?oc=5"
+      },
+      {
+        "category": "Stock Performance & Guidance",
+        "updateType": "market",
+        "score": 1,
+        "summary": "KDP stock trades around EUR 27.40 with guidance held steady, and consensus price target of $35.00 suggests analyst confidence; company outperforming competitors on strong trading day, indicating positive investor sentiment.",
+        "suggestedAction": "Use positive momentum as rapport-building talking point; financial health signals lower churn risk and potential receptiveness to expansion deals.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm1ZaWtzT3VZY2thcUp6T29QaFFIYVVLZ1g5YkR1RW1NQ3hvcThlZVRSQnFYV1lCdXZncnEwWTI5dl9aVTZIeHNVS0llanI2RU5rVDYwd3RZZ2l6LTR2OXZTSzdSTi0tU1ltYjQycGg2eTVRa0dYTlFyWDF1dTRZU3dYMWxNWG5mTkczZlQ2cU82M0JFWmRDQUdETE50OU1nOXloaEpqdlJld1FKV3Q3dG9sY05Kb1JKeHBhaXRLYk4?oc=5"
+      }
+    ]
   }
 ]

@@ -1386,5 +1386,58 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW1YSy0tbzJUeFRpbUVHMXRmZVVKcnVoZ0duZDNLRVdYcmlXeEh4UW1jN0dYMGsxNjlvMVVaaF9GZTd5VGd1RF9kTGZHODZXV3VUM3g3bnFoSkNTeVhubDFGUVdtX3E3YWVUUXJ1d0NXWEpIS0xDUGpwR0NIXzJBRHltcXFQQVF4S2FrTDRSV21CdjgtX1RJS3FLN3B3dw?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-09-30T18:19:06.587Z",
+    "source": "daily",
+    "headline": "PepsiCo faces near-term headwinds (analyst downgrade, North America challenges, pricing pressure) offset by strategic innovation and emerging-market expansion investment",
+    "signals": [
+      {
+        "category": "Analyst Downgrade and Stock Underperformance",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "PepsiCo received an analyst downgrade despite trading at a 52-week low, signaling investor/analyst concern about near-term earnings and margin sustainability.",
+        "suggestedAction": "Monitor Q3 earnings call closely; assess whether downgrade reflects temporary headwinds or structural margin pressure. Budget discussions may be constrained in near term.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSnVfaWMyQ2dqdnBmTEhYemdKQXBLSzNWaF9MaHFSSWJsbEk3US1LV256Zm1walNhTWhSRVpFZ0g0T1lUTEoyR1drY2xPNVR1alVzU1d6T1ZQdGpDZndfWUdsLTRleU9HWDFoZ182a29XZUotRXZ6bFB4eUVVQXg5dkZ0RTJoenBGbHY4M3JrY0hoekdDMjNBRENBeW1HSDhtYzBmY3d0Z3BTN08xUzQ0WC16NUV6Z3hQeGtLNVNBQ0VZZlYyT3hVWXFHVVF5bzJuWlFQdXBQMlNKaHlBX3dxV29R?oc=5"
+      },
+      {
+        "category": "Regional Performance Challenges",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "J.P. Morgan analysis indicates PepsiCo's North America problems are persisting, suggesting continued margin or volume headwinds in a key market affecting overall earnings outlook.",
+        "suggestedAction": "Probe account contacts on regional budget constraints or category performance issues; positioning for 'optimize operations' solutions may resonate.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVF8xNzdBMDhSQlJWMk41MzVwVER2YUIwT1MyUlRYOHplN3BtNFVNaVFOblc5M3dYQzNKNmpfRHp5R0lXZ0hUUmZ6MFZrRnpIcnNWRDBKSFZZTU9BaWlUdjZoUk1yeVhNTXBsSTVlYUlPeTZHWmlsTEd2UE9TMHZodUNfWVJGQ1JMc016MURCcUVDaGN4UmVqbDFpNXpSdXZjekd2OQ?oc=5"
+      },
+      {
+        "category": "Pricing Strategy Risk",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo plans to raise prices on sodas, chips, and dip, generating Wall Street concern about volume elasticity and competitive response in a price-sensitive environment.",
+        "suggestedAction": "Highlight value-preservation and margin-protection initiatives in upcoming conversations; this signals budget pressure and need for cost/efficiency solutions.",
+        "sourceName": "MarketWatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlWc2szdkxTU0dTRDI3NndsQXRUSnFLbzRfdzcwOGFYVjl2alM5QWszSE1FQ3ZYc3ZJN1Y2YlFiZWRQdWxfNGNDNTNkdzN4akFzOTdLWnlIb2RTMjFTOGFrZ3kwVXp1Nk1OZ1hjR3ZjSmhGSHcwbnJheTAwTWxhZExJa3pDeG9HNlNmSU53aDkwOTM4dnJBQ3pGa1VpR3JFTjhtR25nTndFT3hoYUNJQWFpSl9kMUNCZDNzcW5EdUY5d2t3Wlpj?oc=5"
+      },
+      {
+        "category": "International Expansion and Capital Deployment",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo announced $1 billion investment in Colombia over five years, demonstrating commitment to emerging-market growth and diversifying revenue streams beyond challenged North America.",
+        "suggestedAction": "Opportunity to discuss supporting international supply chain, operations, and compliance infrastructure; expansion markets often have distinct vendor/tool requirements.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT19YeXZLQ01JQVNXZzh4WXNjN3R0RlVaZHlvMXRzSVZCX1FKRndDY0t0c1VLbmNHdXB4REZPcWFQR0RaY3N1YS1mUlAwMTFjWmY1UU9PTjY2UjJaSWE5R3o5a1lJVnZoWFFTOVdJejYyLTBBb1Nydk43MmxCX0tzS3NZOEJRRHBQVUhCSlczX1RxRlNXTDlQdEdwT2JwMWZ3RjhqRWlNSTRKQmpFS1Y2TUlUdld5Z3RSZGgzZXJtbzNZWWc?oc=5"
+      },
+      {
+        "category": "Innovation Investment and Capability Development",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is investing in innovation infrastructure (chef-led design thinking) to tackle industry headwinds, indicating organizational commitment to product/process innovation and potential need for supporting tools/services.",
+        "suggestedAction": "Position as innovation enabler; highlight how solutions can support new product development cycles, market testing, or speed-to-market initiatives in premium/health-focused categories.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWw4cUgwa2Mza3ZXQy04UGRDWjNNdVJYa01tSk9MRGRaRlRBQnZES3g0dTRjZXpoMXI2UnJfTjhJQk00NUVoaFR1SXl3cC1sc0hTQ3ZBbTEyMHlWdzFoUGlsWndMQzdGNkVPd0VPUG9ZWGhIOERLRnZzb1Q1Wmc5TDFWcVRxQ0hXZWZsSUNVTFctNl93NDdySWtHcXZYbklnMjhHR2dGZ2lNUmluZjNNTW01clAySUhaeHdXeW9kSGh2LVkteXR3bg?oc=5"
+      }
+    ]
   }
 ]

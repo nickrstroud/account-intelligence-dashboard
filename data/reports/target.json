@@ -728,5 +728,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-09-30T18:20:16.282Z",
+    "source": "daily",
+    "headline": "Target reports strong Q3 sales growth (5.3%) and maintains shareholder distributions; stock trending with positive analyst sentiment",
+    "signals": [
+      {
+        "category": "Revenue Growth & Financial Performance",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corporation reported 5.3% sales growth, indicating solid business momentum and financial health.",
+        "suggestedAction": "Leverage positive earnings trajectory in renewal conversations; highlight customer success opportunities tied to Target's expanding revenue base.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUVOZ0lKWjF5YmdzSTNKU2xRemtsNGp6VFhrU1NfaXBwUnJPSTl6X3Z2cldwSEotODBQdy1zMGpENVdQQ1hiQW9TUC1fOUd2NzNMdk1zWjlLZEN1QzJOOWdDUVR1MkRFdlFSbjRzOVRWak5iWmt6cWFFTmhvNWlvdl9XVGxwaHE1ZmhJWkQxZ3NzM0t5VVZWM3A3Z3ZiYjhFWXZHQWdoVm83ZjhyMGJXYkIyaDJXampkNmRDRQ"
+      },
+      {
+        "category": "Dividend Maintenance & Capital Allocation",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target declared regular quarterly dividend, signaling confidence in cash flow generation and financial stability.",
+        "suggestedAction": "Reference stable financial footing in account conversations; positions well for continued investment and vendor partnerships.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0"
+      }
+    ]
   }
 ]

@@ -1097,5 +1097,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM?oc=5"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-09-30T18:19:39.353Z",
+    "source": "daily",
+    "headline": "P&G acquisition of Thorne signals expansion into health/wellness; analyst hold rating and regulatory closure are neutral context",
+    "signals": [
+      {
+        "category": "M&A - Acquisition of Thorne",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "P&G acquired Thorne in a $3.8B deal, expanding into the health and wellness supplement/nutrition category. This represents entry into a new business vertical with established brand positioning.",
+        "suggestedAction": "Explore cross-selling opportunities and account expansion into P&G's new wellness division; validate if current solutions apply to Thorne's operations post-acquisition.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk43aVd1UnhodnVyVWRXLWN6ZVFXb3AtQTNhaVFOMk1LajZWV0s3R2tfUW5RRUhsemkyOW85a1RPZUM1UkVQXzQ1dDhla3NSYlRzQlNCTzdsWGw1QWxjZU94VkNkejgzWFRiX3ZpZUN1T2NlYU5QcjVVQmRpZXQ1ZklKb1BuSEpHaUZ5OVBPTGNnREh6QXpmcFZPUkZoUGJzVlpVT2F5TUs"
+      },
+      {
+        "category": "Analyst Rating - Hold",
+        "updateType": "market",
+        "score": 0,
+        "summary": "TD Cowen reiterated a Hold rating on P&G with a $150 price target. Neutral analyst sentiment with no growth catalyst signaled.",
+        "suggestedAction": "Monitor for analyst upgrade catalyst; not an immediate relationship risk but indicates external view of limited near-term upside.",
+        "sourceName": "tradingview.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3pyM2JKaGtaRW5nN3RTeGRtTGszNmVqczZhR0FnUUcyTHZTVmFZYXRQc01fTmxzS3dFRnpPQ2gyWVhkWm5FZHNzNUJaT0RQN2JZSFBoT2xIMW4wYUZKaENPRTdRcW9FUl9SUEpJcjI1X3EtVVk2OVBnZVYyU3Bweks3Qzk0QXBySmdwMUFFLVRhSkRmRk1QRG9OUDFpaXFiSlVrUFBVTVZ5WkVQdjNWSHlGd1Itek1mODJOTExnXzVvLWdBek53"
+      }
+    ]
   }
 ]

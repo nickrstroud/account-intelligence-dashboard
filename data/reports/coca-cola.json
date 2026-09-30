@@ -1144,5 +1144,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1dPMzZ0dEo5WUdISVBRSFJnTXEzbkZvRm9wWjF2ekw0WUgwTGFyemJQanI5cGJwX0RMRVFLMXU0OFlTT0F0OVRNbE9odVd1aHZMRVF3Nm9CSGxZWE1fLVU5Q2xFT2RIZnpYaHE2S21OT1ZiOWh3QVZINjJ4RjdZNWF2aERHS2l3bERJNndwcVhGb0N2clllZQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-09-30T18:18:40.836Z",
+    "source": "daily",
+    "headline": "Coca-Cola executing strategic expansion and leadership refresh with India IPO filing and Monster Energy executive hire",
+    "signals": [
+      {
+        "category": "India unit IPO preparation",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Coca-Cola considering December filing for India unit's $1 billion IPO, signaling capital allocation and potential business restructuring that could unlock new investment channels.",
+        "suggestedAction": "Monitor for IPO completion and resulting governance changes in India operations; assess potential impact on vendor contracts and regional decision-making authority.",
+        "sourceName": "bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0RDcUNYWXJNNlNmalAxSDRpV2w1M3BjdnhEUHNFamZ0OXNrMTBjOHFaNWt2Z2hQYlM1ZWxqS2NIUEYwZ053UDQ2Z2ZvZnYyamxfNGRpWlRWejFzcmdaRVNBdkdLUy16REJjTXlWTk5VYmxvUmZCeEdxcDM5UDZjRDhISmNMWUdSanVhTFlRZ1ZqTTNmakNGYkVvWjcySUZsNkhXM2hsU091TGxsZVBIbXpSWGtlbXp4VndKbTE0ME1uajc1dkE?oc=5"
+      },
+      {
+        "category": "Leadership change - Monster Energy executive hire",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola tapping Monster Energy executive for top role, indicating potential strategic shift and organizational restructuring that could alter decision-making priorities.",
+        "suggestedAction": "Identify the specific role and department; conduct stakeholder mapping to understand if this executive may become a new champion or influencer for vendor relationships.",
+        "sourceName": "The Atlanta Journal-Constitution",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1dPMzZ0dEo5WUdISVBRSFJnTXEzbkZvRm9wWjF2ekw0WUgwTGFyemJQanI5cGJwX0RGUVRLMXU0OFlTT0F0OVRNbE9odVd1aHZMRVF3Nm9CSGxZWE1fLVU5Q2xFT2RIZnpYaHE2S21OT1ZiOWh3QVZINjJ4RjdZNWF2aERHS2l3bERJNndwcVhGb0N2clllZQ?oc=5"
+      },
+      {
+        "category": "Limited-edition product launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola launching limited-edition Holiday Creamy Vanilla flavor, signaling continued product innovation and seasonal portfolio expansion.",
+        "suggestedAction": "Monitor for supporting marketing/promotional initiatives; opportunity to discuss complementary vendor services for seasonal campaigns.",
+        "sourceName": "Talking Retail",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmk5d05VWXZ6MmxHMUVqSXlFRkdDUXRIVVFmY2dnYjFKenFwenB4Z2IzeDM3Q1A1NWhualpucGJVX0hXU1YtUXNXODFwT2YzSXhQMUlBbDJvYVhTelpkbjRzUHhlX2RlakIxYjFpNjFVZ3JfMlFqN0hSSVdDTjJrcS1VWmNfYWZ3blcxZWUteXltN0VCdE9ySktPX0lRZkxVejRxSFNGNTJhbmRDR2xEZkRQcERnQVVaaVBRMUVNc1YwZw?oc=5"
+      }
+    ]
   }
 ]

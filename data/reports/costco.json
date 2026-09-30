@@ -925,5 +925,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDNmXy1lc2oyNVdYeVk3a2xURHl4RVBsSFBucUJubjQ5bnhGZWFQT2ZmTGVYb3hSZFJ5RXNUU050TFMtdzZYcjJna0RPenBpLWt1SU1NaXRWNVRFYnNFWFZPa01PVVdyd0RNTTJjcGdLYTRCLWhNLVVSUkI3MEVtTUg0Mkk0SC15T1FUOVI1MXV0YVEtUEl5aWFDSWNKem5CSGdYc3dsNNIBrAFBVV95cUxQU2RYdjdIOTg4NTgyNHFRa3lBMHo5Q2hLdTl0OFJuLV9SV0hlYTktRU5qU0N3Z2ZhZ1BtdTFpc0cxY2JldVktSXZhSTIyWGxNcHpmalN4MVJ0cFVvU0h0QlpWcXhzTHhXdkpvMENKNDBhdUFyOHhtVjFHaWRqdFZXcVpjSnBILV9KVDNpQ080d19wYmRZMl9RUHNoQ1FEZzVlLXhwRzUzOHNQTkJt"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-09-30T18:20:02.689Z",
+    "source": "daily",
+    "headline": "Costco expanding warehouse footprint and food offerings, signaling growth momentum",
+    "signals": [
+      {
+        "category": "New warehouse expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco is opening 33 new warehouses in 2027, demonstrating significant capital investment and geographic expansion strategy.",
+        "suggestedAction": "Identify opportunities to support warehouse opening operations—supply chain, technology, staffing solutions for new locations.",
+        "sourceName": "marthastewart.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15dTc2RHI2TUJzSjJiLWtDaHVzNXo1bjJzTzJEc1RsX1Bwc0s3bENod1F2cUdpYWI2QkVpR2NfUVJhY19Ic3hYamFpMmlZb3BTUGNBU1lOU0ZjMk8wRHg3TjJvbk5DTnlrR1NlZTZXV3VrSHYwSnV4ZTVFWQ"
+      },
+      {
+        "category": "Fresh food expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco continues to gain momentum in fresh food category, indicating strategic focus on food offering diversification and market positioning.",
+        "suggestedAction": "Explore partnerships in fresh food supply chain, logistics, or food safety/quality assurance solutions aligned with Costco's growth in this segment.",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblltRDhMVW1VZEMtb1NLY1REYmRtZE50anVtRE12UW5fbEtsdkd1LTFiandxbzlqT1AwdWRFUm5TWHRLWFFWOEMwZ1JXNUlTR21ZYlBUYTN2MHNKM0VtTTQyVC1ndUg1NlhFU2tMUTZ2cmlRNktGTDVGZW1qMlZoMTB6RmJubHg2NFJ6ZWFoaHY5Rkk"
+      }
+    ]
   }
 ]

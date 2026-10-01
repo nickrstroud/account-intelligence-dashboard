@@ -951,5 +951,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblltRDhMVW1VZEMtb1NLY1REYmRtZE50anVtRE12UW5fbEtsdkd1LTFiandxbzlqT1AwdWRFUm5TWHRLWFFWOEMwZ1JXNUlTR21ZYlBUYTN2MHNKM0VtTTQyVC1ndUg1NlhFU2tMUTZ2cmlRNktGTDVGZW1qMlZoMTB6RmJubHg2NFJ6ZWFoaHY5Rkk"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-10-01T18:45:23.531Z",
+    "source": "daily",
+    "headline": "Costco expands into Medicare market and fresh foods, but faces legal risk from forced-labor lawsuit",
+    "signals": [
+      {
+        "category": "Business expansion into new markets",
+        "updateType": "expansion",
+        "score": 2,
+        "summary": "Costco enters Medicare market, signaling strategic expansion into healthcare/insurance services. This represents a new revenue stream and buyer engagement opportunity.",
+        "suggestedAction": "Explore whether Costco's Medicare expansion requires new operational or compliance systems that our solutions could support.",
+        "sourceName": "ABC News - Breaking News, Latest News and Videos",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82MmpjS28yMmExWmhVNkw1cDJZTnQ0YkpmSWJCY2xvRXI5Z1lnZUYxYnNZbWxlX1FXWHJBcFRwVFpfN21MQzBuZnZDVmg"
+      },
+      {
+        "category": "Fresh food category momentum",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco continues gaining momentum in fresh food category, indicating sustained business growth and category expansion.",
+        "suggestedAction": "Consider fresh food supply chain/operations as a potential expansion area for account growth.",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblltRDhMVW1VZEMtb1NLY1REYmRtZE50anVtRG12UW5fbEtsdkd1LTFiandxbzlqT1AwdWRFUm5TWHRLWFFWOEMwZ1JXNUlTR21ZYlBUYTN2MHNKM0VtTTQyVC1ndUg1NlhFU2tMUTZ2cmlRNktGTDVGZW1qMlZoMTB6RmJubHg2NFJ6ZWFoaHY5Rkk"
+      },
+      {
+        "category": "Forced labor and child labor lawsuit",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Oregon lawsuit alleges hundreds of Costco products are made with child or forced labor, seeking payouts to members. Presents reputational and operational risk.",
+        "suggestedAction": "Monitor case progression and assess if Costco may need enhanced supply chain transparency/compliance solutions in response to legal exposure.",
+        "sourceName": "oregonlive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaElSOXQyaWNSM1ZZWXBIa2RtQUlpNk9lQ3ZOVF9fS2sxTVVTbkNMX3pnbWw0RDZfU3pfQ1BPSXBRM2YtU0RlTEc4RjRMVXljS29reC1qRnhidC1JQS12cG5qVGw4alM0YTlSVEM0Qk8zOXVDaVZKRkdoR0Z3NEt3blZsSFNTRldPOHFRcHFpYTVlYnI3c0NRTWotV25NbnN3bXNaRF9fMmJUd0tKdTJUSVV6a1RPdDFJaVczbmVISzlaSXJ5anR2TVdpQWotLTluS0pTQkVwNA"
+      }
+    ]
   }
 ]

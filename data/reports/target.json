@@ -754,5 +754,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-10-01T18:45:40.712Z",
+    "source": "daily",
+    "headline": "Target showing mixed signals: analyst upgrade and dividend stability offset by tariff refund litigation risk and stock valuation uncertainty",
+    "signals": [
+      {
+        "category": "Analyst Upgrade – Positive Market Signal",
+        "updateType": "market",
+        "score": 1,
+        "summary": "HSBC upgraded Target Corp stock to Buy with a USD 190.00 price target, indicating analyst confidence in the company's outlook.",
+        "suggestedAction": "Use as positive rapport-building talking point in quarterly business reviews; signals customer's financial health and market confidence.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWZ5a1d2cnlJMElMTWhLeExQMTlvQnJmYWJXa0ZmcldHaEE1Z0UtVlZfWGNJZzVDSmljdG1UTURqZFVJaVZHUmgtbF9KdU9XRzM5NW96QmNCS1ZXcGQxNnJmREROa0pRSk1WNFhGYk1OVG1sOFUwT0N0T0tfTlkxQXZPSUNQaWg2N1BLNmlMOVlySzJUVE5LbUs2UnlCeVBfanZ0RVFibWJTUnZRdU15bFdxVFRBOGF5VlZGREZrU1Rxdw?oc=5"
+      },
+      {
+        "category": "Dividend Declaration – Financial Stability",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target declared a regular quarterly dividend, demonstrating continued shareholder returns and financial stability.",
+        "suggestedAction": "Reference in stakeholder conversations as evidence of financial health; use to reinforce long-term partnership viability.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0?oc=5"
+      },
+      {
+        "category": "Class Action Litigation – Tariff Refund Dispute",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "A class action lawsuit claims Target has no plan to return a $994 million tariff refund to consumers, creating potential legal and reputational risk.",
+        "suggestedAction": "Monitor litigation outcome; assess whether resolution impacts Target's cash flow or operational priorities. Could affect budget availability if settlement is costly. Consider discussing business continuity and compliance frameworks in next check-in.",
+        "sourceName": "Claim Depot",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTBMREVHT3laOVBvaDBjS2hPSXh4OGdieWFnaDNhTThLSnFPaFRUODYzSk1XWENFczJYTkNOelpxandyd2NLSmVQYnY3SnJIQncxOHJJUkpwTmZYVUEyVmQwSUdGc0FreDk4Tng0dGpZTkg3eUNIUzhudnNRUGFMUUhONFIwa1JMa05kYnpwejlGbUVOcS1hOG55Y3JodnR4N0ZldDNUVE1Uejg?oc=5"
+      }
+    ]
   }
 ]

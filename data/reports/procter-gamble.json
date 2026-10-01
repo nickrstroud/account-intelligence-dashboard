@@ -1123,5 +1123,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3pyM2JKaGtaRW5nN3RTeGRtTGszNmVqczZhR0FnUUcyTHZTVmFZYXRQc01fTmxzS3dFRnpPQ2gyWVhkWm5FZHNzNUJaT0RQN2JZSFBoT2xIMW4wYUZKaENPRTdRcW9FUl9SUEpJcjI1X3EtVVk2OVBnZVYyU3Bweks3Qzk0QXBySmdwMUFFLVRhSkRmRk1QRG9OUDFpaXFiSlVrUFBVTVZ5WkVQdjNWSHlGd1Itek1mODJOTExnXzVvLWdBek53"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-10-01T18:44:50.795Z",
+    "source": "daily",
+    "headline": "P&G executing M&A strategy and expanding into health/retail media, with mixed market signals on pricing pressure",
+    "signals": [
+      {
+        "category": "M&A - Thorne acquisition",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "P&G completed a $3.8B acquisition of Thorne, expanding into the health/wellness supplement category. This represents significant capital deployment and entry into a new consumer segment.",
+        "suggestedAction": "Explore opportunities to support P&G's integration of Thorne brand across supply chain, ecommerce, and retail distribution networks. This M&A activity may create new IT, operations, or vendor consolidation needs.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk43aVd1UnhodnVyVWRXLWN6ZVFXb3AtQTNhaVFOMk1LajZWV0s3R2tfUW5RRUhsemkyOW81a1RPZUM1UkVQXzQ1dDhla3NSYlRzQlNCTzdsWGw1QWxjZU94VkNkejgzWFRiX3ZpZUN1T2NlYU5QcjVVQmRpZXQ1ZklKb1BuSEpHaUZ5OVBPTGNnREh6QXpmcFZPUkZoUGJzVlpVT2F5TUs"
+      },
+      {
+        "category": "Strategic business expansion - retail media and ecommerce",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is actively investing in retail media and short-form video marketing at scale, signaling growth in digital commerce and direct-to-consumer channels. This reflects modernization of sales and marketing infrastructure.",
+        "suggestedAction": "Assess current vendor coverage for retail media operations, ecommerce tech stack, and digital marketing infrastructure. P&G's expansion in these areas may require new solutions or expanded partnerships for content management, analytics, or advertising tech.",
+        "sourceName": "Google Business Profile",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2xLYzJ2bkRFTjJHX1VwTC1nYXF5OUI2NzRPd21KcTBMMDUzb0NQTTRvVEZ1S3R3Mnd2eGxmd3ZmMFU2VVNaenRwTnRqNURpLW13c3U3Q3N6djZuUDhPQjRWcGRaSzRKZ1BBWUVPb1ZjM1hyb2N6S0s4QVExM2RhSjRwbEpLc05FcFkxbE1oX1c3Si1ERk5zTGxZUFdBTjdIVFoyVVJycU51TGJBMTUxX0NybGR6cXdZSGg4djJwUQ"
+      },
+      {
+        "category": "Market pressure - pricing concerns",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Consumer tracking data shows P&G products experiencing price increases over the past year, which may signal margin pressure or indicate consumer sensitivity/demand softness that could impact volume.",
+        "suggestedAction": "Monitor P&G's upcoming Q1 FY26/27 earnings call (Oct 22) for guidance on pricing elasticity, volume trends, and margin outlook. Pricing pressure may create budget pressure on P&G's discretionary spending with vendors.",
+        "sourceName": "WCPO 9 News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVk5sVW1wcXFZVzE4bXBHZnFCU0tyXzNSUTlTeU9EX3FSZ3Y4a1lMc1cxaVZWbHR1Ui1oeHNCMWVIRjBWcUlBTm9uUmttazJsSHAyTC1GaW5lSjNoTUpYSjlSd2tLOWtUWms4eFR3VUcwUG9YM1p6SXh3Qm1hM21nLWtna1o1aktKbk1FSlQybUZaNzdnUE1sWDQybmJsbklZWkRQNWFzZmhNRTg3N0FEQ3JMUVB0QndydFIwbGxZVzByYlVmVkJJ"
+      }
+    ]
   }
 ]

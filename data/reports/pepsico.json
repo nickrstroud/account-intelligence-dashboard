@@ -1439,5 +1439,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWw4cUgwa2Mza3ZXQy04UGRDWjNNdVJYa01tSk9MRGRaRlRBQnZES3g0dTRjZXpoMXI2UnJfTjhJQk00NUVoaFR1SXl3cC1sc0hTQ3ZBbTEyMHlWdzFoUGlsWndMQzdGNkVPd0VPUG9ZWGhIOERLRnZzb1Q1Wmc5TDFWcVRxQ0hXZWZsSUNVTFctNl93NDdySWtHcXZYbklnMjhHR2dGZ2lNUmluZjNNTW01clAySUhaeHdXeW9kSGh2LVkteXR3bg?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-10-01T18:44:19.580Z",
+    "source": "daily",
+    "headline": "PepsiCo facing near-term margin and market headwinds; regulatory risk in India energy drink category alongside North America performance concerns",
+    "signals": [
+      {
+        "category": "Regulatory challenge affecting revenue and product categorization in emerging market",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "PepsiCo and Monster are challenging India's proposed 'energy drink' label ban, citing business impact. This regulatory action threatens product positioning and sales in a growth market, though it's a shared challenge with competitors.",
+        "suggestedAction": "Monitor regulatory outcome in India; assess if energy drink portfolio restructuring becomes necessary. Understand any potential impact on PepsiCo's broader beverage strategy.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscVI0?oc=5"
+      },
+      {
+        "category": "North America business performance deterioration and margin pressure from pricing strategy",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Multiple sources report PepsiCo's North America problems persisting and plans to raise prices on sodas, chips, and dips causing Wall Street concern. This suggests margin pressure and potential demand softness that pricing alone may not resolve.",
+        "suggestedAction": "Assess impact on customer profitability and volume trends; prepare for potential budget defense conversations. Understand if PepsiCo's pricing strategy will trigger increased promotional pressure from major retailers.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVF8xNzdBMDhSQlJWMk41MzVwVER2YUIwT1MyUlRYOHplN3BtNFVNaVFOblc5M3dYQzNKNmpfRHp5R0lXZ0hUUmZ6MFZrRnpIcnNWRDBKSFZZTU9BaWlUdjZoUk1yeVhNTXBsSTVlYUlPeTZHWmlsTEd2U09TMHZodUNfWVJGQ1JMc016MURCcUVDaGN4UmVqbDFpNXpSdXZjekd2OQ?oc=5"
+      },
+      {
+        "category": "Brand reputation risk from product/packaging changes impacting consumer sentiment",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "PepsiCo Foods announced a change causing consumer backlash ('swearing off the brand for good'), suggesting brand loyalty vulnerability tied to operational or product decisions.",
+        "suggestedAction": "Identify the specific change and assess whether it affects demand forecasting or promotional requirements. Monitor if sentiment spreads to retail shelf-space discussions.",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56UjJvMVlCWi0wZ0NKYll2U0xhZFkzNUVySVY3V2dMQTA3bUJYSm1OTGU4UzJxRUxCOERJUEhIYmpna2YyY1RzeUw1NmlxX25xZWV2T1hJd2ZlbFF6NjRVV1pWZlYtM0VqRjN2VHJYTHFWMUh3d0pzakVMYXFJZw?oc=5"
+      }
+    ]
   }
 ]

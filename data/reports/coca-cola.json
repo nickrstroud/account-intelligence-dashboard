@@ -1179,5 +1179,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmk5d05VWXZ6MmxHMUVqSXlFRkdDUXRIVVFmY2dnYjFKenFwenB4Z2IzeDM3Q1A1NWhualpucGJVX0hXU1YtUXNXODFwT2YzSXhQMUlBbDJvYVhTelpkbjRzUHhlX2RlakIxYjFpNjFVZ3JfMlFqN0hSSVdDTjJrcS1VWmNfYWZ3blcxZWUteXltN0VCdE9ySktPX0lRZkxVejRxSFNGNTJhbmRDR2xEZkRQcERnQVVaaVBRMUVNc1YwZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-10-01T18:43:59.635Z",
+    "source": "daily",
+    "headline": "Coca-Cola leadership expansion hire and operational execution signals amid competitive landscape",
+    "signals": [
+      {
+        "category": "Executive Hire - Monster Energy",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Coca-Cola tapped a Monster Energy executive for a top role, signaling leadership strengthening and potential strategic focus on energy drinks—a high-growth category.",
+        "suggestedAction": "Understand the new executive's mandate and any shifts in Coca-Cola's strategic priorities; this could present re-engagement or cross-selling opportunities depending on their function.",
+        "sourceName": "The Atlanta Journal-Constitution",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1dPMzZ0dEo5WUdISVBRSFJnTXEzbkZvRm9wWjF2ekw0WUgwTGFyemJQanI5cGJwX0RGUVRLMXU0OFlTT0F0OVRNbE9odVd1aHZMRVF3Nm9CSGxZWE1fLVU5Q2xFT2RIZnpYaHE2S21OT1ZiOWh3QVZINjJ4RjdZNWF2aERHS2l3bERJNndwcVhGb0N2clllZQ"
+      },
+      {
+        "category": "Local Hiring Activity",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola Beverages Florida announced several local job openings, indicating operational growth and expansion in a key market segment.",
+        "suggestedAction": "Monitor hiring pace and function focus; could signal capacity growth or preparation for new product/channel launches in the region.",
+        "sourceName": "wftv.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXFMQUE2dWRBSUh6S21mZ3VVOXVkS0FGRFRTNWtjZmRGNlJNM2pabVRsckkxMWUxOWZSQlNHb0N6S2E4SVZyc1RRcG5ZSXdScG40LThtblYxYWpWS0dJR0kwZlF4VU5kLTBTNzJ0MmlZOVFQaXRNV0dyYmxHNWZDTUgtV3ZENjF5a2V5OVd2YlRvN3VNeDFobDJhOUVhS1ZRTWY4QnRfcE55YWtIWGdlS1ZVOEpOanFXOGE2UksxYmRod9IB1gFBVV95cUxQRExMQkJpakU0VFliOHRiSXR4SzZrLTl3RGhXT0VNSDRweXRkUGJxa09wOTEtWVNwLTh1TVQ3NWE5aHNOUWxVbUlKYzFQRExMUzh5LUxwYklKQ0ZnQThtTUJMVmdhWFNwRks1VV9WV0JFZ1kzY2N4bjB6dzhtaGxSTEJYUUc4di1Tcl9sVUtMR1VyS3VGWWwzcGt4S2VkTFprLXkxRGs1UDN0d1praU00X3h3UFRNQ294MGtVdGdrNEpyeVZwTjIxOUNmR1NvTFM1WVlrdXlR"
+      }
+    ]
   }
 ]

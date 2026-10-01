@@ -1336,5 +1336,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSm0zOVBfYWU4ZnpYbjNjTnFDVWtOcHA1dHluVkZIUlE0ck9LdWc2M2h3N2J5eWFFRFFnU0hURTlaWkoxOHJIN3JVT2xWUGE0RG1lMlFmUThORm9JUkRlQ0RYNDNEdnc4VkpERGVReGkxd19mcXBBMi1LZk1DS2RaN2dJclVMWjVNbGFJZ0Z1RVFLVFhtaVAxMzE5bll3QnN2MnQzRkVOTDVNV1Y1dDNueDVrc1FhcHMyOHJLc3JPalF5Z183aHRRSXhRbkdSbmQwOFYxTllYRm4tdXdxaG5ndmN1VlhpdnoyQkFKc0trTTJsNnBQb2tQNE9ZcFJuYUlJUDRZdllR?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-10-01T18:45:54.307Z",
+    "source": "daily",
+    "headline": "Kroger pursuing operational expansion and customer loyalty initiatives amid competitive pricing pressures",
+    "signals": [
+      {
+        "category": "Business Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger testing 24-hour stores in Ohio and Indiana, indicating expansion of store operations and extended service hours to capture additional customer traffic.",
+        "suggestedAction": "Identify opportunities to support extended-hours operations (e.g., staffing, logistics, security, cleaning services).",
+        "sourceName": "qz.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82ZmhWZ3dIa1Bwek95RmVoRUc5emtoczczTGxCTDRlOVc3UFhyQm9qQXV2ZFM5YURLdFoyWGlkTWVWTTBaT29IblVWN1h0MV95Y0JnZE0tQ3dNZmFhNVMtbXdFNWpBZkU?oc=5"
+      },
+      {
+        "category": "Customer Loyalty Program Launch",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger launched Kroger Rewards World Elite Mastercard to increase customer engagement and retention, indicating investment in customer loyalty infrastructure.",
+        "suggestedAction": "Explore partnership opportunities related to loyalty program operations, card management, or data analytics supporting the program.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY1E0Q1ktN3gyckdYb09Xc093S0pFanJ0aG9vY0lpMFprZmE0dzlpRHFEX0tDNE8xWGU2UXJpbTlvbWFBTHUyZDJIY3cwY1VLR0lISEhEQ1o3ejZ4NkJESUNRbXYxb2NDZ0VMZG5OQXJ4Rk1hTG1tM2lsamJ3Y2p2bXV3THFuWjhCamNtUVNwTGlKNzgwQXFDV0RlRFNZNmpTcGNUTUY3MHVUdGdxd1BWekhsalhlUUxHQUJmOUZvcERiLVhENl9TQXdMNnJJUWNPb1ZUQ3VQeXcxWERYcGZGdmVXdFk1R1ZXdzltOG04eUxwMF9LejRIN2hlbmt6YjQ?oc=5"
+      },
+      {
+        "category": "Competitive Pressure - Supplier Relations",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger removed Red Bull from shelves in a high-stakes push for everyday low prices, indicating aggressive cost-control measures and supplier pressure that could impact vendor negotiations.",
+        "suggestedAction": "Monitor implications for supply chain relationships and review any exposure in Kroger's procurement or vendor management processes.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkJUTm9ieExuS1l0dkJoYzlmS1ZNQ2U0VV82WWlYb0ZvSXRsMzMwOUVvblhJOFNuUHQ5bmxOa0NrZHpjUDZZNXgzWDkyMTZPYWFxNUplN3M4UjRjUV9Nb1AwVjNQTEZOd2xvS2JwdzZZOUJzQXVPRGpzUC1vUzJ2NEJIU1FRZzg0LUV4VTEyQ2lNS2NXODMxUUN6bDctQzJqbXNhOF9Scw?oc=5"
+      }
+    ]
   }
 ]

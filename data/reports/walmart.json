@@ -967,5 +967,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMie0FBVV95cUxNdGkxM2pKUmR2MDJlcXU0ange4VlprWHh5RXZzWlhUR1E2eUlNT2xfV1ltNlRMUHZaYUJKcmtiRVBQdk1xQnN2dWRKbEV6a3JMUDhhT29id1lNLTFEcFlBbjV0YjgyeW5Wd0k5OXBXN0V2REFXZVBTYjBIWQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-10-01T18:45:11.514Z",
+    "source": "daily",
+    "headline": "Walmart shows operational innovation with digital shelf tech and stricter vendor controls; product recall and competitive marketplace pressure manageable",
+    "signals": [
+      {
+        "category": "Technology Innovation - Digital Shelf Labels",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is deploying light-up digital shelf labels to improve shopper and employee experience, indicating continued investment in store technology and operational efficiency infrastructure.",
+        "suggestedAction": "Identify opportunities to support Walmart's broader digital transformation strategy; explore integrations with their shelf labeling ecosystem.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91Q2hUcGxoc0VkLWN5d0ZMYTFlang4SGU2OXZEOE5yTEljS08tRXVZdlhiYzJOYm1GeEYtSkZZaGFWbFN1bXVTZkh1SFlKTkItd1hIZVJsMjN5dEhKNE9lM1RFSncySFlHMVZTMWN2NV9iWTNkQW9haDJR0gF_QVVfeXFMUFBta2I5MzhOTzY2SmZ3bUdid2l6M05Edncta2R4cER3cVhZOW9mQ0hPd1g2LWdCN2k0ZUQxOEFnZmt3STRKSjV1MGxrRm1YY2RVeUtqVEYwa1Y5c0RlY2dwVXZ4TnNEV1Q1TUg5bmdxTWVSbnpTbWRjaExDOW0wOA"
+      },
+      {
+        "category": "Vendor Controls - AI Content Standards",
+        "updateType": "market",
+        "score": 0,
+        "summary": "Walmart is banning AI-generated signage ('AI slop') in stores, signaling stricter vendor/supplier content standards and quality controls.",
+        "suggestedAction": "Review any marketing materials or vendor communications for compliance with Walmart's AI content policies; ensure all submitted content meets their quality standards.",
+        "sourceName": "businessinsider.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjajFvekFQWWw3OWZVX0lDR1lhMV9rUzhEQUt5N1hqYTlRYTcwMld3SjNhemoyVnZlblA2SV9RYzRYZ2hVX1Q1M05XYVNuT3pFV1QtYmx4ckprZVQ3aV91RUE0eTZSbDdpdDA0U2Fsa3JveHQ3YmZjY0dpM2U4Zw"
+      },
+      {
+        "category": "Marketplace Competitive Pressure",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Amazon and Walmart are racing to become the operating system for merchants, with Walmart's Flipkart and Amazon pushing merchant platform services. This indicates intensifying competition for vendor/supplier relationships.",
+        "suggestedAction": "Monitor Walmart's evolving merchant services strategy; assess whether their push for an integrated merchant OS creates new partnership or integration opportunities.",
+        "sourceName": "PYMNTS.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGNZUkd4REgxS1Z1UUdnQlFqbGtlcmtNaGxxR05Xb0FvakJlQWhZdlVoUnpHRy13OFFtTXRYc3hXS0dTTkVGTi1KWEd5ZS1sc1JBblJvSDBDTDFxUF9RVmdBSmFXV0x4MGR2eTR0djZiQzFELTc5cjFlelhrRWpCZm5GZjNxeXFmQ29FcE1JdG1xVjlpQ01pWU04RkhVYmJkS0lj"
+      },
+      {
+        "category": "Product Recall - Regulatory Compliance",
+        "updateType": "legal",
+        "score": 0,
+        "summary": "Walmart recalled 4.4 million Expert Grill Brushes due to ingestion hazard. This is a standard product safety recall managed through CPSC; reflects normal retail operations and vendor quality control.",
+        "suggestedAction": "Monitor for any systemic issues if product recalls become frequent; ensure vendor quality agreements are in place and enforced.",
+        "sourceName": "CPSC.gov",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOak9ycGdIcjk5cFJodHUwc09sSnZnUUtuSEhLdDZ5RTk0NFpUYm1aa0VQdlNWV0g1eEZNel9SbWZXUG9rX2dpQ2ZYdVQtTllTYVNJdEFCUm5FdVNTTnVOZlIzRHNsTDRSTER0eUlJa0RaUl9WQnhQZ3NIa1h0N0ZCRXZhcFJ6U2p1SkkyUElKRE5McHhqeXQ5VGZ0WElEM25VWDBDNUFFYjQ2RHlsT2t6cw"
+      }
+    ]
   }
 ]

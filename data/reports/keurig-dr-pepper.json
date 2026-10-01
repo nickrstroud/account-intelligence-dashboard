@@ -1223,5 +1223,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm1ZaWtzT3VZY2thcUp6T29QaFFIYVVLZ1g5YkR1RW1NQ3hvcThlZVRSQnFYV1lCdXZncnEwWTI5dl9aVTZIeHNVS0llanI2RU5rVDYwd3RZZ2l6LTR2OXZTSzdSTi0tU1ltYjQycGg2eTVRa0dYTlFyWDF1dTRZU3dYMWxNWG5mTkczZlQ2cU82M0JFWmRDQUdETE50OU1nOXloaEpqdlJld1FKV3Q3dG9sY05Kb1JKeHBhaXRLYk4?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-10-01T18:44:33.078Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper appoints Russ Torres (ex-Kimberly-Clark) as CEO of Future Global Coffee spinoff—signals leadership stability and strategic focus ahead of planned separation",
+    "signals": [
+      {
+        "category": "Leadership Change - External Hire",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Keurig Dr Pepper hired Russ Torres, former President at Kimberly-Clark, as Chief Executive Officer of Future Global Coffee Co. This is the third CEO appointment for the coffee spinoff entity, suggesting KDP is preparing for a planned business separation. Torres brings proven consumer goods leadership experience.",
+        "suggestedAction": "Clarify KDP's timeline for the coffee business spinoff and assess how leadership stability under Torres may affect budget cycles, vendor relationships, and procurement priorities for both the coffee and broader beverage divisions.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWI0N1lEX3E2YzNfUFdvX1pONnRrUk1NQnJtVjNwNnphUDlUTFMweUs3TjFfYzdidTBCLUhNSUE2NEx4YmsxaHhYTUduWjFWSDR2cVJEelh5ZVZSUjNRTkdjZmlwQnJwaXAzZnE4eGRpVkthZzZBZnFtb1A2UFU0ckNEOUxiYmNBTy1qVUw4eExpdVFuWm1WVElISUs3V0hLeE91M3o2SVJwci1iZ3dWMXktNmJyZw?oc=5"
+      },
+      {
+        "category": "Business Restructuring - Spinoff Preparation",
+        "updateType": "restructuring",
+        "score": 1,
+        "summary": "The appointment of Torres as CEO of Future Global Coffee Co. ahead of KDP's planned coffee business separation indicates active preparation for splitting the company. This structural change may impact vendor consolidation, contract renegotiation, and budget allocation strategies.",
+        "suggestedAction": "Monitor the spinoff timeline and engage with both the coffee division (under Torres) and remaining KDP beverage operations to understand procurement changes, contract transfers, and budget implications for account renewal and expansion opportunities.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMieEFBVV95cUxOcRRWZ2pKRW9Db2xkbVNNNDBCakNGbVJ6Z25vcS1jOGVnWkJVSXQ5NGJRNVpUcE9fS2NHR2s2VFAtMGxIR2FaT09PREoyVWpaV2RRZVhmUG5KT3JMNGlQMDM0OGNiM2ZIZGI3d1hJQnY2bg?oc=5"
+      }
+    ]
   }
 ]

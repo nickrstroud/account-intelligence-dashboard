@@ -1371,5 +1371,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkJUTm9ieExuS1l0dkJoYzlmS1ZNQ2U0VV82WWlYb0ZvSXRsMzMwOUVvblhJOFNuUHQ5bmxOa0NrZHpjUDZZNXgzWDkyMTZPYWFxNUplN3M4UjRjUV9Nb1AwVjNQTEZOd2xvS2JwdzZZOUJzQXVPRGpzUC1vUzJ2NEJIU1FRZzg0LUV4VTEyQ2lNS2NXODMxUUN6bDctQzJqbXNhOF9Scw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-10-02T18:17:34.598Z",
+    "source": "daily",
+    "headline": "Kroger expanding store footprint and modernizing operations with strategic acquisitions and format improvements",
+    "signals": [
+      {
+        "category": "Geographic expansion and real estate strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger acquired shopping center property in Portage, Michigan ($10.35M) to establish new grocery store presence, signaling geographic expansion and commitment to new markets",
+        "suggestedAction": "Review Kroger's expansion roadmap for new locations that may require your services; identify if Kroger is expanding in territories where you have strong coverage or need to build presence",
+        "sourceName": "WWMT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlZUMVI1anh4YXV1Y0VxTDlfa1NJRTFhaGQxMW5sX3E0dkNlalhaOWUtS0xJS0VBb3hRZENYXzgxcmRnUnptdVBlSVFlME91NGJMZUxwNWNEd3RyOVhjZ1ZQOUZrMXBXWHAwM0Q2V0dWRXFORUdscG9rZlJGTTlKaXZxWVd5M081b0ZjMDl3a3k5RG5HZmUtUkFqU1V5NmZwRU52NEdFdHo3cjBVdEp2U3h5bDdpV3FnemszWFN1Yw?oc=5"
+      },
+      {
+        "category": "Store modernization and customer experience refresh",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "Kroger rolling out new employee uniforms and implementing Walmart-style store features (e.g., new in-store amenities), indicating modernization and competitive repositioning",
+        "suggestedAction": "Monitor whether these modernization efforts signal broader IT/systems investments or if they create new procurement needs that align with your solutions",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmRobEFSTThvaGRmSE5nX09Nbkctdmlmb1pfQmNfeDV6ZGJyajBOR291VmVXd2xNcFBBVk15cFlNU2JHRlFHeGxnbjBZXzIxcHVWcnJTeVg3Zjh5NEhJb1VMNWdOWk9vRGhkb2VvNDIzVWszRUc2Nm1XVzJGU21SbmUyZ0xrdlVmMjJvbzgwcVJEeG82YlZJWnI2WDNFWk5obzVTQVQ2NTlQb2RHM0VfZnNSZ1MxaWdD?oc=5"
+      },
+      {
+        "category": "Competitive positioning and format strategy",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger explicitly adopting Walmart-style operational approaches and features, indicating competitive pressure and need to match Walmart's efficiency and customer experience",
+        "suggestedAction": "Assess whether Kroger's competitive repositioning creates risks for your current service/product differentiation; consider if Walmart-alignment means new vendor requirements",
+        "sourceName": "wsj.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0ZMLWl3WHFPZ2thVWhrTUNGTkNSVms0Qk9PZG1UNXpHSi10aG5mN0d5R2ZTVkxfamNUU29oNE5uWlExdVpqbXBqM1pob3hrZDgyOGM3MGFHWGZFY0lxblBpNXQyTWxuVnZTU014SVpPM3JsTmVfRmV2R1JjODA1aGRXUTNfN1BMQ0dxSmcyWHJ1c2c?oc=5"
+      }
+    ]
   }
 ]

@@ -1474,5 +1474,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56UjJvMVlCWi0wZ0NKYll2U0xhZFkzNUVySVY3V2dMQTA3bUJYSm1OTGU4UzJxRUxCOERJUEhIYmpna2YyY1RzeUw1NmlxX25xZWV2T1hJd2ZlbFF6NjRVV1pWZlYtM0VqRjN2VHJYTHFWMUh3d0pzakVMYXFJZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-10-02T18:15:55.025Z",
+    "source": "daily",
+    "headline": "PepsiCo navigating pricing pressures and growth headwinds amid regulatory challenges and market skepticism",
+    "signals": [
+      {
+        "category": "Price increases indicate margin management and potential demand headwinds",
+        "updateType": "earnings",
+        "score": 0,
+        "summary": "PepsiCo raising chip and soda prices following earlier February cuts, suggesting cost pressures and pricing power dynamics. Mixed signal—price increases can support margins but may indicate struggling top-line growth.",
+        "suggestedAction": "Monitor Q3 earnings closely for volume/demand trends and guidance updates; assess if pricing is sustainable or if margins are being squeezed.",
+        "sourceName": "qz.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLWk9SZ3lGSzkySlRXQ1ZGTUdhSVpwWWdYR2dPaUJRcnRYYWowZ2RaVkI0LXdkc1drOS1Rel9jUDNSUE1wbGRiUkdaVUlibkZscTBzNGtpc1ZISXNVenlBdVUyX09oUzZfaXdILXBIaVAzdw?oc=5"
+      },
+      {
+        "category": "Regulatory challenge in India energy drink market could impact regional growth and product portfolio",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "PepsiCo and Monster challenging India's energy drink label ban, citing business impact. Regulatory uncertainty in a growth market presents risk to expansion plans and revenue forecasts.",
+        "suggestedAction": "Track regulatory outcome in India; understand exposure of PepsiCo's energy/performance beverage portfolio to this market and potential workarounds.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscUI0?oc=5"
+      },
+      {
+        "category": "Growth concerns and valuation pressure reflect investor skepticism about expansion trajectory",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Stock appears cheaper but growth remains the key concern per analyst commentary. Market pricing in lower growth expectations, which could affect budget availability for customer solutions/expansion.",
+        "suggestedAction": "Prepare for potential cost-control conversations with PepsiCo; frame solutions around operational efficiency and organic growth enablement rather than expansion-heavy pitches.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUtIQUpsZk5rLVBFczBMYnA5SDVnRUtieXFZTEw2a2t4WV9nVEpVbXRsVjQxQnA0MDZHaW0xMTU0elNBcllESTFiYjJSdTB5YTRSbTBMQ3VTTXotWml0TjFTeDJYOW1sbVhRaVFwWjA4UWdGbVQyanFndDJqbGJqSHlIZW9VUWpRN3YwN19RNXV0dFUxSTZkSnM5dHVmOVAy?oc=5"
+      },
+      {
+        "category": "Product/brand perception risk from recent changes alienating consumers",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "PepsiCo Foods announced a major change driving consumer backlash ('fans swearing off the brand for good'). Brand reputation risk could impact long-term customer health and pricing power.",
+        "suggestedAction": "Monitor brand sentiment and customer churn metrics; understand if this impacts PepsiCo's internal priorities and budget allocation. Potential PR/comms support opportunity if managed well.",
+        "sourceName": "Allrecipes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56UjJvMVlCWi0wZ0NKYll2U0xhZFkzNUVySVY3V2dMQTA3bUJYSm1OTGU4UzJxRUxCOERJUEhIYmpna2YyY1RzeUw1NmlxX25xZWV2T1hJd2ZlbFF6NjRVV1pWZlYtM0VqRjN2VHJYTHFWMUh3d0pzakVMYXFJZw?oc=5"
+      }
+    ]
   }
 ]

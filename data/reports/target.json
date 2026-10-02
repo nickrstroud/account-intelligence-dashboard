@@ -789,5 +789,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTBMREVHT3laOVBvaDBjS2hPSXh4OGdieWFnaDNhTThLSnFPaFRUODYzSk1XWENFczJYTkNOelpxandyd2NLSmVQYnY3SnJIQncxOHJJUkpwTmZYVUEyVmQwSUdGc0FreDk4Tng0dGpZTkg3eUNIUzhudnNRUGFMUUhONFIwa1JMa05kYnpwejlGbUVOcS1hOG55Y3JodnR4N0ZldDNUVE1Uejg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-10-02T18:17:14.515Z",
+    "source": "daily",
+    "headline": "Target shows revenue growth and dividend stability amid consumer refund controversy",
+    "signals": [
+      {
+        "category": "Revenue Growth",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corporation reports 5.3% sales growth, indicating solid business performance and market demand",
+        "suggestedAction": "Use growth momentum as confidence signal in account discussions; explore expansion opportunities aligned with their growth trajectory",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUVOZ0lKWjF5YmdzSTNKU2xRemtsNGp6VFhrU1NfaXBwUnJPSTl6X3Z2cldwSEotODBQdy1zMGpENVdQQ1hiQW9TUC1fOUd2NzNMdk1zWjlLZEN1QzJOOWdDUVR1MkRFdlFSbjRzOVRWak5iWmt6cWFFTmhvNWlvdl9XVGxwaHE1ZmhJWkQxZ3NzM0t5VVZWM3A3Z3ZiYjhFWXZHQWdoVm83ZjhyMGJXYkIyaDJXampkNmRDRQ"
+      },
+      {
+        "category": "Dividend Declaration",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target declares regular quarterly dividend, demonstrating financial stability and shareholder confidence",
+        "suggestedAction": "Reference financial health as indicator of budget availability and customer stability in renewal/expansion conversations",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0"
+      },
+      {
+        "category": "Consumer Refund Class Action",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Target faces class action lawsuit over alleged failure to return $994 million in tariff refunds to consumers, creating reputational and legal risk",
+        "suggestedAction": "Monitor legal developments; if litigation escalates or damages emerge, be prepared to discuss support for compliance/trust-building initiatives; avoid leading with this issue unless account raises it",
+        "sourceName": "Claim Depot",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTBMREVHT3laOVBvaDBjS2hPSXh4OGdieWFnaDNhTThLSnFPaFRUODYzSk1XWENFczJYTkNOelpxandyd2NLSmVQYnY3SnJIQncxOHJJUkpwTmZYVUEyVmQwSUdGc0FreDk4Tng0dGpZTkg3eUNIUzhudnNRUGFMUUhONFIwa1JMa05kYnpwejlGbUVOcS1hOG55Y3JodnR4N0ZldDNUVE1Uejg"
+      }
+    ]
   }
 ]

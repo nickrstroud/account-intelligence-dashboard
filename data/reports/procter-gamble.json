@@ -1158,5 +1158,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVk5sVW1wcXFZVzE4bXBHZnFCU0tyXzNSUTlTeU9EX3FSZ3Y4a1lMc1cxaVZWbHR1Ui1oeHNCMWVIRjBWcUlBTm9uUmttazJsSHAyTC1GaW5lSjNoTUpYSjlSd2tLOWtUWms4eFR3VUcwUG9YM1p6SXh3Qm1hM21nLWtna1o1aktKbk1FSlQybUZaNzdnUE1sWDQybmJsbklZWkRQNWFzZmhNRTg3N0FEQ3JMUVB0QndydFIwbGxZVzByYlVmVkJJ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-10-02T18:16:30.198Z",
+    "source": "daily",
+    "headline": "P&G shows strategic expansion and operational innovation while maintaining stable operations; mixed signals on valuation and market positioning",
+    "signals": [
+      {
+        "category": "Business Development & Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G acquired Thorne Health for $3.8B, expanding into the health/wellness category and acquiring a brand platform that was recently established. This represents significant portfolio expansion.",
+        "suggestedAction": "Explore cross-selling opportunities within P&G's expanded health/wellness division; identify integration touch points and new buyer personas on the Thorne side",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk43aVd1UnhodnVyVWRXLWN6ZVFXb3AtQTNhaVFOMk1LajZWV0s3R2tfUW5RRUhsemkyOW85a1RPZUM1RkVQXzQ1dDhla3NSYlRzQlNCTzdsWGw1QWxjZU94VkNkejgzWFRiX3ZpZUN1T2NlYU5QcjVVQmRpZXQ1ZklKb1BuSEpHaUZ5OVBPTGNnREh6QXpmcFZPUkZoUGJzVlpVT2F5TUs"
+      },
+      {
+        "category": "Operational & Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G is expanding globally its AI-powered quality control solution ('scrap killer'), indicating investment in manufacturing efficiency and digital transformation initiatives.",
+        "suggestedAction": "Identify manufacturing/operations stakeholders at P&G who may benefit from complementary supply chain or quality management solutions",
+        "sourceName": "PYMNTS.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOENJQ21UZkRVTy1BeEEwYWxvNHJfTHVSeU8ydWc3SkdkdWZ6djFvUGd0cEVYa0hkdks2eDJXRGtwX291RVBfdnJkbnQ1RVl5ME55a25DNnU0a1JpLS1XaHZ4Q2huNEc5M2lTVjF4N3lZdHdQRy1mS3VndVYwREtRUUFNS0hGY3VLUnMzbUZNMlNpZWhvSUQ0aQ"
+      },
+      {
+        "category": "Corporate Responsibility & Brand",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G joining industry initiative with PepsiCo to replace nonrecyclable flexible plastic packaging demonstrates commitment to sustainability and ESG alignment, improving brand reputation.",
+        "suggestedAction": "Position vendor as sustainability-focused partner; emphasize ESG credentials in account communications and use as rapport-building talking point",
+        "sourceName": "As You Sow",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ"
+      }
+    ]
   }
 ]

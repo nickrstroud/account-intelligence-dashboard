@@ -1249,5 +1249,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMieEFBVV95cUxOcRRWZ2pKRW9Db2xkbVNNNDBCakNGbVJ6Z25vcS1jOGVnWkJVSXQ5NGJRNVpUcE9fS2NHR2s2VFAtMGxIR2FaT09PREoyVWpaV2RRZVhmUG5KT3JMNGlQMDM0OGNiM2ZIZGI3d1hJQnY2bg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-10-02T18:16:16.155Z",
+    "source": "daily",
+    "headline": "KDP coffee spinoff leadership transition and partnership expansion signals mixed outlook; M&A and competitive positioning in focus",
+    "signals": [
+      {
+        "category": "Leadership Change - Coffee Spinoff CEO",
+        "updateType": "leadership",
+        "score": 1,
+        "summary": "Keurig Dr Pepper appointed Russ Torres (former Kimberly-Clark President) as CEO of Future Global Coffee Co. spinoff. This is the third CEO named for this initiative, signaling organizational instability in coffee business leadership but also external talent acquisition.",
+        "suggestedAction": "Clarify coffee spinoff timeline and charter with KDP stakeholders; assess if leadership continuity risk affects coffee-related procurement or if new CEO brings different vendor priorities.",
+        "sourceName": "Keurig Dr Pepper",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBWa1V6RFU1TEQ1MGNrRlh6U3dHcmNKYWdRWGE0bVhYRnhBRzUwSUxRWE9PN19lXzY5R2diZEpWYVh2dUh6Q2JkQjM0R1ZTQ1NkajBYN2lfZlo4YmpZYnBENlo3eWRfZy1sak4xbG1neVBzbnNDOUloWWE4S253d2Rxel92TW5MWkdkS1hvOS1KLXJvYVBEUzZBWnlFc2hPVzV1TXVLWXI4a0lnZktZZzdCcTRrV3JN?oc=5"
+      },
+      {
+        "category": "Business Expansion - Strategic Partnership",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP announced partnership with Nestlé USA for Starbucks K-Cup Pods in North America. This is a premium channel expansion and major brand collaboration in the coffee pod ecosystem.",
+        "suggestedAction": "Assess impact on KDP's overall coffee pod strategy, volume forecasts, and related service/support requirements. Premium partnership may shift procurement priorities.",
+        "sourceName": "StoneX",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGdsTlhvYXhLU3VMUTA0aDNsdlRGVzNtendyZFJLYW5NNjdCYjFySFNDMERFWU85V3ppQ0ZTWlNfSzVvQ01TVTFGVTIwOWhabXduV3FWUE1kQ0VmSDd6dURlUWF1NXUxZ3dRdFRYSmRPSjB0aE9KaF9kcTR1Vk5veUI4Q2Q5aVdIckJIVlZWb0hJUUctVUo3OVJabVM3dXZtWVFKVDRYVjd3NGNIdC14T2xRV01oYzJfaDBHODFzSQ?oc=5"
+      },
+      {
+        "category": "Product Innovation - Pipeline Growth",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "KDP launching new products including Jacobs Cold Espresso and other innovation pipeline initiatives focused on coffee growth. Signals product diversification and category investment.",
+        "suggestedAction": "Confirm product roadmap alignment with KDP's growth strategy; evaluate if innovation pace requires expanded support, SKU management, or supply chain resources.",
+        "sourceName": "Simply Wall Street",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONy1VZnkxTFZXUFQ0bzhEQllQNGVUdUZ3RUlnbVV3bXZ3UVhTMnVYMXIwMFhDcHhMb2l5Uy1RQjcwWlc4S3d4b2taSE5DN1B4NFpEVno0dXhaQ1JDX1hsc0ZlanNwMlpiNlUtNU9GV3VZMGpWZTJVUTh3NzJiTjNuRTVlVV9uallqcUo4NkxxRlA3YzZMTGt5dEdDbF9KM1hJVWVUTHF2SjlZRjB0NElRYnBMbFJ3bzFWdS1CWEJFVFVUMWxpOFFwcThoQzhmdEltTll6NzM3ME5QTExBZmRURtIB5gFBVV95cUxNUmFIUmRDOHl0T1c4Y1NmOGdvc0NOSU9ob2trQjlmbUZPYmpDTEdicEhKRU13MWFaUjU5bS13U3UyY1EycHdxamZZQjF0YkJXOWxlekF4b1p6aTBFUldaNTV0SVNVeTBTZU1uakJMZmZ3RzlOcWJQZHRsdGozSVRJVzQzOXJkSnFUU0NtYWNnSDAxcEJ4YzR2Q1c2UmlyV3JJMkhFdGtsbzh0SXRhcVk3SS1ESUpzSVdGTExVamRhOFBWWDI1ME00Wm0tPlFlaE9UUWZEWDJpRG1RMEk3MHg2a2RhcVhZRGFsZ1JoeGhxajBGN0dsTT?oc=5"
+      }
+    ]
   }
 ]

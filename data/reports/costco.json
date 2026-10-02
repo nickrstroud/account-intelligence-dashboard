@@ -986,5 +986,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaElSOXQyaWNSM1ZZWXBIa2RtQUlpNk9lQ3ZOVF9fS2sxTVVTbkNMX3pnbWw0RDZfU3pfQ1BPSXBRM2YtU0RlTEc4RjRMVXljS29reC1qRnhidC1JQS12cG5qVGw4alM0YTlSVEM0Qk8zOXVDaVZKRkdoR0Z3NEt3blZsSFNTRldPOHFRcHFpYTVlYnI3c0NRTWotV25NbnN3bXNaRF9fMmJUd0tKdTJUSVV6a1RPdDFJaVczbmVISzlaSXJ5anR2TVdpQWotLTluS0pTQkVwNA"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-10-02T18:17:01.742Z",
+    "source": "daily",
+    "headline": "Costco launches Medicare plans (expansion) but faces supply chain labor lawsuit and product liability suits (legal risk)",
+    "signals": [
+      {
+        "category": "Business Expansion - New Service Line",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Costco launching its own Medicare plans represents entry into a new business vertical and revenue stream, indicating diversification and growth ambitions.",
+        "suggestedAction": "Identify healthcare/benefits-related vendor opportunities; explore whether Costco's health plan operations require new vendor partnerships or software solutions.",
+        "sourceName": "ABC News - Breaking News, Latest News and Videos",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adjVlOFFtaV9seEVIbkVXQUJYbWtoV2lnQkczNVBXdUxvanRoT1IwWVdaTW5IQXE5YWVnTkpERHZOel9JcEFsdk5fWk8?oc=5"
+      },
+      {
+        "category": "Legal Risk - Supply Chain Labor Lawsuit",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Class-action lawsuit alleges hundreds of Costco products are sourced from suppliers using child/forced labor; seeks $200 per Oregon member. Suggests potential supply chain and procurement challenges.",
+        "suggestedAction": "Monitor legal proceedings; if account team manages supply chain compliance solutions, highlight compliance/due diligence capabilities and risk mitigation value.",
+        "sourceName": "OregonLive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaElSOXQyaWNSM1ZZWXBIa2RtQUlpNk9lQ3ZOVF9fS2sxTVVTbkNMX3pnbWw0RDZfU3pfQ1BPSXBRM2YtU0RlTEc4RjRMVXljS29reC1qRnhidC1JQS12cG5qVGw4alM0YTlSVEM0Qk8zOXVDaVZKRkdoR0Z3NEt3blZsSFNTRldPOHFRcHFpYTVlYnI3c0NRTWotV25NbnN3bXNaRF9fMmJUd0tKdTJUSVV6a1RPdDFJaVczbmVISzlaSXJ5anR2TVdpQWotLTluS0pTQkVwNA?oc=5"
+      },
+      {
+        "category": "Legal Risk - Product Liability",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Lawsuit filed over Kirkland brand 'sugar-free' drink mix allegedly containing sugar, raising product labeling/compliance issues with potential liability exposure.",
+        "suggestedAction": "If providing quality assurance, compliance, or labeling solutions, use as discussion point regarding product liability risk mitigation and regulatory adherence.",
+        "sourceName": "KING5.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXFEcjhLQ0xFanZzSlYxWHpJczZjRXhOUGpIbFFScWxWaEdpRTY0MjBlVzMzeks4WVViNFF0WUVkbi1ndjFQeFV2ZlA3VVZvS0NTRVNrY0hMOG1TSUpfa3BxWVdrTkxuMXZuYkdtakdYaFRKeVBCeVhJck9XQmhKbVdjRWQyd3JDUmE5WG9QZFNSbTNuckc0QVFmcWNDQUFseFozRTFEMHhITm1DTVZpXzJTZlM3M1l2OUgwdzlkS0p1RFVLTkxETFpJVlN6YVk5WVpwbVE0Y3l6RFFkM2pEdQ?oc=5"
+      }
+    ]
   }
 ]

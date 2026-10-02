@@ -1011,5 +1011,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOak9ycGdIcjk5cFJodHUwc09sSnZnUUtuSEhLdDZ5RTk0NFpUYm1aa0VQdlNWV0g1eEZNel9SbWZXUG9rX2dpQ2ZYdVQtTllTYVNJdEFCUm5FdVNTTnVOZlIzRHNsTDRSTER0eUlJa0RaUl9WQnhQZ3NIa1h0N0ZCRXZhcFJ6U2p1SkkyUElKRE5McHhqeXQ5VGZ0WElEM25VWDBDNUFFYjQ2RHlsT2t6cw"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-10-02T18:16:45.197Z",
+    "source": "daily",
+    "headline": "Walmart Digital Shelf Technology Rollout Shows Innovation Investment; Product Safety Recall Presents Operational Execution Risk",
+    "signals": [
+      {
+        "category": "Technology & Store Operations Innovation",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart is rolling out light-up digital shelf label technology across stores to improve shopper experience and employee efficiency. This represents ongoing investment in in-store technology and omnichannel capabilities.",
+        "suggestedAction": "Positive talking point for account engagement; inquire about technology stack and integration needs. Understand if this creates new requirements for connected systems or data infrastructure.",
+        "sourceName": "cnbc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91Q2hUcGxoc0VkLWN5d0ZMYTFlang4SGU2OXZEOE5yTEljS08tRXVZdlhiYzJOYm1GeEYtSkZZaGFWbFN1bXVTZkh1SFlKTkItd1hIZVJsMjN5dEhKNE9lM1RFSncySFlHMVZTMWN2NV9iWTNkQW9haDJR0gF_QVVfeXFMUFBta2I5MzhOTzY2SmZ3bUdid2l6M05Edncta2R4cER3cVhZOW9mQ0hPd1g2LWdCN2k0ZUQxOEFnZmt3STRKSjV1MGxrRm1YY2RVeUtqVEYwa1Y5c0RlY2dwVXZ4TnNEV1Q1TUg5bmdxTWVSbnpTbWRjaExDOW0wOA?oc=5"
+      },
+      {
+        "category": "Product Safety & Supply Chain Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Walmart recalled 4.4M Expert Grill brushes due to ingestion hazard from detachable metal wires. This is a significant product liability issue affecting branded private label goods sold through Walmart.",
+        "suggestedAction": "Monitor for any downstream compliance or quality assurance process changes. May present opportunity to discuss supply chain risk management, product testing, or compliance automation solutions.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUW1VWF9Td1k0TDJsbFlteTlWT1k2YTVyYkU4QktDSHllQmJqOExCdDJOVnEyYzNUd3BpWDN1NEk5a1BubHdYa1N4YXFIWk1xZ0pGaDA3ZHg5dnZUTllMbS1TVlZXUXRuZXlFYXB6V1FwMjVLVUVReDdUNV9qalBYek5zSjIxSG82NEJWUEZVa1NXZHpqWnhkQlE0bWdVTHJrV2pnVkVuVHJoUm9hMERrSjFKYWE2ZjVNanBpTEIwbzJ3M0xI?oc=5"
+      }
+    ]
   }
 ]

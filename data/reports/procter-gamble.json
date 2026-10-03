@@ -1193,5 +1193,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-10-03T17:05:06.161Z",
+    "source": "daily",
+    "headline": "P&G completes $3.8B Thorne acquisition; first-quarter earnings upcoming with mixed analyst sentiment; expansion initiatives in sustainable packaging",
+    "signals": [
+      {
+        "category": "Business expansion via M&A acquisition",
+        "updateType": "ma",
+        "score": 2,
+        "summary": "P&G acquired Thorne Health for $3.8B, expanding into the direct-to-consumer health/wellness platform category. This is a significant new business unit that represents material revenue growth potential and represents P&G's strategic pivot into the high-growth wellness space.",
+        "suggestedAction": "Account team should assess internal service/support needs for Thorne's post-acquisition integration (IT, HR, finance systems); prepare for potential volume increases and new product launches from this business unit.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk43aVd1UnhodnVyVWRXLWN6ZVFXb3AtQTNhaVFOMk1LajZWV0s3R2tfUW5RRUhsemkyOW81a1RPZUM1UkVQXzQ1dDhla3NSYlRzQlNCTzdsWGw1QWxjZU94VkNkejgzWFRiX3ZpZUN1T2NlYU5QcjVVQmRpZXQ1ZklKb1BuSEpHaUZ5OVBPTGNnREh6QXpmcFZPUkZoUGJzVlpVT2F5TUs"
+      },
+      {
+        "category": "New product launch (Pantene Cream to Mist)",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "P&G launching new Pantene Cream to Mist product, indicating continued innovation in core beauty brands and investment in product line extensions. Signals ongoing R&D spend and market expansion within existing categories.",
+        "suggestedAction": "Monitor for potential supply chain, logistics, or packaging support needs associated with new product rollout. This could drive incremental orders across vendor categories.",
+        "sourceName": "Simply Wall Street",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3F3X1NBaFNRaTdfOFA3a2xsVnlJcU9yYnZtbTB3Q2t4OFFGSXFxb1dkMll0UFowZzNMd0dXWXJ0UEF4NzlRckVjM0pSMGN0cmJxSGZkOWJvWDh2cDZoVndyM1dCeEtBTlJVVGRIRlo4WGtSaEFvTzNfUWd4RlRaNmhIQmJ3aGY0TWE4U3RXSEpKc21kTTdxRmMxS1pTVFI2N1BEdlJ3YzAwMVBlN040TUg4U0hDNlNxZWMxdDN0dXFsbGM5MHpSMlB30gHPAUFVX3lxTE1wT29tNkc4c0hkdGVtV2FFVXNVVldtNnFxRU02TmZtR2lOa2tGc3NfTHRkWU16dEtjeU04UTlKMk1NWk9FNDBjZzJMRnJIYzMwb0RITl82THlxaTAxMzNnYUMzRUlud3l1UkZ4MnlIZzFueUg3bUJvbncwS3VIdzBnZjdLRXZBNnhKbjA3RW9xdlJYNFhKdnJ6V0tfMTZENVVZVlN0X1FaRko3Z05sRTBTY0xTekVHQTNrZzlpUDU2Z1J2Tno0LVRXZmpYSnROUQ"
+      },
+      {
+        "category": "Sustainability/ESG initiative commitment",
+        "updateType": "brand",
+        "score": 1,
+        "summary": "P&G joined PepsiCo in initiative to replace nonrecyclable flexible plastic packaging following engagement with As You Sow. Demonstrates ESG commitment and potential cost/operational impacts from packaging transition.",
+        "suggestedAction": "Monitor for potential changes in packaging specifications and material sourcing; may create opportunities for sustainable packaging vendors or require compliance adjustments on supply contracts.",
+        "sourceName": "As You Sow",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORXgxdnNNdnBRZXd3aFFtaGdQUkdxVjFEWkV1OGRNeUxwbEFWRzhjRnNDTkVVMjdhLU1UcTc5N0lxN3ZIQ1NXQV9ucWg0RFFKUUVUNWZRVmUtSmxYcldkQTdzU09XU0h5UG5uSVlyUnVhbExuc2EzNUZSUVVCZlhkRlhsTXk1T29NVEhnTEhhV3NkRmFKb2hyM0xzeXB4RWpOTloyM1NEOVFIZDBnMm9FbGZKX3FNWFpuZEd3Z1dhOVlXU3RTN3JQSXRHUHZaOGtTZmlQaDdVMkllMDN1WlhZMFZvZ0p6QUd2REEzR3NkQVdnR1d1d2tJQnFxeHNtX3V5ek1xQUVtajhMWkgtV3JaVDIyUQ"
+      }
+    ]
   }
 ]

@@ -1406,5 +1406,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0ZMLWl3WHFPZ2thVWhrTUNGTkNSVms0Qk9PZG1UNXpHSi10aG5mN0d5R2ZTVkxfamNUU29oNE5uWlExdVpqbXBqM1pob3hrZDgyOGM3MGFHWGZFY0lxblBpNXQyTWxuVnZTU014SVpPM3JsTmVfRmV2R1JjODA1aGRXUTNfN1BMQ0dxSmcyWHJ1c2c?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-10-03T17:06:03.476Z",
+    "source": "daily",
+    "headline": "Kroger pursuing operational efficiency and store expansion with new dress code, supplier negotiations, and real estate acquisition",
+    "signals": [
+      {
+        "category": "Store expansion and real estate acquisition",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger acquired Portage shopping center for $10.35 million to develop a new grocery store location, signaling continued geographic expansion and capital investment in growth.",
+        "suggestedAction": "Consider how this expansion relates to vendor coverage needs in the Portage market; potential opportunity to discuss support for new store openings.",
+        "sourceName": "WWMT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlZUMVI1anh4YXV1Y0VxTDlfa1NJRTFhaGQxMW5sX3E0dkNlalhaOWUtS0xJS0VBb3hRZENYXzgxcmRnUnptdVBlSVFlME91NGJMZUxwNWNEd3RyOVhjZ1ZQOUZrMXBXWHAwM0Q2V0dWRXFORUdscG9rZlJGTTlKaXZxWVd5M041b0ZjMDl3a3k5RG5HZmUtUkFqU1V5NmZwRU52NEdFdHo3cjBVdEp2U3h5bDdpV3FnemszWFN1Yw?oc=5"
+      },
+      {
+        "category": "Supplier relationship change - Red Bull delisting",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger delisted Red Bull as part of a high-stakes pricing negotiation push for everyday low prices, indicating aggressive cost management and willingness to remove suppliers over price disagreements.",
+        "suggestedAction": "Review pricing and margin alignment with Kroger; assess competitive vulnerability on price and terms. Monitor for similar supplier pressure across portfolio.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkJUTm9ieExuS1l0dkJoYzlmS1ZNQ2U0VV82WWlYb0ZvSXRsMzMwOUVvblhJOFNuUHQ5bmxOa0NrZHpjUDZZNXgzWDkyMTZPYWFxNUplN3M4UjRjUV9Nb1AwVjNQTEZOd2xvS2JwdzZZOUJzQXVPRGpzUC1vUzJ2NEJIU1FRZzg0LUV4VTEyQ2lNS2NXODMxUUN6bDctQzJqbXNhOF9Scw?oc=5"
+      }
+    ]
   }
 ]

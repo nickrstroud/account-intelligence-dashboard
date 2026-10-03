@@ -1021,5 +1021,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXFEcjhLQ0xFanZzSlYxWHpJczZjRXhOUGpIbFFScWxWaEdpRTY0MjBlVzMzeks4WVViNFF0WUVkbi1ndjFQeFV2ZlA3VVZvS0NTRVNrY0hMOG1TSUpfa3BxWVdrTkxuMXZuYkdtakdYaFRKeVBCeVhJck9XQmhKbVdjRWQyd3JDUmE5WG9QZFNSbTNuckc0QVFmcWNDQUFseFozRTFEMHhITm1DTVZpXzJTZlM3M1l2OUgwdzlkS0p1RFVLTkxETFpJVlN6YVk5WVpwbVE0Y3l6RFFkM2pEdQ?oc=5"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-10-03T17:05:35.638Z",
+    "source": "daily",
+    "headline": "Costco faces legal headwinds from product labeling and supply chain practices, but announces expansion into healthcare co-branded plans",
+    "signals": [
+      {
+        "category": "Legal - Deceptive Labeling",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Costco sued over 'sugar-free' Kirkland drink mix containing a form of sugar, raising product liability and brand reputation concerns",
+        "suggestedAction": "Monitor litigation outcome; prepare messaging around quality assurance if case gains traction. Minor risk to account relationship if resolution requires operational changes affecting vendor products.",
+        "sourceName": "KING5.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXFEcjhLQ0xFanZzSlYxWHpJczZjRXhOUGpIbFFScWxWaEdpRTY0MjBlVzMzeks4WVViNFF0WUVkbi1ndjFQeFV2WlA3VVZvS0NTRVNrY0hMOGtUSUpfa3BxWVdrTkxuMXZuYkdtakdYaFRKeVBCeVhJck9XQmhKbVdjRWQyd3JDUmE5WG9QZFNSbTNuckc0QVFmcWNDQUFseFozRTFEMHhITm1DTVZpXzJTZlM3M1l2OUgwdzlkS0p1RFVLTkxETFpJVlN6YVk5WVpwbVE0Y3l6RFFkM2pEdQ"
+      },
+      {
+        "category": "Legal - Supply Chain Labor",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Lawsuit alleges hundreds of Costco products involve child or forced labor; seeks $200 per Oregon member damages. Potential supply chain compliance issue affecting brand and operations.",
+        "suggestedAction": "Monitor litigation closely. Understand if lawsuit impacts vendor selection or compliance requirements. Prepare to discuss vendor alignment with Costco's sourcing standards if customer raises concerns.",
+        "sourceName": "OregonLive.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaElSOXQyaWNSM1ZZWXBIa2RtQUlpNk9lQ3ZOVF9fS2sxTVVTbkNMX3pnbWw0RDZfU3pfQ1BPSXBRM2YtU0RlTEc4RjRMVXljS29reC1qRnhidC1JQS12cG5qVGw4alM0YTlSVEM0Qk8zOXVDaVZKRkdoR0Z3NEt3blZsSFNTRldPOHFRcHFpYTVlYnI3c0NRTWotV25NbnN3bXNaRF9fMmJUd0tKdTJUSVV6a1RPdDFJaVczbmVISzlaSXJ5anR2TVdpQWotLTluS0pTQkVwNA"
+      },
+      {
+        "category": "Business Expansion - Healthcare",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "SCAN Health Plan unveils 2027 Medicare Advantage slate including launch of co-branded Costco plans, signaling new revenue channel and customer engagement opportunity",
+        "suggestedAction": "High-priority outreach: Costco is expanding into healthcare benefits space. Identify if vendor solutions can support member enrollment, benefits administration, or health services fulfillment. Potential to anchor new line of business.",
+        "sourceName": "Fierce Healthcare",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjg0TGR1elc4QjFOLUhNTW9yUmtLN213TVJkOVlRR2NoalMzcmdkQk4yTF9RN1F5WW5FekoxVktsVWEyVS1fZUtUS2tScDQtbW1SMndha05lR2R5NHB5Vm1PRHN3UVQxZ0NFaFp4Ti1zWGR1djhlaDRzQ3NZdlkzeFRKeTRTemFlVHBsR2prbDUxM0gxNGlMVkhxSUZNWXlKOVV0MGR0czRITnM"
+      }
+    ]
   }
 ]

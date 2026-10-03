@@ -1037,5 +1037,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUW1VWF9Td1k0TDJsbFlteTlWT1k2YTVyYkU4QktDSHllQmJqOExCdDJOVnEyYzNUd3BpWDN1NEk5a1BubHdYa1N4YXFIWk1xZ0pGaDA3ZHg5dnZUTllMbS1TVlZXUXRuZXlFYXB6V1FwMjVLVUVReDdUNV9qalBYek5zSjIxSG82NEJWUEZVa1NXZHpqWnhkQlE0bWdVTHJrV2pnVkVuVHJoUm9hMERrSjFKYWE2ZjVNanBpTEIwbzJ3M0xI?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-10-03T17:05:18.056Z",
+    "source": "daily",
+    "headline": "Walmart expanding digital retail technology and private label brands; product recalls present operational risk but not relationship-material",
+    "signals": [
+      {
+        "category": "Technology and Store Operations",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart deploying digital shelf label technology with light-up features to enhance shopper and employee experience—signals investment in store modernization and in-store tech capabilities.",
+        "suggestedAction": "Position any in-store tech solutions or supply chain tools as complementary to this digital shelf initiative; opportunity to discuss operational efficiency gains.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91Q2hUcGxoc0VkLWN5d0ZMYTFlang4SGU2OXZEOE5yTEljS08tRXVZdlhiYzJOYm1GeEYtSkZZaGFWbFN1bXVTZkh1SFlKTkItd1hIZVJsMjN5dEhKNE9lM1RFSncySFlHMVZTMWN2NV9iWTNkQW9haDJR0gF_QVVfeXFMUFBta2I5MzhOTzY2SmZ3bUdid2l6M05Edncta2R4cER3cVhZOW9mQ0hPd1g2LWdCN2k0ZUQxOEFnZmt3STRKSjV1MGxrRm1YY2RVeUtqVEYwa1Y5c0RlY2dwVXZ4TnNEV1Q1TUg5bmdxTWVSbnpTbWRjaExDOW0wOA?oc=5"
+      },
+      {
+        "category": "Private Label/Brand Expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launching new bohemian fashion brand as part of market-share expansion strategy—indicates continued investment in proprietary apparel/consumer goods categories.",
+        "suggestedAction": "Discuss opportunities to support new private-label brand rollout with relevant services (sourcing, quality control, logistics, etc.).",
+        "sourceName": "NBC News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWx3UlN6LS1oWTlkVU1hUTVHLVdwMzNZbzIxVVFlbW1wbzJGWnpVbG5GTzdYSEx5Tzl6VG55R0wwNHdYYlY0YnE3SUt1Qi1wV2Vud1YwbmdEZ25WOENnRm1od1p5N0ZPaWNTUzNBNGY1eGFXUUp3WWhfTjZjdlFFWGxqNzdRdExfZ3ptTGc2VVNzLTV2R1lwdjBuUFZwNU9KeTZScDB5Nl9DZw?oc=5"
+      }
+    ]
   }
 ]

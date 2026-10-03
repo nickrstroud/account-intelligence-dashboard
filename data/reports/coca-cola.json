@@ -1212,5 +1212,22 @@
     "source": "daily",
     "headline": "Coca-Cola showing modest positive momentum with new product launches and hiring activity; limited near-term account relationship signals detected",
     "signals": []
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-10-03T17:04:08.200Z",
+    "source": "daily",
+    "headline": "Coca-Cola pursuing India IPO and showing market resilience; worker settlement and local hiring activity noted but not account-critical",
+    "signals": [
+      {
+        "category": "India Unit IPO Filing",
+        "updateType": "ma",
+        "score": 1,
+        "summary": "Coca-Cola considering December filing for $1 billion IPO of its India unit, signaling capital optimization and potential restructuring of regional operations",
+        "suggestedAction": "Monitor India unit separation for impact on regional P&L accountability and buyer consolidation strategy; potential entry point for discussing localized vendor solutions",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0RDcUNYWHJNNlNmalAxSDRpV2w1M3BjdnhEUHNFamZ0OXNrMTBjOHFaNWt2Z2hQYlM1ZWxqS2NIUEYwZ053UDQ2Z2ZvZnYyamxfNGRpWlRWejFzcmdaRVNBdkdLUy16REJjTXlWTk5VYmxvUmZCeEdxcDM5UDZjRDhISmNMWUdSanVhTFlRZ1ZqTTNmakNGYkVvWjcySUZsNkhXM2hsU091TGxsZVBIbXpSWGtlbXp4VndKbTE0ME1uajc1dkE"
+      }
+    ]
   }
 ]

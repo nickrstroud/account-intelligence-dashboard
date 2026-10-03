@@ -1518,5 +1518,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56UjJvMVlCWi0wZ0NKYll2U0xhZFkzNUVySVY3V2dMQTA3bUJYSm1OTGU4UzJxRUxCOERJUEhIYmpna2YyY1RzeUw1NmlxX25xZWV2T1hJd2ZlbFF6NjRVV1pWZlYtM0VqRjN2VHJYTHFWMUh3d0pzakVMYXFJZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-10-03T17:04:29.214Z",
+    "source": "daily",
+    "headline": "PepsiCo navigates earnings concerns and regulatory headwinds with innovation initiatives; mixed outlook ahead of Q3 results",
+    "signals": [
+      {
+        "category": "Regulatory Challenge - India Energy Drink Label Ban",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "PepsiCo and Monster are challenging India's 'energy drink' label ban, citing business impact. This regulatory pressure in a key market could affect revenue and operational flexibility in the energy/beverage segment.",
+        "suggestedAction": "Monitor regulatory outcome in India; assess if this impacts customer's supply chain, sourcing, or compliance obligations with PepsiCo products/services in that region.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscUI0?oc=5"
+      },
+      {
+        "category": "Earnings & Growth Concerns",
+        "updateType": "earnings",
+        "score": -1,
+        "summary": "Multiple analyst previews ahead of Q3 earnings report indicate investor concerns about growth trajectory despite operational tailwinds. Stock valuation appears challenged by slowing growth expectations.",
+        "suggestedAction": "Review Q3 earnings when released; assess if PepsiCo's budget and growth plans align with vendor's expansion expectations for the relationship.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVpjOWRKeEtWdjVARS1EWm11d0daUXRLMzBkR09teFoxVzFmZ3RkN1o5SWV6MnZBWWhPMy1QeTc0SW8zdWZZQ3N6N3pOakFXVHFjVWlkY3hzNV8yYWEzUGMxMW9GUGVQTTJBZnVZa1RITUdQMFc1a0dzakllcHVpXzV3WjF5c3E4cU91QjFNbFkwYzBfc2ItWHJJamhVMkV5SkFFWWNsMU1qY2tlMjR5SHAtc0ZTLThuWDdz?oc=5"
+      },
+      {
+        "category": "Innovation & Product Strategy",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "PepsiCo is investing in innovation through chef partnerships and new product development approaches, suggesting active business development and potential for new offerings/categories.",
+        "suggestedAction": "Explore if vendor's services support PepsiCo's innovation pipeline or product development cycles; potential expansion opportunity in this growth area.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWw4cUgwa2Mza3ZXQy04UGRDWjNNdVJYa01tSk9MRGRaRlRBQnZES3g0dTRjZXpoMXI2UnJfTjhJQk00NUVoaFR1SXl3cC1sc0hTQ3ZBbTEyMHlWdzFoUGlsWndMQzdGNkVPd0VPUG9ZWGhIOERLRnZzb1Q1Wmc5TDFWcVRxQ0hXZWZsSUNVTFctNl93NDdySWtHcXZYbklnMjhHR2dGZ2lNUmluZjNNTW01clAySUhaeHdXeW9kSGh2LVkteXR3bg?oc=5"
+      }
+    ]
   }
 ]

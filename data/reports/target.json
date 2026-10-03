@@ -824,5 +824,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTBMREVHT3laOVBvaDBjS2hPSXh4OGdieWFnaDNhTThLSnFPaFRUODYzSk1XWENFczJYTkNOelpxandyd2NLSmVQYnY3SnJIQncxOHJJUkpwTmZYVUEyVmQwSUdGc0FreDk4Tng0dGpZTkg3eUNIUzhudnNRUGFMUUhONFIwa1JMa05kYnpwejlGbUVOcS1hOG55Y3JodnR4N0ZldDNUVE1Uejg"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-10-03T17:05:53.411Z",
+    "source": "daily",
+    "headline": "Target stabilizing with price reductions and dividend continuity; tariff refund litigation poses reputational risk",
+    "signals": [
+      {
+        "category": "Price Competition & Margin Pressure",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Target Corporation lowering prices, signaling competitive pressure and potential margin compression. This could impact budget availability for discretionary vendor services.",
+        "suggestedAction": "Monitor Target's earnings calls for margin trends and customer acquisition cost strategies; discuss value-based pricing with Target stakeholders.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDNUX3l4OVlpX3lpdFZyZWstYk5tRWpFOEtId0hxeWlyRlBXWUNOTEJseVhLcEtaSWh2V1pEOGZGX280SUt6djVfMkxhOVBoUnhDVGE5cE95LVA4UnctMS14N3dQRF8wcEc4bTNXV1hpLUtfdUJxRndQeTdsdGtzY2RZVHpfWUliTEFXcnBmWm5FcmEtMVJtVWhuQW5HRkxFNkF4ZWNqM1NPUm5QTnZiYmtNOGhFdmJIV1RDME00dldIVTU2SWJnLVhKZk5OM3Axenc?oc=5"
+      },
+      {
+        "category": "Legal / Reputational Risk",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Class action lawsuit filed alleging Target retained $994M tariff refund rather than returning it to consumers. While not directly impacting procurement, this creates PR risk and potential regulatory scrutiny that could distract leadership.",
+        "suggestedAction": "Monitor litigation outcome; be prepared to discuss business continuity and compliance posture with Target stakeholders if case gains traction.",
+        "sourceName": "claimdepot.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTBMREVHT3laOVBvaDBjS2hPSXh4OGdieWFnaDNhTThLSnFPaFRUODYzSk1XWENFczJYTkNOelpxandyd2NLSmVQYnY3SnJIQncxOHJJUkpwTmZYVUEyVmQwSUdGc0FreDk4Tng0dGpZTkg3eUNIUzhudnNRUGFMUUhONFIwa1JMa05kYnpwejlGbUVOcS1hOG55Y3JodnR4N0ZldDNUVE1Uejg?oc=5"
+      },
+      {
+        "category": "Shareholder Confidence & Dividend Stability",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target declares regular quarterly dividend and held 2026 Annual Meeting, signaling financial stability and management confidence. This suggests the company is weathering current headwinds.",
+        "suggestedAction": "Positive signal for account stability; use dividend/shareholder communications as rapport-building talking points with procurement and FP&A leadership.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0?oc=5"
+      }
+    ]
   }
 ]

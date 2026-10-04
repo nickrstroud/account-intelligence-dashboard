@@ -859,5 +859,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTlfdklFdktZQmlUUmNlS0JlUHZ5QTlIRTJEblFCN3pPRFFkcWcxMl82SmlJUDJhcGlQVGVYSXJaaHN5dnUxRDZTcy1Ub0NXc0xuUXg1b1lRbmlhOUtUanVOSUNrSVF6cEdlOTZxdmdpYlJ1OWs1dU1lbmJnNzFpZ0hiVWdZUW51LXgxeXhHV1JGRkpCN0VXaFlldHk1NHJMVUdKMXdRSl9ld2hob3E0?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-10-04T17:22:09.545Z",
+    "source": "daily",
+    "headline": "Target Corp shows financial recovery and strategic repositioning; dividend maintained and analyst upgrades signal stabilization",
+    "signals": [
+      {
+        "category": "Financial Performance & Investor Confidence",
+        "updateType": "earnings",
+        "score": 1,
+        "summary": "Target Corp rebounded strongly with strategic shift; company maintains regular quarterly dividend declaration, signaling financial stability and cash generation capability",
+        "suggestedAction": "Monitor earnings reports for sustained revenue growth; dividend sustainability indicates healthy cash position for continued IT spending",
+        "sourceName": "GuruFocus",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUJSR2NXVmp2ajdrR1NERWtocUZ3MTFNeTJrSm9zMVNSeU9oZnpMR1ZQVERiN1JDeXlEbHozS1NfZFRPdXZWVUJ5M1FYVkpIbjZDbjY2aVc2djdEUDRDczgyLXYtZFNlWjR2X1BReWJTSUhCVU55Ql82M1BZMjlUc3E0emdhZVl0Q05VZC1RQXhldTdGQmNqU0hXZldXNW1yNUZSOXc2TjhocWU2aXVNeklPRQ?oc=5"
+      },
+      {
+        "category": "Analyst Upgrade & Market Sentiment",
+        "updateType": "market",
+        "score": 1,
+        "summary": "HSBC upgraded Target Corporation stock, indicating improved analyst sentiment and potential positive momentum in market perception",
+        "suggestedAction": "Use analyst upgrade as talking point in executive conversations; positive market sentiment may open door for budget discussions",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOajRkWUNjY3MtOW5aYmJFUmJUUW9vQk9nMGFpekVqSTVJZlBnWGdIdElEaDBQZWN6VkZ2eDVTRGwyQko4NnhteGlpcUp0eEdXYWczQ1E2V0NVRDRBMzBFamJRY1Q1eDc4VVZtc2JMZGk4UVltWkY5bk52djlTNUt1MGdpT1JtbmJyT0VGZzY3cXAyMU5XVDR4M1lSVXJQcEU0aW9JMDlLZTlHQW12UC1DZmNFQThNNzVpalhGb3lHR2dSLUFkZ0kw?oc=5"
+      }
+    ]
   }
 ]

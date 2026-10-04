@@ -1432,5 +1432,49 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkJUTm9ieExuS1l0dkJoYzlmS1ZNQ2U0VV82WWlYb0ZvSXRsMzMwOUVvblhJOFNuUHQ5bmxOa0NrZHpjUDZZNXgzWDkyMTZPYWFxNUplN3M4UjRjUV9Nb1AwVjNQTEZOd2xvS2JwdzZZOUJzQXVPRGpzUC1vUzJ2NEJIU1FRZzg0LUV4VTEyQ2lNS2NXODMxUUN6bDctQzJqbXNhOF9Scw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-10-04T17:22:35.891Z",
+    "source": "daily",
+    "headline": "Kroger expanding footprint and modernizing operations amid competitive pressure from warehouse clubs",
+    "signals": [
+      {
+        "category": "Real estate and physical footprint expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger acquired Portage shopping center for $10.35M to build a new grocery store, signaling continued investment in store network expansion.",
+        "suggestedAction": "Track store expansion plans and locations; potential opportunity to pitch solutions supporting new store operations (POS, inventory, workforce management).",
+        "sourceName": "WWMT",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlZUMVI1anh4YXV1Y0VxTDlfa1NJRTFhaGQxMW5sX3E0dkNlalhaOWUtS0xJS0VBb3hRZENYXzgxcmRnUnptdVBlSVFlME91NGJMZUxwNWNEd3RyOVhjZ1ZQOUZrMXBXWHAwM0Q2V0dWRXFORUdscG9rZlJGTTlKaXZxWVd5M081b0ZjMDl3a3k5RG5HZmUtUkFqU1V5NmZwRU52NEdFdHo3cjBVdEp2U3h5bDdpV3FnemszWFN1Yw?oc=5"
+      },
+      {
+        "category": "Competitive threat from warehouse clubs and membership models",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Yahoo Finance article highlights competitive pressure from Costco and warehouse club model that Kroger and Publix struggle to address, signaling market share and margin challenges.",
+        "suggestedAction": "Understand how current vendor solutions help Kroger compete with warehouse/membership models; explore value-add capabilities for membership programs or pricing competitiveness.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjVoUFRxLVhBTjJ6akh3SWQxamZ4U052ZFZudVV5OEc0YXRrMmJKWE1OWEhpV0hROWlCUW1iRGNhOXlmNndTcEFzV0hkVUlBeHFYLXl4WnhsaTJydVNJU01QZlFwMkZfaC1yOVZwbnpTLTE0X0wtRjRUem9vY0ZsNU5YWThCOXFmOHVOd3cyRmhick5HUWVYNWdMMWp5Qk0?oc=5"
+      },
+      {
+        "category": "Brand reputation and labor relations sensitivity",
+        "updateType": "brand",
+        "score": -1,
+        "summary": "Kroger protests tied to labor relations and a related event cancellation indicates ongoing brand/labor relations issues that could affect internal priorities and stakeholder focus.",
+        "suggestedAction": "Monitor labor and advocacy relations; may indicate internal friction or resource diversion; ensure any vendor engagement is sensitive to employee morale and labor practices.",
+        "sourceName": "Cincinnati Enquirer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzE5YUJDYzBaaE5rYW5WdHhaTWhMV1gtMlp4NWJYSGRMT18yMGtQTXlyTXE1RjdHakcxa1VQblFtdGFaOEJrWHhYQUlrZS1rS3F1OFI4WlJuVDBEREJYT3YxZWY5UEtSODhITEJIcHg2bzh1bkVhV3QwdUQzaUU4eHRPanJKLXQ2ckp4NGI4ekVXWHRBN2g2aDFWaUFIbXJZbE55RE9sN05jTHk3a1JYZG5UYS1rZw?oc=5"
+      },
+      {
+        "category": "Employee engagement and brand modernization initiative",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Kroger launching major uniform overhaul for 400,000 employees nationwide, reflecting investment in employee experience and modernized brand image.",
+        "suggestedAction": "Position vendor solutions as enablers of modernization initiatives; explore how tools can support workforce management, training, and brand consistency across 400k-employee rollout.",
+        "sourceName": "Progressive Grocer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNU5YM0ZyOV9CbWl0N2FEM0lzdGxEVUF5eEp0SGVVVTRpRlFEcV9oN094V2hXNmhXdENNMUR6ZUhpSV9NbnBTc0RSOTlmWnAzcE1yMzJTNjc3S05aOVRTdkFsTGRCdVpjcTQyQ0FFVU5YUGVhZXVWd21tQ3hibnBJVkdWUS1BMlNyNGhiajdkWW9QSnYxUnJITmpfdG5JbkIzaFFmR0lfdWJiLWF4Qm1TdHJB?oc=5"
+      }
+    ]
   }
 ]

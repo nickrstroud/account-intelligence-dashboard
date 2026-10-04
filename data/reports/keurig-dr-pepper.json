@@ -1319,5 +1319,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPczJoU1RkY2FIOVdMR3VjNmlBeENPVlh6S0c0ZlFXZjcxb2NtLU9LVVI5eEg3enVFVEJ0ZUNJOFI1OVk3QkRUM21JdGJGcjRMazNNQ0VtSWhZMHdIZkZaTVEwZGUtalQtblRhR0ZMY3JoRmpqdkQ3ck9mTExDbUxVdld2SUVzTERkM2VPSE4wWGZnNi0tV3RuR2xfcGNlaDhBTHl2ZEZPeVI5WXY5Mzh2bnVMdHJvSjZvRVBYalVTZlpnZVZhOVIxMU9Gc01rb3lHVXVwclV6XzBzbl9OMVdUd3JzbmxPeEFFSnc?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-10-04T17:21:11.557Z",
+    "source": "daily",
+    "headline": "Keurig Dr Pepper names new coffee spinoff CEO (Russ Torres from Kimberly-Clark); signals potential internal restructuring but insufficient detail on business impact",
+    "signals": [
+      {
+        "category": "Leadership appointment for coffee spinoff division",
+        "updateType": "leadership",
+        "score": 0,
+        "summary": "Keurig Dr Pepper appointed Russ Torres (former Kimberly-Clark President) as CEO of Future Global Coffee Co., a planned spinoff entity. Torres brings external leadership from a major consumer goods company.",
+        "suggestedAction": "Clarify with KDP account team: (1) Is this spinoff a divestiture risk for the core business we serve? (2) Will the spinoff entity be a new buyer segment? (3) Does Torres' appointment signal prior coffee division underperformance or strategic repositioning? (4) Confirm if any existing vendor contracts are affected by the spinoff.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWI0N1lEX3E2YzNfUFdvX1pONnRrUk1NQnJtVjNwNnphUDlUTFMweUs3TjFfYzdidTBCLUhNSUE2NEx4YmsxaHhYTUduWjFWSDR2cVJEelh5ZVZSUjNRTkdjZmlwQnJwaXAzZnE4eGRpVkthZzZBZnFtb1A2UFU0ckNEOUxiYmNBTy1qVUw4eExpdVFuWm1WVElISUs3V0hLeE91M3o2SVJwci1iZ3dWMXktNmJyZw?oc=5"
+      },
+      {
+        "category": "Third CEO appointment for coffee spinoff suggests instability or strategic re-evaluation",
+        "updateType": "restructuring",
+        "score": -1,
+        "summary": "Food Dive reports this is the third CEO appointment for the coffee spinoff unit, indicating prior leadership changes and potential instability in the division's strategic direction or execution.",
+        "suggestedAction": "Follow up on prior CEO departures from the coffee business—determine if there are systemic issues (e.g., margin pressure, operational challenges) that could affect KDP's overall health or budget allocation to vendors serving the coffee division.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xRWdMRmpzVVZ2Z2pKRW9Db2xkbVNNNDBCakNGbVJ6Z25vcS1jOGVnWkJVSXQ5NGJRNVpUcE9fS2NHR2s2VFAtMGxIR2FaT09PREoyVWpaV2RRZVhmUG5KT3JMNGlQMDM0OGNiM2ZIZDI3d1hJQnY2bg?oc=5"
+      }
+    ]
   }
 ]

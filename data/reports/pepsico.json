@@ -1553,5 +1553,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWw4cUgwa2Mza3ZXQy04UGRDWjNNdVJYa01tSk9MRGRaRlRBQnZES3g0dTRjZXpoMXI2UnJfTjhJQk00NUVoaFR1SXl3cC1sc0hTQ3ZBbTEyMHlWdzFoUGlsWndMQzdGNkVPd0VPUG9ZWGhIOERLRnZzb1Q1Wmc5TDFWcVRxQ0hXZWZsSUNVTFctNl93NDdySWtHcXZYbklnMjhHR2dGZ2lNUmluZjNNTW01clAySUhaeHdXeW9kSGh2LVkteXR3bg?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-10-04T17:20:57.987Z",
+    "source": "daily",
+    "headline": "PepsiCo facing regulatory headwinds in India and growth concerns amid Q3 earnings; Russia exit costs persist",
+    "signals": [
+      {
+        "category": "Regulatory challenge to beverage product line in India",
+        "updateType": "regulatory",
+        "score": -1,
+        "summary": "PepsiCo and Monster are challenging India's 'energy drink' label ban, citing business impact. This represents a regulatory risk to a portion of PepsiCo's product portfolio in a key emerging market.",
+        "suggestedAction": "Monitor the outcome of India regulatory challenge; assess potential impact to beverage segment revenue and whether client needs compliance/supply chain solutions in affected markets",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscUI0?oc=5"
+      },
+      {
+        "category": "Growth concerns and valuation pressure despite lower stock price",
+        "updateType": "market",
+        "score": -1,
+        "summary": "Multiple analyst reports indicate PepsiCo stock appears cheaper but growth remains a 'catch' with concerns about operational tailwinds not being sufficient to appease investors ahead of Q3 earnings.",
+        "suggestedAction": "Use earnings call and guidance as touchpoint for conversation; position solutions around cost optimization or revenue acceleration if growth is constrained",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUtIQUpsZk5rLVBFczBMYnA5SDVnRUtieXFZTEw2a2t4WV9nVEpVbXRsVjQxQnA0MDZHaW0xMTU0elNBcllESTFiYjJSdTB5YTRSbTBMQ3VTTXotWml0TjFTeDJYOW1sbVhRaVFwWjA4UWdGbVQyanFndDJqbGJqSHlIZW9VUWpRN3YwN19RNXV0dFUxSTZkSnM5dHVmOVAy?oc=5"
+      },
+      {
+        "category": "Russia market exit costs and geopolitical impact",
+        "updateType": "market",
+        "score": -1,
+        "summary": "PepsiCo paid $237 million to Russian state in 2025 despite announcing plans to leave Russia, indicating ongoing financial exposure and geopolitical complexity in Eastern European operations.",
+        "suggestedAction": "Assess if client needs support managing supply chain, financial, or operational transitions in geopolitically sensitive markets; potential opportunity for risk mitigation services",
+        "sourceName": "The Kyiv Independent",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElyTWdjWUJBOURTbFcybUZIRERWMk0zbFBoTWlWZERwSTJJYVRScHZPcy1VU1dLRVFLRjZRVEF6RzdLNU05WEJmTlQxSFpDN2JaSHFKM2Q0VGwzbllfSUJ6b0J2X08xZl9KS04wTElmdjRJZWpKUmpOcXdsX2hMUXNIUDV4Q3lFemRvaEMxUV8wVUpoeHlQQkoxMjNQTnc2eVI1dlhpcmhQdw?oc=5"
+      }
+    ]
   }
 ]

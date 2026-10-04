@@ -1056,5 +1056,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjg0TGR1elc4QjFOLUhNTW9yUmtLN213TVJkOVlRR2NoalMzcmdkQk4yTF9RN1F5WW5FekoxVktsVWEyVS1fZUtUS2tScDQtbW1SMndha05lR2R5NHB5Vm1PRHN3UVQxZ0NFaFp4Ti1zWGR1djhlaDRzQ3NZdlkzeFRKeTRTemFlVHBsR2prbDUxM0gxNGlMVkhxSUZNWXlKOVV0MGR0czRITnM"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-10-04T17:21:59.847Z",
+    "source": "daily",
+    "headline": "Costco expanding healthcare partnership and facing legal/competitive headwinds while maintaining strong consumer brand momentum",
+    "signals": [
+      {
+        "category": "Healthcare co-branding expansion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "SCAN Health Plan launching co-branded Costco Medicare Advantage plans in 2027, expanding Costco's healthcare services offerings and potential revenue stream.",
+        "suggestedAction": "Explore whether current B2B solutions can support or integrate with expanded healthcare membership/benefits offerings; identify cross-sell opportunities in healthcare admin or compliance space.",
+        "sourceName": "Fierce Healthcare",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjg0TGR1elc4QjFOLUhNTW9yUmtLN213TVJkOVlRR2NoalMzcmdkQk4yTF9RN1F5WW5FekoxVktsVWEyVS1fZUtUS2tScDQtbW1SMndha05lR2R5NHB5Vm1PRHN3UVQxZ0NFaFp4Ti1zWGR1djhlaDRzQ3NZdlkzeFRKeTRTemFlVHBsR2prbDUxM0gxNGlMVkhxSUZNWXlKOVV0MGR0czRITnM"
+      },
+      {
+        "category": "Federal lawsuit over labor practices in supply chain",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Costco facing federal lawsuit alleging products sold are linked to child and forced labor, raising reputational and operational risk.",
+        "suggestedAction": "Monitor case progression; assess whether customer has compliance/audit requirements that create service opportunities; be prepared to discuss supply chain transparency solutions if relevant to your offering.",
+        "sourceName": "KIRO 7 News Seattle",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFRwN0p4WGdEY1VYQnd1VTBLeEtVSEtqbTN3WDBCU1E2RnBvMWdDekgzN3Y1d1E3aTlrYmQ0N2s4TjcyYmVHNjc1XzhRNFRDbUh0X25ZLU1ienZMMmVkb1hlYjZYYmJuVVlkSVVOZ28tVzltczRBRHNlU0tESGxUMnN6MjZKSE5BVnFjU2JDQTRmRVN1Z2RwSzJzX2swb2cxZGNIcXItRlpqeTNOcnZ6UGpaenlCWkZYMHhrWTN1VTJmUWM0RjJtT2N5ZERhTEM5UllRd2dqUUpPQkh2N3M2YWk5MEPSAfgBQVVfeXFMT0I3eUl5aFViQWdOM2JULVBNV3l2c0xfNFFVNGswZEFaSktOYTFWNllHNFR1R3VRNElsN3lBOTBzMGFKNDNSSmVIQ1FjVy1EcFo5QWJYRmY1SDNSUUFDVXY3VGVBaEtjbzRDNWMzOGNDb0NaOXBsbElNZGdmcEJ1cmdMdlZOTlJUNGg4VEJhYkFzRHl6bVB1TXNVeUJiSUUzZ2R1bEZ4X1NXekJQYU5ibWxYNm9YVUJHQi1lTThwRklLZDJheGotV2c5QjBIOF8wRkJyMVdXcGxXVG9USzEwTHJLQU5KY2M3T2FHV3ZKeUN6XzZqR0NmQnU"
+      },
+      {
+        "category": "Competitive pressure from traditional grocery rivals",
+        "updateType": "competitive",
+        "score": -1,
+        "summary": "Kroger and Publix facing direct competitive challenge from Costco's growing market share and member-value proposition, indicating strong competitive positioning and aggressive expansion.",
+        "suggestedAction": "Monitor whether Costco is accelerating any operational, technology, or vendor consolidation initiatives to maintain competitive edge; identify whether our solutions could support operational efficiency gains.",
+        "sourceName": "thestreet.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2hKaTBnd05NZGxpdUJoUTQwc2x2UllMNjlISmR5U042QzdQSXhaLUVvQURScjJJVTJrNC1SSFNJQ19Nb1piWEs1VGZ3WklkNFVtNXhKaDhIZHREaWZhMG1ITGxOdkl1ci1YaEtOaktaUjhNQlN6b1pqZ2Y4VDJhcVE4ZmpBbE9fWnZCSF94VHpOM3MwSWtF"
+      }
+    ]
   }
 ]

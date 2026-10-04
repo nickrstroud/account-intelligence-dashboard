@@ -1229,5 +1229,31 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0RDcUNYWHJNNlNmalAxSDRpV2w1M3BjdnhEUHNFamZ0OXNrMTBjOHFaNWt2Z2hQYlM1ZWxqS2NIUEYwZ053UDQ2Z2ZvZnYyamxfNGRpWlRWejFzcmdaRVNBdkdLUy16REJjTXlWTk5VYmxvUmZCeEdxcDM5UDZjRDhISmNMWUdSanVhTFlRZ1ZqTTNmakNGYkVvWjcySUZsNkhXM2hsU091TGxsZVBIbXpSWGtlbXp4VndKbTE0ME1uajc1dkE"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-10-04T17:20:40.530Z",
+    "source": "daily",
+    "headline": "Coca-Cola shows operational stability with dividend strength and local hiring, offset by worker settlement liability",
+    "signals": [
+      {
+        "category": "Labor Settlement",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Coca-Cola workers receiving $672 checks in $2M settlement. While the amount is modest, this represents a legal/labor liability that could impact budget or signal internal labor relations issues.",
+        "suggestedAction": "Monitor for any pattern of labor disputes or HR restructuring that could affect vendor relationships or procurement decision-making timelines.",
+        "sourceName": "The Independent",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWtIdXZWSVJ2N3k0X1o5SmgtM21MQVd4UC1TOUQ3ekNFQlI4T2tSQmczbUE5cTJIRE5laWdmVkdjTVAwN1ktdEhtODFCSEh1RXdrNGoyVXR6eVlGRlFqb0UwbHFTVGZkN1huMTAzczdvRXpfenRoZHE5eV9UTWRZbjQxR3QxUQ?oc=5"
+      },
+      {
+        "category": "Hiring Activity",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Coca-Cola Beverages Florida announcing several local job openings, indicating continued operational expansion and business confidence in the region.",
+        "suggestedAction": "Use as rapport-building talking point; consider whether new hires present cross-sell opportunities or indicate areas of business growth where vendor support is expanding.",
+        "sourceName": "WFTV",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXFMQUE2dWRBSUh6S21mZ3VVOXVkS0FGRFRTNWtjZmRGNlJNM2pabVRsckkxMWUxOWZSQlNHb0N6S2E4SVZyc1RRcG5ZSXdScG40LThtblYxYWpWS0dJR0kwZlF4VU5kLTBTNzJ0MmlZOVFQaXRNV0dyYmxHNWZDTUgtV3ZENjF5a2V5OVd2YlRvN3VNeDFobDJhOUVhS1ZRTWY4QnRfcE55YWtIWGdlS1ZVOEpOanFXOGE2UksxYmRod9IB1gFBVV95cUxQRExMQkJpakU0VFliOHRiSXR4SzZrLTl3RGhXT0VNSDRweXRkUGJxa09wOTEtWVNwLTh1TVQ3NWE5aHNOUWxVbUlKYzFQRExMUzh5LUxwYklKQ0ZnQThtTUJMVmdhWFNwRks1VV9WV0JFZ1kzY2N4bjB6dzhtaGxSTEJYUUc4di1Tcl9sVUtMR1VyS3VGWWwzcGt4S2VkTFprLXkxRGs1UDN0d1praU00X3h3UFRNQ294MGtVdGdrNEpyeVZwTjIxOUNmR1NvTFM1WVlrdXlR?oc=5"
+      }
+    ]
   }
 ]

@@ -1063,5 +1063,40 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWx3UlN6LS1oWTlkVU1hUTVHLVdwMzNZbzIxVVFlbW1wbzJGWnpVbG5GTzdYSEx5Tzl6VG55R0wwNHdYYlY0YnE3SUt1Qi1wV2Vud1YwbmdEZ25WOENnRm1od1p5N0ZPaWNTUzNBNGY1eGFXUUp3WWhfTjZjdlFFWGxqNzdRdExfZ3ptTGc2VVNzLTV2R1lwdjBuUFZwNU9KeTZScDB5Nl9DZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-10-04T17:21:35.402Z",
+    "source": "daily",
+    "headline": "Walmart faces multiple product safety recalls (berries, pasta) and brand expansion initiatives—operational risk offset by portfolio growth",
+    "signals": [
+      {
+        "category": "Product Safety Recall - Frozen Berries (E. coli)",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "FDA-coordinated recall of frozen berries sold at Walmart across 33 states due to potential E. coli contamination affecting 17 confirmed illnesses. Multiple recalls expanding ongoing.",
+        "suggestedAction": "Monitor recall scope and liability exposure; assess potential impact on Walmart's produce/frozen goods supply chain and vendor quality standards.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0pqMlROSF9GQnRlVzB0TTVPck94WmJjUWxsckxnY2VaZjdUYkM2QkFNd25zNW5vMmR2WmpxV0N3R2h3N21fUlJFOUlzWU9iU2wtaDhxc0Izc1l2U3dJSVFvakdJcmMtcFlUSk43T3pjb2M0UUYyY2s3M0xWTkhiNUxnT1NSUmV3eW1WLTFfQ0ZvSW11Vkd4VFRUOFB1OGtCRTdma0dEQnRzdmNRVm9UR19ROXlZTVnSAbwBQVVfeXFMUGFkdWwxMW5YYXpuVUZCSXVSSEhTalBZODVOcWRCSHlQRnlIVWk0UkFpbjB1Qk5ESTRzdkF3ODdjTWJSX1F1dUpMWDUtWGNraVJEVU5lUHRCM0tJenI5YUMxQWtVTGQ2a0RGSHhfMmRwNGZUQnBKNzVrbGpNVjJzZjlRaG1VQ3V4QnZrdGZCaXBjSnNRd2QzZDNnVElmb3JiWXNSdVh6RnJjMFZxUGdMcndTbWVhUS0zUzluek0?oc=5"
+      },
+      {
+        "category": "Product Safety Recall - Pasta (Listeria)",
+        "updateType": "legal",
+        "score": -1,
+        "summary": "Nationwide recall of Walmart private-label pasta products for potential listeria contamination; recall expanding across multiple states.",
+        "suggestedAction": "Track recall expansion and any customer impact litigation; assess Walmart's food safety protocols and supplier vetting processes.",
+        "sourceName": "Newsweek",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFhYdHBubmlvT0JWbFBGOFpWaTFFU2NBSUlaaENGVUN0VmZnRGpLdmRhcDZ0akVWa1NBQ19DUnBKNDZ3TjBLMXI1UkYzQVNfY2NmMTYtYXJEWGJJQWl0MmdfY09OVEVrWnBKZm5iNWtaX0xvWk9qcjZUOGlvaTRaeUdJX2lpRndmS2dBN0hUeXg4enJOdnJB?oc=5"
+      },
+      {
+        "category": "Brand Portfolio Expansion - Bohemian Fashion",
+        "updateType": "expansion",
+        "score": 1,
+        "summary": "Walmart launching new bohemian fashion brand as part of market share expansion strategy; indicates continued diversification into exclusive apparel brands.",
+        "suggestedAction": "Explore potential cross-selling or merchandising partnership opportunities in fashion/lifestyle categories; assess if vendor solutions apply to expanded product lines.",
+        "sourceName": "NBC News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWx3UlN6LS1oWTlkVU1hUTVHLVdwMzNZbzIxVVFlbW1wbzJGWnpVbG5GTzdYSEx5Tzl6VG55R0wwNHdYYlY0YnE3SUt1Qi1wV2Vud1YwbmdEZ25WOENnRm1od1p5N0ZPaWNTUzNBNGY1eGFXUUp3WWhfTjZjdlFFWGxqNzdRdExfZ3ptTGc2VVNzLTV2R1lwdjBuUFZwNU9KeTZScDB5Nl9DZw?oc=5"
+      }
+    ]
   }
 ]

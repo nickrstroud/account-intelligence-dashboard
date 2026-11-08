@@ -1,132 +1,104 @@
-import { readFile, mkdir, writeFile } from "node:fs/promises";
-import path from "node:path";
-import { fetchGdeltArticles } from "./gdelt.ts";
-import { analyzeCompany, type CompanyAnalysis } from "./analyze.ts";
-import type { NewsItem } from "./fetch-news.ts";
+import { fetchNews, type NewsItem } from "./fetch-news.ts";
+import { analyzeCompany } from "./analyze.ts";
+import { runIndustry } from "./industry.ts";
+import type { CompanyAnalysis } from "../lib/types.ts";
+import { slugify } from "../lib/slug.ts";
+import {
+  appendHistory,
+  dedupe,
+  defaultNewsQuery,
+  loadCompanies,
+  loadHistory,
+  loadState,
+  mapPool,
+  markAccountSeen,
+  saveState,
+  seenKey,
+} from "./common.ts";
 
-interface Company {
-  name: string;
-  website: string;
-  ticker: string | null;
-  isPublic: boolean;
-  newsQuery: string;
+// Seeds history so accounts have depth on day one. Uses Google News
+// `after:`/`before:` windows (one Claude call per account-month that has
+// coverage). Each account records how far back it's been backfilled
+// (state.backfilledFrom), so re-running with a larger --months only fetches the
+// older months still missing. Safe to re-run after adding new accounts.
+
+const monthsArg = process.argv.find((a) => a.startsWith("--months="));
+const MONTHS_BACK = monthsArg ? Number(monthsArg.split("=")[1]) : 12;
+const INDUSTRY_MONTHS = 3;
+// Accounts backfilled before coverage was tracked got the 3 most recent months.
+const LEGACY_BACKFILL_DAYS = 90;
+const CONCURRENCY = 3;
+
+function monthWindows(months: number) {
+  const day = 86_400_000;
+  const now = Date.now();
+  return Array.from({ length: months }, (_, k) => {
+    const i = months - k;
+    const end = new Date(now - (i - 1) * 30 * day);
+    const start = new Date(end.getTime() - 30 * day);
+    return { start, end, label: start.toISOString().slice(0, 7) };
+  });
 }
 
-const DATA_DIR = path.resolve(import.meta.dirname, "../data");
-const REPORTS_DIR = path.join(DATA_DIR, "reports");
-const MONTHS_BACK = 6;
-const GDELT_DELAY_MS = 8000; // baseline spacing; fetchGdeltArticles also retries with backoff on 429
-
-function slugify(name: string) {
-  return name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-}
-
-// Some brand names collide with common words/other entities (e.g. "Coterie"
-// the diaper brand vs. "Coterie Noir" photographers). Mirrors the same
-// disambiguation already used in companies.json's newsQuery for the daily
-// Google News pipeline.
-const DISAMBIGUATORS: Record<string, string> = {
-  Coterie: "(diapers OR baby)",
-  Comfrt: "(blankets OR loungewear)",
-};
-
-function gdeltQuery(name: string): string {
-  // repeat2 requires the term to appear 2+ times in an article — filters out
-  // passing mentions (e.g. stock-roundup articles that name-drop the brand
-  // once) in favor of articles substantially about the company. GDELT only
-  // accepts a single word in a REPEAT block, so multi-word names (which are
-  // already fairly precise as an exact phrase) skip it.
-  const base = /[\s-]/.test(name.trim()) ? `"${name}"` : `"${name}" repeat2:"${name}"`;
-  const disambiguator = DISAMBIGUATORS[name];
-  return disambiguator ? `${base} ${disambiguator}` : base;
-}
-
-function monthWindows(months: number): { start: Date; end: Date; label: string }[] {
-  const now = new Date();
-  const windows: { start: Date; end: Date; label: string }[] = [];
-  for (let i = months; i >= 1; i--) {
-    const end = new Date(now);
-    end.setUTCDate(end.getUTCDate() - (i - 1) * 30);
-    const start = new Date(end);
-    start.setUTCDate(start.getUTCDate() - 30);
-    windows.push({ start, end, label: start.toISOString().slice(0, 7) });
-  }
-  return windows;
-}
-
-async function loadHistory(slug: string): Promise<CompanyAnalysis[]> {
-  try {
-    const raw = await readFile(path.join(REPORTS_DIR, `${slug}.json`), "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return [];
-  }
-}
-
-function sleep(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
+const ymd = (d: Date) => d.toISOString().slice(0, 10);
 
 async function main() {
-  await mkdir(REPORTS_DIR, { recursive: true });
-  const companies: Company[] = JSON.parse(await readFile(path.join(DATA_DIR, "companies.json"), "utf-8"));
+  const companies = await loadCompanies();
+  const state = await loadState();
   const windows = monthWindows(MONTHS_BACK);
+  const onlyIndustry = process.argv.includes("--industry-only");
 
-  for (const company of companies) {
-    const slug = slugify(company.name);
-    const existing = await loadHistory(slug);
+  if (!onlyIndustry) {
+    await mapPool(companies, CONCURRENCY, async (company) => {
+      const slug = slugify(company.name);
+      const existing = await loadHistory(company);
+      const legacy = existing.some((r) => r.source === "backfill")
+        ? new Date(Date.now() - LEGACY_BACKFILL_DAYS * 86_400_000).toISOString()
+        : null;
+      const coveredFrom = state.accounts[slug]?.backfilledFrom ?? legacy;
+      // Only months that end before what's already covered (small slack for rounding).
+      const todo = coveredFrom
+        ? windows.filter((w) => w.end.getTime() <= new Date(coveredFrom).getTime() + 86_400_000)
+        : windows;
+      if (todo.length === 0) return;
 
-    if (existing.some((r) => r.source === "backfill")) {
-      console.log(`Skipping ${company.name} — backfill already present`);
-      continue;
-    }
-
-    console.log(`Backfilling ${company.name} (${windows.length} months)...`);
-    const backfillEntries: CompanyAnalysis[] = [];
-
-    for (const w of windows) {
-      await sleep(GDELT_DELAY_MS);
-      let articles;
-      try {
-        articles = await fetchGdeltArticles(gdeltQuery(company.name), w.start, w.end, 75);
-      } catch (err) {
-        console.error(`  ${w.label}: GDELT fetch failed — ${err instanceof Error ? err.message : err}`);
-        continue;
+      const entries: CompanyAnalysis[] = [];
+      const links: string[] = [];
+      for (const w of todo) {
+        let news: NewsItem[];
+        try {
+          news = dedupe(
+            await fetchNews(`${defaultNewsQuery(company)} after:${ymd(w.start)} before:${ymd(w.end)}`, 10),
+          );
+        } catch (err) {
+          console.error(`${company.name} ${w.label}: fetch failed`);
+          continue;
+        }
+        if (news.length === 0) continue;
+        links.push(...news.flatMap((n) => [n.link, seenKey(n.title)]));
+        try {
+          const analysis = await analyzeCompany(company, news, {
+            runAt: w.end.toISOString(),
+            source: "backfill",
+            periodLabel: w.label,
+          });
+          if (analysis.signals.length > 0) entries.push(analysis);
+        } catch (err) {
+          console.error(`${company.name} ${w.label}: analysis failed —`, err instanceof Error ? err.message : err);
+        }
       }
 
-      if (articles.length === 0) {
-        console.log(`  ${w.label}: no coverage`);
-        continue;
-      }
-
-      const newsItems: NewsItem[] = articles.map((a) => ({
-        title: a.title,
-        source: a.domain,
-        link: a.url,
-        publishedAt: a.seendate,
-        snippet: "",
-      }));
-
-      const analysis = await analyzeCompany(company.name, newsItems, {
-        runAt: w.end.toISOString(),
-        source: "backfill",
-        periodLabel: w.label,
-      });
-      console.log(`  ${w.label}: ${articles.length} article(s), ${analysis.signals.length} signal(s)`);
-      backfillEntries.push(analysis);
-    }
-
-    if (backfillEntries.length === 0) {
-      console.log(`  no historical coverage found for ${company.name}`);
-      continue;
-    }
-
-    const merged = [...backfillEntries, ...existing].sort(
-      (a, b) => new Date(a.runAt).getTime() - new Date(b.runAt).getTime(),
-    );
-    await writeFile(path.join(REPORTS_DIR, `${slug}.json`), JSON.stringify(merged, null, 2));
-    console.log(`  saved ${backfillEntries.length} historical month(s) for ${company.name}`);
+      if (entries.length > 0) await appendHistory(company, entries);
+      markAccountSeen(state, company, links);
+      state.accounts[slug].backfilledFrom = todo[0].start.toISOString();
+      const n = entries.reduce((s, e) => s + e.signals.length, 0);
+      console.log(`${company.name}: ${n} historical signal(s)`);
+    });
+    await saveState(state);
   }
+
+  if (process.argv.includes("--accounts-only")) return;
+  await runIndustry({ feedPages: 8, topicWindow: `${INDUSTRY_MONTHS * 30}d`, fedRegDaysBack: INDUSTRY_MONTHS * 30 });
 }
 
 main();

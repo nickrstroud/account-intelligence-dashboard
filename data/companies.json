@@ -2,73 +2,112 @@
   {
     "name": "Coca-Cola",
     "website": "https://www.coca-colacompany.com/",
-    "ticker": "KO",
-    "isPublic": true,
-    "newsQuery": "\"Coca-Cola\"",
-    "renewalDate": "2026-11-15",
-    "contractValue": 415000
+    "pinned": true,
+    "type": "Global beverage manufacturer (public: KO)",
+    "newsQuery": "\"Coca-Cola\" OR \"Coca-Cola Company\"",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "notes": "Largest global beverage company, selling through bottling partners and retailers worldwide. Illustrative account: standardized on the core platform for category reporting; analytics owned by strategy/finance. Whitespace: workflow automation for supply-chain alerting across bottler networks.",
+    "arr": 415000,
+    "renewalDate": "2026-11-15"
   },
   {
     "name": "PepsiCo",
     "website": "https://www.pepsico.com/",
-    "ticker": "PEP",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Global snack and beverage manufacturer (public: PEP)",
     "newsQuery": "\"PepsiCo\"",
-    "renewalDate": "2027-04-10",
-    "contractValue": 590000
+    "products": [
+      "platform",
+      "automation"
+    ],
+    "notes": "Diversified food and beverage company (Frito-Lay, Quaker, Pepsi). Illustrative account: platform plus automation for demand and supply alerts. Whitespace: analytics for pricing and share across the snacks and beverage portfolios.",
+    "arr": 590000,
+    "renewalDate": "2027-04-10"
   },
   {
     "name": "Keurig Dr Pepper",
     "website": "https://www.keurigdrpepper.com/",
-    "ticker": "KDP",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Beverage and coffee systems company (public: KDP)",
     "newsQuery": "\"Keurig Dr Pepper\"",
-    "renewalDate": "2027-01-20",
-    "contractValue": 245000
+    "products": [
+      "platform"
+    ],
+    "notes": "North American beverage and single-serve coffee company undergoing portfolio changes. Illustrative account: core platform only. Whitespace: integrations for any acquired or separated business units; analytics for category performance.",
+    "arr": 245000,
+    "renewalDate": "2027-01-20"
   },
   {
     "name": "Procter & Gamble",
     "website": "https://us.pg.com/",
-    "ticker": "PG",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Global household and personal-care manufacturer (public: PG)",
     "newsQuery": "\"Procter & Gamble\" OR \"P&G\"",
-    "renewalDate": "2026-12-10",
-    "contractValue": 198000
+    "products": [
+      "platform",
+      "analytics",
+      "integrations"
+    ],
+    "notes": "One of the largest consumer-goods companies, with brands like Tide, Pampers, and Gillette. Illustrative account: broad deployment across brand teams. Whitespace: workflow automation for retailer-specific alerts.",
+    "arr": 198000,
+    "renewalDate": "2026-12-10"
   },
   {
     "name": "Walmart",
     "website": "https://www.walmart.com/",
-    "ticker": "WMT",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Big-box retailer (public: WMT)",
     "newsQuery": "\"Walmart\"",
-    "renewalDate": "2027-02-14",
-    "contractValue": 310000
+    "products": [
+      "platform",
+      "integrations"
+    ],
+    "notes": "Largest US retailer by revenue, with a growing e-commerce and retail-media business. Illustrative account: platform plus POS and e-commerce integrations. Whitespace: analytics for pricing and demand; automation for merchant workflows.",
+    "arr": 310000,
+    "renewalDate": "2027-02-14"
   },
   {
     "name": "Costco",
     "website": "https://www.costco.com/",
-    "ticker": "COST",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Membership warehouse retailer (public: COST)",
     "newsQuery": "\"Costco\"",
-    "renewalDate": "2027-06-01",
-    "contractValue": 528000
+    "products": [
+      "platform"
+    ],
+    "notes": "Membership warehouse club with international expansion and a high-volume private label (Kirkland Signature). Illustrative account: core platform only. Whitespace: analytics for member and category insight; integrations for new-market rollouts.",
+    "arr": 528000,
+    "renewalDate": "2027-06-01"
   },
   {
     "name": "Target",
     "website": "https://www.target.com/",
-    "ticker": "TGT",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Big-box retailer (public: TGT)",
     "newsQuery": "\"Target Corp\" OR \"Target Corporation\"",
-    "renewalDate": "2027-07-22",
-    "contractValue": 475000
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "notes": "Large US general-merchandise and grocery retailer with strong owned brands. Illustrative account: platform plus analytics for merchandising. Whitespace: workflow automation and integrations for supply-chain and store operations.",
+    "arr": 475000,
+    "renewalDate": "2027-07-22"
   },
   {
     "name": "Kroger",
     "website": "https://www.kroger.com/",
-    "ticker": "KR",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Supermarket chain (public: KR)",
     "newsQuery": "\"Kroger\"",
-    "renewalDate": "2026-09-30",
-    "contractValue": 362000
+    "products": [
+      "platform",
+      "automation"
+    ],
+    "notes": "Largest US traditional supermarket operator, with a large private-label and retail-media business and a recent merger history. Illustrative account: platform plus automation for store and supply alerts. Whitespace: analytics for pricing and demand; integrations for acquired banners.",
+    "arr": 362000,
+    "renewalDate": "2027-09-30"
   }
 ]

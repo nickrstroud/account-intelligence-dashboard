@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter, usePathname } from "next/navigation";
-import type { Company } from "@/lib/data";
+import type { Company } from "@/lib/types";
 import { slugify } from "@/lib/slug";
 
 export default function AccountSwitcher({ companies }: { companies: Company[] }) {
@@ -13,14 +13,15 @@ export default function AccountSwitcher({ companies }: { companies: Company[] })
 
   return (
     <select
+      aria-label="Jump to account"
       value={currentSlug}
       onChange={(e) => {
         const value = e.target.value;
         router.push(value ? `/account/${value}` : "/");
       }}
-      className="text-[11px] bg-white border border-slate-300 text-slate-700 rounded-md px-2 py-1 focus:outline-none focus:ring-2 focus:ring-emerald-500/40"
+      className="text-[11px] bg-white border border-slate-300 text-slate-700 rounded-md px-2 py-1 max-w-[11rem] focus:outline-none focus:ring-2 focus:ring-brand-500/40"
     >
-      <option value="">All accounts</option>
+      <option value="">Jump to account…</option>
       {sorted.map((c) => (
         <option key={c.name} value={slugify(c.name)}>
           {c.name}

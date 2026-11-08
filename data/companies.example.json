@@ -2,10 +2,14 @@
   {
     "name": "Example Corp",
     "website": "https://example.com/",
-    "ticker": "EXPL",
-    "isPublic": true,
+    "pinned": true,
+    "type": "Example description",
     "newsQuery": "\"Example Corp\"",
-    "renewalDate": "2027-01-01",
-    "contractValue": 250000
+    "products": [
+      "platform"
+    ],
+    "notes": "Optional relationship background given to the agent.",
+    "arr": 250000,
+    "renewalDate": "2027-01-01"
   }
 ]

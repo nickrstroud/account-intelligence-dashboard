@@ -1,62 +1,48 @@
 import Anthropic from "@anthropic-ai/sdk";
 import type { NewsItem } from "./fetch-news.ts";
-import { UPDATE_TYPE_OPTIONS } from "../lib/filters.ts";
+import type { AccountSignal, Company, CompanyAnalysis } from "../lib/types.ts";
+import { ACCOUNT_RUBRIC, EXAMPLE_ACTION, PRODUCTS, VENDOR } from "../lib/vendor.ts";
+import { VENDOR_CONTEXT, PLAY_ENUM, TAXONOMY_TEXT, UPDATE_TYPE_ENUM } from "./vendor-context.ts";
 
 const client = new Anthropic(); // reads ANTHROPIC_API_KEY from env
+export const MODEL = "claude-haiku-4-5";
 
-export interface AccountSignal {
-  category: string;
-  updateType: string;
-  score: -2 | -1 | 0 | 1 | 2;
-  summary: string;
-  suggestedAction: string;
-  sourceName: string;
-  sourceLink: string;
-}
+const SYSTEM_PROMPT = `You are an account-intelligence analyst supporting a customer
+success team. Given recent public news about ONE customer account, extract signals
+relevant to the vendor relationship — not general news summarization.
 
-export interface CompanyAnalysis {
-  company: string;
-  runAt: string;
-  signals: AccountSignal[];
-  headline: string;
-  source?: "daily" | "backfill";
-}
+${VENDOR_CONTEXT}
 
-const SYSTEM_PROMPT = `You are an account-intelligence analyst monitoring a strategic
-customer account list on behalf of a B2B vendor's account team. Given recent public news
-about one of the accounts, extract signals relevant to the *account relationship* — not
-general news summarization.
+You are told which products the account already owns and which it does not. Use that:
+growth in an area they already buy is an expansion play on that product; a move into an
+area served by a product they don't own is a cross-sell play on that product.
 
 Score each distinct signal from -2 (strong renewal/relationship risk) to +2 (strong
-expansion opportunity), per this rubric:
+expansion opportunity):
 
-- Funding raised, revenue growth, new business line/channel -> positive (budget/expansion)
-- Leadership departure (named champion) -> strong risk
-- New buyer-side leadership hire -> mixed (relationship risk + re-pitch opportunity)
-- Layoffs in the buying function specifically -> mixed (budget risk + "do more with less" case)
-- Broad layoffs, revenue decline, being acquired -> risk
-- Acquiring another company -> opportunity (new business unit to expand into)
-- Competing vendor mentioned -> risk (competitive threat)
-- Positive press/award -> mild opportunity (rapport talking point)
-- Unrelated negative press (lawsuit, PR crisis) -> neutral, context only
+${ACCOUNT_RUBRIC}
 
-If nothing in the provided articles is relevant to the account relationship, return an
-empty signals array rather than forcing a score.
+IMPORTANT relevance rules:
+- Only use articles clearly about THIS organization. Namesakes and unrelated entities
+  with a similar name must be ignored.
+- If nothing is relevant, return an empty signals array. Quiet weeks are normal.
+- One signal per distinct event, even if several articles cover it.
 
-In addition to the score, classify each signal into exactly one updateType from this
-fixed list — pick the closest fit, don't invent new categories:
-${UPDATE_TYPE_OPTIONS.map((t) => `- "${t.value}" (${t.label})`).join("\n")}
+${TAXONOMY_TEXT}
 
-Rough mapping: acquiring/being acquired -> ma. Earnings/revenue growth or decline,
-guidance changes -> earnings. Leadership hires/departures -> leadership. Layoffs (buying-
-function-specific or broad) -> restructuring. Funding raised/new business line/channel
-launch -> expansion. Competitor mention -> competitive. Lawsuits -> legal. Regulatory/
-compliance news affecting the account's industry -> regulatory. Stock price moves ->
-market. Positive press/award/unrelated PR crisis -> brand.`;
+Use the relationship background, when given, to make actions specific (build on what
+they already do with ${VENDOR.name}; don't pitch what they already have).
+
+The account itself is the ${VENDOR.name} customer. Its own customers, partners, and
+investors are not. Frame actions around the account. The play field must match the
+product the suggestedAction proposes.
+
+suggestedAction: one concrete next step a CSM would take this week, written for this
+account (e.g. ${EXAMPLE_ACTION}), not a generic platitude.`;
 
 const RECORD_ANALYSIS_TOOL: Anthropic.Tool = {
   name: "record_analysis",
-  description: "Record the account-relationship analysis for this company's recent news.",
+  description: "Record the account-relationship analysis for this account's recent news.",
   input_schema: {
     type: "object",
     properties: {
@@ -66,22 +52,15 @@ const RECORD_ANALYSIS_TOOL: Anthropic.Tool = {
         items: {
           type: "object",
           properties: {
-            category: { type: "string" },
-            updateType: {
-              type: "string",
-              enum: UPDATE_TYPE_OPTIONS.map((t) => t.value),
-              description: "Fixed taxonomy classification — see system prompt for the mapping",
-            },
+            category: { type: "string", description: "Short label, e.g. 'New distribution center', 'CFO departure'" },
+            updateType: { type: "string", enum: UPDATE_TYPE_ENUM },
+            play: { type: "string", enum: PLAY_ENUM },
             score: { type: "integer", enum: [-2, -1, 0, 1, 2] },
             summary: { type: "string" },
             suggestedAction: { type: "string" },
-            sourceName: {
-              type: "string",
-              description: "The publication/outlet name this signal's evidence came from, exactly as given in the article list (e.g. 'NBC News', 'nbcnews.com')",
-            },
-            sourceLink: { type: "string" },
+            articleIndex: { type: "integer", description: "The [n] index of the main supporting article" },
           },
-          required: ["category", "updateType", "score", "summary", "suggestedAction", "sourceName", "sourceLink"],
+          required: ["category", "updateType", "play", "score", "summary", "suggestedAction", "articleIndex"],
         },
       },
     },
@@ -96,18 +75,32 @@ export interface AnalyzeOptions {
 }
 
 export async function analyzeCompany(
-  company: string,
+  company: Company,
   news: NewsItem[],
   opts: AnalyzeOptions = {},
 ): Promise<CompanyAnalysis> {
   const articleBlock = news
-    .map((n, i) => `[${i}] ${n.title} (${n.source}, ${n.publishedAt})\n${n.snippet}\nLink: ${n.link}`)
+    .map((n, i) => `[${i}] ${n.title} (${n.source}, ${n.publishedAt})\n${n.snippet}`)
     .join("\n\n");
 
-  const period = opts.periodLabel ?? "Recent";
+  const owned = PRODUCTS.filter((p) => company.products?.includes(p.value));
+  const profile = [
+    `Account: ${company.name}`,
+    `Website: ${company.website}`,
+    `Products owned: ${owned.map((p) => p.label).join(", ") || "none recorded"}`,
+    `Not yet owned (whitespace): ${PRODUCTS.filter((p) => !owned.includes(p)).map((p) => p.label).join(", ")}`,
+    company.type ? `Account type: ${company.type}` : null,
+    company.notes ? `Relationship background: ${company.notes}` : null,
+    company.sponsors?.length
+      ? `Known sponsors (champions): ${company.sponsors.map((x) => `${x.name}, ${x.title}`).join("; ")}`
+      : null,
+    company.newsQuery ? `News search used: ${company.newsQuery}` : null,
+  ]
+    .filter(Boolean)
+    .join("\n");
 
   const message = await client.messages.create({
-    model: "claude-haiku-4-5",
+    model: MODEL,
     max_tokens: 4096,
     system: SYSTEM_PROMPT,
     tools: [RECORD_ANALYSIS_TOOL],
@@ -115,22 +108,47 @@ export async function analyzeCompany(
     messages: [
       {
         role: "user",
-        content: `Account: ${company}\n\n${period} articles:\n\n${articleBlock || "(no articles found this period)"}`,
+        content: `${profile}\n\n${opts.periodLabel ?? "Recent"} articles:\n\n${articleBlock}`,
       },
     ],
   });
 
   const toolUse = message.content.find((b) => b.type === "tool_use");
   if (!toolUse || toolUse.type !== "tool_use") {
-    throw new Error(`no tool_use block in response for ${company} (stop_reason=${message.stop_reason})`);
+    throw new Error(`no tool_use block in response for ${company.name} (stop_reason=${message.stop_reason})`);
   }
-  const parsed = toolUse.input as { headline?: string; signals?: AccountSignal[] };
+  const parsed = toolUse.input as {
+    headline?: string;
+    signals?: (Omit<AccountSignal, "sourceName" | "sourceLink"> & { articleIndex: number })[];
+  };
+
+  // Source attribution comes from our own article list, not model output, so
+  // links can't be hallucinated.
+  const all: AccountSignal[] = (parsed.signals ?? []).map(({ articleIndex, ...s }) => {
+    const article = news[articleIndex] ?? news[0];
+    return {
+      ...s,
+      sourceName: article?.source,
+      sourceLink: article?.link ?? "",
+      publishedAt: article?.publishedAt ? new Date(article.publishedAt).toISOString() : undefined,
+    };
+  });
+
+  // One signal per event: the model sometimes splits one story into a signal per
+  // product play, which would count it several times in ranking. Keep the strongest
+  // per source article; the others' plays usually show up in its suggested action.
+  const byLink = new Map<string, AccountSignal>();
+  for (const sig of all) {
+    const prev = byLink.get(sig.sourceLink);
+    if (!prev || Math.abs(sig.score) > Math.abs(prev.score)) byLink.set(sig.sourceLink, sig);
+  }
+  const signals = [...byLink.values()];
 
   return {
-    company,
+    company: company.name,
     runAt: opts.runAt ?? new Date().toISOString(),
     source: opts.source ?? "daily",
     headline: parsed.headline ?? "",
-    signals: parsed.signals ?? [],
+    signals,
   };
 }

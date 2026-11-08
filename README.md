@@ -1,99 +1,74 @@
 # Account Intelligence Dashboard
 
-A live agent that monitors public signals (news, SEC filings-ready schema, and stock
-data as an optional v2) on a set of strategic customer accounts, scores each signal
-against an account-relationship rubric using Claude, and publishes a running, queryable
-dashboard per account — an "always-on account prep" tool.
+An always-on Claude agent that watches a set of strategic customer accounts (here: large
+public CPG and retail companies) plus the market around them, ranks which account needs a
+conversation first, and turns each meaningful signal into a ready-to-run workflow. Built as
+an independent portfolio project. It runs daily on a schedule with no database.
 
-Built as a portfolio project demonstrating an actual scheduled, multi-step agent
-(fetch → analyze → persist → publish), not a one-off script. The account list here
-(Coca-Cola, PepsiCo, Walmart, Costco, Target, Kroger, P&G, Keurig Dr Pepper) is a
-generic, publicly-known set of large consumer/retail brands used purely to demonstrate
-the pipeline — this isn't tied to any specific vendor relationship.
+Live: https://account-intelligence-dashboard-two.vercel.app
 
-## How it works
+## What it does
 
-1. **Fetch** — `scripts/fetch-news.ts` pulls recent articles per account via Google News
-   RSS (free, no key required).
-2. **Analyze** — `scripts/analyze.ts` sends the articles to Claude Haiku 4.5 with the
-   rubric in [`RUBRIC.md`](./RUBRIC.md), scoring each signal from -2 (relationship risk)
-   to +2 (expansion opportunity) with a suggested action.
-3. **Persist** — `scripts/run.ts` appends each run's results to
-   `data/reports/<account-slug>.json`, so history accumulates rather than overwrites.
-4. **Backfill** — `scripts/backfill.ts` seeds historical context via GDELT (free,
-   keyless, date-range news search), for depth beyond what daily runs alone would build up.
-5. **Schedule** — `.github/workflows/daily-run.yml` runs the pipeline daily via GitHub
-   Actions and commits the updated reports back to the repo. This doubles as the "living
-   document" — the git history of `data/reports/` *is* the audit trail of how each
-   account's signal picture changed over time. No database needed.
-6. **Dashboard** — a Next.js app (`app/`) reads the committed JSON directly at build
-   time — fully static, no API layer. Deployed on Vercel, connected to this repo, so
-   every daily commit triggers an automatic redeploy. Includes:
-   - Home feed of recent activity + an account grid, both alphabetized
-   - Per-account timeline, tagged "historical" vs. live daily entries
-   - Sentiment (toggle-chip) and time-period filters, shared globally via
-     `app/FilterContext.tsx` so they persist across navigation
-   - Named, direct source links where the underlying link resolves to one (GDELT
-     articles always do; Google News links fall back to a generic label — Google's
-     redirect only resolves client-side via JS, confirmed by testing, not assumed)
-   - Company logos via favicon lookup, keyed off each account's website
+- **Account lane.** Fetches news per account (Google News RSS), sends only new articles to
+  Claude Haiku, and gets back scored signals: score (-2 risk to +2 opportunity), update type,
+  a play, and one concrete suggested action.
+- **Industry lane.** A second pass reads consumer-goods/retail trade feeds, Federal Register
+  rules (FDA, USDA, FTC, trade), and topic searches, keeps what a CSM could act on, and tags
+  which products each item touches ("affects what they own" vs "upsell angle").
+- **Ranking.** Signals are weighted by strength, last 90 days only, 30-day half-life; risk
+  weighs slightly more than upside. ARR bands and a 90-day renewal window multiply the score.
+- **Learns from the user.** 👍 / 👎 on every signal reweights that update type live and
+  re-ranks the accounts.
+- **Workflows.** Each non-neutral signal gets a pre-generated play: five stages (Validate,
+  Align, Engage Customer, Act, Close Loop) with timing and tasks, a "done when", and drafts
+  of the customer email, Slack note, and CRM task. Trigger one, tick stages off, and track
+  everything in My workflows or the Workflow status filter (progress is stored in the browser).
+- **Ask the agent.** Plain-English Q&A over the dashboard's own data, with a daily question cap.
+- **Filters.** Sentiment, product, workflow status, update type, time period, and account.
 
-## Why GitHub Actions instead of Vercel Cron
+## Architecture
 
-Vercel serverless functions have an ephemeral filesystem in production, so a
-Vercel-Cron-triggered function can't durably persist the growing JSON history without
-adding a database. A scheduled GitHub Action that commits results back to the repo gets
-persistence for free and produces a literal, inspectable history of every run — better
-for a portfolio demo than a black-box database anyway.
+1. `scripts/run.ts`: daily pipeline (accounts, industry lane, workflows). Fails loudly if the
+   API key is missing or rejected instead of silently skipping accounts. `--days=N` widens the
+   news window for a catch-up run.
+2. Results are written to `data/` as JSON and committed by a scheduled GitHub Action
+   (`.github/workflows/daily-run.yml`, 9am ET). The git history is the audit trail.
+3. A static Next.js app reads that JSON at build time; every commit redeploys on Vercel.
+   The only server route is `app/api/ask/route.ts`.
+
+All vendor-specific framing (product lineup, scoring rubric, industry scope and sources,
+disclaimer) lives in [`lib/vendor.ts`](./lib/vendor.ts). The account list is
+`data/companies.json`. Point the same pipeline at a different vendor or customer list by
+editing those two files.
+
+The vendor, products, ARR, and renewal dates here are illustrative placeholders, not real
+customer data. Every signal comes from public news, linked to its source.
 
 ## Setup
 
 ```bash
 bun install
 cp .env.local.example .env.local   # add your ANTHROPIC_API_KEY
-cp data/companies.example.json data/companies.json  # fill in your own account list
-bun run run       # one local daily run, writes to data/reports/
-bun run backfill  # optional: seed historical context via GDELT
-bun run dev        # preview the dashboard locally
+bun run run                        # one local run, writes to data/
+bun run dev                        # preview the dashboard
 ```
 
-To go live: create a GitHub repo, push, add `ANTHROPIC_API_KEY` as a repo secret
-(Settings → Secrets and variables → Actions), connect the repo to a Vercel project
-(Project Settings → Git → Connect Git Repository) so pushes auto-deploy, and the daily
-workflow takes over from there. Trigger it manually anytime from the Actions tab
-(`workflow_dispatch`) for a live demo.
+Environment:
 
-## Company schema
+| Variable | Where | Purpose |
+|---|---|---|
+| `ANTHROPIC_API_KEY` | GitHub Actions secret | Daily pipeline |
+| `ANTHROPIC_API_KEY` | Vercel env (Production) | "Ask the agent". Use a separate key |
+| `KV_REST_API_URL`, `KV_REST_API_TOKEN` | Vercel env (Upstash Redis) | Daily question cap (falls back to in-memory) |
 
-```json
-{
-  "name": "Example Corp",
-  "website": "https://example.com/",
-  "ticker": "EXPL",
-  "isPublic": true,
-  "newsQuery": "\"Example Corp\"",
-  "renewalDate": "2027-01-01",
-  "contractValue": 250000
-}
-```
+Use one dedicated Anthropic key per purpose, turn on auto-reload in billing, and set a
+monthly spend limit as a backstop. API keys don't expire, but they stop working if revoked
+or if credit runs out.
 
-`ticker` / `isPublic` are carried through the schema for a future SEC-filings/stock-move
-enrichment step (see Status below); the pipeline as shipped is news-only regardless of
-these values. `renewalDate` and `contractValue` are illustrative demo fields, not real
-account data — swap in your own or drop them if you don't need that view.
+Trigger a manual or catch-up run from the Actions tab (`workflow_dispatch`, with a `days`
+input), or locally with `bun run run -- --days=21`.
 
 ## Cost
 
-Claude Haiku 4.5 at current pricing ($1/$5 per MTok in/out): roughly $0.007–0.01 per
-account per run. At 8 accounts, daily, that's under $2/month. News fetching is free.
-See [Claude Platform Pricing](https://platform.claude.com/docs/en/about-claude/pricing)
-for current rates.
-
-## Status
-
-- [x] Vendor-agnostic rubric drafted (`RUBRIC.md`)
-- [x] Pipeline built (fetch/analyze/run/backfill scripts, daily workflow)
-- [x] Dashboard (home feed, account pages, filters, logos, named sources)
-- [x] Demo account list (`data/companies.json`) — 8 public consumer/retail brands
-- [ ] SEC 8-K filings + stock-move enrichment for publicly traded accounts (optional v2)
-- [ ] Query interface over accumulated history (natural-language Q&A against the JSON)
+Claude Haiku at roughly a cent or two per account per run. Eight accounts plus the industry
+lane and workflows is a few dollars a month. News, Federal Register, and RSS are free.

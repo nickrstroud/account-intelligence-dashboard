@@ -1588,5 +1588,46 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElyTWdjWUJBOURTbFcybUZIRERWMk0zbFBoTWlWZERwSTJJYVRScHZPcy1VU1dLRVFLRjZRVEF6RzdLNU05WEJmTlQxSFpDN2JaSHFKM2Q0VGwzbllfSUJ6b0J2X08xZl9KS04wTElmdjRJZWpKUmpOcXdsX2hMUXNIUDV4Q3lFemRvaEMxUV8wVUpoeHlQQkoxMjNQTnc2eVI1dlhpcmhQdw?oc=5"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-08T18:42:43.577Z",
+    "source": "daily",
+    "headline": "PepsiCo facing operational headwinds and competitive share loss amid plant closures and category pressure, but maintaining key partnerships",
+    "signals": [
+      {
+        "category": "Plant closure and job cuts",
+        "updateType": "restructuring",
+        "play": "automation",
+        "score": 1,
+        "summary": "PepsiCo shuttered a bottling plant in Knoxville, Tennessee and cut 112 jobs amid soda slump. A separate incident at Quaker Oats Cedar Rapids plant also under assessment for restart timeline.",
+        "suggestedAction": "Reach out to the supply chain operations lead to understand if the shuttered facilities require reconfiguration of demand/supply alert workflows in Account Intelligence, and whether the platform is being used to model production scenarios for the remaining network.",
+        "sourceName": "Inc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDBiYWpMbkxlU3lRR3BFTjVmWE1CZldtcEZ4X243R05kdmZqaWJiamVScG1rVmxzTms2SExzcEk0dEM0QmZxWG5zT3lXUk1HNFhGYk0yN3BVOFVJb0VJSmExckwtZ0NLa1BSRVZrUTR1VHMwb2oxUzJQbGtERXFxdGRvWENZakdCVGRlTlltT2RrS181NVVicGNwUFRQWm1qQ2RIUk54Nlh2WlBBQkZpY191cUo0eXhsWmRtMmFtMA?oc=5",
+        "publishedAt": "2026-10-23T07:00:00.000Z"
+      },
+      {
+        "category": "Competitive share loss to Coca-Cola",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "KFC switched from Pepsi to Coca-Cola in the U.S., and Fortune reported PepsiCo losing market share in the cola wars. This signals category-level competitive pressure and margin risk.",
+        "suggestedAction": "Propose an Analytics Suite engagement with the strategy and category management teams to model pricing, share, and demand elasticity across the beverage portfolio (especially cola vs. non-cola like Mountain Dew) in response to competitive moves and channel losses.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sUFVHVi0zOE9VcWtNc0FYT2ZMSF9wR2lIX2RvNkFRSnlqMmV0dFpqQzdJQU5tM3JoUFBhaVpnOTJQRFRjYTdyVGJtenNzNnczbDdrZUVhdWtNN0d6RTc3emUycVBodklseUFLNkdVS3VGbXhFdnVz0gF8QVVfeXFMTW1IUlJwamxhUFFpaWJnV2VWdjlQb3g0aXNmb2VzakJkcTZXSV84Y2V0aTZ4VnlmeGh4NXlycXRkOGdHNHN5UzV4QTB1cGRsRHR2Z0xneXAxMXFjNjh1U2t6MEZNaGc4X3VYLTVZbTNDWDZ0T2lsSHBrUzlPVQ?oc=5",
+        "publishedAt": "2026-10-22T07:00:00.000Z"
+      },
+      {
+        "category": "Taco Bell partnership renewal",
+        "updateType": "market",
+        "play": "none",
+        "score": 0,
+        "summary": "PepsiCo secured an 11-year renewal with Taco Bell (through 2036) days after losing KFC. Positive partnership signal but not material to Account Intelligence expansion.",
+        "suggestedAction": "Monitor for any new product innovation (e.g., Mountain Dew Baja Blast expansion) that might require new data integrations or demand forecasting workflows.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFVabkNfOUVkUVdRRDlFRzNTeGhaWXlpSXRXNkZLUEU5cjFvLUwwYjFtc1liNlp5YktCWnVUeU0xaGRuZ2Jxdm03dzNnZ01YdUctWDlXZ0szWVg1TlpiU083UGI2Z19OaktXaVZzV3V6OG9JSXh0WXdGRkdGbzZGSHFCLTAwemE5M0Vpa1NmaGtPSFNuRFJYbF9sRndtaUdkYnlnVEJ0M1lsdWlQLUdrUE50ZHdyRVppRGZua25B0gHDAUFVX3lxTFBWS1hpTzh1T3pDdGhrclFHR1pzYnJuN3B4LTVTRDB4bUkyc2hENl9lV0lvc2JjWE5wODhGWVBnUjN1S2xaQ0RhMDBOM1RFNGRVdlNDQXhJbGI5VEh5Y2dGRE5tSENQamlQWWtOQVhwYzM0UXI2Snd3TDVrdmo5eW9xTmFHNzFGSXJoOHVNVF8yUzROU0N6VWxuWGE5Y1pnb0o1S1ZoTWJzT0FkampCNkhzdG5RY0xyYWFQOWtYYk5FTkNiSQ?oc=5",
+        "publishedAt": "2026-10-23T07:00:00.000Z"
+      }
+    ]
   }
 ]

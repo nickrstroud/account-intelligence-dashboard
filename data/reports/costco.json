@@ -1091,5 +1091,35 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2hKaTBnd05NZGxpdUJoUTQwc2x2UllMNjlISmR5U042QzdQSXhaLUVvQURScjJJVTJrNC1SSFNJQ19Nb1piWEs1VGZ3WklkNFVtNXhKaDhIZHREaWZhMG1ITGxOdkl1ci1YaEtOaktaUjhNQlN6b1pqZ2Y4VDJhcVE4ZmpBbE9fWnZCSF94VHpOM3MwSWtF"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-08T18:42:49.484Z",
+    "source": "daily",
+    "headline": "New warehouse openings signal continued domestic expansion; healthcare push represents potential new business unit with analytics and integration requirements.",
+    "signals": [
+      {
+        "category": "New warehouse locations",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Costco is opening new warehouses (Vallejo and Thurston County locations confirmed). For a membership warehouse chain with 800+ domestic locations, new store openings are routine but material for platform coverage as each warehouse operates as a distinct business unit with separate data, membership, and merchandising operations.",
+        "suggestedAction": "Confirm with their VP of Operations or Finance whether the new warehouse locations are being onboarded to the platform with full data integration (point-of-sale, membership, inventory), and discuss any platform seat or user expansion needed for the new warehouse teams.",
+        "sourceName": "SFGATE",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fek9seHhCcExLT0JMWV9CRk5sMkNEWUtVZ3pBbUVhZWdoOW94bXVTSFlmWC1lY1BzNDhvX3M0b18xb3JfdTBPaVBDazhHU2lETHRmRm1IeU9oV2huM2lwRFdjYXJzc0MzbGJiMFFwSVRTbzV4RG4xdFgtcw?oc=5",
+        "publishedAt": "2026-11-07T12:07:32.000Z"
+      },
+      {
+        "category": "Healthcare business expansion",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 2,
+        "summary": "Fortune reports Costco is positioning itself as a healthcare disruptor, suggesting a material new business line or service expansion (pharmacy, clinics, insurance products, or health services). This represents a new operational unit with distinct data, suppliers, and customer segments requiring integration and analytics.",
+        "suggestedAction": "Reach out to their Strategy or Business Development lead to understand the scope and timeline of the healthcare initiative. If it involves new data sources (pharmacy systems, clinical workflows, insurance claims), this is a Data Integrations cross-sell opportunity and may require platform expansion to support a new business unit.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXVxOHNSMEh2QlVoaHAydnRDNFR4LTdBOU9wa1E2RTVCZEpQcWk2cGthRXFOeTAyLTgwZlBqdnFULU1zdmViYkpOUWtEWE1kM3BOUkJGdDNQbmxsZ0dpMmFTcDRTcFU5WlRzRTQ1QlBrYzhndS1XTE5oWEpWRlJzX0JKTzJPdw?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
+      }
+    ]
   }
 ]

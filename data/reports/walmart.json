@@ -1098,5 +1098,57 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWx3UlN6LS1oWTlkVU1hUTVHLVdwMzNZbzIxVVFlbW1wbzJGWnpVbG5GTzdYSEx5Tzl6VG55R0wwNHdYYlY0YnE3SUt1Qi1wV2Vud1YwbmdEZ25WOENnRm1od1p5N0ZPaWNTUzNBNGY1eGFXUUp3WWhfTjZjdlFFWGxqNzdRdExfZ3ptTGc2VVNzLTV2R1lwdjBuUFZwNU9KeTZScDB5Nl9DZw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-08T18:42:49.763Z",
+    "source": "daily",
+    "headline": "Walmart advancing data monetization and AI deployment; modest expansion and regulatory scrutiny present mixed signals",
+    "signals": [
+      {
+        "category": "AI training and adoption",
+        "updateType": "technology",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart is scaling AI training across its 2.1 million associates to boost confidence and adoption. This reflects a maturing data and AI strategy that could drive demand for advanced analytics and forecasting capabilities.",
+        "suggestedAction": "Reach out to Walmart's Chief Strategy or analytics leadership to discuss how Analytics Suite can support their AI initiatives—specifically demand forecasting and pricing optimization that feed into their AI training and deployment programs.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vamJwWDhpaDNzcHFKZmhhSnY5Ynhpbi1xbjZWR1I2OWgxbWtqSm1oa19BM2Zrcm5NckVCRHdvZ1RIdkhCYUtoZUNPWW1xOXpQXzB5SHZQcGNoNFRVWm5kbXQzUmtvd1hUand5VHZzUVR0UdIBd0FVX3lxTFA0dkxWR2h3aEZiVFZuc0ZaSjF2MFp2ZDhXendhd09TM0NzZ29HZmpCeTQtVFpBd01pY3l1RnQ0a1dlbDZlYkhsWXdoVDJrckZ0SVBuT1ZHN3V2NXotdE5GMFVOekZSd0tsRG9zelhCSzZnTXVlT0NB?oc=5",
+        "publishedAt": "2026-10-27T07:00:00.000Z"
+      },
+      {
+        "category": "Data monetization expansion",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "WSJ reports on Walmart's focus on turning customer data into profit, signaling a strategic shift toward leveraging first-party data for revenue. This aligns with retail-media and personalized pricing initiatives.",
+        "suggestedAction": "Schedule a call with Walmart's VP of Strategy or Chief Data Officer to explore how Analytics Suite (pricing, demand, market-share analysis) can support their data monetization roadmap and retail-media expansion.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adTNSbmZuTGp3dHBVRkJhZWhYb2I1T1lYNk5idWIwaVZ6dHAxWHFINzlpOXZFaVRWcG1XWTJWOUdIWDhuWWl4M21HWFNYUWJkNk5hY05PUy1ZZUJYTFZGYUVUQmhyaF9JOGZNLVpZa3djZzlP?oc=5",
+        "publishedAt": "2026-11-06T23:25:00.000Z"
+      },
+      {
+        "category": "FTC personalized-pricing investigation",
+        "updateType": "regulatory",
+        "play": "retention",
+        "score": -1,
+        "summary": "US FTC issued an exclusive demand for data on personalized pricing from Walmart, Uber, Delta, and others. Regulatory scrutiny on pricing practices could slow near-term analytics expansion and create compliance complexity.",
+        "suggestedAction": "Proactively reach out to Walmart's Legal and Compliance teams to understand any data-governance or audit-support needs arising from the FTC investigation. Position Account Intelligence as a trusted platform for transparent, auditable pricing and demand analysis.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaEVnZk9RTG5VLXktTVZic0h2NUk0aGQwcjRxcUZCcmxlNERPSVZMOFBMb2ZtM1dVWDdsTDZ1R0VJVDNKMmt6MU1PRHpSM181aW1mWkJZZ2dqNWRlSkExdm55S3ZKclRhYV9ibmJlZDQ1NUhyaFBzbzVEc2xYWXg5M3VrU1NCaXVlQklaaEh4aUIyRHZ5TXJHYUN0SEQ4eGdpLXlnOEZncW1KZjdfcW8yaWpBYlROZ2Zza0xnLVB3?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
+      },
+      {
+        "category": "New supercenter in SW Idaho",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 0,
+        "summary": "Walmart opened a new supercenter location in SW Idaho. For a 10,000+ store footprint, a single new store is routine operational expansion.",
+        "suggestedAction": "No immediate action required; routine store opening at a national scale.",
+        "sourceName": "Boise Dev",
+        "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oWDhKZ2tla0hEeG1wd0hmTFJiSExIR256QUFGaWtGaTVjNW5HTkp4aVVHS0FSMDhpR3pydGZ5RzFKQU1WZmlIQk1hTlJKVkpDdm9Za3poTWxyLTNDbk9MemhVcEYyUy16dlNCakNDY2M?oc=5",
+        "publishedAt": "2026-10-21T07:00:00.000Z"
+      }
+    ]
   }
 ]

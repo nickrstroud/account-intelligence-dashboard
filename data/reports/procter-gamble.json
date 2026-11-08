@@ -1235,5 +1235,35 @@
     "source": "daily",
     "headline": "P&G news cycle shows brand stability and market positioning efforts amid pricing pressure, with no material account-relationship signals",
     "signals": []
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-08T18:42:42.240Z",
+    "source": "daily",
+    "headline": "P&G beats Q3 earnings on strong sales growth, but faces margin pressure from oil-price inflation and cost increases",
+    "signals": [
+      {
+        "category": "Strong earnings and sales growth",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G delivered Q3 earnings beat with 4% sales growth, driven by laundry and home products. Stock up 11% YTD and heading for biggest gain since 2020, signaling strong financial health and budget capacity.",
+        "suggestedAction": "Schedule a check-in with the Finance and Strategy teams to discuss how P&G is using pricing and product-mix strategies to maintain margins. Explore whether advanced demand and pricing analytics from the suite are being fully leveraged across all brand teams to optimize revenue management in light of the cost environment.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSGZoSC1RZ3ljdEVaOWQxSDhsd0lBdC01WXNLMVJodllaS2h1OThxbVRLWUc0ckRDOHdQNlVlWFZCTDBNbVh1SlhNeHJhVnlsMGpfV0hsWkhEcG1kSzNRY1lWU2Z0Qm5pdERlX000aWliWmM3blNJT1ZyMNIBgAFBVV95cUxOQmplR3pxdTdldmFUazNDMVZjU192bFd1WVFUQjlWSWJfOGRkUFRCWTZSdHJBeWhsUlF0dEtFM0ZzUUNhVjFiQzBuNFFJR0pZVFZaTDVfWm1mRUxxblQ0QWtVTk0tT3RYQUJhT1l4ZkdmamdBMVJNYkM2T0E1UXZlaw?oc=5",
+        "publishedAt": "2026-10-22T07:00:00.000Z"
+      },
+      {
+        "category": "Margin pressure from commodity costs",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G warned of bigger cost hits from rising oil prices despite resilient consumer demand. Margin pressure is mounting even as sales hold, creating need for pricing discipline and cost optimization.",
+        "suggestedAction": "Proactively reach out to P&G's category and pricing teams to discuss how real-time analytics on margin erosion by product line and geography can help them navigate the cost environment. Offer a focused workshop on demand elasticity and price-point optimization using existing Analytics Suite data.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZkVkhTMUxoaW8wOXZWUC1TbzdCbXlXbUVoWWVZdGZSN1FzdGdrb0VjcW1IZWtLR0JuUWx1RWdGNFpVTHgzYXVjeURmX3RPUVlxYVlNT1hvREZSLWVOR2NVN0sxZTZFMzNDcXFLbUQ2bjJVZUhzdGRSaFY4MTRKeGhuQ09fTFlfVVVVZmo3c24wTnBhZVlGckVPdXBodjF5UnR1RFFhRUtFXzZKVG56LTRoYlFja0pVbUV3OFFyX05zUTE4djJYUTYzQXVBY0s3TjlkdFk2cjA?oc=5",
+        "publishedAt": "2026-10-22T07:00:00.000Z"
+      }
+    ]
   }
 ]

@@ -1345,5 +1345,57 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xRWdMRmpzVVZ2Z2pKRW9Db2xkbVNNNDBCakNGbVJ6Z25vcS1jOGVnWkJVSXQ5NGJRNVpUcE9fS2NHR2s2VFAtMGxIR2FaT09PREoyVWpaV2RRZVhmUG5KT3JMNGlQMDM0OGNiM2ZIZDI3d1hJQnY2bg?oc=5"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-08T18:42:45.829Z",
+    "source": "daily",
+    "headline": "KDP portfolio under stress: coffee segment flagging amid consumer trade-down; planned split signals major restructuring and divestiture risk",
+    "signals": [
+      {
+        "category": "Coffee segment margin pressure",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Q4 coffee profits flagging as consumers trade down to lower-priced offerings. Category pricing and demand analytics directly relevant to understanding margin pressure and competitive positioning.",
+        "suggestedAction": "Reach out to KDP's category finance lead (likely in coffee/hot beverages) to discuss how Account Intelligence's Analytics Suite (demand, pricing, category analysis) could help model trade-down trends, segment elasticity, and support pricing strategy. Frame as helping them defend margin in a challenging quarter.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYk5TNXY0NVhvQVVhRjBIbFROd3dxM0d4OTlndEY5aDduZ3dVeG9LSW5NMlpOZDM1d0IwQW05ZThLNm9lYUo5UEtkeHhqcEo0NFAyc0lRT0dlZi1wdVRqc2VQMG52cVp6MWFmektaMnpZTTdUczJWdmF5ejNQZVVVczdfSUlZUElDeS1jUEo1dkJNZDc5QXhFQ2ZiVTdRZHNmM3NaYngxWWNWSWRLWnJtcXJ0YjZ0ZnFRR010bk5VR1JyUm42VWFFclF6SG0?oc=5",
+        "publishedAt": "2026-11-03T17:53:16.000Z"
+      },
+      {
+        "category": "Planned company split / portfolio restructuring",
+        "updateType": "restructuring",
+        "play": "platform",
+        "score": -1,
+        "summary": "KDP is planning a split of its business, creating two independent public companies. This typically involves separation of data, systems, and operational footprints — direct risk to platform seats and data coverage if the account carves up business units or divests brands.",
+        "suggestedAction": "Schedule a strategic call with KDP's VP of Finance or Chief Strategy Officer to understand the planned split structure, which brands/units are moving, and what implications exist for their Account Intelligence deployment (seats, data scope, business-unit coverage). Clarify whether Account Intelligence will serve one or both post-split entities.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0J6NEd4OVpuakIwMGFFbnltU2pwci1oUVlFbXJsY0ZXYUJVMUt4T3lDb3F4cGNLZVF3RHYwUFhmQV84anpmLUxIM2E3eWVxRFJDM1ZvRWNiRVdqWHlaaFpTcEItbDdaRkVudjB5NGxlSEVxbnJBdk5ENlJMbGFVemd1SXJSWm5vOEs2d1BUSXh1NXVYNEE?oc=5",
+        "publishedAt": "2026-10-24T07:00:00.000Z"
+      },
+      {
+        "category": "Ghost Energy brand reaches $1B revenue milestone",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Ghost Energy became KDP's fourth $1 billion brand, indicating strong performance in the energy category. Growth in a key brand and category warrants expanded platform coverage and analytics attention.",
+        "suggestedAction": "Congratulate KDP on Ghost's milestone. Ask whether Ghost's commercial and supply-chain teams are currently using Account Intelligence, and if not, offer to scope an expansion to cover the brand's category performance, pricing, and demand on the Core Platform.",
+        "sourceName": "Food Business News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFdnMFUzRmR5NzRnV3lUUDdGWUhuTEN3WnFRR0tVZTBmenNLSVh5RTNwazFoNXhzdGM2cmJBNDZoU0JDYnJFcEMzS0VxM0VmVkhNU0t1WVpaa0lkWFRZTmtpTk4wZmlaYndBMUN1eDBTQU9xMnZLRlhKZ0YxUHc2T2ZINm1ZaXQ2dlZzNU51VHgzTEFkaDcwMUtrS2pUcGxVZUJIYnFRS2VJemd2aVE?oc=5",
+        "publishedAt": "2026-11-06T12:17:38.000Z"
+      },
+      {
+        "category": "US antitrust case going to trial",
+        "updateType": "legal",
+        "play": "none",
+        "score": 0,
+        "summary": "KDP faces an antitrust case heading to trial. Legal matters can create distraction and uncertainty but do not directly impact Account Intelligence relationship or product usage.",
+        "suggestedAction": "Monitor case developments; no immediate action required. Flag internally if outcome materially impacts KDP's market position or ability to divest/split portfolio.",
+        "sourceName": "Just Drinks",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVVfSG9zaU1xcHd2YVlPbEZPQVZUVFU3N3lsQWdzTFBfLWJNUHA4NlVkTEhuTS1Ed3B1Nm9MakZKaTg2djc0Y3lSczl2SjFwX1kweWVCdzBueDM0VVpjaUlsRGJRSDhZUmNUZWhCeW5ranlsWWpybndnLUJ4dHlFNXNjNG43cDduS0NPcUhVYw?oc=5",
+        "publishedAt": "2026-10-23T07:00:00.000Z"
+      }
+    ]
   }
 ]

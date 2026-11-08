@@ -1255,5 +1255,46 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXFMQUE2dWRBSUh6S21mZ3VVOXVkS0FGRFRTNWtjZmRGNlJNM2pabVRsckkxMWUxOWZSQlNHb0N6S2E4SVZyc1RRcG5ZSXdScG40LThtblYxYWpWS0dJR0kwZlF4VU5kLTBTNzJ0MmlZOVFQaXRNV0dyYmxHNWZDTUgtV3ZENjF5a2V5OVd2YlRvN3VNeDFobDJhOUVhS1ZRTWY4QnRfcE55YWtIWGdlS1ZVOEpOanFXOGE2UksxYmRod9IB1gFBVV95cUxQRExMQkJpakU0VFliOHRiSXR4SzZrLTl3RGhXT0VNSDRweXRkUGJxa09wOTEtWVNwLTh1TVQ3NWE5aHNOUWxVbUlKYzFQRExMUzh5LUxwYklKQ0ZnQThtTUJMVmdhWFNwRks1VV9WV0JFZ1kzY2N4bjB6dzhtaGxSTEJYUUc4di1Tcl9sVUtMR1VyS3VGWWwzcGt4S2VkTFprLXkxRGs1UDN0d1praU00X3h3UFRNQ294MGtVdGdrNEpyeVZwTjIxOUNmR1NvTFM1WVlrdXlR?oc=5"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-08T18:42:43.870Z",
+    "source": "daily",
+    "headline": "Coca-Cola raised earnings outlook on strong pricing and volume; North America demand weakness and bottler cost pressures require supply-chain visibility",
+    "signals": [
+      {
+        "category": "Earnings & Guidance Raise",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coca-Cola hiked full-year earnings outlook driven by increased volumes and pricing power globally, despite acknowledged lackluster North America demand. Strong financial momentum signals budget availability for capability expansion.",
+        "suggestedAction": "Schedule a strategy review with the Chief Strategy and Finance teams to discuss expanded analytics use cases around demand elasticity and pricing optimization, especially for North America market pressure scenarios.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1taE5MWmhpaklKUU4xbEktNk4wWnZMdzQtcWJSbFM0RzdjbElvYmpNcTVjRGZoWU5HQm9wOGRLOG5QOXN4SjRzb1NMRzJJMGlXTWR4WVI0RGVvYjBCREE1MHN0Rnh1eE10SWhMNzlUMmp1TDA20gF6QVVfeXFMTU9lQ210bDdkYUZoNlBQVUx0WFNySzVlYTFUcnNxQ2FRSjFiMjhhZTMxQUxBa0Q4QldtdnpIYU5SUjFpLVcxY1FsYnBUU3l4N0U2Yzc4RHcxM2tkYWtqczdCNTNSR2ZXZlhNMXpKR0tZbDRWTFVrWVpnYWc?oc=5",
+        "publishedAt": "2026-10-27T07:00:00.000Z"
+      },
+      {
+        "category": "Bottler Network Cost Pressures",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Coca-Cola Europacific Partners (a key bottler) flagged rising cost pressures despite maintaining outlook. Supply-chain headwinds across the bottler network create operational visibility needs.",
+        "suggestedAction": "Proactively engage the VP of Supply Chain Operations to demonstrate how Workflow Automation can alert merchandising and supply teams to cost/margin anomalies across the bottler network in real-time, reducing response lag.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWJxTjVpVnA3QTlSMXA5LU9WZTJUSVZnZ0E0aW1lVkMxc2FYcFFiNjdFcm9CWWo5T3NCanQwZGVrVEIxanpya3VjczNCWEdIeG1uY1Q3RHVxOS04ai1rVjVGVzhhM1RER2p2UFdsQ0NGQXl3MUY0aU81V2U5Y1pzQ3EwQjd0dHo2RnUwbG1Xb3Q5MmIzX1dkTVVmcjhXUm5xcDNfaUJmUEFPbFd6Y1pIRDg3ZEU3OWJnVXZZTUNPTHZ0bnlBRjRuNk1RNmhmanM?oc=5",
+        "publishedAt": "2026-11-04T08:04:56.000Z"
+      },
+      {
+        "category": "KFC Account Win",
+        "updateType": "market",
+        "play": "platform",
+        "score": 1,
+        "summary": "KFC switched from Pepsi to Coca-Cola products after nearly 40 years, a material competitive win that expands Coca-Cola's retail and foodservice footprint.",
+        "suggestedAction": "Ask the Commercial or Category Management team whether KFC channel and SKU data will be integrated into the core platform this quarter; offer an integration plan if the new account represents incremental data volume or business-unit coverage.",
+        "sourceName": "WAFB",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzZ0UjVUYlh0ZDJhejUyR2psRVU3RmctZlJvaHJWei1nYXFvQk56U3k4My01RkpJZHgtMUY1bjdkZTJsaWMyWkp0eTZRd2ZfMEl2STJzS3VGbGpNUEJEV0hnbkJSWkxOX3BOYng0QUhqOTFOSnJ3OEJWcGxJNTJTOVpSNjhNd2xmVUp1eENWTjh3Mll5WDVwU2xoS29BSGRBR0ZnSVhySdIBuwFBVV95cUxPV2xYNTFqSkQ4clUtTHE1MmZhRnoyQU5wM3Fjbi1IRUlPZElBemxHamxBUjFFMC13aFhYY2E5aVVybXVwZUZHSG5KMl9OdGZMalFBNGpEUDFDd1lwdzYwS1hub3c4U2VIdEZ4OEZrUjhjMlFidFRIQ1dYYnpsYUJmZmZxdHFWLWd2ZF9PWG5JWGd6bkRBWU4xc25tNUtfMHRFV3UxSk9Ca1dtNy1ady1RdHFsODEyX0FvTzdV?oc=5",
+        "publishedAt": "2026-10-19T07:00:00.000Z"
+      }
+    ]
   }
 ]

@@ -1150,5 +1150,35 @@
         "publishedAt": "2026-10-21T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-09T22:54:32.593Z",
+    "source": "daily",
+    "headline": "Walmart expanding drone-delivery capability via Zipline partnership; AI-threat narrative poses minimal near-term risk to core retail and ad business",
+    "signals": [
+      {
+        "category": "Drone delivery expansion",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Walmart is doubling down on drone delivery through Zipline partnership (valued at $21.5B), signaling investment in new fulfillment infrastructure and logistics complexity.",
+        "suggestedAction": "Confirm whether Zipline logistics data (delivery routes, fulfillment-center coordination, inventory allocation) will be integrated into Walmart's platform; explore whether supply-chain automation workflows could help merchants and vendors prepare for drone-fulfilled orders.",
+        "sourceName": "TechCrunch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0kzTEQxOTBfcVZQNzNEbWRpV0xLMzRzTTNudHozWmdiTVB4M002UzlFZHBYSmdHOGN4eE9qN1Q2SEZwMlhQU3duOE9tbFBwSVpYR21RQ0tkcTd5RTBPbHFRckpfWF95ZjM0djlVTDBaNi1TMjlYRmpoalpSOXAzaEZodVJoZXctdHpzcUtTcnNXLTlPSFZITkRqX3Roa1F5ZDB3SUtoZw?oc=5",
+        "publishedAt": "2026-11-05T15:40:34.000Z"
+      },
+      {
+        "category": "AI shopping agents competitive pressure",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 0,
+        "summary": "Reuters reports AI shopping agents could threaten Amazon and Walmart's ad business model; reflects emerging competitive threat to retail-media revenue, but no immediate operational impact on Walmart's platform or data needs.",
+        "suggestedAction": "Monitor for any Walmart strategic response (e.g., AI-powered search, personalization, or demand forecasting investments); flag to Product as potential long-term analytics and automation use-case if Walmart prioritizes real-time pricing or promotion optimization to defend ad economics.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5",
+        "publishedAt": "2026-11-04T15:37:45.000Z"
+      }
+    ]
   }
 ]

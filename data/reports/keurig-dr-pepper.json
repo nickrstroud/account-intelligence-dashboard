@@ -1397,5 +1397,35 @@
         "publishedAt": "2026-10-23T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-09T22:54:28.682Z",
+    "source": "daily",
+    "headline": "KDP exploring strategic split; Q3 beverage segment strong but mixed signals on near-term direction",
+    "signals": [
+      {
+        "category": "Strategic Portfolio Review / Potential Split",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 1,
+        "summary": "KDP is weighing a potential split of its business, likely separating coffee systems (Keurig) from beverages (Dr Pepper, Snapple, etc.). Portfolio restructuring of this scale typically involves creating separate data and operational silos, requiring new integrations and platform coverage for split entities.",
+        "suggestedAction": "Set up a call with KDP's VP of Finance or Chief Strategy Officer to understand the split timeline and structure. If separation moves forward, clarify which business unit will retain the core platform and which will need new Data Integrations to manage independent supply chain, P&L, and retail operations.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUY2RFp4NWViZE51eFpMSjNva2xMN09RTzl4REk1VHdod19EMUJBWlIzUEtEVW5PaGd3TGxUbUhEUHA4WnJiSllhQ0UzOTRTUUlEa3hwRlJXdGpoM1JSakxMWEtPUnAyWFNiTGFwSUlNb1dyNUVCdVRSTjBhcGUwSVJPc0QyZ0R2VmZxSlhtU015VG92T1E?oc=5",
+        "publishedAt": "2026-11-06T10:18:53.000Z"
+      },
+      {
+        "category": "Strong Q3 Beverage Segment Performance",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "U.S. refreshment beverage segment delivered strong Q3 results, indicating solid category performance and margin health. Success in the beverage business creates budget and business case for deeper category and pricing analytics.",
+        "suggestedAction": "Reach out to the Finance and Category Strategy teams to discuss how they're tracking beverage segment performance against competitors (Coca-Cola, PepsiCo). Propose a pilot with the Analytics Suite for demand forecasting and pricing elasticity in their core refreshment categories.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDhDY2pBU0NydnhuSlk2LVNwSUpNX2lSOEEzRkZMUGh3QkphcEZVMW56MjVkMUUwNDNWWHRjX2R2QnBjeEFQZ01fRHV1RTNXSWJlSlI0Y0pubTF1OGZIMVN2OFFWb3BLS3VjMUdvXy1yblpMczkxcUYxRTFOSDd5dWZxMUpWTDNUVlY3aVViUkFiODBoY2NLN1NqcDJBcURKQWJRRTVVTzdPeGZmY3puaEc5Z1dmR29D?oc=5",
+        "publishedAt": "2026-11-03T12:40:41.000Z"
+      }
+    ]
   }
 ]

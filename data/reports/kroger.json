@@ -1517,5 +1517,46 @@
         "publishedAt": "2026-10-22T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-09T22:54:36.996Z",
+    "source": "daily",
+    "headline": "Kroger faces pricing pressure and competitive headwinds; Giant Eagle M&A under regulatory scrutiny",
+    "signals": [
+      {
+        "category": "Pricing pressure and margin compression",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Kroger, Albertsons, and Publix face a structural pricing problem they cannot fix—a signal of competitive intensity and margin pressure in their core categories. This suggests demand for dynamic pricing and demand-forecasting tools.",
+        "suggestedAction": "Reach out to the SVP of Pricing or Chief Merchant to discuss how Analytics Suite can help model pricing elasticity and demand scenarios across their private-label and retail-media portfolios in response to competitive pressure.",
+        "sourceName": "TheStreet",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTF6XzZ2SFNPNm1XZURjckZPWHZkM01kQnAwbUFadDlnNVV5LXNnR29Cc3VCRzFiZHJROEp5dFlXYk93NldVZ29jM2ViLTItNThwWnQ2dFpCYVUyUEJ6TDVkX0FxYXBIYUVjZWNpUjNIRFF3ZTNXeWJCQU1iNmNuNjRWdUQ0bFE2LV9NNGduUFhQbnNUT0xTcVRB?oc=5",
+        "publishedAt": "2026-11-08T14:47:00.000Z"
+      },
+      {
+        "category": "Giant Eagle acquisition under regulatory review",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Kroger's proposed takeover of Giant Eagle is drawing regulatory scrutiny from consumer advocates and labor organizations, signaling a material M&A event that could add a new banner and data sources if approved.",
+        "suggestedAction": "Schedule a call with the M&A/Integration lead to confirm whether Giant Eagle onboarding is in scope if the deal closes, and present a data-integration roadmap for syncing Giant Eagle's store, supply-chain, and POS data into the Kroger platform.",
+        "sourceName": "TribLIVE.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXNwWkNXYmszZFBiZnV0SFp5ZHJ6WGtuY2p5V2JTYS1ndGg4RWVLMzJaeXBXTmFzZkRGdS1ta0RyV1BXckZ5VTRMdnVDLVA3OWs4VndIQTJvcm83QWNzN01EWXJDbTFObzd3NnBvVTYxeDEtal92a2NKa2xIbVN0c3FkSFlWOHBCaE1LUGI1NlJydWc0RDVrdjR5TFhkZkFXWjhCM25TaDRDYU8xY3NCNWtSM0g2ZGFlUHpVVg?oc=5",
+        "publishedAt": "2026-11-06T03:55:34.000Z"
+      },
+      {
+        "category": "Eye-drop product recall at retail",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Over 3 million bottles of eye drops sold at Kroger and other retailers were voluntarily recalled, illustrating a supply-chain risk event where Workflow Automation alerting and recall playbooks can assist rapid response.",
+        "suggestedAction": "Offer to review Kroger's current product-recall alerting workflows within their existing Automation deployment; suggest a recall-management playbook that routes affected SKUs and store inventory to the right teams automatically.",
+        "sourceName": "ABC News - Breaking News, Latest News and Videos",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkdDalJPZ0Q4b0dNMnhZbmZCS21UNnR5bzhjWUFDbFVpRGdQNEJaTXoxaE9ENUg2UFk4dGV0Y2R6cGZYVTBwUjF3eXUtU004Yy1EOTdMZFBTNnVfck40UzM5SzVBVldPZmZGUXEtZEotUG1kN1I1R0tyTE5ZU1c2Z2MydENHMFRoV2RXazNTaVpNTU5ZRjRvUXo0NNIBoAFBVV95cUxPcW9nRURveWM4WEVjWEk5Q29IbWZSSHBvSnZsc2ZMSWlLbUJocDNBRjd5d001cEdHdXhKZGh0Y05CejJIS2hjaDFiYjNXMWxMazF4R0wtdFdZOEN6SW1aSXI3MHphZ0dDWDZyRGxWMFFkQy1uVzZhT0NHelNpbk50Nk4wSGFPVk1vbjZ0b2VrSV9TajVjWXBhVGk4czFkX0Jr?oc=5",
+        "publishedAt": "2026-11-08T03:00:31.000Z"
+      }
+    ]
   }
 ]

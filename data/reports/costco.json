@@ -1121,5 +1121,24 @@
         "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-09T22:54:31.519Z",
+    "source": "daily",
+    "headline": "Costco opens new Vallejo warehouse after 15-year approval process; routine inventory and product rotation continues",
+    "signals": [
+      {
+        "category": "New warehouse opening",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Costco opened a new warehouse in Vallejo, California, after a 15-year permitting cycle. This represents incremental physical expansion and adds a new location to cover on the core platform.",
+        "suggestedAction": "Confirm with their ops team whether the Vallejo warehouse and any other new locations opening this fiscal year will be added to the platform footprint, and discuss any needed integrations with their warehouse management or point-of-sale systems for the new site.",
+        "sourceName": "San Francisco Chronicle",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalVMaGVLOU00eUZ1dGp0ZjE0aXFpZHE1ZHcyZHIzMFI0bnRvUFhDNHZHQ3k5aGlJZWFCZzZIbGVDQmduQ1JNeUU5LVJodl9xdnlYS2RYcEpRUUtCNGM0VUc5VXMzalM5OWtfRlF0eUF3WmlWdTUtV1lhbVVtOWdzdF9oMFR4UVVjam9pUWNQVQ?oc=5",
+        "publishedAt": "2026-11-07T02:30:35.000Z"
+      }
+    ]
   }
 ]

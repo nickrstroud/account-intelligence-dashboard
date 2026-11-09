@@ -1296,5 +1296,35 @@
         "publishedAt": "2026-10-19T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-09T22:54:28.413Z",
+    "source": "daily",
+    "headline": "Coca-Cola launches gut-health product line; margin expansion focus amid investment cycle",
+    "signals": [
+      {
+        "category": "New product line (gut-health sodas)",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Coca-Cola is launching a new lineup of gut-health sodas, representing a material new product category for the company. This expands the portfolio that needs to be tracked, categorized, and reported within the platform across their global bottler network.",
+        "suggestedAction": "Reach out to the category reporting owner on the core platform to confirm whether the new gut-health soda line will be tracked as distinct SKUs and business unit within their current data model, and offer to help structure the taxonomy and reporting hierarchy for this new product franchise.",
+        "sourceName": "Cleveland.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjhVOWt5b0VOREdOS193TGI1VVJPXzFjckw3S3UyX1E3eDRIZmx6WVlSQl8ybmNlSGJjRWZERzNsZEU5b0ZWMjJJcklJNFR6N29YcUZKajhRSTNoUXJkd0JtaGxUMDdKcUZlM0EyX0dpaGsyZm02QW1IRFVnRndhOXR0QVkzUmdTS2pNT2t4aWRvLXl6bi1NMEJ0ekRJZW92Y1RqTVhiRmFQVVM0ejFfSlFlaFVvR3lFcnRLRm9uRdIB0wFBVV95cUxQdjZSbGliRENxbWpTdzVLejhrQ0doYWxxdGJ4aWwtc1YtbG5Cems4ckVocGhvNW9SY05kNFZXcmRmVFhBbmMzejRHQjU5MTk4RVVQMHdBNVdNVmU0dkRTRVdRQzdMYWVhNDhNY2xmVlV2QkNPQVdtOGZNelVIS0hoSmpXdzlmZHJJQWZCTjFLWWNyX1kxZkFZSjdSLWh4YTByYWxPNkdicjhaVHhRRWV3Mjg2bDFIWUdmU1F1cUF1d3ZqUG9wT2l6ODYyZkNiZXZCdzlz?oc=5",
+        "publishedAt": "2026-11-04T10:00:00.000Z"
+      },
+      {
+        "category": "Margin expansion and reinvestment cycle",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coca-Cola is navigating simultaneous margin expansion while increasing investment spending—a complex financial picture that requires sophisticated pricing and cost analytics. This signals heightened focus on financial visibility and scenario planning.",
+        "suggestedAction": "Contact the finance/strategy team to understand how they are modeling pricing elasticity and cost-of-goods trade-offs for this cycle. Explore whether advanced demand and pricing analytics (within their existing Analytics Suite) are being used to stress-test margin scenarios, and identify whether they need deeper forecasting capabilities.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3k5dnNxdWg1RVg3N3NkTk1tOEhKeVZKVFBiaU5vVWpCU21UakZhVzh1cWJuTGVNcGZINFlOaUFLbGUyQ1hXVWtYMzRaaHEzTXhpR3JqTlRYQWluSEREeFUtSVgxcGVLeUFjRHJqelpQRHpuLTFEUFVlbnhLSXlNN1htc3Y3MUdqY0Yxb21oVE9hZlRhN2lwN0JfZVhUZw?oc=5",
+        "publishedAt": "2026-11-05T16:46:00.000Z"
+      }
+    ]
   }
 ]

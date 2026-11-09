@@ -1265,5 +1265,35 @@
         "publishedAt": "2026-10-22T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-09T22:54:27.367Z",
+    "source": "daily",
+    "headline": "P&G Investor Day (Nov 19) signals strategic review cycle; one executive departure to Align Technology",
+    "signals": [
+      {
+        "category": "Executive Departure",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": -1,
+        "summary": "Jennifer Davis, a P&G executive, has been appointed CEO of Align Technology. While not a named P&G C-suite departure (CEO/CFO/COO/Chief Strategy), her move suggests talent loss and possible vendor relationship review at P&G.",
+        "suggestedAction": "Monitor for any P&G organizational changes related to Davis's departure. Confirm continuity of existing platform and analytics relationships with current stakeholders ahead of Investor Day.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMC1FUjZCcjAwSDM0blZJYVJhNDRTRGZRMWhKMFJMUTI0NURRQkZGY3U5UDBtX25WRVFmNXM5OWNtYUJiMmEyb2p3bkxTTWhJSVpncXFiVEYyTFNfNkZ0bDN5MzZuVXFZQmxWbUhHemhKcFB0SHJDdVJPQ1Zfd0g3WVRHaG9sTGJyRUVlMm9WdDc5WkxuREF0eXozWUJaMGdici1aeUthMEU?oc=5",
+        "publishedAt": "2026-11-04T11:31:48.000Z"
+      },
+      {
+        "category": "Investor Day / Strategic Communication",
+        "updateType": "earnings",
+        "play": "none",
+        "score": 0,
+        "summary": "P&G is holding Investor Day on November 19, 2026. Upcoming earnings and strategic guidance presentation is a routine disclosure event.",
+        "suggestedAction": "Monitor Investor Day announcements (Nov 19) for guidance changes, new business initiatives, or strategic pivots that could drive platform or analytics expansion opportunities.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlR5M1JUTGJDNmoyWlhwLUYzRi1xckZTS1p4cFZucG8xVWRHVkFma3JSOU5MWWJCX2IzN1IyTkZERHJyN0dUUlNjbE1zS3RIT1pON1JzUDFZaVF4aklRTTliTklidU9UZ3Zlc1hXY0YzU2d2S2RFVU1DZGs3aGlqWFVQOG9CeVVxaE1MajJlaG14NGh4UFE?oc=5",
+        "publishedAt": "2026-11-05T14:55:00.000Z"
+      }
+    ]
   }
 ]

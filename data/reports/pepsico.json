@@ -1629,5 +1629,57 @@
         "publishedAt": "2026-10-23T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-09T22:54:31.345Z",
+    "source": "daily",
+    "headline": "Restructuring and margin pressure drive cost cuts; expansion into functional foods and venue partnerships offer upside",
+    "signals": [
+      {
+        "category": "North America restructuring and 1,000 job cuts",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo cutting ~1,000 jobs in North America due to business struggles. Signals potential cost-reduction focus and lower discretionary spend on platform expansion.",
+        "suggestedAction": "Schedule a check-in with the VP of Operations and Finance to understand scope of restructuring and whether it affects their demand/supply planning team's headcount or priorities. Emphasize how Workflow Automation alerting can help leaner teams stay ahead of supply disruptions during the transition.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KejhLQ3hPVC1TRDVDWVhnZUFHYnpTYVBJQjk3ME9DT2JxaUIzN2p5b2RxVkp4QlJJR1dEc00zVFh6ak1jaDVvS1lid0Jpd2tPUk94cjkwUWlKTS1hSnZVZEJZaDFzdG9rUTU5Y2RqbTA1blE5T3c?oc=5",
+        "publishedAt": "2026-11-09T20:41:38.000Z"
+      },
+      {
+        "category": "Regulatory challenge in India on marketing labeling",
+        "updateType": "regulatory",
+        "play": "automation",
+        "score": 0,
+        "summary": "India regulatory body alleges PepsiCo and Monster mislabeled energy drinks. Localized regulatory risk; likely to drive compliance and alerting workflows in that region.",
+        "suggestedAction": "Awareness only—monitor for broader regulatory fallout. If it escalates to multi-market compliance issues, loop back to discuss how Workflow Automation can route compliance alerts to regional teams.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDhDUE4wNmt4SlJOXzNpSzZRdUZmaGsxM09sUFdndVZJbUxSaXhiRFpubE9tNWtURmZISGdneEdxaWk5a2hjREQyTVlNd0x1Q0ZXTXZMVmZrMjNzem5Pc3RycWpWNHNweDVvSWZEaU9qV1YtdEVQbm9UUEctNm5RNVVLaldmNF9fLUwteEdFTXZwYVoybFhzY254RGpsMS1fMHNQZExWd2tNS1JsZUdSTkF0azZLYmljSVJ4MXBoQQ?oc=5",
+        "publishedAt": "2026-11-04T15:46:26.000Z"
+      },
+      {
+        "category": "Live Nation food and beverage partnership",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "PepsiCo announced multi-year food and beverage partnership with Live Nation for events and venues. New channel and distribution point requiring demand and supply planning coordination.",
+        "suggestedAction": "Reach out to the VP of Strategy or Chief Commercial Officer to ask whether Live Nation venue sales will be tracked on the platform, and offer to help onboard that new channel's data feeds (POS, inventory, and demand signals) to the Core Platform for unified demand and supply visibility.",
+        "sourceName": "TicketNews",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5YRksxcWVONVc2UDRKR2VlZXctMW1GNEMzdUpYZDBZVVVuZWFBVXFpM212b09iY2hfYklMZHU3cWc2OFlnVnVEU21OZGZ4dlVSaldScmwyOHljem50NVJEZDdfdFlONlNLdnlHQUpXWmpLcWRoUTA2ejVIUHgxZ19BT3NyOXQ5bWU2ZlpqQk9UcFRNeFAwMXk2b3YzYzRtX1phSEZMZ1ZsdjJxZ0t6Y084SQ?oc=5",
+        "publishedAt": "2026-11-09T16:11:18.000Z"
+      },
+      {
+        "category": "Functional foods strategic initiative",
+        "updateType": "technology",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo executing strategic pivot into functional foods—new product lines across the portfolio. Likely to require new pricing, demand, and share analysis across product variants.",
+        "suggestedAction": "Ask the Category Management and Product Strategy leads whether functional food variants are being tracked separately for pricing and demand analysis. Position Analytics Suite as a way to model elasticity, market share, and cannibalization across the expanded product mix.",
+        "sourceName": "Food Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUloN3lNWVpjVUQtc0x4MHN3OWdOR2dBVU1BdmlDNG53OFp1Z3NEdlJzMXQyc0NWLTh2M2tHbnp3aHhmckl2VG9DV1ZkajBZWEc2YWg0akUzSTc1Rm92V05kdVljZkpfRmxvOVA0V2Y1MFd4cjlCSW9GdThzajY4VTZJSC00dk95eWhkVFMyLVA5RnIy?oc=5",
+        "publishedAt": "2026-11-03T16:28:46.000Z"
+      }
+    ]
   }
 ]

@@ -1681,5 +1681,35 @@
         "publishedAt": "2026-11-03T16:28:46.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-10T20:19:22.441Z",
+    "source": "daily",
+    "headline": "PepsiCo restructuring: 1,000 North America job cuts signal cost pressures and potential seat/data contraction risk",
+    "signals": [
+      {
+        "category": "North America restructuring and layoffs",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo is cutting approximately 1,000 jobs in North America as part of a broader restructuring to improve speed and capability. The layoffs follow competitive losses to Coca-Cola and suggest margin pressure and cost-cutting across the region. Restructuring of this scale typically correlates with budget freezes, headcount reduction on existing platforms, and potential consolidation of tools and teams.",
+        "suggestedAction": "Schedule an urgent check-in with the North America operations lead and platform owner this week to understand: (1) which teams and functions are being affected, (2) whether the demand planning or supply chain automation workflows we support will be consolidated or eliminated, and (3) whether this creates an opportunity to demonstrate ROI on existing automation to justify continued or expanded investment. Frame as a support motion, not a sales motion.",
+        "sourceName": "Fast Company",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVlXZHZ5alpyRzNKbXpRUDVVOE10bVBBZkI2NWdUYWdTTC1WNlppSVR1dzdKWS1NYnljMVpyX1dJLXZ3clZFTmUtWUZYNFdpTnJxT3hXOWxhMXVxU0VmZ2lQcDlFRElFam9iYl9HS3RucEZQZUxFQnh0SlhOSnlxdE5iTEZyNW50aXg4ZTJFV1VYeDVhZXA5MlNrd0k?oc=5",
+        "publishedAt": "2026-11-10T13:40:46.000Z"
+      },
+      {
+        "category": "Competitive losses to Coca-Cola",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo has lost major contracts to Coca-Cola, suggesting share and margin pressure in core categories. This is a classic use case for Account Intelligence's Analytics Suite—pricing, demand, and share analysis—to help the strategy and category teams understand competitive dynamics and respond faster.",
+        "suggestedAction": "Reach out to the PepsiCo category/strategy leadership (Frito-Lay, Quaker, Pepsi portfolio leads) to propose an Analytics Suite pilot focused on competitive pricing and share tracking in categories where they lost contracts. Position as a tool to help them win back share and make faster decisions in contested categories.",
+        "sourceName": "Business Insider Africa",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlpXbzRicGo1UmRFQm5WbjRYTnU1eGQ1TVptRjNHajVuUm8xM0xucVFKLTNWUWpKRjdIbGFtdlFmU3BRd0JhbXFlNUdxbHIwSGVwVERWajBIekNyMFdraHFSTzFVLVRDSmtlZWhyOVZoQ1RyVFQwdHhLZUl3ZXRGWW1nYmhjRi16bGl1TFN4Q3pZcVo5aUlNVFhsVmVQNlJBSm8xeDBLdTdjOU1Hc1RmdkxDNGVSUEpmcGg1cGcwZjlmdnIwampNOGlJdGU2TkJ4eVlhdVdhcTdzUQ?oc=5",
+        "publishedAt": "2026-11-10T15:58:06.000Z"
+      }
+    ]
   }
 ]

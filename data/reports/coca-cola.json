@@ -1326,5 +1326,35 @@
         "publishedAt": "2026-11-05T16:46:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-10T20:19:20.665Z",
+    "source": "daily",
+    "headline": "Coca-Cola: Pricing strength and bottler network expansion signal budget opportunity, but limited near-term expansion triggers",
+    "signals": [
+      {
+        "category": "Bottler network expansion",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Coca-Cola Consolidated is establishing Indianapolis as one of three major glass bottling hubs, indicating capacity expansion and operational infrastructure growth across the bottler network.",
+        "suggestedAction": "Discuss with the supply chain operations team whether the Indianapolis hub and broader bottler-network expansion will require new data integrations or workflow automation for real-time bottling-line monitoring, inventory routing, or quality alerts across the three hub locations.",
+        "sourceName": "Axios",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXhpVzYtbkxrOFJTTE9pZkNaZGo3V1JYbVpfbm9YS1Q2YXd0SkpRYkxSLUgyOHp4eUs1YkthcTdMR3o1d0swaFJlWkdGR3ZuSWhPN2lGbHZaY240YnYtMm5hYnEyYnpJa1NRV0dXU2FRQzV1TGxRWnVhUzI2d3ZBU3g1ZEtHNHBpV1FRQ1JsSlJDMDdldFVmVTBxT2dnN3VpMUMyMXdsZ3FSc3ZHdWFyUDFDNFc3NTRM?oc=5",
+        "publishedAt": "2026-11-06T20:30:12.000Z"
+      },
+      {
+        "category": "Bottler pricing and demand strength",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coca-Cola HBC (a major bottler) raised revenue outlook on pricing actions and strong demand, indicating margin expansion and improved financial performance in a key distribution channel.",
+        "suggestedAction": "Reach out to the strategy/finance team to explore whether they want deeper pricing-elasticity and demand-forecasting analysis for their bottler network, given the successful pricing actions. Offer to expand Analytics Suite coverage to model mix and channel performance across bottler tiers.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0ZtbGgza3lVYlRFNlVsY0tPYlNuVzFZazZpUDlleXp0QnNPcm5LeUlrOEFCTWZoRTA4MW04MWNjVmNCa3VaUGNrU0VDcHBTM3g4b2pUTzZXRkFUdjRTWVE2bjBIT2l4REtVWHpDaVA2bW4zR3oyOHV0MXNOUHZQVnpVc3kwbGlMdVVsc3NmY3BFbjJTWkdKWG9iUXBVdEQ2Njhwd09TbDBtRzM3TmNRXzdrNXhTb3BYQWFF?oc=5",
+        "publishedAt": "2026-11-04T07:17:33.000Z"
+      }
+    ]
   }
 ]

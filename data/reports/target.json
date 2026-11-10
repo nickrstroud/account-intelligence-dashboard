@@ -885,5 +885,24 @@
         "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOajRkWUNjY3MtOW5aYmJFUmJUUW9vQk9nMGFpekVqSTVJZlBnWGdIdElEaDBQZWN6VkZ2eDVTRGwyQko4NnhteGlpcUp0eEdXYWczQ1E2V0NVRDRBMzBFamJRY1Q1eDc4VVZtc2JMZGk4UVltWkY5bk52djlTNUt1MGdpT1JtbmJyT0VGZzY3cXAyMU5XVDR4M1lSVXJQcEU0aW9JMDlLZTlHQW12UC1DZmNFQThNNzVpalhGb3lHR2dSLUFkZ0kw?oc=5"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-10T20:19:24.131Z",
+    "source": "daily",
+    "headline": "Target expands owned-brand portfolio with Dairy Boy by Hanes placement; quiet week on financials and operations",
+    "signals": [
+      {
+        "category": "Owned-brand expansion",
+        "updateType": "expansion",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target added Dairy Boy by Hanes (owned brand) to over 1,200 stores. For a 1,900+ store chain, this is a material rollout of a branded product line that will drive new merchandising, pricing, and demand-forecasting needs.",
+        "suggestedAction": "Check with their merchandising analytics lead whether this launch is being tracked in the platform and whether they need demand/pricing analytics support for the Dairy Boy category to optimize placement and margin across the 1,200+ store footprint.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenF4QXZ0aXJjVnRuQ2JlUl94QjExTTA3WnU2UWdjZDhBN1g1OVpVVDNmMzdnN2ViQ0FONTBZemVLSDhxbnJYTXB0U0daUGdGWTZWS0RnQXdGRTctVDFsLXdxU1FBVm5rVmlWTTRCMERJOWVPam1yakVGazFkMXVLZzk1cjFuVG16cUd4OWYxMktscUtkWWh5UGtxZVk4V0NzMEVxMnR2bF9HMUZlMnRPLVZmekVXQjBJWVM5dHEtcFJPMzJDWjhoeA?oc=5",
+        "publishedAt": "2026-11-10T15:00:00.000Z"
+      }
+    ]
   }
 ]

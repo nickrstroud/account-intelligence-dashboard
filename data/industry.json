@@ -1,5 +1,284 @@
 [
   {
+    "id": "rTTNOa1JtU2xjeU1BP29jPTU",
+    "title": "France says an Iranian IRGC cyber unit sabotaged refrigeration systems at 700 sites, destroying food inventories",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHl3UXN3RG1FaXJ3eWZ2SEh6dlFYdm1VcDJ0N1p6ZFo5OUJMMmxIRUVYZWtvc3VUaGtnTGE3VnQ4aDhPWHdxTnlkVjVUSnpfYlpfWGVzUVF0X1EwUU9kM3hiOUVrYndFZlMtTFh4ZUg3OG9IdGZpNGNiVkM3NkRmSlcyMA?oc=5",
+    "sourceName": "Latin Times",
+    "publishedAt": "2026-11-10T16:29:45.000Z",
+    "analyzedAt": "2026-11-10T20:20:38.081Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Iranian IRGC cyber unit sabotaged refrigeration systems at 700 sites in France, destroying food inventories. Represents a significant supply-chain disruption tied to critical infrastructure security.",
+    "angle": "Large retailers and CPG manufacturers operating across Europe face emerging cyber threats to cold-chain infrastructure; customers need visibility into supply-chain disruption scenarios and rapid response workflows.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Y3F1aXNpdGlvbi84NzQyNTQv",
+    "title": "Mars to invest $1.4B in US manufacturing, operations in 2027",
+    "link": "https://www.fooddive.com/news/mars-invest-us-manufacturing-operations-snacking-kellanova-acquisition/874254/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-10T16:00:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:20.793Z",
+    "updateType": "ma",
+    "relevance": 3,
+    "summary": "Mars is investing $1.4B in US manufacturing and operations in 2027, its largest single-year investment, following the $36B acquisition of Kellanov. The snacking giant is now integrating a major acquisition and scaling production.",
+    "angle": "Mars' massive investment post-Kellanov acquisition signals major portfolio expansion and new data/SKU integration needs. Competitors like PepsiCo should anticipate Mars gaining retail shelf space and may need to sharpen analytics and automation to maintain position.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "vbi1hdHRhY2tzLzg3NDIwOC8",
+    "title": "US government aims to prevent cyberattacks on refrigeration systems",
+    "link": "https://www.grocerydive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874208/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-10T15:57:25.000Z",
+    "analyzedAt": "2026-11-10T20:20:20.793Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "The US government is urging businesses to implement measures to protect internet-linked refrigeration systems in response to cyberattacks targeting supermarkets in Europe.",
+    "angle": "This is a supply-chain resilience and operational risk conversation—relevant for retailers managing critical infrastructure but not tied to core analytics or decision-making use cases.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wtc25hY2tpbmcvODc0MjM2Lw",
+    "title": "General Mills streamlines business structure amid CEO change",
+    "link": "https://www.fooddive.com/news/general-mills-restructures-new-ceo-cereal-snacking/874236/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-10T15:47:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:20.793Z",
+    "updateType": "restructuring",
+    "relevance": 2,
+    "summary": "General Mills is reorganizing into three operating segments during a CEO transition to enhance focus and accelerate growth.",
+    "angle": "Restructuring at a major CPG player creates urgency around data access, reporting consistency, and cross-segment visibility—a key conversation point around platform consolidation and automation during leadership transition.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0YmpCMFMyRjRhRUZwP29jPTU",
+    "title": "Core Home Acquires Tochi Snacks to Expand Food and Beverage Portfolio",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVG53VGVWR1c2bzlqYmVKRWhDanZUdEhVMmRRb3B2ZmVjTWdfbU9RRzhsSXVsLVdacW1jSV9XRjJYOWozTWF4dlY3UUZndE9rckwyUFhIMHdVNHdrTW52dmlfRGVyNXhwWnhDam1aZGhMeWhiMkpUcS1HRTJhenh2amUwNWVCNkdBVGxVNXNMTG5xTHQ4dHBPNkd0LTQ3Z0dqZkI4bjB0S2F4aEFp?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-10T14:55:11.000Z",
+    "analyzedAt": "2026-11-10T20:20:26.403Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Core Home Acquires Tochi Snacks to expand its food and beverage portfolio.",
+    "angle": "Portfolio acquisitions like this drive need for data integration and platform consolidation to unify business units and data sources.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LXRoaXMteWVhci84NzM3NjQv",
+    "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+    "link": "https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-10T14:34:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:20.793Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Walmart and Target are both making high-stakes holiday marketing plays this year, with Walmart focused on brand reappraisal and Target on turnaround strategy.",
+    "angle": "Intense competitive pressure between Walmart and Target on holiday positioning likely means both are analyzing consumer demand shifts, promotional elasticity, and market-share micro-trends—core analytics and automation use cases.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Walmart",
+      "Target"
+    ]
+  },
+  {
+    "id": "IWnpTbnBLU0dKVlNRP29jPTU",
+    "title": "Consumers spend more for fewer groceries, raising the stakes for brands",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU05BSGkwU0c5dlJyRnZWZXk1aHBLQ0J4VWVNU2s1QkJLeUhiVng0UmpJVTNWWEpFOGpIZGJHMHh2UEh3QU1BYUNlUnUtekFRQXpjU3p2MWVGOUdseFdOaHZOZzFoamNPcUZEOFc3eC1DSDRmUlNuaGplMWgzN085RGlPRGJ6U3FKY2pqSUV6Q0R6YXJCVEF6UkZUcUlyT01QMGFqdWJ3NVpwcl9ycTFUWXN5aTNnNzE4dEtFQkROZkV6ZHZzSnpKSGJVSQ?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-10T14:12:38.000Z",
+    "analyzedAt": "2026-11-10T20:20:26.403Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Consumers are spending more money but getting fewer groceries, creating pricing and margin pressures across the food and beverage supply chain.",
+    "angle": "CPG brands and retailers need to understand shifting consumer value perception and adjust pricing and product strategies; this is a core conversation for analytics and forecasting.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wxTFdwd1EwZENia0U_b2M9NQ",
+    "title": "🥡 DoorDash: The $17B Instacart Bet",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00RUkxUjBidUNYWVNabFgzV3NLTTZmaGtxQWs3VW5mLTBrendwbWx0YWo5MWw4SVlGX0RIajdsRXFKNUYtWjI3R1R2RDNaSHlubGdlTmxacElQNGxjM3dFZVJ0Ty0tWHJwTm1MQml1LWpwQ0dCbkE?oc=5",
+    "sourceName": "App Economy Insights",
+    "publishedAt": "2026-11-10T13:02:21.000Z",
+    "analyzedAt": "2026-11-10T20:20:26.403Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "DoorDash has made a $17B investment in Instacart, signaling major acceleration in e-commerce and retail media at scale.",
+    "angle": "Retailers and CPG brands need to urgently assess e-commerce and third-party marketplace strategies; integrations and automation platforms are essential to keep pace.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "a0pXY1ZSaWEyaHZWUT9vYz01",
+    "title": "State of logistics in consumer products and retail",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmZvWVhLQUM3VGJGbWFRYllTZlloYTNaR2dTS1FlbVZ1SGhwd2NqN3RZZ2F2ai1LLTNFVnNVcGdfanlCUlprbXl5WmtmQVl0NDJYakI5WnhJd1hHcnBXNEhRbzJqNDE3STVpNUxFMngxdnE1aV96YnEtQ3AzS2xNanNOaE9ra3ZNTktEdXRUdFFEb3huaHFPNEVBMlRIMEh0ZHR6aERiLThxVkJWcVRia2hvVQ?oc=5",
+    "sourceName": "Kearney",
+    "publishedAt": "2026-11-10T09:50:02.000Z",
+    "analyzedAt": "2026-11-10T20:20:31.045Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Kearney reports on logistics state across consumer products and retail. Industry-wide logistics trends and benchmarks.",
+    "angle": "Supply chain and automation workflows are critical to logistics efficiency; this signals ongoing customer focus on supply-chain optimization.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "oWGEySlVkRkpYTlVrP29jPTU",
+    "title": "Food producers face a narrowing window to recover rising costs",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcGxEZTJCUkt1T3NZTnZxQWd5Q1Z3YkdYTnh5bGRzeWVlRFlTckFHNTlxbWRkdWs1MnZKLUhuQ3NfTXlHRHUtclRhZTlDRkdfdGhVbGJwa2dLdFF1WW80cVF0X0JlU25iZ2RxZnlvNFJrcFdaa0EzTnVOakk5ZGk4U1hwSzlfNU5rTzZDa1ozenp6MV96T0RweWRacXI2aFpVbklMYUhjRV9lTHh2ZkhXa2JUdFJXNUk?oc=5",
+    "sourceName": "RSM US LLP",
+    "publishedAt": "2026-11-10T09:21:36.000Z",
+    "analyzedAt": "2026-11-10T20:20:31.045Z",
+    "updateType": "earnings",
+    "relevance": 2,
+    "summary": "Food producers face a narrowing window to recover rising costs before consumer pushback. Cost recovery and pricing power are under pressure.",
+    "angle": "CPG manufacturers need to model pricing elasticity and demand scenarios to optimize when and how much to raise prices before market share loss accelerates.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bXBHYUU1RlgxQkpOdz9vYz01",
+    "title": "IEEPA tariff refunds are moving forward",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uZFh1WThOVmJ1OE5wNkRBMldDS2JxZVpTMXY4TjJIUXNfeUpqdGFZcVhGdmJxdU15X0daVkhMMkp2eGc4TGQyUmFqVllPV3lreWtyT1dMcVBMRTdUQTFKQS00ZmpGaE5FX1BJNw?oc=5",
+    "sourceName": "National Retail Federation | NRF",
+    "publishedAt": "2026-11-10T07:08:22.000Z",
+    "analyzedAt": "2026-11-10T20:20:31.045Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "IEEPA tariff refunds are advancing, signaling potential relief from prior tariff costs. This affects CPG and retail customers managing tariff exposure and pricing strategy.",
+    "angle": "Customers managing tariff recovery and cost pass-through need updated demand and pricing analytics to model refund impact on margins and competitiveness.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "YWJsZS1ib2RpZWQtYWR1bHRz",
+    "title": "Modification to Work Requirements for Able-Bodied Adults",
+    "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults",
+    "sourceName": "Federal Register (Proposed Rule)",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:49.580Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA proposes tighter work requirements under SNAP, narrowing exemptions and waiver criteria for able-bodied adults, which will reduce SNAP participation and purchasing power among budget-conscious consumers.",
+    "angle": "SNAP restrictions directly reduce purchasing power for price-sensitive shoppers, a core demographic for CPG and retail. Customers need demand and elasticity analytics to model revenue impact and adjust private-label and promotional mix.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9yaWNhbC1lbGlnaWJpbGl0eQ",
+    "title": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+    "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility",
+    "sourceName": "Federal Register (Proposed Rule)",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:49.580Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA proposes limiting SNAP categorical eligibility by narrowing TANF benefit definitions, which will reduce SNAP enrollment and consumer purchasing power in low-income segments.",
+    "angle": "Narrower SNAP eligibility reduces benefit-dependent customer base and discretionary spending in core retail and CPG segments. Analytics help customers model demand impact and optimize assortment and pricing for changing consumer mix.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "AwTURGTmFuSk9VRkk_b2M9NQ",
+    "title": "Farmers’ Markets Join Push for Delay in USDA SNAP Rule",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTFCb19EUzhaZG82Y3BtNXJyakVMTUV3U3JHTExsdTJlZDZscVFnMFBLUDhYcmxLaUR6TWxoajZHWXBjQW1JTm5icUlyTmkzNERlWmhYcDhnVktnQUZYYjdURnd0Y0plTldFcTl6ekhzWWJLNWtEd0JGcjAwdWt2c1NaZnlmalp0MDFNanJOUFI?oc=5",
+    "sourceName": "Civil Eats",
+    "publishedAt": "2026-11-09T22:32:38.000Z",
+    "analyzedAt": "2026-11-10T20:20:44.346Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Farmers' markets and food advocates are pushing the USDA to delay implementation of a new SNAP rule, signaling potential policy uncertainty around benefit program eligibility and use.",
+    "angle": "SNAP benefit changes and delays create planning uncertainty for retailers and CPG brands; customers need visibility into demand patterns and program eligibility shifts.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wbzVZM3BxVVZGcVdRP29jPTU",
+    "title": "Costco just passed Kroger in a grocery ranking that matters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTk01Y3lNTFJ6NmxFMWtrUDBDNWN6YkZGZDVWSjhjdFpfOHJld1F1ekxQVV9CRFRNSHhoX3hvaWVpY0ZJN3oyWFRTVFNOWDBBVjBGQTJscUNNTjFnOGtBdU4wcGpzckRRSmZhMTUzUWFRT255X2Foa3JSS0o5Y3pqUVFqWQ?oc=5",
+    "sourceName": "AOL.com",
+    "publishedAt": "2026-11-09T21:17:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:26.403Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Costco has surpassed Kroger in a key grocery industry ranking, signaling competitive share and format shifts.",
+    "angle": "For Costco and Kroger customers, this signals the need to track competitive positioning and adapt assortment, pricing, and operations; analytics and platform insights are critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Costco",
+      "Kroger"
+    ]
+  },
+  {
+    "id": "poNVRrSTFRVk4zWnc_b2M9NQ",
+    "title": "What the AGNE strike could mean for Thanksgiving groceries",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbS0zMW1wVlZzaEsyRkJpOXFfc3B6MGdkM1p1elRpcUdSUDVDMjczMTYtSzJBU1FzTzVIanA3Ykx4YldVVm5iazEwQl9aWEg4SW5FOFRYNGtqR1dfYzBjQkw3TjhqZ2NoTm5taXVsejlNTGswMTY0VlJ3WUs0RjZrRkU3bEhpNElqdmdqZ1l2OGp1UmtUNkpGcWJRUGxMQ2l5UkNWSmREZ0xCSG5ESDF4LVhtZnJWNmRHVmYtdWw2clNWV181VHRodXBwOHJRYUtkUjZCLVZqY3VQSTVKdWNtOFViNEZsTzRyMDMzMUV0V1RzVDRDQzh5TkI1QVN3Zw?oc=5",
+    "sourceName": "Seacoastonline.com",
+    "publishedAt": "2026-11-09T20:20:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:49.580Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "AGNE (Ahold Delhaize Greater Northeast) strike threatens grocery supply and availability heading into Thanksgiving, a peak retail period for food sales and inventory management.",
+    "angle": "Grocery strike could disrupt supply chains and demand forecasting. Customers need real-time visibility into logistics and demand shifts to adjust replenishment, pricing, and promotional strategies during peak season.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "VXV0UxVEVKTE1GaGg_b2M9NQ",
     "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnhvUVRRRWhaQlhaUEkyRkpwY2NuUFpzREVwRXBfb1hiaEF6bkwtNEZZOFpqM2VIc05JdEZIOWJEbExYTy0zRWNzall4ZDBmVnpHc1BCaDFhNjBaVkhQUE1penVUZmpsYlJWc2R0Rks2aGJwZzF1dUhZMHkxSmFJSEVaZG9TTGVBVmh4TExnOU9fQ1dkbWgxLVhKdS1mS01SLWdUNHc1dWZldU5IR3dsX2VabmotMmNPdjREWWE1TEJLMFhh?oc=5",
@@ -130,6 +409,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "eS0yLW1vbnRocy84NzQxMDcv",
+    "title": "US, China officially extend trade war truce by 2 months",
+    "link": "https://www.supplychaindive.com/news/us-china-officially-extend-trade-war-truce-by-2-months/874107/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-09T14:00:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:20.793Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "The US and China officially extended their trade war truce by 2 months through Jan. 10, 2027, maintaining tariff reductions and a pause on other trade actions.",
+    "angle": "Trade uncertainty is a permanent backdrop for CPG and retail supply-chain planning. The 2-month extension gives customers breathing room, but they need robust scenario planning and cost-tracking automation to manage tariff volatility.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "WMlNEaDBSVmg2WHprP29jPTU",
     "title": "How will Democrats reduce your grocery bill once they take over Congress? Will rolling back Donald Trump's",
     "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPVGI5LUlPWDVxemJUMzAxS1ExVWpSZDQzLVRpNEJpVl9JcGdKUWhRMTRyRDVHMGp3enhfcXVtcnR6N01qRTFZNy0yeHA4U045SnpfZ1RsMWRQc2RDS05xT3NHb1lQTXZ6c0stNkVHdkVwczZaT2gwSkFtQUpLQTB1UDdlclNfYnBqN2lFZFVxNmJPZTZVR2VLRXNIWVI5V3ltVzRTaDZ2bGtuNzdidlh6TWJwUmo3OVl0R05jU3RrMTY5RHMweXI4eF81U3doY2hSWm1XU0dRTlo4c05NX2Y4THE0U2VSYUtyZlMya2tzaWVYVUIxYi1sUWJ4R0JWTlFtQnVsYi02UmJGTzliY0NzVHdTbmQ5cTVBU3lCZUdOZzFKUHd4SDBFUmlHc2ZMZnfSAbQCQVVfeXFMTm8xUTRFX3FVWDZlaDFIR3NWbms1SlJ2ZVpfODJiQVA2VjVYeFNwd3kyeEFFY19vS3U1UFpVMkZURWdiTzhDQ1lnYkRwY2xkSmg1dTJTeUhxRGJFcUdfdXBfUl9qZ1d0WV82bmxMbUhoZ3BsY1Y5TlhyQmE0VllfaHVld3AtSDYwNDJSUmxsZFVJLXo2Y252N0hCdmRPVWVUT1lISlBCYTd4T29hNzRPZHJRbkFFREYzYTVwSlQwQmZJaHFDUXBBQnB2M0lnM0d3QUhSQ002ODJLdFVHeFJjRFZST2oydFhaaGE4c3dfSXN5VHd0bzBNUW1yTlZpZ3A4M2NWdmc0MGlTRXZMREoxRnluZTY0eXY0Wld3UTBueWlwRXMxN2w1SGtESUV2SDh0RVh6Xzk?oc=5",
@@ -238,6 +535,40 @@
     "mentionedAccounts": []
   },
   {
+    "id": "FMXdWVlpYTjNsTFp3P29jPTU",
+    "title": "Recall on Zapp's and Dirty Brand potato chips assigned FDA's highest risk level - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNzR0RGRFAyQWZGWGFmWDJlT3JTRkhCT0ZpbFRBMl9iUlZfRl9BOEVVSHhZeGhSUmo5Ym5SbHFSQ1hVaHEwWlBYRUJReDNXZXlTei1GZHNHb0dDQmtNMUxlYlREd09IRHFQUFF6X216R2thQUJIdFVUQWt3dFpQa2ZBSjV0aVlJeXZpQmJfd2lSSWhPZFh5RE81M2l5Sl9pLWJKUtIBqgFBVV95cUxPTjdNaVdLSTZzdEQ2S3NsV3kyUUFiMzBtWnFMejgtWmlRa2RmRzVBT0dQSXVpVXJHc1NrRERpMHlGNTI4MUF6cHFmWWxScXNJY1ctc2JhdXgyX0lqNnU1bDdzQ1ByQ0FwZnRteHF4VTRnMm5SZk5weEtrNWVMRndHeHdaRzZ1Ykk5by16YjhhcVFTQW5EVmtCNGhMb1c2Z2YzZE1wVVZXN3lLZw?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-08T14:05:40.000Z",
+    "analyzedAt": "2026-11-10T20:20:38.081Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Zapp's and Dirty Brand potato chips recall assigned FDA's highest risk level. Major packaged-goods recall affecting retail distribution.",
+    "angle": "CPG manufacturers and retailers managing recalls need rapid visibility into inventory impact across distribution networks and retail locations; automation and analytics critical for response coordination.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RWh4VUhjdFMxOWhXQT9vYz01",
+    "title": "The Future of Retail Advertising With the Rise of Retail Media",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckhWa1E2VENZWkF6SUNfWGFodV90MDdFYzVRbm9CakwtbzdITmNhUW5FTVZYeVBCOFFLalZJZlJvbHNLdlpHUjRmLWlfaS1SZS15NHY4Y1NFbk5vbGl6Q1o1c2k3bzJ0Y25iSHJlMzFWdUF4YktqU2FqckZ4X0xtV1lWaTB2MWJzOFNwUUtOdEhxUHctS19hWA?oc=5",
+    "sourceName": "MarkHub24",
+    "publishedAt": "2026-11-08T01:21:07.000Z",
+    "analyzedAt": "2026-11-10T20:20:38.081Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Overview of retail media growth and opportunity. Reflects broader shift in retail advertising and direct-to-consumer commerce.",
+    "angle": "Retail media platforms create new data streams and analytics requirements for CPG brands managing promotional mix and media spend attribution across retail partners.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "bG5hMGR1YW1aVFJXYz9vYz01",
     "title": "Associated Grocers Northeast workers continue to strike 'as long as it takes' amid contract dispute",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZnd1RNYkR0U2VuSk1qU2dtS280Rng2dTNDdHBwdXZCakl0dlhWdFJ0WDczQ2w1cjkzb1M0cWNFYlMzRExzNlRldHpzSkdkdzZYVG1IVTVmWlQtLVRRSFhvbFROc1NhaTFROG9oTGhlbUdVVWN2d2tNMHhGZ1U0M0VXcV80Ym4wd0YyUTlna0duamZTRWc?oc=5",
@@ -326,6 +657,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "oZUZaTmRuWkdSVm8yP29jPTU",
+    "title": "FBI warns hackers are targeting US grocery and food supplies",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0pEbUNDWXdYQVhrdE0yUTdoZVNPcmFjVmxuQ3VQb2dtRUFtY3hnVkpMQjhqWXI4eUZ6U1lJYThvd0Y3N2J4c1BPSlVXZV9IYl9xYWdrdTlBel9YNUc4UktLclRic3gwTTlhdmxlMkFoZlFPRzd3cDJuXzBMWXBheFZNdnZGRVo2?oc=5",
+    "sourceName": "geekspin",
+    "publishedAt": "2026-11-07T11:30:21.000Z",
+    "analyzedAt": "2026-11-10T20:20:38.081Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "FBI warns that hackers are actively targeting US grocery and food supply chains. Signals rising cybersecurity threats to critical retail and CPG infrastructure.",
+    "angle": "US-based retailers and food manufacturers need to model and monitor supply-chain resilience; workflow automation and alerting become critical to flag disruptions quickly.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "V1Z6TTJZMk5vTmtGQj9vYz01",
     "title": "How about a moratorium on the SNAP soda ban?",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcld3RS1NV1h4U2dfNFFsYVhYSjRSUGdzU29pWmFYNS1pZVhyOEJ3RXo4ejZzaDdJRlRualhnM1lwU0hTQkQ0NUNJLTdNaExXUzNQRU1lNkpKY3FfSHBkalpKaXAzSjNxNDg1LTVmakVqaGVSTGxtVnRWVzM2Y2NoNkFB?oc=5",
@@ -339,6 +687,23 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZSMFZvUW14TE1WWlY_b2M9NQ",
+    "title": "Vermont stores feel ripple effect of strike at grocery distributor",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGJ2VXg5VHl0ZDc0UDFqWXVwZ0U3b2dGZElFQ0NUaHhFdk9Cbkx6bFpuOHFKREt3OC16S2NvUmlvTmVIZ3hqNTRCSVEyemJnc0NWN3k1QjgxV3E0d0kyd2ZsMDRHV3VZM0pfSHJqWGFxcEtSYVd0NXcxM1AwbDY0S1BmckVuZWdiam1SUkV2dWRkUzJOSjRfR0VoQmxLMVZV?oc=5",
+    "sourceName": "VTDigger",
+    "publishedAt": "2026-11-06T22:48:18.000Z",
+    "analyzedAt": "2026-11-10T20:20:44.346Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A strike at a grocery distributor in Vermont is causing supply and shelf disruptions for local retailers, highlighting labor and logistics friction.",
+    "angle": "Supply-chain disruptions and labor strikes create urgency for retailers and suppliers to track distribution network health and inventory gaps; workflow automation can route alerts to merchandising and supply-chain teams.",
+    "play": "automation",
+    "products": [
+      "automation"
     ],
     "mentionedAccounts": []
   },
@@ -412,6 +777,23 @@
     "products": [
       "analytics",
       "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aWVVNVFlR05CU1hwUj9vYz01",
+    "title": "Unilever ramps up pricing to offset higher commodity costs",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1VxckF5N2c5UDFNZFdPcmxDV0o4Z3IzNnNOZ3BqaEVpQUJZWmk1dHB4MTZLeUdyRGp5eXZOa2YySFRQVFFwNURseC03cWZucFR1eUdYUTZURDZ0UXU1RW1BYnhPT0tuSzVkaVdvRWNMTGRHclBfUGRSRjVCLUltSU9mSnZ5TlFiMDBzRmxBTnhWWmM2dUloa2V5QkpieU5QeGNBSXpR?oc=5",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-05T20:12:38.000Z",
+    "analyzedAt": "2026-11-10T20:20:44.346Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Unilever is raising prices to offset higher commodity costs, reflecting broader inflation and supply-chain pressure in CPG.",
+    "angle": "Commodity and pricing shocks are real for CPG manufacturers; Account Intelligence customers need forecasting and pricing analytics to model cost passthrough and competitive response.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": []
   },
@@ -577,6 +959,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "OTWFqSlJPRlZyY21rP29jPTU",
+    "title": "After DoorDash's Instacart bid, here's the case for and against consolidation in commerce media",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHJjLUplRUg3STM3SUNsZmF3YU9DUWJYM29yZzMxbi1nRHB4UmtLMEh6VnZoYmNFWkxveXFUc3Ywd2lVVHEybHZyY2J1OEEyZk1TNVZ0dXBlNjZZM2xKTzVnRlVTd0dqSjFDTk9xUFFUSmFTOWlHU25WQ05tWG14eFdmLVIxYVEtSHRoaUFYbVAtcVNjOUg4Zk04VkExUk4wQnJvb2JFMDJkWGstb212VTZEVVRPM2NMajJROFVrcmk?oc=5",
+    "sourceName": "Digiday",
+    "publishedAt": "2026-11-05T05:06:07.000Z",
+    "analyzedAt": "2026-11-10T20:20:44.346Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "DoorDash's bid for Instacart signals consolidation in the commerce media space, with implications for how retailers monetize their platforms and compete on advertising.",
+    "angle": "Retail and CPG customers are navigating shifting commerce media landscape; understanding data flows and attribution across consolidated platforms affects how brands measure ROI on retail media spend.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ExUWpaSk1UYzVVV2c_b2M9NQ",
     "title": "FDA updates list of cinnamon with high lead levels to include 21st product",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjFtU01uNlJScWlFRXBSclVHOC0wanpHMWRkQkQ1RlZtVmJmS1BHbUtoQXBwdXpGUlJmb01VY0lTc1JCQkYyaGlYdzZERnFEZV9GYUpXR2VHNFNFY0ItQk1CVXBwTzJfS1I4NUdHTlF1MmpWaEpnQ2tsQzRVME9oazBrMGlFYy1iaXFuWGJyTTlDVHExa202RHc0VWZJWWJLM19GTHp5R0hhNE11QjZJMTc5UWg?oc=5",
@@ -589,6 +988,23 @@
     "angle": "CPG customers sourcing spices and ingredients must track regulatory alerts and trace affected products through their supply chain; this exemplifies the need for integrated compliance monitoring and supplier-quality data visibility.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "sV1R6ZEpkR1pmZDNjP29jPTU",
+    "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026)",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
+    "sourceName": "U.S. Food and Drug Administration (.gov)",
+    "publishedAt": "2026-11-04T16:30:00.000Z",
+    "analyzedAt": "2026-11-10T20:20:38.081Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "FDA outbreak investigation into Salmonella linked to Sprouts in September 2026. Demonstrates food safety risk that can trigger rapid recall and distribution network changes.",
+    "angle": "Recalls and food-safety events force rapid coordination across supply chain and retail networks; customers need alert workflows and visibility into affected SKUs and locations.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
     "mentionedAccounts": []
   },
   {

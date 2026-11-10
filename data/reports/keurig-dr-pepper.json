@@ -1427,5 +1427,46 @@
         "publishedAt": "2026-11-03T12:40:41.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-10T20:19:22.850Z",
+    "source": "daily",
+    "headline": "KDP reports strong Q3 earnings post-JDE Peet's acquisition; major portfolio expansion requires platform coverage and analytics suite to manage enlarged portfolio",
+    "signals": [
+      {
+        "category": "JDE Peet's Acquisition Integration",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 2,
+        "summary": "Keurig Dr Pepper completed acquisition of JDE Peet's, driving 70.6% sales jump to $7.34B in Q3 2026. The deal materially expands KDP's coffee and international portfolio, creating a new business unit requiring data integration and platform coverage for the acquired assets.",
+        "suggestedAction": "Schedule urgent meeting with KDP's integration and finance leadership to map JDE Peet's data architecture (ERP, supply chain, POS systems) and confirm onboarding plan to the Core Platform. Propose a phased Data Integrations roadmap for JDE Peet's brands and regional operations.",
+        "sourceName": "Dealroom",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2pZNDktSmFfaVR6cWdEbjdZSkdtS2FJNFRieDRuUFVucWVGU1I0LU4zTGFfLWpXYndoVFNsamVJblQtOVBNd1NDdlZLalhKc0x2WGpnZ2hyU0hGeXl2UmFqX3l5SFdmT2loTjhrQklRazZwNEtrUFUwN0kzRFg5WnEyNFRrbUZUOEQ4dHhTOVNQZXZSRThLVUdLOGRhZw?oc=5",
+        "publishedAt": "2026-11-04T14:09:01.000Z"
+      },
+      {
+        "category": "Q3 Earnings Growth + Portfolio Scale",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Strong Q3 earnings ($7.34B revenue, $0.59 EPS) and refreshment segment performance provide budget availability and urgency to consolidate category and pricing analytics across the enlarged KDP + JDE Peet's portfolio.",
+        "suggestedAction": "Present Analytics Suite business case tied to cross-portfolio pricing optimization, demand forecasting, and category performance tracking across both legacy KDP and JDE Peet's business units—positioning analytics as critical to integration success.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGp4YmhRREVVaGs2NDRtSjhoMjMyVkVmMnhsb0Y5blFuei1sUzlUMzNmbUVOZEk2bW1EUXh5X09oUXZTWFNXQmlTWS1wTlFpalh5MzUwRE42bjA1alRTSUxvS1ZHMWdZZEZ4WWJBZVJBaVJWUERNOTNKblY5d1piWENUZW1JbWd2UVhWdzE0T0drYUlIa3JPaHllQ0RRNlgwdC1xQl9MUzdQMHFOWHNMMTY2TWl0R3JjU3JWU2FINA?oc=5",
+        "publishedAt": "2026-11-09T12:11:00.000Z"
+      },
+      {
+        "category": "Coffee Portfolio Headwinds",
+        "updateType": "competitive",
+        "play": "automation",
+        "score": 1,
+        "summary": "Earnings commentary flags coffee headwinds and lowered JDE Peet's sales outlook, signaling margin and demand pressure in the coffee segment that requires agile supply chain and demand response.",
+        "suggestedAction": "Position Workflow Automation as enabler of cross-functional alerting and playbooks to respond quickly to category margin pressure and supply chain shifts in the coffee business—help KDP mitigate outlook challenges with faster decision cycles.",
+        "sourceName": "Morningstar",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMnVKU1VjSmNjYjBldWxOaXRUUWFzQTFCR20tX3kyN2tiSm96dEJHdlJnM003X3pQbFJKWVVJcUZ1bEJKQmZCdWpONDZmTlhGV3hDSlF3VC1PVXNQSG9RbF9IU19kSUgtMGh1Wk9zN1VvUUdLS09zUnFJcUNObnoxemZKTFNwMUZpZnF3emZKa1FpcS1tS0dZcnFKVUtjM3RCTWNES0dmNElpaWhvMnNZQkVsaG1kUjBVS2VMUkZzekZDcDhrQVd6bktIRXVibXR1OFpVYjhRNA?oc=5",
+        "publishedAt": "2026-11-03T22:12:54.000Z"
+      }
+    ]
   }
 ]

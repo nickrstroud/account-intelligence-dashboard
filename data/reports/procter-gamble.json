@@ -1295,5 +1295,24 @@
         "publishedAt": "2026-11-05T14:55:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-10T20:19:18.644Z",
+    "source": "daily",
+    "headline": "P&G India Beauty leadership change; no material expansion or risk signals",
+    "signals": [
+      {
+        "category": "India Beauty Head Appointment",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "P&G named a new head of beauty operations in India. India beauty is an existing business unit for P&G, not a new expansion or divestiture.",
+        "suggestedAction": "Monitor for any India-specific market expansion or restructuring announcements. No immediate action required unless the new leader signals a shift in data/analytics priorities for the India region.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlVRMEJaNTE0MUxPeUhWT2NsMDE0bGIxNDRYRVFMZ1RZcDJTZzdwdWN6bzBZd0lUbDRzckwxSHRzcHZzOENHdDBKSkM3WWppQmNpel9MaGVjZ0hJUmYxbDZ3a1pETHhuYnQtejVESmtVRkVEbklwM2o2amlZTXNWbS1ob1V3MXZOUURWWFlTMFFCeFZseEZ3Y1NR?oc=5",
+        "publishedAt": "2026-11-10T05:17:00.000Z"
+      }
+    ]
   }
 ]

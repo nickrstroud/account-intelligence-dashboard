@@ -1558,5 +1558,35 @@
         "publishedAt": "2026-11-08T03:00:31.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-10T20:19:26.719Z",
+    "source": "daily",
+    "headline": "Kroger doubles down on direct sourcing for cost control and supply-chain visibility; opioid litigation poses manageable legal risk",
+    "signals": [
+      {
+        "category": "Direct Sourcing & Supply-Chain Visibility",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Kroger is accelerating direct sourcing efforts to improve cost control and supply-chain visibility—a strategic operational priority that plays directly into workflow automation and alerting needs. This signals growing sophistication in supply-chain operations and potential need for expanded real-time monitoring across sourcing channels.",
+        "suggestedAction": "Schedule a brief call with Kroger's VP of Supply Chain to understand the scope of direct-sourcing operations they're adding and confirm whether current Workflow Automation coverage extends to sourcing teams. Position an expansion conversation around alerting and playbooks for direct-sourcing exceptions (lead-time delays, supplier performance, cost overruns).",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczJ4cm1EeFNKWG8wS1VOODRJYkpNbjZzRHBhSXlMNm5veUo1NkpsaS1Udi13SmdjVDd4TDFfYi1QenZvWXAyZ180YmotQTk4eWZ3b2Q3WU9TQXpOb1V0a0hZYmpvOTRiYmdRcHJfNlU5Uko5aElsM3lUcGtjaVQyM3lsTHJySVVua05V?oc=5",
+        "publishedAt": "2026-11-09T21:30:30.000Z"
+      },
+      {
+        "category": "Opioid Pharmacy Litigation",
+        "updateType": "legal",
+        "play": "none",
+        "score": 0,
+        "summary": "Alaska Supreme Court revived an opioid pharmacy lawsuit against Kroger and Albertsons. This is a legacy litigation matter affecting pharmacy operations but does not have clear strategic implications for Account Intelligence product usage or expansion at this time.",
+        "suggestedAction": "Monitor for escalation, but no immediate action required. If litigation expands to material operational disruption (pharmacy-unit restructuring, policy changes), re-evaluate for automation or platform coverage plays.",
+        "sourceName": "Alaska Beacon",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTFGZ2d2MXdSdEROaHBmbjhYeHRWVVlNbjNWcVRWZmRXaHFQVndHR2ZUNWdwUFJyaFdoVkdmWUZ6ejZiekY3V2JldnVTYVlKQ1RDdHNESllsSzAzaEVDWXpQSFRKOTZibDhJZXBPQ2ZvZGREY1BXcjU2TDZlVnJfTlhlMG5sSUl5Q2VpeUM3OWFwcnFzS1I1ZzNsSGVrMmpfaVpoT1BvZnYxbkswSVpKck5kaEpub1FXNnhPVDE0MA?oc=5",
+        "publishedAt": "2026-11-10T15:00:13.000Z"
+      }
+    ]
   }
 ]

@@ -1711,5 +1711,24 @@
         "publishedAt": "2026-11-10T15:58:06.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-11T20:03:08.325Z",
+    "source": "daily",
+    "headline": "PepsiCo cutting ~1,000 North American jobs; margin pressure and restructuring signal cost-control focus",
+    "signals": [
+      {
+        "category": "Restructuring & Cost Reduction",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo announced layoffs of approximately 1,000 North American positions as part of a performance-improvement initiative. This indicates margin pressure, operational tightening, and a likely shift toward cost reduction across the company.",
+        "suggestedAction": "Reach out to your primary contact to understand whether their teams or departments are affected, and position Account Intelligence as a cost-avoidance tool (demand forecasting and supply-chain automation reduce waste and overtime). Ask specifically whether there are plans to optimize workflows or consolidate team tooling as part of the restructuring.",
+        "sourceName": "Fox Business",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFB3eW9JNGVhT0gzQThXUkI5YnVCckNsNmlqZDRGOG1jOVJ0TVFXUm9CSWx2R1g5WW5JMXZVVGtSVnBPWDk1RXZXek9rMnNRWlVXN0tiSVJBdk9kZDk1OUEzMXRtYzFCYlJzY1hyaDB1VE1BanBYWUdfTFFSbEJJVHFNb3RlbHBLWTY4Q2wzZEhrRWNPLWtaNEh2VVQ5Z9IBowFBVV95cUxQMVZyN0hTUkt0TUNUWk9TM1dOOXZGcS1zaFM2RERtTnpRbEszZEg5d2Vxb0xvTVBHUDNmcmhidktKeU9YYVFhY193aWpROGd1LXVfSklmQm1KT3VqSFJHSEFLYmg5NTJ2S2c2VUZlUXhXMWVscjZ2a1FRcFl3d2ZoRHdUSWFFd2ktcFMwQ1F3ZE9rTG9zX2trUjNsd2wzb3hHZi1v?oc=5",
+        "publishedAt": "2026-11-11T13:19:00.000Z"
+      }
+    ]
   }
 ]

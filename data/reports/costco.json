@@ -1140,5 +1140,35 @@
         "publishedAt": "2026-11-07T02:30:35.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-11T20:03:11.695Z",
+    "source": "daily",
+    "headline": "Capital deployment and operational challenges: Costco signals financial strength but faces multi-state product recall requiring rapid response coordination",
+    "signals": [
+      {
+        "category": "Special Dividend & Buyback Authorization",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Costco declared a $30 special dividend and reauthorized a $4 billion share buyback, signaling strong cash generation and financial confidence. First special dividend in nearly three years.",
+        "suggestedAction": "Congratulate the finance team on the capital return announcement. Use this as a hook to discuss how Analytics Suite helps category and finance teams model pricing and margin impact across Costco's vast private label portfolio (Kirkland Signature) during high-spend seasons like Thanksgiving. Budget expansion is now more likely.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1SbzRkY0hkTVlRbk9LWHduY2lLZnJjeUIxU3NvbWVNLWhVZFFJMjNJYUNlSF92N2p5YTY5RFFocmVYSGdKakNybjRTeVZZd250OGg0aWNVVmR6UzFhVHpXRnhVREVmbHJ0RXBVZU5HUVRWelYyRUFxOVhHeHN1QXAxUGxYRVZJSW93OEhjSnJ0V3BGMm9OeURlbk8?oc=5",
+        "publishedAt": "2026-11-11T11:10:21.000Z"
+      },
+      {
+        "category": "Multi-State Product Recall",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco initiated a recall of a Thanksgiving staple ingredient across 12 states due to potential chemical contamination. Requires coordination across supply chain, merchandising, and customer communication teams.",
+        "suggestedAction": "Reach out to the VP of Supply Chain or Merchandising Operations to offer Workflow Automation as a force-multiplier: alerting affected warehouse managers in real time, routing approval workflows for removal of recalled SKUs, and automating customer notification playbooks across 12 states. Frame this as a capability to reduce manual coordination during crisis response and protect member trust.",
+        "sourceName": "People.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjJYY3kxcks0VEp1aXF5TG9yQXNUbjhkV2pYczFwb1lYRXBOTEp0aEhhZTdXeGxuaEZ6TGk2MjhQSjdFNHY1Zk9ubkVZZUNadlY1NTlieFI3LTAxa2drOFJwVnhQM1hDOHVGazdoQ3Uwa25DN3UwNmV0Q1V2em82a2tyb2VmblpPNWRpWUd4WG1QajY2SVNNMWhiZXlwdw?oc=5",
+        "publishedAt": "2026-11-11T16:59:20.000Z"
+      }
+    ]
   }
 ]

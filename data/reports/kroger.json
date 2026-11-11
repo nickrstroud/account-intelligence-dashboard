@@ -1588,5 +1588,35 @@
         "publishedAt": "2026-11-10T15:00:13.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-11T20:03:13.808Z",
+    "source": "daily",
+    "headline": "Kroger Q3 earnings and new store opening signal modest expansion opportunity; no material strategic shifts",
+    "signals": [
+      {
+        "category": "New store with integrated food-service formats",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Kroger opening a new store in Canal Winchester, Ohio with co-branded Dunkin' and Jimmy John's formats. For a 2,800+ store operator, individual store openings are routine, but the integrated food-service model signals operational complexity.",
+        "suggestedAction": "Ask the VP of Store Operations whether the new Canal Winchester location and any other food-service co-brand formats launching this quarter will be added to the store-alert workflows on the platform. Offer a brief workshop on extending Workflow Automation rules to cover integrated food-service supply and staffing.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3M3SlJjRlhoWWJzQ0ZmdFBGVjIzUjRqWUIxaFNXUnREcmlHaFVXQnpBb1FBeHgwaHlTZjE0QUpwSTMxaHpwTGpwY0E1SVIxZ3lHdGktMDB0VGwyX1oxM1pjRS1hWHJ0U3Y3X3haY3A2aDVmMEtzclUyZWNKbGdCbWgyLW9Xeng1ZnlhVnViQXNPOXlxM0xwbk8xUVJMMzJSLW5fMkwtMFp1Zw?oc=5",
+        "publishedAt": "2026-11-06T14:57:00.000Z"
+      },
+      {
+        "category": "Q3 earnings call",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 0,
+        "summary": "Kroger announced Q3 earnings call; no headline guidance raise or miss visible. Pending actual results to assess budget headroom for expansion.",
+        "suggestedAction": "Attend or review the Q3 call transcript for guidance and capital-expenditure commentary. If results beat or guidance raised, follow up with Finance on budget for Analytics Suite expansion (pricing and demand forecasting for private label and retail media).",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUcyOHhMSlpBaElaNlVUSG9tekQwQmJlSnptOXVaQUNTUVlfNVM4SHBlZmlPdmtRZFpVU2g1dHdFcDRVTDFFWnh0WEpNRWo5T29fTVplX1RHbUxCalRGTG5fNDQyLWE4bEVTelpGaVhzM0w0SWJRa0poVEVHN2FsT1NMbjRGS29BMDlHYl9yVTFRZndtSU1RcnlDYVlidEo0Y1h2NE5kYXlWQQ?oc=5",
+        "publishedAt": "2026-11-05T21:05:00.000Z"
+      }
+    ]
   }
 ]

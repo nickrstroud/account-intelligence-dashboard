@@ -57362,5 +57362,356 @@
     },
     "doneWhen": "Discovery call completed with [VP Supply Chain]; sourcing team contact map and 3+ automation use-case hypotheses documented; expansion SOW drafted with integrations roadmap.",
     "generatedAt": "2026-11-10T20:20:08.310Z"
+  },
+  "a_3d9k4u": {
+    "signalId": "a_3d9k4u",
+    "account": "Costco",
+    "signalTitle": "Multi-State Product Recall",
+    "play": "help_first",
+    "goal": "Help Costco reduce manual coordination during the multi-state recall by demonstrating how Workflow Automation can alert warehouse managers, route approvals, and automate customer notifications in real time across 12 states.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Supply Chain or VP Merchandising Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm recall scope, timeline, and coordination bottlenecks through internal Account Intelligence analyst",
+          "Review current platform usage and identify if Costco has workflow automation enabled or available",
+          "Check renewal status and any active expansion conversations with Sales"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Sync with Account Executive on whether this is a protection play (retain core) or expansion play (sell automation module)",
+          "Brief Product on recall scenario to validate workflow automation fit and gather any case-study language",
+          "Route to Ops/Support: confirm no open issues or support tickets related to this recall that require CSM escalation"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Email [VP Supply Chain or VP Merchandising Operations] with empathy, specific crisis context, and brief value prop tied to real-time coordination",
+          "Offer a 30-min call to map recall workflow steps and show how alerting + approval routing + notification automation reduces manual handoffs"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Walk through a simplified recall workflow using Costco's data (12 states, affected SKUs, warehouse manager roles, customer channels) in a working session",
+          "Share pricing and implementation roadmap for Workflow Automation module; confirm if pilot during recall or post-recall deployment preferred"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 7+",
+        "tasks": [
+          "Log outcome in CRM: interest level, deployment timing, and next steps",
+          "Schedule follow-up: either post-recall debrief to assess value or pilot kickoff if approved during crisis window"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Real-time coordination during your multi-state recall: a faster way",
+      "body": "Hi [VP Supply Chain or VP Merchandising Operations],\n\nWe saw news of the multi-state recall and wanted to reach out—not to pitch, but to help. Coordinating alerts to warehouse managers, approvals for SKU removals, and customer notifications across 12 states manually is a pressure point we see in situations like this.\n\nWe've built Workflow Automation into our platform specifically for supply chain crises: real-time alerting to affected locations, automated approval routing, and triggered customer communication playbooks. It reduces manual handoffs and keeps everyone in sync.\n\nIf it's helpful, we'd love a brief call to map your recall steps and show how this could ease your team's load—either now or as you debrief afterward.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 Costco initiated a multi-state product recall and is likely juggling coordination across supply chain, merchandising, and customer comms. We see a clear fit for Workflow Automation (alerting, approvals, notifications at scale). Let's reach [VP Supply Chain/Merchandising] to offer a crisis-response working session. Account Executive owns expansion play; CSM leads outreach for customer empathy and scheduling. Goal: pilot or post-recall debrief by end of week.",
+    "crmTask": {
+      "title": "Workflow Automation Expansion: Multi-State Recall Coordination",
+      "due": "In 3 days",
+      "notes": "Signal: Costco multi-state product recall (12 states, Thanksgiving ingredient, chemical contamination). Play: Help First + Expand to Workflow Automation. Context: Core Platform only today; recall scenario is forcing function for automation value. Approach: Empathetic outreach to [VP Supply Chain/Merchandising], offer crisis working session to map recall workflows, position as real-time coordination tool. Upside: Automation module expansion; timeline likely compressed (crisis window). Risk: If handled poorly, appears opportunistic."
+    },
+    "doneWhen": "Meeting confirmed with [VP Supply Chain or VP Merchandising Operations] to discuss recall workflow mapping, or commitment to post-recall debrief within 14 days.",
+    "generatedAt": "2026-11-11T20:03:27.670Z"
+  },
+  "a_pevkaa": {
+    "signalId": "a_pevkaa",
+    "account": "Costco",
+    "signalTitle": "Special Dividend & Buyback Authorization",
+    "play": "onboard_expand",
+    "goal": "Position Analytics Suite to the finance and category teams as a tool to optimize Kirkland Signature pricing and margins ahead of peak season, capitalizing on Costco's strong cash position and budget confidence.",
+    "owner": "Account Executive + Category Strategist",
+    "contactRole": "VP Finance + VP Category Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm Costco's current platform footprint: which business units and data flows are live, and who owns analytics workflows today.",
+          "Check renewal date and any open support tickets or feature requests from category or finance teams.",
+          "Review Kirkland Signature performance (margin, velocity, mix) in latest earnings call transcript or investor deck."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and internal Category Strategist: position this as a margin-expansion play ahead of Q1 peak season, not a cost-cutting play.",
+          "Align with Product on Costco's private-label analytics use case and any roadmap features relevant to membership-driven assortment planning.",
+          "Agree: AE leads outreach to finance; Category Strategist briefs internally on product fit."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Finance] referencing the special dividend and capital confidence; propose a brief conversation on how Analytics Suite helps Costco model Kirkland Signature margin scenarios during peak-demand periods.",
+          "Keep tone congratulatory and consultative—this is about their business success, not our quota."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Conduct joint meeting (AE, Category Strategist, [VP Finance], [VP Category Management]) to walk through a Kirkland Signature pricing and margin model built on Analytics Suite data (demo using Costco's historical data if available).",
+          "Scope a 6-week pilot focused on Q1 holiday/peak-season planning; agree on success metrics (pricing scenario modeling, margin lift, cross-category recommendations)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log pilot scope and timeline in CRM; set check-in cadence every 2 weeks.",
+          "Measure pilot success: number of scenarios modeled, margin improvement identified, readiness to expand to additional private-label categories post-pilot."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Kirkland Signature Pricing Optimization—Peak Season Planning",
+      "body": "Hi [VP Finance],\n\nCongratulations on Costco's special dividend and capital authorization—a strong signal of cash confidence and reinvestment capacity. \n\nWith peak season upon us, we wanted to discuss how our Analytics Suite helps retailers like you model Kirkland Signature pricing and margin scenarios in real time, especially across high-velocity assortments. Many of our peers use advanced analytics to stress-test category mix and pricing during Thanksgiving and holiday demand—capturing incremental margin without sacrificing velocity.\n\nIf helpful, we'd love a brief conversation with you and [VP Category Management] on how this might apply to Costco's private label playbook.\n\nBest,\n[Your name]"
+    },
+    "slack": "Costco declared a $30 special dividend + $4B buyback reauth—strong cash signal and likely budget headroom. Hook: Analytics Suite for Kirkland Signature margin modeling in peak season. AE leads outreach to finance; Category Strategist supports. Pilot scope: 6-week scenario modeling focused on Q1 peak season, targeting margin lift and readiness to expand. Check in mid-week on response.",
+    "crmTask": {
+      "title": "Expand: Analytics Suite Pilot—Kirkland Signature Peak-Season Pricing Optimization",
+      "due": "In 5 days",
+      "notes": "Signal: Costco special dividend + buyback reauth (Nov 11, 2026). Budget confidence likely. Current state: core platform only. Whitespace: Analytics + Integrations. Play: position Analytics Suite to Finance + Category Mgmt for Kirkland Signature margin modeling ahead of Q1 peak season (Thanksgiving / holidays). Pilot scope TBD; success metric = scenarios modeled + margin opportunity identified. Expand to additional private-label categories post-pilot."
+    },
+    "doneWhen": "Analytics Suite pilot charter signed with Finance and Category Management; 6-week scope and success metrics agreed.",
+    "generatedAt": "2026-11-11T20:03:27.869Z"
+  },
+  "a_8ckcbm": {
+    "signalId": "a_8ckcbm",
+    "account": "PepsiCo",
+    "signalTitle": "Restructuring & Cost Reduction",
+    "play": "protect_renewal",
+    "goal": "Protect renewal and position Account Intelligence as a cost-avoidance lever during PepsiCo's restructuring by demonstrating ROI from demand forecasting and supply-chain automation.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Supply Chain or Director of Demand Planning",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check PepsiCo account coverage map: confirm which business units (Frito-Lay, Quaker, Pepsi) are on platform + automation, and identify primary contact's org reporting.",
+          "Review renewal date, contract value, and current health score; flag if any open support tickets or adoption concerns.",
+          "Scan internal Slack and email for any customer mentions of restructuring impact or team changes since Nov 11."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive on customer relationship: confirm primary contact is still in role and engaged; discuss if layoffs touched PepsiCo's demand or supply team.",
+          "Prepare 2–3 concrete cost-avoidance examples from platform + automation: waste reduction, overtime savings, inventory carry costs avoided.",
+          "Brief Product on signal: ask if analytics suite (pricing, share forecasting) is in roadmap; this could expand TAM post-restructuring if consolidation play emerges."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send brief, supportive email to [VP Supply Chain] leading with empathy and a specific value pitch: how platform + automation reduce costly excess inventory and supply-chain friction during organizational change.",
+          "Include a low-friction ask: 15-min call to discuss how other CPG customers optimized workflows and cut costs via demand forecasting and alerting."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "On call, ask specifically: are there plans to consolidate tools or optimize processes as part of restructuring? Surface analytics suite as a potential expansion if pricing/share analysis fits their roadmap.",
+          "If receptive, propose a quick cost-avoidance audit: review current platform usage and automation playbooks to identify additional workflows or business units that could scale on existing license."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call outcome and renewal risk score in CRM; if layoffs affected primary contact's team, identify new sponsor and plan stakeholder re-engagement.",
+          "Set monthly check-in through renewal; share 1–2 cost-reduction case studies from similar CPG customers quarterly."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting PepsiCo through change: cost-avoidance wins with Account Intelligence",
+      "body": "Hi [VP Supply Chain],\n\nWe saw PepsiCo's restructuring announcement and wanted to check in. Organizational change is tough—and it often surfaces new ways to work more efficiently.\n\nOur platform and automation suite help CPG teams like yours reduce costly excess inventory, cut overtime, and route critical demand signals to the right person fast. During transitions, these tools often unlock 5–15% in supply-chain savings that directly protect margin.\n\nWould you have 15 minutes next week to walk through how we're helping similar companies optimize workflows and cut costs? We'd love to understand where PepsiCo is focused.\n\nBest,\n[Your name]"
+    },
+    "slack": "PepsiCo announced ~1K North American layoffs (Nov 11) as part of performance-improvement push. Signal: margin pressure, likely cost-consolidation focus. Play: protect renewal by positioning platform + automation as cost-avoidance lever. Lead: CS Director + AE. Ask: confirm primary contact status, prepare cost-reduction examples, reach out with supportive, value-focused outreach in next 3–5 days. If restructuring hit their demand/supply team, we may need to re-engage new sponsor.",
+    "crmTask": {
+      "title": "PepsiCo Restructuring: Protect Renewal, Position Cost-Avoidance Play",
+      "due": "In 5 days",
+      "notes": "Account holds Core Platform (demand/supply) and Workflow Automation for Frito-Lay/Quaker/Pepsi. Announced 1K North American layoffs Nov 11 (cost/margin pressure). Whitespace: Analytics Suite (pricing, share). Risk: renewal at risk if layoffs touch primary contact's org or if tooling consolidation considered. Opportunity: cost-avoidance positioning can strengthen renewal and unlock expansion if consolidation/optimization plays emerge. Next: validate contact status and account org impact; prepare cost examples; engage with supportive, value-focused outreach."
+    },
+    "doneWhen": "Scheduled 15-min call with [VP Supply Chain] or identified new sponsor within 10 days; renewal risk assessed and mitigated plan logged in CRM.",
+    "generatedAt": "2026-11-11T20:03:29.390Z"
+  },
+  "a_1t73nfk": {
+    "signalId": "a_1t73nfk",
+    "account": "Coca-Cola",
+    "signalTitle": "Bottler Spin-off / Data Autonomy",
+    "play": "onboard_expand",
+    "goal": "Secure new platform instance and data integrations contract for Hindustan Coca-Cola's independent operations post-IPO.",
+    "owner": "Strategic Account Lead + Sales (Integrations) + Solutions Architect",
+    "contactRole": "VP Bottler Relations, Chief Information Officer (Coca-Cola corporate); VP Finance & Operations (Hindustan Coca-Cola, once separated)",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Pull Hindustan Coca-Cola IPO filing; map current data flows, platform dependencies, and shared reporting touchpoints with corporate.",
+          "Audit account architecture: confirm HCC is on shared core platform instance with Coca-Cola corporate; identify analytics, integrations, and bottler network connectors in scope.",
+          "Check renewal timeline and seat/data volume trends; flag if data separation impacts commercial terms."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales (Integrations) and Solutions Arch on separation timeline, HCC's ERP/POS stack, and bottler network data requirements.",
+          "Align with Product: confirm platform isolation capability (multi-tenant vs. dedicated instance) and roadmap for rapid onboarding of new standalone customer.",
+          "Draft rough estimate: new instance setup, integrations migration, and bottler network connector licensing for HCC."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Bottler Relations] + [CIO]: lead with HCC's separation and offer a technical planning call to map data independence requirements and platform options.",
+          "Position as: we've managed spin-offs before; we can architect HCC's independent data layer without disrupting corporate reporting during transition."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Host technical scoping call: walk HCC's separation timeline, ERP cutover, and shared-data sunset date; map which integrations and analytics HCC owns vs. corporate retains.",
+          "Deliver architecture proposal: dedicated instance for HCC, data migration plan, integrations to HCC's POS/supply-chain systems, and workflow automation for bottler network.",
+          "Discuss pricing: seat/data-volume baseline, integrations SKUs, and transition support bundle."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM milestone: HCC IPO data separation opportunity; track architecture decision (shared vs. dedicated instance) as leading indicator of expansion deal.",
+          "Monthly sync with [VP Bottler Relations] on separation planning; confirm HCC as new account and co-sell with Coca-Cola corporate renewal.",
+          "Success measure: signed contract for HCC independent platform + integrations before IPO completion (likely 2027)."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting Hindustan Coca-Cola's independent data architecture post-IPO",
+      "body": "Hi [VP Bottler Relations] and [CIO],\n\nCongrats on HCC's IPO milestone. As HCC moves toward operational independence, we wanted to help you think through data separation and reporting architecture. Right now, HCC shares our core platform with Coca-Cola corporate; when HCC spins off, you'll need independent data governance, bottler-network integrations, and analytics—without disrupting corporate reporting during the transition.\n\nWe've managed similar separations and can architect HCC's dedicated data layer, migrate integrations to their POS and supply-chain systems, and add workflow automation for their bottler network—all on a clean timeline.\n\nWould you have time next week for a technical call to map HCC's separation plan and platform options?\n\nBest,\n[Your Name]"
+    },
+    "slack": "🚨 **Hindustan Coca-Cola IPO → Data Separation Expansion** | HCC filing for IPO signals spin-off and need for independent platform, integrations, and bottler-network analytics. Currently on shared Coca-Cola corporate instance. Opportunity: dedicated HCC instance + data integrations + workflow automation for bottler network. **Lead:** Strategic Account (validate + engage) + Sales Integrations (act). **Ask:** Brief Solutions on HCC's tech stack and separation timeline; draft architecture + pricing by Day 10.",
+    "crmTask": {
+      "title": "HCC IPO Spin-off: Platform & Integrations Expansion",
+      "due": "In 5 days",
+      "notes": "Hindustan Coca-Cola filed for IPO (Nov 2026); expects operational independence. Currently shares Coca-Cola corporate core platform instance. Expansion play: secure dedicated HCC instance, migrate bottler-network integrations (POS, ERP, supply-chain), and add workflow automation for independent supply-chain alerting. Timeline likely 12-18 months (IPO close → data separation). Key contacts: [VP Bottler Relations] (corporate), [CIO] (corporate); TBD [VP Ops/Finance] HCC once separated. Commercial: new ACV from HCC seat count + data volume + integrations licensing. Risk: HCC separates with competitor or legacy system if we don't engage early in architecture phase."
+    },
+    "doneWhen": "Signed data separation and integrations architecture proposal with timeline and pricing for HCC independent platform, ready to present to Coca-Cola corporate and HCC boards for IPO transition planning.",
+    "generatedAt": "2026-11-11T20:03:30.684Z"
+  },
+  "a_uu05ud": {
+    "signalId": "a_uu05ud",
+    "account": "Kroger",
+    "signalTitle": "New store with integrated food-service formats",
+    "play": "onboard_expand",
+    "goal": "Expand Workflow Automation coverage to food-service co-brand stores, capturing new complexity in supply and staffing alerts across integrated formats.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Store Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm Canal Winchester store go-live timeline and food-service partner (Dunkin'/Jimmy John's) scope.",
+          "Audit current Workflow Automation coverage: which store alerts are active today, and which operational workflows handle food-service inventory/staffing.",
+          "Check renewal date and contract expansion terms for automation capacity."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Account Executive and Support Lead on food-service operational complexity (multi-vendor supply, staffing coordination) and current platform gaps.",
+          "Confirm CS Director leads the workshop; Product notified of food-service workflow patterns for future automation roadmap feedback."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2–3",
+        "tasks": [
+          "Email [VP Store Operations] with a warm note on Canal Winchester opening; share a brief case study or observation on multi-format store alerting challenges.",
+          "Propose a 30-min workshop to map food-service co-brand workflows (supply, staffing, staffing approvals) on the platform."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5–14",
+        "tasks": [
+          "Conduct workshop: document food-service alert rules (inventory thresholds for Dunkin'/Jimmy John's, shift-coverage alerts) and map to Workflow Automation playbooks.",
+          "Scope delivery: new automation rules, testing plan, and rollout date tied to store launch."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log workflow expansion scope in CRM; track delivery against store launch date.",
+          "Post-launch debrief: measure alert accuracy and identify next food-service locations for rollout."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Canal Winchester opening: multi-format store alert workflow",
+      "body": "Hi [VP Store Operations],\n\nCongrats on the Canal Winchester launch—the Dunkin' and Jimmy John's co-brand formats sound like an exciting expansion. With multi-vendor supply and staffing coordination, we'd love to help you extend your store-alert workflows to cover the added complexity.\n\nWe're proposing a brief workshop to map food-service inventory and shift-coverage alerts into your automation playbooks. This could apply to any co-brand formats you're rolling out this quarter.\n\nWould a 30-minute conversation work next week? Happy to work around your schedule.\n\nThanks,\n[Your team]"
+    },
+    "slack": "Kroger signal: new food-service co-brand store (Dunkin'/Jimmy John's) signals operational complexity. Play: expand Workflow Automation to cover multi-vendor supply and staffing alerts. CS Director to lead 30-min workshop mapping food-service workflows. AE to confirm scope for contract expansion. Success = new automation rules deployed before or at store launch.",
+    "crmTask": {
+      "title": "Expand Workflow Automation to food-service co-brand stores (Canal Winchester + other Q4 launches)",
+      "due": "In 5 days",
+      "notes": "Signal: Canal Winchester store opening with integrated Dunkin'/Jimmy John's formats. Opportunity to expand Workflow Automation from core store operations to multi-vendor food-service supply and staffing. Whitespace: analytics (pricing/demand) and integrations (acquired banners) for future expansion. Renewal context: verify contract capacity and terms."
+    },
+    "doneWhen": "New Workflow Automation rules for food-service supply and staffing alerts are designed, tested, and ready to deploy at store launch.",
+    "generatedAt": "2026-11-11T20:03:39.547Z"
   }
 }

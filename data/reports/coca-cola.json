@@ -1356,5 +1356,35 @@
         "publishedAt": "2026-11-04T07:17:33.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-11T20:03:09.971Z",
+    "source": "daily",
+    "headline": "New CEO in place; India bottler pursuing independence via IPO — monitor leadership priorities and bottler data autonomy implications",
+    "signals": [
+      {
+        "category": "CEO Transition",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": 0,
+        "summary": "Henrique Braun is CEO of The Coca-Cola Company. New leadership typically reviews vendor relationships and strategic priorities.",
+        "suggestedAction": "Schedule a courtesy call with the Chief Strategy or Chief Data Officer to understand Braun's strategic priorities and ensure Account Intelligence remains aligned with refreshed corporate objectives. Position as a partner in their digital/data transformation agenda.",
+        "sourceName": "McKinsey & Company",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHlzOVVVa2xnSkpnSW9meUlvSUg0U2xGOF93dDBSME1TWl9yR1l4aDctZjV6cl9zQnQ2ejZ6WExrY043czhJVlpPb2FocjlsRklCSjRIUUp4X25JdExGY2VQQ2pPbnlHTElVTDdJdUtTV2doelhxSnJJX18xSUhUeFZEWjQyYVFMU01DUFBMTVA1ZlI4QUt4REU4T01mTFpZRUZKY0F4QWlDRGZnaVI2THZVSGY3bEJiVTNPMFY1bGNxQWNPck5EZWZtazhUWl9JMUFKU0k5TDk?oc=5",
+        "publishedAt": "2026-11-10T00:00:00.000Z"
+      },
+      {
+        "category": "Bottler Spin-off / Data Autonomy",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Hindustan Coca-Cola (Coca-Cola's India bottler) filing for IPO signals potential spin-off and operational independence. Spin-offs often require new data architectures and independent analytics platforms for the separating entity.",
+        "suggestedAction": "Proactively reach out to Coca-Cola's VP of Bottler Relations and IT to understand data separation requirements for the HCC IPO. Offer Data Integrations and platform support for the separation; clarify whether HCC will remain on a shared platform or require independent instance, and discuss transition planning.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVmZ1Z5a2JtX2N0cndmT0dZV1ZVXzZwWlZPQTRQczlJeUQ4aldhdXdmZngzWVhJby1TQmlHZEFSZzFfR0pZbGE4aFVwVE5ZRW42R2tqVWNWc0JRYlktdVN0c29WX3dnakctZTZSUFRJRGswcXNrV1MwdHZQblhjdENjY2o0R0JULVlrRnM4NkZyUHNJVldqVy1jbTBNSTFIdXJTcA?oc=5",
+        "publishedAt": "2026-11-07T10:05:57.000Z"
+      }
+    ]
   }
 ]

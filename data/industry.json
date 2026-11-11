@@ -1,5 +1,264 @@
 [
   {
+    "id": "MGJuSXhPWE5WY1U5ej9vYz01",
+    "title": "PLMA reports record store brand unit share in 2026",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3JTNnFCbTF1ZFFuZ3FtZFZ3OTBSdDVxa09mVUx0Sk9BU1duVi03SWVIN3IzaUVBZmZiZnRpUm4yenRqVVo2QUY1aUR6Ny1LM3oyRVlCdXJBc05GR0w2SGtncEVpdDFya1ItaU1JcFQ3emx2dUl2TGY3ZFlYQ0hjTnF0bnIxOXNVcU9z?oc=5",
+    "sourceName": "Mass Market Retailers",
+    "publishedAt": "2026-11-11T19:28:46.000Z",
+    "analyzedAt": "2026-11-11T20:03:53.708Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "PLMA reports that private-label/store-brand unit share hit a record high in 2026, intensifying competition for national brands.",
+    "angle": "Private-label growth is accelerating and eroding share for CPG brands; analytics and market-share forecasting become critical for customers tracking category dynamics and pricing power.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aSVFtcEdTWFpsUlVFP29jPTU",
+    "title": "Proposed SNAP rule changes raise concerns for Nevada families and grocery stores",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTnVWUTVXR1lORC05OHFnNjY3dXRmSml1UVhrbDU2S04wb3BOM3dCLWdlYVd4SHVHOWtCVzR1Y0Q1ZUs4SUhib2tSLU5NcTFYRk9CdFVPS2kyalUyY3RaQjQ2YmdsTE10MzFIUkdJLXJ0Zkw4VXBJaUlhMjFHdU1sMHJYS1kxUDQxRUo1VTdCai11cTdzZDJfd2w3ZHN1eTNTeWQ3NlpsYXFMUWRLb3k3bUZFdXlMb0p1bHZBNHR1Z0pnVG5LTVNCd3VYNkRySzhrQmRxaDhmYmhsOF9tUzg0Ykl1WWFUdnV0TElmTFZIQmpGSXZlRUE?oc=5",
+    "sourceName": "KTVN",
+    "publishedAt": "2026-11-11T18:42:00.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Proposed SNAP rule changes raise concerns for grocery stores and low-income families. Regulatory changes affecting customer benefit programs and grocery demand.",
+    "angle": "SNAP rule changes directly impact customer demand patterns, inventory mix, and promotions at grocers. Analytics and platform insights help retailers model demand scenarios and optimize pricing and promotional strategies under different regulatory regimes.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tbWVyZ2VyLVVLLzg3NDM2MS8",
+    "title": "McCormick and Unilever’s $45B food merger hits antitrust snag in UK",
+    "link": "https://www.fooddive.com/news/mccormick-unilever-antitrust-review-merger-UK/874361/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-11T16:00:00.000Z",
+    "analyzedAt": "2026-11-11T20:03:48.695Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "McCormick and Unilever's $45B food merger faces UK antitrust scrutiny; regulators ruled the tie-up could harm competition and are requiring remedies or an in-depth investigation.",
+    "angle": "Major CPG M&A under regulatory pressure creates uncertainty around product portfolios and customer relationships; Unilever and McCormick customers may need to consolidate data platforms or integrate new business units.",
+    "play": "integrations",
+    "products": [
+      "platform",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cGVybWFya2V0cy84NzQzNDIv",
+    "title": "Albertsons names new CFO",
+    "link": "https://www.grocerydive.com/news/albertsons-cfo-andrew-murray-grocery-supermarkets/874342/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-11T15:59:00.000Z",
+    "analyzedAt": "2026-11-11T20:03:48.695Z",
+    "updateType": "leadership",
+    "relevance": 1,
+    "summary": "Albertsons appoints Andrew Murray, CFO of New Zealand dairy exporter Fonterra, as its new chief financial officer, effective January 2027.",
+    "angle": "Albertsons' CFO transition signals potential focus on operational efficiency and cost management; worth monitoring for strategic changes that may affect their data and analytics priorities.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tZWNvbW1lcmNlLzg3NDMxOC8",
+    "title": "DoorDash-Instacart combination shines a spotlight on e-commerce pricing",
+    "link": "https://www.grocerydive.com/news/doordash-instacart-merger-pricing-grocery-ecommerce/874318/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-11T15:30:00.000Z",
+    "analyzedAt": "2026-11-11T20:03:48.695Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "The proposed DoorDash-Instacart combination highlights industry focus on making e-commerce grocery economically viable for retailers through better pricing and operational efficiency.",
+    "angle": "E-commerce economics and fulfillment efficiency are top-of-mind for grocers; Account Intelligence customers need pricing analytics and automation to compete on margins across channels.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "yWkZsdGRFMVJjVU13P29jPTU",
+    "title": "Farmers Union report links high grocery prices to corporate consolidation",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmt0c3M0dVBOUDhDakoxeFNjQkt0NXcyOFozRldvRlhVcHJFb2UxWjR1ZUhXSlNta3plcGNUZlNTUm50OEhrOUxTTTUxeTNpQU9RajVaY2U4ZXhOT2tYMDdtaHZXcnhzNFdDYWZtcnRGU3BvSldKUWV1RENtRGxiRWtJV3JrQWlIWk11ZUxsaUo4YmxmY3pHdk1xSGtPZEdjQmF2ZFltdE1RcUMw?oc=5",
+    "sourceName": "Agweek",
+    "publishedAt": "2026-11-11T15:29:31.000Z",
+    "analyzedAt": "2026-11-11T20:03:53.708Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "A Farmers Union report attributes elevated grocery prices to corporate consolidation in the retail sector, adding data to ongoing consolidation narratives.",
+    "angle": "Grocery and mass-market retailers face continued scrutiny over pricing tied to M&A; customers managing pricing analytics and competitive positioning will want to address this narrative proactively.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "eGRYaG5aVFZwTlhoVD9vYz01",
+    "title": "Costco class action lawsuit claims retailer overcharged customers for tariff costs",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdUJmMTFnR29SeFIzV0FMNEEzeEt1MTQwb3NFVElvNUF6NXo4bzFla1NoemRWSERJMk5KWWZuUDFBeXBRdTUxLS10Z0pzYkExWERhbUJXREl4MmNPb09PdGQxYTJWVnBDczFuQmtEbHczZ1J0cWliZ1V5clFRRVdqS18yTjVzYjlsVl9hMHh5UEJubmk2dmdxakt4amlzNHpEYkM5NG12QTJHS09wX0I1RUlYVnR6WUpSUVl1dnpfTWZEOEVkR1liZDN6Q21pUTJ2STdxdXhnZTVpNXhT?oc=5",
+    "sourceName": "Top Class Actions",
+    "publishedAt": "2026-11-11T15:17:44.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "legal",
+    "relevance": 2,
+    "summary": "Costco faces a class action lawsuit alleging the retailer overcharged customers by passing through tariff costs beyond what was actually incurred. The lawsuit highlights tariff cost transparency and pricing accuracy concerns.",
+    "angle": "Retailers like Costco need to validate tariff pass-through pricing and margin assumptions; Account Intelligence's platform and analytics help track actual tariff costs versus retail pricing to ensure compliance and customer trust.",
+    "play": "analytics",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Costco"
+    ]
+  },
+  {
+    "id": "GZG5ZVVp3YXpZME9BP29jPTU",
+    "title": "Consumers are turning to cheaper brands like it's 2021 as inflation pinches",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWhlQktuZU9LMG42NVVRMVU1LTd4eHpzNS1kZno2VTlnSWJ0QXBoMnY0MFAydDg5OEpGSWlIVUpzcTRNMGRoWnVkRkZPRVBnZjZJUFFsbnd1QzZfRnRRdUVtTkZDaUNvU19adUdoSmhQOHQ2QVR0Y25PaXcyQWJqeVU3a21ZYkRqSzB4c09VRFVYODl0N1Vta2E2aThLVnJYTWRvNTVKVjhyTG9BRW5nUGJtb3FhNHJnZ01GYVc0M0hIRFdnYUZwazY0OA?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-11T11:00:00.000Z",
+    "analyzedAt": "2026-11-11T20:04:15.465Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Consumers are shifting back to cheaper brands and private label as inflation pressures persist, mimicking behavior seen in 2021.",
+    "angle": "CPG manufacturers and retailers face margin pressure and share loss to private label; analytics and pricing insights are critical to compete and protect category share.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xtTjFsaVRtaElRMjg_b2M9NQ",
+    "title": "Supply chain disruption remains standout threat to consumer and retail growth as CEOs sharpen AI execution",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ0RzN3M1bndXZXRxeXRaVzlfVFpXbU9rNWxLWXF3MTVHS3M1dVZWeUpBQlZPY09Xai1TVWNxU3ZRUkt1RjAtX3B0aFBGUlZFemhDMDFaeFQtMVl0YkZzT3A1eUZ5RFFhdzVlZnMzc2tnOXVGUGJxd0tPalJWU294MWl2T2hsbmFRa1U0TmlPaUV0Yjg1MnBCc2JHSzdMMDU4WG5CUWpacVdscF9jblN0X0ZUQ09uRXEzUmdaUThwMDRNSW5VZzlmN1liTmhIQ28?oc=5",
+    "sourceName": "KPMG International",
+    "publishedAt": "2026-11-11T09:03:02.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "KPMG survey indicates supply chain disruption remains the top operational threat to consumer and retail growth, with CEOs simultaneously prioritizing AI adoption and operational resilience. Real-time visibility and automation are becoming table stakes.",
+    "angle": "CPG and retail leaders recognize supply chain risk but many lack real-time visibility; Account Intelligence's platform, automation, and data integrations enable supply chain command centers and incident response playbooks.",
+    "play": "automation",
+    "products": [
+      "platform",
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dWc2R6UktNREpvVFE_b2M9NQ",
+    "title": "Millions could lose SNAP under Trump proposal. Houston food banks say the need is already growing",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYmIxSGpGSFVodHFkdUREUlIweXVaTDF4dTZ0cE5DY0lMZGVZaGtJbWlYdWtHRERIenBFRFN0eHFDOW5kTzlySThzWm1HM25ZeExORGhwZnR5ajAzUm5ZbnNNQ0U4SGZDNTRuallnZEV3TG82cmZNVWJVcGhJMl90cEMzdkJ2anJLdGtkMkNRcmZnb2t0bzI3YVRhbDI5REI3MmhCZ1lOTXFXQUZERUlDZW9idUg2TUpWV0s1OEZ3NXNVQTJMaWo4S3VYQnphRm12cm8takhWUjQ3RGVsdzRKMDJoTQ?oc=5",
+    "sourceName": "Click2Houston",
+    "publishedAt": "2026-11-11T02:40:04.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Trump proposal could reduce SNAP enrollment by millions, impacting demand at grocery stores and CPG manufacturers. Significant regulatory and market-demand risk for food retailers and consumer-goods companies.",
+    "angle": "Major SNAP enrollment cuts would reshape demand patterns and customer mix at grocers and CPG customers. Advanced analytics for demand forecasting and market-share modeling are critical for strategic planning under this regulatory uncertainty.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WVlucElaRXBoWVc1Qz9vYz01",
+    "title": "Which Foods Are Most Vulnerable to Import Tariffs?",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa19OWGxMYVM5eUtLdXd6SU8xOXpTRVYtWUczWXBONFFLb3dtWmZRVEJjSTdDZTJDV24tZGhVU3FmTnpDSTZ2TUlrX1lDbkRaWGhPa0VERjhWX3NBOFBNT0lEMkdtaFJ5M2pLaVRBbXRBdkpHVnozOG1haVY4dWx4Z1g0d0MxNFlaRkNDMlBFOXUxc29aU2xrOS1sRjNCZEF5ekdSZXlNTGE3UnZaVF9tZ3RhemFCMmNDa0txeHhfUUdkRnlxekV6N0V6ZVBjRFV6UWdYYnpIZEphYW5C?oc=5",
+    "sourceName": "WyomingNews.com",
+    "publishedAt": "2026-11-10T22:50:40.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Analysis of which food and beverage categories are most vulnerable to import tariffs, including CPG staples like beverages, dairy, and processed foods. Tariff impact varies significantly by product type and sourcing geography.",
+    "angle": "CPG and retail customers need to assess tariff exposure by category, supplier, and geography; Account Intelligence's analytics enable scenario modeling and pricing optimization to mitigate tariff margin erosion.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5aR1p4U0RGVGFqbGo_b2M9NQ",
+    "title": "Strike at grocery supplier continues in Pembroke, as stores report empty shelves",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVUQmptczJveWt6NW5QZ0oyd0RTMWdWRkQzWFdjSFZsdzFaRHBpQ01NSlVBeXBsQ1RIUTh2YVhHQXJXNnJIZjE3a1o2a2Y5Ri0tLTVyNTdqRmZzeTNacVQwb01LdkZmaUlqYUN6a0xPQnduSmZid1VFRzZ0VEcwZTJ6d3BxNVRLUVBlT3lvcnlmTjd4UzZVN3pkQUh0cWk2UDZQdzZOcDJRaVBrRHpqTlhNZGZxSDFTajlj?oc=5",
+    "sourceName": "New Hampshire Public Radio",
+    "publishedAt": "2026-11-10T21:40:00.000Z",
+    "analyzedAt": "2026-11-11T20:04:15.465Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A strike at a grocery supplier in Pembroke, New Hampshire is causing empty shelves and disrupting supply to stores.",
+    "angle": "Supply chain disruptions and labor strikes directly impact inventory visibility and distribution planning; automation workflows help route alerts and contingency playbooks to merchandising and supply-chain teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cy1zbmFja2luZy84NzQyOTQv",
+    "title": "Ferrara to shutter Chicago plant, lay off more than 150 workers",
+    "link": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-10T20:54:00.000Z",
+    "analyzedAt": "2026-11-11T20:03:53.708Z",
+    "updateType": "restructuring",
+    "relevance": 1,
+    "summary": "Ferrara, a major confectionery manufacturer, is closing its Chicago plant and laying off 150+ workers in April 2027 as it reassesses market conditions and innovation strategy.",
+    "angle": "CPG manufacturing consolidation and capacity rationalization is ongoing; relevant context for customers managing supplier and competitive landscape shifts.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1wR05VRnRWRlZmVFE_b2M9NQ",
+    "title": "US consumer prices rise briskly for third straight month",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+    "sourceName": "Reuters",
+    "publishedAt": "2026-11-10T20:38:52.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "U.S. consumer prices rose sharply for the third consecutive month, driven by tariffs, energy costs, and supply chain pressures. Inflation remains sticky across retail and CPG categories.",
+    "angle": "Inflation persistence creates ongoing pricing and margin pressure for retailers and CPG manufacturers; Account Intelligence's analytics help model price elasticity and demand shifts as inflation ripples through consumer demand.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "oTWs1TWVETnVhM0prP29jPTU",
+    "title": "FMI warns energy costs are fueling grocery inflation",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0NwZ2VJNDlTTXEzUVpRbE5Yb2c3OG5VZ00zT0I5dEpoa2FTbVRwekpYYktPSndPeVJidkwyYm9QU0FzM0huWGt0TUppS0VvQU8wM3h2dDBoa04yelFwb0VPem1xT3NoMmdGQ0tLYTdEQlBhc25XRlE0SkhFT1NhMk5MeDNua3Jk?oc=5",
+    "sourceName": "Chain Drug Review",
+    "publishedAt": "2026-11-10T17:06:16.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "FMI (Food Marketing Institute) warns that rising energy costs are a major driver of inflation in the grocery sector, outpacing other commodity pressures. Energy cost volatility is now a key focus for retailer margin management.",
+    "angle": "Grocers and big-box retailers need to isolate energy-driven inflation from other cost pressures and adjust pricing strategy accordingly; Account Intelligence's analytics help segment margin drivers by cost category.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "rTTNOa1JtU2xjeU1BP29jPTU",
     "title": "France says an Iranian IRGC cyber unit sabotaged refrigeration systems at 700 sites, destroying food inventories",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHl3UXN3RG1FaXJ3eWZ2SEh6dlFYdm1VcDJ0N1p6ZFo5OUJMMmxIRUVYZWtvc3VUaGtnTGE3VnQ4aDhPWHdxTnlkVjVUSnpfYlpfWGVzUVF0X1EwUU9kM3hiOUVrYndFZlMtTFh4ZUg3OG9IdGZpNGNiVkM3NkRmSlcyMA?oc=5",
@@ -187,6 +446,42 @@
     "angle": "Customers managing tariff recovery and cost pass-through need updated demand and pricing analytics to model refund impact on margins and competitiveness.",
     "play": "analytics",
     "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cVZraG9OR2R4WlU1Rj9vYz01",
+    "title": "Consumer goods companies rethink supply chain for a volatile trade era",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMm5fU25vSmZJalQtLVB1bnZEN3ZvMEg0NkNyWFlNc1VXTXFMNVJqNWpaN0V6WW1MTHNjSjgyUnRIUTd0QVhHTGNPeWNFN1RkUHlDUnBvN1E0U1NCMlpKejFyMHUxWXFja2lrV1lxelRxanU4SFdzdWt2TzRROTlySnIzRW13TlBjTFFmVHJVYnRzX1dsNzd1Tk1rbUxCVnJtR3JfRnFqVkhoNGdxZU5F?oc=5",
+    "sourceName": "RSM US LLP",
+    "publishedAt": "2026-11-10T06:32:47.000Z",
+    "analyzedAt": "2026-11-11T20:04:03.378Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Consumer goods companies are reshaping supply chains in response to volatile trade conditions and tariff uncertainty. Strategic sourcing and network redesign are top priorities for CPG manufacturers.",
+    "angle": "CPG customers need to model tariff scenarios and track cost impacts across supply chains and product portfolios; Account Intelligence's analytics and automation help quantify tariff exposure and alert merchandising/supply teams to margin pressure.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hZNFNtbGFkRlpYVHc_b2M9NQ",
+    "title": "Major Meat Recall Hits the U.S.: More Than 167,000 Pounds Recalled",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGxZOVhTZkRiaU9hZzdIOEpmdFJ5MzRHZVdYN2Q5ei1iN1M2T3h6OVZXeS1ib25VbkJROU5iZXJ1MHZGcDJ0Z1N6dG9SOFg4ejFzSTBrYnVzUW0tMXpMX0hUeEFaUllORkl3MWNqME5sZkhuQUFWYXY4SmladFZXTw?oc=5",
+    "sourceName": "https://docksiderestaurant.com.au/",
+    "publishedAt": "2026-11-10T04:11:25.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Major meat recall in the U.S. involving over 167,000 pounds of product. Significant supply chain disruption affecting meat suppliers, CPG companies, and grocers.",
+    "angle": "Meat suppliers, CPG manufacturers, and grocery retailers need visibility into recall scope, affected SKUs, and inventory impact. Automation and analytics help orchestrate response across procurement, operations, and customer-facing teams.",
+    "play": "automation",
+    "products": [
+      "automation",
       "analytics"
     ],
     "mentionedAccounts": []
@@ -535,6 +830,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "GaFJuWnhUelpXYUZFP29jPTU",
+    "title": "Former Ebay 'Queen' Whitman Is On A Mission To Elevate Albertsons' Performance 10/14/2026",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDhIWTdTbnIta3V6LThVeWQ2ZmpRWTc0OG5RRTJydVRuNXZheTJkakU4WFFESno5Z1daSW9aSzhiVzdXMnYxb3FJbTFPSXB4eGw1LVc3enpkbFE4cWpES1VLTW13aS12YUFpWkpHUE9kQUNQY2dPVUpCRGpCX3NqRkxNTFFMTTlmQkJtOGJRaVM1eDZDNGVBTGtLZG5Vak9XTnhIcGgxT1ctWUxCcjFhRnZxTzZWaFE?oc=5",
+    "sourceName": "MediaPost",
+    "publishedAt": "2026-11-08T16:34:49.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "leadership",
+    "relevance": 2,
+    "summary": "Meg Whitman (former eBay CEO) has joined Albertsons as leadership to improve performance. Major leadership change at a significant grocer signaling operational and strategic shifts.",
+    "angle": "Leadership changes often trigger operational reviews, system audits, and new strategic priorities. This is a proactive outreach opportunity to support Albertsons' transformation and identify expansion opportunities around platform consolidation and analytics.",
+    "play": "retention",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "FMXdWVlpYTjNsTFp3P29jPTU",
     "title": "Recall on Zapp's and Dirty Brand potato chips assigned FDA's highest risk level - ABC News",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNzR0RGRFAyQWZGWGFmWDJlT3JTRkhCT0ZpbFRBMl9iUlZfRl9BOEVVSHhZeGhSUmo5Ym5SbHFSQ1hVaHEwWlBYRUJReDNXZXlTei1GZHNHb0dDQmtNMUxlYlREd09IRHFQUFF6X216R2thQUJIdFVUQWt3dFpQa2ZBSjV0aVlJeXZpQmJfd2lSSWhPZFh5RE81M2l5Sl9pLWJKUtIBqgFBVV95cUxPTjdNaVdLSTZzdEQ2S3NsV3kyUUFiMzBtWnFMejgtWmlRa2RmRzVBT0dQSXVpVXJHc1NrRERpMHlGNTI4MUF6cHFmWWxScXNJY1ctc2JhdXgyX0lqNnU1bDdzQ1ByQ0FwZnRteHF4VTRnMm5SZk5weEtrNWVMRndHeHdaRzZ1Ykk5by16YjhhcVFTQW5EVmtCNGhMb1c2Z2YzZE1wVVZXN3lLZw?oc=5",
@@ -745,6 +1058,23 @@
     ]
   },
   {
+    "id": "NVFUQk9RekF4ZDBaUj9vYz01",
+    "title": "Ice Cream Recall Gets FDA’s Highest Risk Level Over Listeria Concerns",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVTRHUkQ2MERSQ3FsanhqQXNrbkFaQ2l4Sk9rNlJlN0F3S1FZcURONmo0QjNlZ1BUd2N1Vy05RFRoVE5hLUtXbmpEZjEwajc2U25fUHBDdENtMldLSUlweUVIaVBmTDhDZDRDZUNuT0w5QTBOQzAxd0ZR?oc=5",
+    "sourceName": "The Healthy @Reader's Digest",
+    "publishedAt": "2026-11-06T02:37:55.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "High-risk FDA recall of ice cream products due to Listeria contamination. Food safety incident affecting ice cream manufacturers and retailers.",
+    "angle": "Customers in CPG and retail need to track and respond to recalls quickly. Workflow automation tools can route recall alerts and coordinate response actions across supply chain and merchandising teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "5saW5lLW9yZGVyaW5nLWFuZA",
     "title": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
     "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and",
@@ -940,6 +1270,26 @@
       "automation"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "lWVlJNYzNOcFYzbEI_b2M9NQ",
+    "title": "How AI shopping agents are changing advertising for Amazon and Walmart",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFEzZlc1N0plcDA5Z09GLWFxQkZCOXJIQldUOXQ0QzVPZWQ0N0R1TlRWT2prWnhlcEhyU2lPWHdfNnBaOGlCQnRHTXhpMExtdWdTZTRrbk1kM2lXak5SdW1WUVVnTUxRaE5xNExzQnVhcWZHb295NGwyVDRLYXNhbnRNc1RyVVRMc3NpV3lB?oc=5",
+    "sourceName": "Marketing Tech News",
+    "publishedAt": "2026-11-05T10:20:56.000Z",
+    "analyzedAt": "2026-11-11T20:04:12.113Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "AI shopping agents are being deployed by Amazon and Walmart to change advertising strategy and personalization. Retail media and AI adoption accelerating at major retailers.",
+    "angle": "Large retailers are embedding AI into shopper experiences and ad platforms. CPG and retail customers need advanced analytics and integrations to compete in this AI-driven retail media environment.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
   },
   {
     "id": "YSjFYMUJNT0hCcFp3P29jPTU",

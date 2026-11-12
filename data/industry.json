@@ -1,5 +1,234 @@
 [
   {
+    "id": "lLWNobG9yaWRlLzg3NDU0Mi8",
+    "title": "FDA revokes authorization of some chemicals used in food dye production",
+    "link": "https://www.fooddive.com/news/fda-revoke-food-dye-chemicals-methylene-chloride/874542/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-12T19:08:00.000Z",
+    "analyzedAt": "2026-11-12T20:41:55.064Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FDA revokes authorization of three solvents used in food dye production, though consumer groups warn loopholes may remain. This impacts ingredient sourcing and product formulation across CPG.",
+    "angle": "Food-dye regulation changes force CPG manufacturers to reformulate and track ingredient compliance. Your platform and integrations help customers monitor regulatory changes and manage supply-chain impact across SKUs and regions.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "YwUWpWdmRrZFFPVkU_b2M9NQ",
+    "title": "More could lose SNAP benefits under proposed rule",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTFyNklsZGdvbDlseXU3eWx0R19yM01xZnJ5alVReVlHeTR2Y1JVeGdON1hiVjVDUkdZTURrZFFrd1hJQmJ1TjdGNHRGamtOT1RBTXpLOF9ESWxqajZPUkFBMkdrZHZUNjc2cmh5YWZIX25LZDVsWTdMRmE3Q3gwUXpXMk80RVl5VUotSEVTMlByUUx5anFMXzF0QjVvdkdQOVE?oc=5",
+    "sourceName": "Supermarket News",
+    "publishedAt": "2026-11-12T19:03:41.000Z",
+    "analyzedAt": "2026-11-12T20:42:12.291Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A proposed rule could further reduce SNAP benefit eligibility, impacting demand in value-oriented categories. Supermarket News reports potential policy shifts.",
+    "angle": "Proposed SNAP reductions create demand forecasting urgency for grocers and CPG brands relying on value-segment sales; Account Intelligence's analytics can model impact on category performance and private-label mix shifts.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "FNVRtOUNWM1ZhTUVVP29jPTU",
+    "title": "Private label sets new record in unit share",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUM1UW9OYlRsUjNQcVRyeXJSbGZOMTNGczlvZ0puX1hubW5wTUIzbHVfQ0FsY01UNGRZZk8tMGpuM0ZOSnR2R01oQy1Hb0NxLU9pTWliVjZMNkVOMURnc2JSR0s1WUtqVWJYbXJSUzNsbnVTWVZKOG9nRzFwRF9KS05wcUo0R083ZWE5Tm9CV3VaMEU?oc=5",
+    "sourceName": "Supermarket News",
+    "publishedAt": "2026-11-12T18:31:30.000Z",
+    "analyzedAt": "2026-11-12T20:42:00.284Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Private label has reached a new record in unit share, signaling continued erosion of branded CPG market share in a challenging consumer environment.",
+    "angle": "Retailers and CPG manufacturers need deeper category and pricing analytics to respond to private-label pressure. This is a key driver for analytics expansion and share-of-wallet analysis at retail and CPG accounts.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "b2JzLWxvc3Nlcy84NzQ1MDQv",
+    "title": "Conagra Brands to close Missouri ingredients plant",
+    "link": "https://www.fooddive.com/news/conagra-brands-closing-missouri-plant-jobs-losses/874504/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-12T18:00:00.000Z",
+    "analyzedAt": "2026-11-12T20:41:55.064Z",
+    "updateType": "restructuring",
+    "relevance": 1,
+    "summary": "Conagra Brands is closing a Missouri ingredients plant with 442 workers, transferring production to Arkansas locations.",
+    "angle": "Supply-chain consolidation and restructuring at a major CPG supplier affects cost, capacity, and fulfillment timelines for customers who depend on Conagra ingredients. Worth monitoring for broader supply-chain visibility.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZXMtemlwbGluZS84NzQzNzgv",
+    "title": "Walmart more than doubles planned drone delivery sites",
+    "link": "https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-12T16:46:00.000Z",
+    "analyzedAt": "2026-11-12T20:41:55.064Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Walmart is more than doubling planned drone delivery sites with operator Zipline, expanding rapid air delivery nationwide over the next several years.",
+    "angle": "Walmart's drone expansion signals a major shift in fulfillment and distribution network capability. Your platform needs to track this new logistics channel for inventory, fulfillment speed, and supply-chain data integration.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "xpZ2liaWxpdHkvODc0NDU5Lw",
+    "title": "USDA looks to tighten SNAP eligibility",
+    "link": "https://www.grocerydive.com/news/usda-proposed-changes-snap-eligibility/874459/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-12T16:31:00.000Z",
+    "analyzedAt": "2026-11-12T20:41:55.064Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA is moving to tighten SNAP eligibility, potentially cutting more than 6 million people from the food assistance program. This directly affects CPG and retail demand forecasting.",
+    "angle": "SNAP changes reshape consumer demand and affordability for your CPG and retail customers. This is a critical input for demand forecasting, pricing strategy, and category performance modeling.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pXbU5QZWtsRlNrOUY_b2M9NQ",
+    "title": "Walmex Accelerates Omnichannel to Capture E-Commerce Market",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOE1zRy02dzk1aHM0bDd2eGdmUjB5WmZlZXJOS3loYkNlZDRreHQ3T29qRzhoOHNrT0VnYm5ILUIzZV9qNWJGb0RoUDRpSnBBdUxjTDFEU1F4UE4xMTM1ZTM1V0hxRVN0aW15NF9EVjJFbXZoejRDN3ZzNG5tazRxZkM1VDEtQVZjQ3hGZkZHQ0FZSUs4OUdJWmNPeklFSk9F?oc=5",
+    "sourceName": "Mexico Business News",
+    "publishedAt": "2026-11-12T16:06:16.000Z",
+    "analyzedAt": "2026-11-12T20:42:12.291Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Walmex is accelerating its omnichannel strategy to capture more e-commerce market share in Mexico. Walmart's international expansion signals investment in unified retail operations.",
+    "angle": "Walmart's omnichannel push requires tighter integration of POS, e-commerce, and supply-chain data—a core use case for Account Intelligence's integrations and platform to unify disparate data sources across channels.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NzZWQtZm9vZHMvODc0NTEwLw",
+    "title": "TikTok and YouTube fuel rise in junk food advertising to kids",
+    "link": "https://www.fooddive.com/news/kids-junk-food-advertising-study-ultraprocessed-foods/874510/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-12T16:02:00.000Z",
+    "analyzedAt": "2026-11-12T20:42:00.284Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A new JAMA Pediatrics study examines youth exposure to food marketing across digital platforms like TikTok and YouTube, documenting increased junk food advertising to children.",
+    "angle": "CPG manufacturers face renewed scrutiny on digital marketing practices and child-targeted ads. This regulatory and brand-risk signal warrants proactive engagement with food and beverage customers on compliance tracking and marketing compliance analytics.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "rNU9SMFEzYlhob1VnP29jPTU",
+    "title": "AI agents cut Amazon ad analysis from weeks to hours—what changed for media buyers",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVRPZmJBZ0JfM0RkZ25mcFdTeW1CTGpGUDRQOHpmSWUwa0ZvNjV3eHFWMlhPOVVwenpTLVFQYXJCOC1jQUFNa1JKMWZxenJLd3Z5TDN0blJOeGVvLWlLLUJwcndyQlF5alFqZEV3OXJTdDZZOHMzbk5pdm10U1ItTHJ2Mk5OR0Q3bXhoUg?oc=5",
+    "sourceName": "Ad Age",
+    "publishedAt": "2026-11-12T10:00:00.000Z",
+    "analyzedAt": "2026-11-12T20:42:12.291Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "AI agents are accelerating Amazon ad analysis from weeks to hours, improving speed for media buyers. This reflects broader AI adoption in retail media operations.",
+    "angle": "For CPG brands and retailers using Account Intelligence analytics, this signals competitive pressure around retail media performance—customers need faster, AI-driven insights into ad ROI and inventory trends to keep pace with Amazon's capabilities.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pLU1hSd1RHeEhRMGs_b2M9NQ",
+    "title": "Whipped cream sold at Costco recalled in a dozen states ahead of Thanksgiving",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkRVQ284bjFkYnpDaXhUZ3ZzUzgxRTFwX3hLVnhHTW9JcHA2RzB5cE9tUFlfWDBSM3pEN0xOODQ5Y3hvZ3pfMzJRNmlYamdFdUNNU1RFU01keWgxdHBHaDd5X0l0RkFmdFBTbnZfWF92b1dROTdTSG9qR1NlVGJOa1VZUmRvMHVWeUZXYXRIWGxwNHcyWVFjOVdFakVSZEnSAbMBQVVfeXFMTXRwcU1Ea1BVYk40Mk5BRnVBdk4tVTJIQXhFMmc2aHdnSURsanIwTXRpTjNYbjVZdHJFdXJnYnl1MjJiUXdtN2w3aFUxcjFOSVJLZlJwZkxUc01Fc3J3ekE5Y0dKd21peU1KbEdSZW5qY0V6a0YycW1ZUFlXQXhuWjMzX1REODhvaHYxSW1pQy14ZGRhLXJGMzRhdnAyN0pIMzQ0Z0tYWlJJWVJKSXRwTGxHQ0k?oc=5",
+    "sourceName": "WABI",
+    "publishedAt": "2026-11-12T06:49:00.000Z",
+    "analyzedAt": "2026-11-12T20:42:05.463Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Whipped cream sold at Costco was recalled across a dozen states ahead of Thanksgiving, a high-visibility perishable product recall during peak season.",
+    "angle": "Recall management and supply-chain traceability are critical for retailers managing food safety risk. This Costco recall highlights the need for rapid alerting and cross-functional coordination to protect brand and margin.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Costco"
+    ]
+  },
+  {
+    "id": "BWUE9ISmlWRUpPT0E_b2M9NQ",
+    "title": "Canned & Packaged Food Market To 2035: Premiumization and Private Label Drive Growth - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXdsR0IwbUFNdWp5eVQ2MDk1LThBbExsQkxjTjVuWEc3TkpqYWJoZEhFZXNNR1hWYXROYlZsM3BxMWMwQ3BGZmFKVU1JOFk1ajFfSi15ZG9JdlZ5YUdwandlakFRb0l5TXpJV1J3TFQ2Y2hwMWV2azktRTdaUUg2VTNXdmxScUp1ZFB1Mm8tVTNJaTVUMzRXMndFQ0x4R1p2Q0p4UUs5Ym8zSFV5amdlUjI4NmNLV0VPOHJiVEJOOA?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-11-12T05:11:08.000Z",
+    "analyzedAt": "2026-11-12T20:42:00.284Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Market research forecasts premiumization and private-label growth as dual drivers of the canned and packaged food market through 2035.",
+    "angle": "Validates the market bifurcation between premium and value segments; CPG and retail customers need segmentation and demand analytics to navigate both ends of the spectrum.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dFJGbFRWR052ZUZsMz9vYz01",
+    "title": "New SNAP restrictions take effect November 1",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnBSX1FNOGx2M3JqamFmcFZXZVliSjliVUgzb1B0cHZrWGpwMmtLY2VncWU5czhBYXEzamtfRzFGd3M4cDZjZmM3elZZeG45NjBTT0VWSnlGM0lPX1hYNDhoMHBodl9pVHB5bzltR1htNGlnUjh2cFJHcE9WcXRpdlRGMWtlUdIBmgFBVV95cUxQRGRJakdFRTB6WmtMUldoYW5kWXdNU2wyMUM3OUwxWC1vX1J0Y003djEtZVQxN3JUdTJXdG9YV2ZORlBreEhrNkxZeHR1RXhBNUlmZVl1U2Ric1BiUFNFY19ZX05hQXdjbkpiTzh1andHODBhc18zcmtYVjU5RjYtV1VsSktMZjhYUFh3LUJTSEJtRFlTVGNveFl3?oc=5",
+    "sourceName": "WVIR",
+    "publishedAt": "2026-11-11T20:48:00.000Z",
+    "analyzedAt": "2026-11-12T20:42:12.291Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "New SNAP restrictions took effect November 1, affecting eligibility and benefit levels for low-income consumers. This changes purchasing patterns and demand signals.",
+    "angle": "SNAP policy changes directly impact consumer demand forecasting and category mix for CPG and grocery customers; Account Intelligence's analytics suite can help model demand shifts and pricing strategy in response to reduced purchasing power.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "V4YTJkT2IzRkJWbU0_b2M9NQ",
+    "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
+    "sourceName": "CNBC",
+    "publishedAt": "2026-11-11T20:02:12.000Z",
+    "analyzedAt": "2026-11-12T20:42:05.463Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Canada's ambassador warned that Trump tariffs are driving up costs for U.S. companies and threatening cross-border investment flows.",
+    "angle": "Trade friction and rising tariffs affect sourcing costs and supply-chain strategy for large retailers and CPG manufacturers with North American operations. A key driver of pricing pressure and working-capital planning.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "MGJuSXhPWE5WY1U5ej9vYz01",
     "title": "PLMA reports record store brand unit share in 2026",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3JTNnFCbTF1ZFFuZ3FtZFZ3OTBSdDVxa09mVUx0Sk9BU1duVi03SWVIN3IzaUVBZmZiZnRpUm4yenRqVVo2QUY1aUR6Ny1LM3oyRVlCdXJBc05GR0w2SGtncEVpdDFya1ItaU1JcFQ3emx2dUl2TGY3ZFlYQ0hjTnF0bnIxOXNVcU9z?oc=5",
@@ -427,6 +656,23 @@
     "relevance": 2,
     "summary": "Food producers face a narrowing window to recover rising costs before consumer pushback. Cost recovery and pricing power are under pressure.",
     "angle": "CPG manufacturers need to model pricing elasticity and demand scenarios to optimize when and how much to raise prices before market share loss accelerates.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wVTBZMWw0TmtoQlJnP29jPTU",
+    "title": "Economists Said Tariff Price Effects Would Fade - A New Fed Study Says They Haven’t",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5bmtMWkxaS29EMUxUZTJGX09kYWU5VTFQeERzVUJwVWhyNURPNVRoakdESVBnVFM1azZLVG52QkNuM1luWVlQdzZGVTRKLWtyVnIxek9aU0U0Y1l4NkhBRg?oc=5",
+    "sourceName": "FinanceBuzz",
+    "publishedAt": "2026-11-10T08:00:00.000Z",
+    "analyzedAt": "2026-11-12T20:42:05.463Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "A new Federal Reserve study shows that tariff price effects have not faded as economists predicted, indicating sustained cost pressures on imported goods and inflation.",
+    "angle": "Tariffs remain a persistent cost headwind for CPG and retail companies sourcing imported materials and finished goods. This is critical context for pricing strategy and margin forecasting discussions.",
     "play": "analytics",
     "products": [
       "analytics"

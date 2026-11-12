@@ -1618,5 +1618,24 @@
         "publishedAt": "2026-11-05T21:05:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-12T20:41:18.232Z",
+    "source": "daily",
+    "headline": "Kroger opening new stores in central Ohio; routine expansion activity with modest platform scaling potential",
+    "signals": [
+      {
+        "category": "New store openings",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Kroger has opened its fourth new store in central Ohio since 2024, indicating continued modest organic expansion in a key regional market.",
+        "suggestedAction": "Check whether the new Ohio stores are live on the core platform for store-level operations and supply-chain alerts. If not yet onboarded, offer a brief integration touchpoint to ensure coverage parity with the rest of the banner.",
+        "sourceName": "The Columbus Dispatch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFRHSHFFUVBNT01DNl9CaVFEM0tjWDZVVmRiMi1FbjF6SWZvWDhSaUt2TTVZT1JkOHNLaXlpUmNjcmJlYTJibVU2UWJ6OHhsWWh1S2c3MncwRXBGSmRNTFhIbVNvcjU4d1hMX3hDRmpQdVNQdUNKT1BXTnBsbm93X3ZQdTZESUI5MGlPVVZfZ28ySHVDcjdjWkczZXQyNDBYX21WYUpaeUNVZHVXbTNYcTBsOXFyUElFNl9aREZsWGczTTRjV0dtOHRUa0hQQQ?oc=5",
+        "publishedAt": "2026-11-12T10:02:00.000Z"
+      }
+    ]
   }
 ]

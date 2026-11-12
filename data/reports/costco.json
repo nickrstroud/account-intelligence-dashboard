@@ -1170,5 +1170,35 @@
         "publishedAt": "2026-11-11T16:59:20.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-12T20:41:17.350Z",
+    "source": "daily",
+    "headline": "Costco declares special dividend amid strong shareholder returns; isolated product recall requires operational response",
+    "signals": [
+      {
+        "category": "Special Dividend & Capital Return",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Costco announced a $30 special dividend to shareholders, signaling strong financial health and cash generation. This reflects confidence in earnings and operational performance.",
+        "suggestedAction": "Schedule a brief check-in with the Costco finance or strategy lead to understand if this capital confidence translates to budget availability for analytics expansion in FY2027—specifically, member-cohort and category-performance analytics that could inform merchandising and pricing strategies.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmlOcVI4ZEp0c2tIcG1nTjBhLTRhNG5reW9UMTR3dkhaWFViS2FYUTgyZy05RDNNUElHQ0dsMjZuUVpXX3ZGZGhzSkF3MWlqaWpyWVJZM3BJSkVIcTVEY25ULTZUb0lVWmRSMC1SVmY0cnJmU0lCbkVONEk1ZXBSbXFsVVZuUi15allxR012c0x2MVlOT1k1a1JKNUNfSEgwYVlteHdYbnV0RExPVmJfTklkbmppRWthVHl2SjJOWWZuOFhWMTJfNkpIRWtCbEVEMV9OVzd3?oc=5",
+        "publishedAt": "2026-11-11T20:47:00.000Z"
+      },
+      {
+        "category": "Product Recall (Whipped Cream)",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco initiated a recall on whipped cream products. While isolated, recalls require rapid cross-functional coordination and communication to affected stores and members.",
+        "suggestedAction": "Reach out to their supply chain or quality operations lead (staying supportive, not opportunistic) to understand if they are using platform alerting or workflow automation to route recall notifications. If not, offer to demo Workflow Automation for future quality-alert playbooks to merchandising and compliance teams.",
+        "sourceName": "USA Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXhGUGtZTmk4eVpMeW9Ld0FsSXlkNzZ2RXJqMWlXVGFpVFBRRHB1SmlCZUEwWWRQWkdYV0N3X0xqZ0xGODZFRjNpRmpxZ1RZcHJCdmV4ZzJESjU1UEhZN3pKaXVCUmp6M0tVSk53WkdGV1hIYU5wMHBWWnZVLXcxRDVtOFA3d0EwRzNQN2xmZEVGaDNQOUEwaU92TTdSdzQwdkRLTG1vLUtQcjRoSE1RU25PTS1GY2FMc2JsdF9sMWt3a3hyRHpZUU9jNTU?oc=5",
+        "publishedAt": "2026-11-11T16:14:00.000Z"
+      }
+    ]
   }
 ]

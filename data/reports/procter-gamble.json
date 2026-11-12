@@ -1314,5 +1314,35 @@
         "publishedAt": "2026-11-10T05:17:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-12T20:41:15.974Z",
+    "source": "daily",
+    "headline": "P&G facing regional cost pressures in India; dividend strength and beauty portfolio gains offset mixed operational signals",
+    "signals": [
+      {
+        "category": "Regional margin pressure - India",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G's India Hygiene and Health division reported profit declines due to cost inflation. This regional pressure points to category-level pricing and demand challenges that require deeper visibility.",
+        "suggestedAction": "Reach out to P&G's pricing or category strategy team in India to understand whether they are using the Analytics Suite to model pricing elasticity and demand scenarios in response to cost headwinds. Offer a pricing analysis workbench or category deep-dive if they are not yet running that workflow.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckZvTkthNGE1elA4WlUtU0tmSEtYR20xOHkxaFVQUWZjdkVraEpDVXhPYmFPMHRvLWY2V3BHR1AzSmxLY3l6Q01VRmF5anUwMkZ5UVFRbGNGa0lVU01UZVVqalhkTWNPd1Vsb0dHelVwcGFBNDUxZUl3ckl2X1dsaWpVcHk3blMweVhvejVDZVNLM0otZTdlTGJKQjZTRmRxaENEazVwRzNWYUJhUHNSUFRhMFFYSEpSWG9GVQ?oc=5",
+        "publishedAt": "2026-11-12T09:40:24.000Z"
+      },
+      {
+        "category": "Dividend growth record and financial strength",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G has raised its dividend for 70 consecutive years, signaling strong financial health and capital availability. This reflects underlying earnings stability and budget capacity for software investments.",
+        "suggestedAction": "Highlight P&G's financial strength in renewal conversations; frame expansion of the Analytics Suite (demand forecasting, market-share modeling) as a strategic lever to protect margins and guide capital allocation during cost-inflationary periods like those affecting India operations.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTE2Y1l2U0haMGhLSmxoejRRV1FJcGZsR2tLT2d0QVdCcnpJMFktR3JualpXUExhTGh1V05YOHFxb1VScW9FczNVLW1vLVVDT2tCR044ZHhiT29Hd3Fyc3ZTeWZyemdSWWI0Qm5iUm5kNGJMN1ZXbktFRnItQ3NzRjMzQWpvVm5zem1wSFRCVzJpWkFkT1lxQw?oc=5",
+        "publishedAt": "2026-11-12T07:05:00.000Z"
+      }
+    ]
   }
 ]

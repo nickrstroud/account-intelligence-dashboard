@@ -1468,5 +1468,35 @@
         "publishedAt": "2026-11-03T22:12:54.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-12T20:41:16.250Z",
+    "source": "daily",
+    "headline": "KDP raising $2B equity and planning 2027 spinoff—two distinct business units will require platform separation and new integrations",
+    "signals": [
+      {
+        "category": "Capital raise and debt reduction",
+        "updateType": "earnings",
+        "play": "platform",
+        "score": 1,
+        "summary": "Keurig Dr Pepper announced a $2 billion equity offering to reduce debt ahead of a planned 2027 business split. Capital strength and refinancing activity typically enable budget for technology expansion and modernization.",
+        "suggestedAction": "Contact the CFO or corporate strategy lead to understand the timeline and scope of the planned spinoff. Confirm whether the separated business units will remain on a single Account Intelligence platform instance post-split, or if each will require independent platform deployments and which unit owns the current implementation.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHhrbG02Z2dDUVJ6WnZjQWFTM2xlYXMyWjRERGxSdHJkb1hiR3pLM0x5X05rM1VNN245Snd3dUZWeXg3anZsMGVFSmhIdFBSQ2d3dUVVdlBBXy1ET1lydzNPZExUV2s3RUwxUHUtTVlKUlVBODVHQVpHRGhZeDdQdC1PSHFTNXY2UlR1R3NpV1dkUEo3cktyc0dsU3QxSGZzWE5xdl9zZTlmcDVUTFVlOHdpRUo0T3NXdlhMOU1iMlFMZw?oc=5",
+        "publishedAt": "2026-11-12T18:36:51.000Z"
+      },
+      {
+        "category": "Business split / spinoff",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 2,
+        "summary": "KDP is planning a formal 2027 spinoff into at least two business units. Spinoffs require data separation, new entity onboarding, and reconfiguration of integrations to ERPs and POS systems for the separated operations.",
+        "suggestedAction": "Schedule a discovery call with the business transformation or M&A lead to map which brands, channels, and data sources will move to each post-split entity. Develop an integration roadmap for each new business unit's ERP, retail POS, and third-party data connectors—a key expansion play on Data Integrations.",
+        "sourceName": "BigGo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xYXVmbnNsLUVKaURWRDV6SWQwZkZmcUZ1QkFicm45Sk5yUl9ZN08tcUd3UXlUM0k1WFRBNTF0MEtzNVNhMW1DaFBqaThtZE1FV2xVemI2VzVOYlVpeFRyaXlCcVhfZ2VaQ2paakFieU5CZFN2TUE?oc=5",
+        "publishedAt": "2026-11-12T14:36:00.000Z"
+      }
+    ]
   }
 ]

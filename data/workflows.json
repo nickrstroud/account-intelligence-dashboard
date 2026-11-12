@@ -57713,5 +57713,498 @@
     },
     "doneWhen": "New Workflow Automation rules for food-service supply and staffing alerts are designed, tested, and ready to deploy at store launch.",
     "generatedAt": "2026-11-11T20:03:39.547Z"
+  },
+  "a_1tt81bb": {
+    "signalId": "a_1tt81bb",
+    "account": "Keurig Dr Pepper",
+    "signalTitle": "Capital raise and debt reduction",
+    "play": "onboard_expand",
+    "goal": "Understand the 2027 business split structure and secure platform expansion or new deployments for separated business units.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Corporate Strategy",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm current platform footprint (North American beverage ops, data volumes, user count) and renewal status.",
+          "Research 2027 split structure (public disclosures, equity offering documents) to map anticipated business unit separation.",
+          "Identify CFO, corporate strategy, and ops leads likely to own platform decisions post-split."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief AE and CS Director on split timeline, budget implications, and expansion triggers (integrations, analytics, new deployments).",
+          "Agree: AE leads outreach to Corporate Strategy; CS supports technical scoping and product planning."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-7",
+        "tasks": [
+          "AE sends email to [VP Corporate Strategy] framing platform architecture and separation readiness as part of split planning, not a sales pitch.",
+          "Offer brief 30-min call to map post-split platform needs (shared vs. independent, integrations, data volumes by unit)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Host technical scoping call with [VP Corporate Strategy], [Finance Operations Lead], and [IT/Data Lead] to confirm post-split architecture and identify expansion scope.",
+          "Build 18-month deployment roadmap aligned to split timeline (platform segregation or new deployments, integrations for acquired/separated units, analytics enablement).",
+          "Present expansion scope and pricing to [CFO/Procurement] for budget approval ahead of separation milestone."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log technical scoping outcomes and post-split platform architecture decision in CRM; track renewal + expansion ARR impact.",
+          "Confirm deployment timelines and success metrics (new units onboarded, integrations live, analytics adoption) by separation effective date."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting KDP's 2027 split: platform readiness conversation",
+      "body": "Hi [VP Corporate Strategy],\n\nCongratulations on the capital raise—a strong move as you prepare for the 2027 split. We know separation planning involves hard choices about systems and data. Our platform currently supports your North American ops; we'd like to help you think through how the split affects your Account Intelligence footprint post-separation.\n\nWhether each unit runs independently or shares infrastructure, we can plan migrations, parallel instances, or expanded coverage. A brief conversation with your finance and ops leads would help us map the right path.\n\nAre you open to a quick call in the next two weeks?\n\nBest,\n[Your Name]"
+    },
+    "slack": "KDP announced $2B equity raise and confirmed 2027 business split—capital and strategic clarity create expansion opportunity. Need to confirm post-split platform architecture (shared vs. independent instances) and which units are in scope. AE to lead outreach to Corp Strategy and Finance; CS to support technical scoping. Ask: confirm split timeline, unit structure, and platform requirements by end of year planning window.",
+    "crmTask": {
+      "title": "KDP 2027 Business Split – Platform Architecture & Expansion Scope",
+      "due": "In 3 days",
+      "notes": "Capital raise ($2B equity) and planned 2027 split create budget and urgency for platform planning. Current deployment: Core Platform only (North American beverage). Whitespace: integrations for separated units, analytics for category performance. Key unknown: post-split platform architecture (shared instance vs. independent deployments by unit). Outcome: confirm split structure, identify expansion triggers (new integrations, analytics, additional business units), build 18-month deployment plan aligned to separation timeline."
+    },
+    "doneWhen": "Confirmed post-split platform architecture (shared vs. independent instances), identified which business units are in scope, and scheduled technical scoping session with ops/finance leads.",
+    "generatedAt": "2026-11-12T20:41:31.364Z"
+  },
+  "a_1vzn0v6": {
+    "signalId": "a_1vzn0v6",
+    "account": "Procter & Gamble",
+    "signalTitle": "Regional margin pressure - India",
+    "play": "onboard_expand",
+    "goal": "Introduce Analytics Suite pricing and demand modeling to P&G India's category strategy team to help them respond to regional margin pressure with data-driven pricing decisions.",
+    "owner": "Strategic Account Executive + Regional Sales (India focus)",
+    "contactRole": "Director, Category Strategy or VP Pricing (India Hygiene and Health)",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Confirm India Hygiene and Health division's current Analytics Suite coverage and whether pricing elasticity modeling is active.",
+          "Check renewal date and overall P&G account health; flag if margin pressure is broader than India region.",
+          "Review existing use cases and workflows to identify the right entry point (demand forecasting, elasticity, or promotional ROI)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Regional Sales lead and Product on the India margin headwind and pricing/demand workflow gap.",
+          "Confirm whether this is an Analytics Suite expansion or an opportunity to deepen adoption; decide if CSM or AE leads engagement."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [Director, Category Strategy] with a brief overview of pricing elasticity and demand modeling use cases, anchored to cost inflation and margin recovery in the India market.",
+          "Suggest a 30-min call to walk through one category deep-dive example (e.g., how peers are modeling price-volume tradeoffs in inflationary markets)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "Run a focused pricing analysis workbench session with [Director, Category Strategy] and [VP Pricing] to model 2–3 price scenarios and demand elasticity for a key category in India.",
+          "Propose a phased adoption roadmap: quick win on one category, then rollout across India Hygiene portfolio."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and pricing workbench outcomes in CRM; measure success by whether India team schedules a second follow-up or requests a formal pricing analysis project scope.",
+          "Share regional insights back to Product on pricing elasticity and demand modeling feature gaps in inflationary markets."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Pricing resilience in India's hygiene market: How to model demand in inflationary times",
+      "body": "Hi [Director, Category Strategy],\n\nI saw P&G's India Hygiene and Health division is navigating cost inflation and margin pressure. We're helping peers in similar markets use pricing elasticity and demand modeling to stress-test price strategies before they launch—so they can find the right balance between volume and margin recovery.\n\nIf you're not yet running that workflow in the Analytics Suite, I'd love to show you a quick example from another category-led team who modeled 2–3 price scenarios and locked in pricing confidence in weeks, not months.\n\nWould a 30-min call next week work?\n\nBest,\n[Account Executive Name]"
+    },
+    "slack": "🔴 **P&G India Margin Pressure** – Hygiene and Health division is facing cost inflation and profit decline. *Play: Analytics Suite pricing elasticity expansion*. We have coverage on Core Platform and Analytics, but no active pricing/demand modeling workflow in India yet. AE to reach [Director, Category Strategy] with pricing workbench offer. Goal: 1 category deep-dive, then rollout across India portfolio. **Lead: Regional AE + CSM. Ask: Confirm India team's current usage and pricing roadmap by Day 2.**",
+    "crmTask": {
+      "title": "P&G India – Pricing elasticity & demand modeling expansion (Hygiene & Health)",
+      "due": "In 5 days",
+      "notes": "Regional profit decline in India Hygiene due to cost inflation. Opportunity to expand Analytics Suite into pricing and demand modeling for category strategy team. Proposed entry: pricing analysis workbench for 1 key category, then rollout to India Hygiene portfolio. Check current adoption depth and renewal context. Tie to broader margin recovery narrative."
+    },
+    "doneWhen": "India Hygiene category strategy team schedules and attends a pricing elasticity deep-dive session with 2+ stakeholders from pricing or category planning.",
+    "generatedAt": "2026-11-12T20:41:31.878Z"
+  },
+  "a_c4voh5": {
+    "signalId": "a_c4voh5",
+    "account": "Keurig Dr Pepper",
+    "signalTitle": "Business split / spinoff",
+    "play": "onboard_expand",
+    "goal": "Map data separation and integration requirements for KDP's 2027 spinoff to unlock integrations expansion across both new entities.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Business Transformation or M&A Lead",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm spinoff timeline, brands/channels impacted, and which business units will split.",
+          "Review current platform coverage: which teams, business units, and data connectors are active today.",
+          "Check renewal date and current contract scope to understand leverage for expansion."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Align with Account Executive and Product (Integrations) on expansion scope: which ERP, POS, and third-party connectors will each entity need post-split.",
+          "Brief Support/Ops on data separation risk and timeline to surface any technical blockers early.",
+          "Agree on play lead (likely CS Director or Account Executive) and success criteria."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Send warm outreach to [VP Business Transformation or M&A Lead] referencing the spinoff and offer a discovery call to map data and integration needs.",
+          "Schedule 30-min discovery: understand which data, systems, and users move to each entity and what they'll need from Account Intelligence.",
+          "Position as a partner helping them simplify a complex split, not a renewal risk."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-30",
+        "tasks": [
+          "Co-create a data separation and integration roadmap: which connectors, workflows, and platform configs each new entity will need.",
+          "Develop a proposal for integrations services, platform reconfig, and any new product expansion (e.g., analytics for category or finance teams post-split).",
+          "Align on phasing: pilot integrations for one entity before go-live; full deployment by spinoff close."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log integration roadmap, proposal, and spinoff timeline in CRM; link to renewal.",
+          "Monthly check-ins with [VP Business Transformation] and [Finance/Ops Lead] to track spinoff progress and integration readiness.",
+          "Close on signed integrations expansion deal at least 60 days before spinoff go-live."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Helping KDP's 2027 Spinoff: Data Separation & Integration Roadmap",
+      "body": "Hi [VP Business Transformation or M&A Lead],\n\nCongratulations on the planned spinoff. We're hearing this will be complex—and an opportunity for us to help.\n\nAs you separate brands, channels, and data, you'll need to reconfigure your Account Intelligence platform and integrations across both new entities: new ERP connections, POS systems, and third-party data sources for each business unit.\n\nWe'd love to schedule a brief discovery call to map which data, systems, and teams move where, and build a realistic roadmap so each entity has what it needs from day one.\n\nLet's make this as smooth as possible.\n\nBest,\n[Your Name]"
+    },
+    "slack": "🔔 KDP signal: formal 2027 spinoff into 2+ business units. High-value expansion play on integrations + platform reconfig. AE + CS will lead discovery with [VP Business Transformation] to map data separation and build integration roadmap. Goal: proposal in 30 days, close deal 60 days pre-spinoff. Note renewal date and check for contract terms tied to split.",
+    "crmTask": {
+      "title": "KDP 2027 Spinoff: Data Separation & Integrations Roadmap",
+      "due": "In 7 days",
+      "notes": "KDP planning formal 2027 spinoff into at least 2 business units. Signal: +2 (ma - major account expansion). Key play: map data separation and integration requirements across both new entities. Whitespace: integrations for separated units, analytics for category/finance teams. Discovery call needed with VP Business Transformation to confirm timeline, brands impacted, and which systems move post-split. Link to renewal and check contract scope."
+    },
+    "doneWhen": "Signed integrations expansion proposal covering data separation, platform reconfig, and connector roadmap for both post-split entities, with phasing aligned to spinoff timeline.",
+    "generatedAt": "2026-11-12T20:41:31.955Z"
+  },
+  "a_19ghhtu": {
+    "signalId": "a_19ghhtu",
+    "account": "Procter & Gamble",
+    "signalTitle": "Dividend growth record and financial strength",
+    "play": "onboard_expand",
+    "goal": "Expand Analytics Suite adoption across finance and strategy teams to drive margin protection and capital allocation visibility during inflationary periods.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Finance / Chief Strategy Officer",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Analytics Suite coverage by team and geography; flag India operations and any under-penetrated regional finance/strategy groups.",
+          "Review current renewal terms and contract expansion capacity; confirm no blockers or open support issues with platform or integrations.",
+          "Map P&G's capital-allocation cycle and cost-pressure calendar (e.g., inflationary headwinds in India, regional margin reviews)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Sales on expansion territory and target stakeholders (regional finance leaders, category strategy heads); confirm AE leads engagement.",
+          "Brief Product on margin-protection and capital-allocation use cases observed across CPG customer base; request pricing/market-share analytics roadmap visibility.",
+          "Alert Support: confirm no latent issues with integrations or data quality that could surface during expansion conversations."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Finance] or [Chief Strategy Officer] with P&G's dividend milestone; frame Analytics Suite as a tool to deepen margin modeling and capital-allocation confidence.",
+          "Propose brief exploratory call with finance and strategy leads to discuss demand forecasting and market-share modeling for high-inflation categories."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Co-create a pilots roadmap: prioritize 1-2 high-pressure categories or regions (e.g., India, premium personal care) where margin protection and pricing analytics will show fastest ROI.",
+          "Prepare a scoped expansion proposal tied to P&G's cost-management priorities; include integrations to pricing and category-planning workflows if not yet deployed."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion pipeline (seats, modules, modules, contract value) in CRM; set renewal conversation checkpoint 30 days out to reinforce strategic value.",
+          "Schedule post-launch review with [VP Finance] to measure margin-protection and capital-allocation analytics impact; capture reference content."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Demand forecasting and margin modeling for P&G's next chapter",
+      "body": "Hi [VP Finance / Chief Strategy Officer],\n\nCongrats on P&G's 70-year dividend-growth milestone—a testament to your operational discipline and earnings stability. In volatile cost environments like today's, we're seeing finance and strategy teams lean harder on predictive analytics to model margin impact and guide capital allocation.\n\nGiven the inflationary pressures on categories like India personal care, I'd love to explore how our Analytics Suite (demand forecasting, market-share modeling, pricing analytics) could deepen your margin-protection playbook.\n\nWould you be open to a brief conversation with your strategy and category teams?\n\nBest,\n[Your name]"
+    },
+    "slack": "P&G's 70-year dividend streak signals strong capital availability and margin-protection urgency. Expanding Analytics Suite (demand forecasting, pricing, market-share modeling) into finance and strategy teams—especially for high-inflation regions like India—can drive capital-allocation ROI and support renewal conversation. AE + CS lead engagement with [VP Finance] / [Chief Strategy Officer]; prioritize pilot roadmap by cost-pressure calendar.",
+    "crmTask": {
+      "title": "P&G Analytics Suite Expansion: Margin Protection & Capital Allocation",
+      "due": "In 3 days",
+      "notes": "Signal: P&G 70-year dividend growth milestone signals financial strength and budget capacity. Opportunity: expand Analytics Suite to finance/strategy teams for margin modeling and pricing analytics, particularly for high-inflation categories (e.g., India). Context: P&G owns Core Platform and Analytics Suite; whitespace is workflow automation and deeper analytics adoption. Next step: validate current analytics coverage and renewal timeline; align with Sales on regional finance/strategy outreach; engage [VP Finance] / [Chief Strategy Officer] with margin-protection thesis."
+    },
+    "doneWhen": "Analytics Suite pilot roadmap agreed with [VP Finance] and finance/strategy stakeholders; 1-2 high-inflation categories or regions scoped for Q1 deployment.",
+    "generatedAt": "2026-11-12T20:41:32.258Z"
+  },
+  "a_xi3770": {
+    "signalId": "a_xi3770",
+    "account": "Kroger",
+    "signalTitle": "New store openings",
+    "play": "onboard_expand",
+    "goal": "Ensure the four new Ohio stores are live on the platform with full store and supply-chain alert coverage, and use the integration momentum to explore analytics expansion for pricing and demand.",
+    "owner": "CS Director + Store Operations Account Executive",
+    "contactRole": "Director of Store Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm which of the four new Ohio stores are live on the platform and which lack store-level alerts.",
+          "Check the store-opening timeline and go-live dates for supply-chain and POS integration readiness.",
+          "Review the account renewal date and current automation/alert coverage scope."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Brief Store Ops and Support on the new store onboarding gap; confirm support resource availability for rapid integration.",
+          "Sync with Sales on opportunity to pilot analytics suite (pricing/demand forecasting) during the new-store ramp."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [Director of Store Operations] with a specific question: which stores are not yet live on alerts, and when is the best window for a brief integration call?"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-10",
+        "tasks": [
+          "Schedule a 30-minute onboarding call: confirm data feeds, test alerts, and document go-live date for each store.",
+          "During the call, introduce the analytics opportunity for the new stores' pricing and demand data (early win for analytics expansion)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log store go-live dates in CRM and confirm alert coverage parity by end of Month 1.",
+          "Document pricing/demand use-case interest for the Sales handoff to analytics specialist."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Quick question: Ohio store platform coverage",
+      "body": "Hi [Director of Store Operations],\n\nCongrats on the four new Ohio store openings—great to see the continued growth in the region. We want to make sure all of them are live on the platform with full store and supply-chain alert coverage, just like the rest of your banner.\n\nQuick check: which stores are already on alerts, and which might still need onboarding? If there's a gap, we can run a brief integration session this week to get them synced up fast.\n\nLooking forward to connecting.\n\nBest,\n[Your name]"
+    },
+    "slack": "Kroger opened four new Ohio stores in 2024 and we need to confirm platform coverage. Likely gap: some stores may not be live on store-ops and supply-chain alerts yet. Play: brief onboarding integration to close the gap, plus a pricing/demand analytics conversation during the ramp. CS Director leads, Store Ops Account Executive supports. Ask: confirm which stores are live on alerts by end of Day 3.",
+    "crmTask": {
+      "title": "Kroger new Ohio stores: validate platform coverage + explore analytics",
+      "due": "In 3 days",
+      "notes": "Signal: Four new Kroger stores opened in central Ohio since 2024. Action: (1) Validate which stores are live on platform for store-ops and supply-chain alerts; (2) If gap exists, schedule integration touchpoint for rapid onboarding; (3) Explore analytics (pricing/demand) opportunity during new-store ramp. Contact: [Director of Store Operations]. Renewal window: <UNKNOWN>. Current scope: Core Platform + Workflow Automation."
+    },
+    "doneWhen": "All four new Ohio stores are live on the platform with store-level and supply-chain alerts, and a pricing/demand analytics conversation is scheduled with the customer.",
+    "generatedAt": "2026-11-12T20:41:43.721Z"
+  },
+  "a_1mffwja": {
+    "signalId": "a_1mffwja",
+    "account": "Costco",
+    "signalTitle": "Product Recall (Whipped Cream)",
+    "play": "help_first",
+    "goal": "Support Costco through active recall by showing how Workflow Automation can accelerate cross-functional alert routing and compliance documentation for future quality events.",
+    "owner": "CS Director + Supply Chain Specialist",
+    "contactRole": "Director of Supply Chain Quality",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Costco is managing recall coordination manually or via email/ticket tools",
+          "Check if platform alerting or automation features are currently in use",
+          "Assess scope: which business units and teams are involved in recall routing"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Brief Supply Chain Specialist on recall scope and timeline",
+          "Alert Product team: gather feedback on Workflow Automation fit for quality playbooks",
+          "Agree that CS Director leads outreach (supportive posture, not sales)"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Reach [Director of Supply Chain Quality] with note on recall handling and offer of brief problem-solving call",
+          "Frame as: we see how alert routing and approval chains matter in crises—let's talk briefly after the dust settles"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Host working session: map current recall notification workflow and compliance documentation steps",
+          "Demo Workflow Automation alerting and routing for quality teams (merchandising, compliance, store ops)",
+          "Provide template playbook: escalation rules and approval chain for future recalls"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log decision and next steps in CRM",
+          "Track: Workflow Automation added to evaluation; schedule follow-up in 30 days",
+          "Gather feedback from Product on compliance playbook templates for future recalls"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Support for Your Whipped Cream Recall—Quick Workflow Question",
+      "body": "Hi [Director of Supply Chain Quality],\n\nWe saw the whipped cream recall notice and wanted to reach out with support, not a pitch. Recalls demand fast, coordinated alerts to the right teams—merchandising, compliance, store operations—and clear documentation.\n\nWe're curious: are you coordinating this via email and tickets, or do you have automated alert routing in place? If a follow-up call would help, we'd like to show how Workflow Automation can speed future quality playbooks and keep compliance teams in sync. No pressure—just here if useful.\n\nLet us know how we can help now or after the recall wraps.\n\nBest,\n[Account Intelligence]"
+    },
+    "slack": "Costco initiated a whipped cream product recall—a live event requiring cross-functional alert routing and compliance tracking. We're reaching out to [Director of Supply Chain Quality] to understand their current recall coordination process (likely manual/email-based) and offer Workflow Automation demo for quality alerting playbooks. This is a help-first, low-pressure outreach. CS Director leads. If they're open, we schedule a working session post-recall to map current workflow and pilot automation. Expansion opportunity: Workflow Automation + Integrations for future market rollouts.",
+    "crmTask": {
+      "title": "Costco Whipped Cream Recall—Workflow Automation Opportunity",
+      "due": "In 3 days",
+      "notes": "Signal: Costco whipped cream recall (Nov 11, 2026). Outreach focus: understand current recall coordination (validate if using platform alerting/automation). Offer: demo Workflow Automation for quality-alert playbooks (merchandising, compliance, store ops). Positioning: help-first, supportive. Success metric: interest in post-recall working session to map and pilot automation. Whitespace: Integrations for new-market rollouts and Analytics for category/member insight."
+    },
+    "doneWhen": "Customer agrees to a post-recall working session to map recall workflow and discuss Workflow Automation pilot, or declines with clear reason documented.",
+    "generatedAt": "2026-11-12T20:41:44.044Z"
+  },
+  "a_1u78mxu": {
+    "signalId": "a_1u78mxu",
+    "account": "Costco",
+    "signalTitle": "Special Dividend & Capital Return",
+    "play": "onboard_expand",
+    "goal": "Uncover budget appetite for analytics expansion in FY2027 driven by strong capital position and member/category insight opportunity.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Finance or VP Strategy",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm platform usage trends and current data volume to baseline expansion readiness.",
+          "Review renewal date and budget cycle timing—target FY2027 planning window.",
+          "Check for any open issues or support escalations that could signal account health risk."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Align with Account Executive on FY2027 expansion opportunity and analytics use-case fit.",
+          "Brief Ops/Support on account health status; confirm no blockers for outreach.",
+          "Assign Account Executive to lead finance/strategy engagement; confirm CSM backfill for platform health."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Send brief outreach email to [VP Finance or VP Strategy] referencing the capital confidence signal and relevance to analytics ROI.",
+          "Propose 20-min call to explore how member cohort and category analytics could strengthen pricing and merchandising decisions in FY2027."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Conduct discovery call: map current state of member/category insight gaps and the case for analytics investment.",
+          "Prepare executive summary (1-pager or slide deck) linking analytics capability to margin uplift and private-label growth potential.",
+          "Present contracting timeline and FY2027 budget mapping; confirm decision stakeholders and approval path."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outcomes and next-step date in CRM; flag if conversation signals broader budget appetite or constraints.",
+          "Update sales forecast with probability and expected close date; loop in Product on member/category analytics demand."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Quick thought on Costco's FY2027 strategy—member cohort analytics",
+      "body": "Hi [VP Finance or VP Strategy],\n\nCongratulations on Costco's strong earnings and the capital return announcement. We've been following your private-label and membership growth closely, and the capital confidence raises an interesting question: with deeper member cohort and category-performance analytics, how much could you improve pricing and merchandising ROI across Kirkland and the broader assortment?\n\nWe'd love to explore this briefly—not a formal proposal, just 20 minutes to talk through where member insight and category analytics might fit into your FY2027 roadmap.\n\nWould early December work?\n\nBest,\n[Your name]"
+    },
+    "slack": "Costco announced a $30 special dividend—strong signal of capital confidence and FY2027 budget appetite. We're moving to expand analytics coverage (member cohort + category insights) to support pricing and merchandising strategy. Account Executive leading outreach to [VP Finance/Strategy] to explore FY2027 budget fit. Need confirmation that platform health is solid and no escalations present before engagement.",
+    "crmTask": {
+      "title": "FY2027 Analytics Expansion Opportunity – Member Cohort & Category Insights",
+      "due": "In 3 days",
+      "notes": "Signal: Special dividend announcement (2026-11-11) indicates strong capital position and potential FY2027 budget availability. Whitespace: Analytics Suite (member cohort, category-performance analysis) and Integrations (new-market rollouts) represent clear expansion paths. Current state: Platform only. Renewal status: Confirm dates and planning cycle alignment. Next: Validate platform health, align AE/CSM, and conduct discovery call with finance or strategy lead on analytics ROI for pricing/merchandising optimization."
+    },
+    "doneWhen": "Finance or strategy lead confirms willingness to evaluate analytics investment in FY2027 planning window; discovery call scheduled and completed with clear next steps on decision timeline.",
+    "generatedAt": "2026-11-12T20:41:44.565Z"
   }
 }

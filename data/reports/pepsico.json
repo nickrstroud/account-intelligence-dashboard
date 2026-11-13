@@ -1730,5 +1730,24 @@
         "publishedAt": "2026-11-11T13:19:00.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-13T20:23:10.869Z",
+    "source": "daily",
+    "headline": "PepsiCo restructuring with ~1,000 North American layoffs signals cost discipline but potential vendor review cycle",
+    "signals": [
+      {
+        "category": "Restructuring / Cost-Cutting",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo is executing a workforce reduction of approximately 1,000 employees in North America. While targeted at operational efficiency, restructuring of this scale typically triggers vendor audits and cost-rationalization reviews across software and services.",
+        "suggestedAction": "Schedule a brief check-in with their CFO/Finance Operations lead to understand if this restructuring affects their data/analytics infrastructure investments. Emphasize cost efficiency of the platform (consolidation of legacy tools, reduced manual work via automation) and offer a health-check review of usage across their current seats to identify optimization and ROI.",
+        "sourceName": "New York Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXB5SHliOEpnUkI3bXlETk1nYzBjNGJHYUljUnRCZHlabEhpWTdGaFNqTDJJaE9DeGtrS3E3QUpJaGhtZ3A2ekRqUnF4TkhVQS1BQjBqeEtwOFRqX3pBdVJuMEl3SUk3RzYyRENJT2hfMlBHU29zcGVkckJGZ016b2xHcWJZWDUwNHZmNjFCWQ?oc=5",
+        "publishedAt": "2026-11-11T18:53:00.000Z"
+      }
+    ]
   }
 ]

@@ -1344,5 +1344,24 @@
         "publishedAt": "2026-11-12T07:05:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-13T20:23:10.691Z",
+    "source": "daily",
+    "headline": "P&G announces $150M expansion in Iowa City; strong dividend history signals financial stability",
+    "signals": [
+      {
+        "category": "Iowa City facility expansion",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "P&G is investing $150M in capacity expansion at its Iowa City manufacturing facility, marking 70 years of operations there. Material capex signals production scaling and potential need for supply-chain data coverage.",
+        "suggestedAction": "Reach out to the supply-chain or operations lead for the Iowa City facility to understand how the expanded capacity will be tracked on the platform. Confirm whether this facility's production data is currently flowing through Account Intelligence, and if not, propose an integration plan to onboard new production lines and distribution flows.",
+        "sourceName": "Corridor Business Journal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUx6MEc3Z0F0bDdJYlR4M05zSWJCOXh3TmM0cEtpZlYzTDB1WU9RRXdfSm9jQWEwUFlpaU1sWjZ0LVdDcFpsNFZkODVSQ3Vkdkg1NEdWbFg2Wk5EWGhGU0tRcEhtajRLYVMzR1BYYlAyaDlvcktsSTlOVGxNbXEzNWZTRjUtR3JTb2xyZEh5QkZpRGc?oc=5",
+        "publishedAt": "2026-11-13T19:07:30.000Z"
+      }
+    ]
   }
 ]

@@ -1200,5 +1200,35 @@
         "publishedAt": "2026-11-11T16:14:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-13T20:23:15.957Z",
+    "source": "daily",
+    "headline": "Costco product-quality recall (whipped cream) presents workflow automation and supply-chain visibility opportunity",
+    "signals": [
+      {
+        "category": "Product recall - whipped cream contamination",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco recalled whipped cream sold across 12 states due to potential cleaning chemical contamination ahead of Thanksgiving peak season. Multi-state recall reflects supply-chain risk and quality-control exposure across their high-volume private label and vendor network.",
+        "suggestedAction": "Reach out to VP of Supply Chain or Quality/Recalls leadership to discuss how workflow automation could streamline future product-safety alerts, approval chains, and cross-state recall execution. Position Account Intelligence's alerting and playbook capability as a way to route recall data and containment steps faster to merchandising, logistics, and vendor teams.",
+        "sourceName": "ABC News - Breaking News, Latest News and Videos",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUF85X1Qwdl94UmRIWnh1Z3k0d0xTaHphRUFyMFdlTmpwNjJhNktLN0tSYkVJbG1NOFV5RWJYekRnSWZjOGFWakh5QXQ5LS1IVHQtbVgzYXU3c1dPT3VreDV0NnVqSnpqcnFDcnd2Q2gtN1RkS3R3c2lzVkhPQzhYMDBmTGFNSnVyRjlkcW9aQ1A3MEFsMHFZaVBHQ0FzMUNXdm1vQjJ4aWdLaXRoOWNJ0gG0AUFVX3lxTFBtOENEVlBTTWhGa1Z0SXRfYkU4OGlrWjBGQ2I0RHM5NGtDYTRWYjVXMmQwZ2dLOTlQU2RFVWpOc2t3TFRJZU1oQkhyUTJxOEFEN3M3WnNJSXNZNGxSOW5MRWVnZjZrN0tQY3hxN19oZjF6QWJ0bDFWMHgxOUhNY3BKdGladlN0a2lENnlxSmlVeXdjYWRINHVsWjJNWEhDRzB2UW8tRVhrTjhlUGhyRFFCMkVsdA?oc=5",
+        "publishedAt": "2026-11-13T16:58:34.000Z"
+      },
+      {
+        "category": "Kirkland Signature vodka launch (private label expansion)",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Costco launched Kirkland Signature vodka, undercutting Tito's pricing by ~50%. Reflects strategic private-label expansion and competitive pricing strategy in high-margin categories (spirits).",
+        "suggestedAction": "Ask Category/Strategy team whether the Kirkland vodka SKU and new private-label spirit lines are tracked on the Core Platform, and whether their pricing and demand analytics for spirits category are leveraging Account Intelligence data or require setup for this new SKU family.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEZpZUFUQzlaSnFFUVNnVUJFNGJaTkRncEF3VldKZnRYOEFVa2dGWmZhNTY1VmJOMUZyajkzenlEUzdWVmtfdlhNTzZtQXROLVNVdnp5ekNyRkp5dlZjeDFBdWI5RFRVdnFvcXFZODg0QllwSlFwYkJvb0xpdm5Bd0NnWFZNOFgtSzdQT1FKVjJHaXEyZExRMC03aDI?oc=5",
+        "publishedAt": "2026-11-12T02:38:00.000Z"
+      }
+    ]
   }
 ]

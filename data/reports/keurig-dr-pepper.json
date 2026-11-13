@@ -1498,5 +1498,24 @@
         "publishedAt": "2026-11-12T14:36:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-13T20:23:10.806Z",
+    "source": "daily",
+    "headline": "KDP pricing $2B share offering; market reaction negative but financing move suggests strategic optionality",
+    "signals": [
+      {
+        "category": "Capital Raise / Share Offering",
+        "updateType": "earnings",
+        "play": "none",
+        "score": 0,
+        "summary": "Keurig Dr Pepper priced a $2 billion share offering on Nov 12–13, 2026. Stock declined ~7% on the announcement, reflecting dilution concerns and market skepticism. The financing move itself is neutral to slightly negative on sentiment but signals the company is raising capital for strategic purposes (M&A, debt reduction, or operational investment).",
+        "suggestedAction": "Monitor investor calls and press releases over the next 2–3 weeks to clarify the use of proceeds. If proceeds fund M&A (brand acquisition or divesting underperforming units), that triggers expansion opportunity for Data Integrations and Core Platform; if debt reduction, the signal is neutral.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXFacU1KZ0lXU3p3b1F3VW94U09rNkIwZTBQb1VGNVdhUlRvb2ZiNkdJUmxnVUxrTUJZMHBjY05aTUZISUU5X1JSb1hNX1VNSEJHem13cnQxUHdOSnN3NllsWVZLTGdKS2YxaUZlZWpxLTk4R3RaWUtzRHJzZi14R05PWnQ4VWVrekE2dWZFcHJ2VnJMRWhHODltMjk?oc=5",
+        "publishedAt": "2026-11-13T11:09:00.000Z"
+      }
+    ]
   }
 ]

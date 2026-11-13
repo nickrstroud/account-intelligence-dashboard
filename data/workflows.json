@@ -58206,5 +58206,288 @@
     },
     "doneWhen": "Finance or strategy lead confirms willingness to evaluate analytics investment in FY2027 planning window; discovery call scheduled and completed with clear next steps on decision timeline.",
     "generatedAt": "2026-11-12T20:41:44.565Z"
+  },
+  "a_1u6velx": {
+    "signalId": "a_1u6velx",
+    "account": "Costco",
+    "signalTitle": "Kirkland Signature vodka launch (private label expansion)",
+    "play": "onboard_expand",
+    "goal": "Expand Core Platform coverage to Kirkland Signature spirits SKUs and establish analytics and pricing data for the high-margin spirits category.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of Category Management, Spirits",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check current platform coverage: confirm whether Kirkland Signature spirits SKUs and broader spirits category are mapped in the data model.",
+          "Review renewal status and contract scope: confirm spirits category is in-scope or requires expansion agreement.",
+          "Pull recent platform usage: identify which internal teams (pricing, merchandising, strategy) are most active to inform outreach."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive: frame as expansion opportunity tied to launch velocity and competitive positioning.",
+          "Align with Product/Integrations: confirm data connector readiness for new spirits SKU family and any new data source requirements (competitor pricing, point-of-sale).",
+          "Confirm internal owner: assign lead (likely Account Executive if expansion deal, CS Director if onboarding task)."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Reach [Director of Category Management, Spirits] with a reason to talk: congratulate launch, share insight on competitive pricing visibility and demand forecasting for spirits, ask one diagnostic question about their current tracking.",
+          "If warm: schedule brief discovery call to map new SKU needs and identify quick wins (real-time comp pricing, demand signals)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Deliver proposal or onboarding plan: new SKU ingestion, spirits category analytics setup, competitive pricing dashboard for Kirkland vs. Tito's and category leaders.",
+          "Confirm data integration requirements: identify any new POS, pricing feed, or third-party data connectors needed to support spirits analytics."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM record: link to Kirkland Signature spirits launch, document expanded scope and success metric.",
+          "Schedule 30-day follow-up: confirm new SKUs are live on platform, analytics are in use, and [Director of Category Management, Spirits] is seeing value."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Kirkland Signature spirits launch—pricing & demand tracking on Account Intelligence",
+      "body": "Hi [Director of Category Management, Spirits],\n\nCongrats on the Kirkland Signature vodka launch—bold move into high-margin spirits. We've been following the competitive positioning, and I'd love to make sure you're capturing real-time demand and pricing signals on the platform, especially as you scale the line.\n\nQuick question: are the new Kirkland spirits SKUs currently tracked on Account Intelligence, and are you running pricing and demand analytics on the spirits category? If not, we can set that up this week to give your team live visibility into comp pricing and forecast impact.\n\nHappy to hop on a brief call if that's helpful.\n\nBest,\n[Your Name]"
+    },
+    "slack": "Costco launched Kirkland Signature vodka—undercutting Tito's by ~50%—signaling strategic spirits expansion. Opportunity to expand Core Platform coverage to new SKU family and onboard pricing/demand analytics for high-margin category. AE to lead expansion; confirm data integration readiness. Win: new spirits category analytics in use by week 2.",
+    "crmTask": {
+      "title": "Kirkland Signature Spirits Launch—Expand Platform Coverage & Analytics",
+      "due": "In 3 days",
+      "notes": "Signal: Costco launched Kirkland Signature vodka (competitive pricing vs. Tito's). Expansion play: onboard new spirits SKUs to Core Platform, establish pricing and demand analytics for category. Owner: AE + CS Director. Next step: validate current coverage, align with Product on integrations, engage [Director of Category Management, Spirits] with discovery call by Day 3."
+    },
+    "doneWhen": "Kirkland Signature spirits SKUs are live on the Core Platform and category-level pricing/demand analytics are in use by the pricing and category management teams.",
+    "generatedAt": "2026-11-13T20:23:28.347Z"
+  },
+  "a_1mzagzz": {
+    "signalId": "a_1mzagzz",
+    "account": "Procter & Gamble",
+    "signalTitle": "Iowa City facility expansion",
+    "play": "onboard_expand",
+    "goal": "Expand platform coverage to include Iowa City facility's new production lines and distribution flows, unlocking incremental data volume and workflow automation for supply-chain visibility.",
+    "owner": "Account Executive + Supply Chain CS Lead",
+    "contactRole": "Director of Supply Chain Operations (Iowa City facility) or VP Manufacturing Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Iowa City facility production data is NOT currently in Account Intelligence (check data intake logs and account map)",
+          "Review P&G account map: verify existing facility coverage, product lines, and data integration points",
+          "Identify current supply-chain stakeholders and expansion decision-makers at or near Iowa City"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Sales: confirm expansion opportunity scope (capex multiplier = new SKUs, distribution channels, integration complexity)",
+          "Brief Product: flag new production line data schema and workflow automation use case for retailer-specific alerts",
+          "Assign Account Executive and Supply Chain CSM to co-lead engagement and proposal"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [Director of Supply Chain Operations, Iowa City] with facility expansion news, contextualize Account Intelligence role in scaling production visibility",
+          "Propose 20-minute call to map current data flow, new line requirements, and integration timeline aligned to capex milestones"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Co-develop integration and onboarding plan: new production line data feeds, ERP sync points, and timeline to go-live",
+          "Define workflow automation wins: retailer-specific stock alerts, demand signals tied to expanded capacity",
+          "Present proposal with implementation roadmap and resource allocation"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion project in CRM with facility capex milestones and go-live dates",
+          "Track integration completion and new data volume ingested; measure workflow automation adoption by supply-chain team",
+          "Anchor expansion into renewal conversation 9 months prior to expiration"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "P&G Iowa City Expansion: Scaling Production Visibility",
+      "body": "Hi [Director of Supply Chain Operations],\n\nCongratulations on the $150M Iowa City facility expansion—a major milestone after 70 years of operations. We wanted to reach out because expanded production capacity often means new data requirements: tracking new production lines, distribution flows, and retailer demand signals in real time.\n\nAre your new production lines currently flowing through Account Intelligence? We'd love to discuss how to integrate them into your platform coverage so your team has immediate visibility into expanded capacity and can route insights to the right teams.\n\nWould a brief call next week work to explore the opportunity?\n\nBest regards,\n[Your CS team]"
+    },
+    "slack": "P&G Iowa City facility expansion ($150M capex) signals need for production data coverage expansion. Currently unclear if facility is on platform. Plan: validate current data state, propose integration for new lines + workflow automation for retailer alerts. Account Executive + Supply Chain CSM to co-lead engagement and build integration roadmap aligned to capex timeline. Ask: confirm expansion scope with Ops, then scope integration effort with Product.",
+    "crmTask": {
+      "title": "P&G Iowa City Facility Expansion – Platform & Automation Opportunity",
+      "due": "In 5 days",
+      "notes": "$150M capex investment in Iowa City facility (70-year milestone). Opportunity: integrate new production lines into Account Intelligence, unlock workflow automation for retailer-specific alerts and supply-chain visibility. Initial validation: confirm whether facility currently on platform. If not, high-value integration + expansion play. Tie to renewal conversation in 9M."
+    },
+    "doneWhen": "Integration plan signed off and project milestone added to roadmap with go-live date tied to facility production ramp.",
+    "generatedAt": "2026-11-13T20:23:28.932Z"
+  },
+  "a_19lecmx": {
+    "signalId": "a_19lecmx",
+    "account": "Costco",
+    "signalTitle": "Product recall - whipped cream contamination",
+    "play": "help_first",
+    "goal": "Position workflow automation to reduce recall response time and improve coordination across supply chain, quality, and merchandising teams during product-safety crises.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Supply Chain",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm Costco's current recall process: how alerts flow from QA to supply chain, merchandising, and vendors; identify manual handoffs or bottlenecks.",
+          "Check internal account notes: existing integrations with Costco's ERP/inventory systems; any prior automation pilots or feature requests.",
+          "Map exposure: which business units (private label, vendor network) and geographies are most at risk in future recalls."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief CS team and Sales: frame this as a retention + expansion play—help them navigate this crisis, then expand automation to reduce future impact.",
+          "Sync with Product: gather examples of recall playbooks (alert rules, approval chains, vendor notification templates) for workflow automation demo.",
+          "Agree on owner: CS Director leads outreach; Account Executive joins if expansion opportunity emerges."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Send warm email to [VP Supply Chain]: acknowledge the recall, offer a brief conversation about how workflow automation could speed cross-state coordination in future crises.",
+          "Schedule 20-min call focused on their playbook, not our pitch—listen for pain points in recall execution, approval delays, vendor communication."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "If receptive: co-design a simple recall playbook (alert trigger → QA approval → vendor + logistics notification → inventory hold) tailored to their multi-state, multi-vendor model.",
+          "Propose a 30-day automation pilot on one product category or region to validate faster alert routing and cross-team coordination.",
+          "Discuss data integration roadmap: how real-time inventory and vendor data could feed future alerts."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log pilot outcome in CRM: recall response time reduction; number of teams reached within SLA; vendors included.",
+          "Win condition: signed pilot agreement + commitment to expand automation across recall and product-safety workflows; path to integrations for new-market rollouts."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Faster recall coordination—a brief idea for Costco supply chain",
+      "body": "Hi [VP Supply Chain],\n\nWe saw the whipped cream recall across your 12-state footprint, and wanted to reach out with support, not a pitch.\n\nWe've worked with other large retailers on streamlining product-safety response—specifically, using workflow automation to route alerts, approvals, and containment steps to the right teams (QA, logistics, merchandising, vendors) in minutes instead of hours. For multi-state, multi-vendor recalls like yours, the speed difference is real.\n\nWould you be open to a brief conversation about your current recall playbook and where the coordination friction sits? No strings—just a chance to explore if we can help you move faster next time.\n\nBest,\n[Account Intelligence CSM]"
+    },
+    "slack": "🚨 Costco whipped cream recall across 12 states—supply chain quality/safety crisis right before Thanksgiving peak. CS Director reaching out to [VP Supply Chain] to position workflow automation for faster recall coordination and cross-team alerting. This is a help_first play to protect relationship and uncover whitespace in automation + integrations. Account Exec joins if expansion pilot emerges. Goal: pilot agreement within 2 weeks.",
+    "crmTask": {
+      "title": "Workflow automation pilot: product-recall response playbook",
+      "due": "In 14 days",
+      "notes": "Triggered by multi-state whipped cream contamination recall (11/13/26). Approached [VP Supply Chain] with offer to co-design recall playbook and pilot workflow automation for faster QA→vendor→logistics coordination. Currently on Core Platform only; whitespace in automation (alerting, approvals, playbooks) and integrations (ERP, POS, vendor systems). Success measure: signed pilot agreement covering 1 product category or region; target 2-week execution."
+    },
+    "doneWhen": "Costco [VP Supply Chain] or Quality/Recalls leadership agrees to a 30-day pilot of recall-response automation workflow covering alert routing, approval chain, and vendor notification.",
+    "generatedAt": "2026-11-13T20:23:29.247Z"
+  },
+  "a_1xpvuw0": {
+    "signalId": "a_1xpvuw0",
+    "account": "PepsiCo",
+    "signalTitle": "Restructuring / Cost-Cutting",
+    "play": "protect_renewal",
+    "goal": "Protect the core platform and automation footprint during cost review by demonstrating ROI and efficiency, positioning for renewal and early analytics expansion.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "CFO / Finance Operations Lead",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check renewal date, current seats, and usage metrics (platform logins, automation rule triggers, data volumes) in CRM",
+          "Pull cost-per-seat and cost-per-business-unit data to quantify platform efficiency vs. legacy tool footprint",
+          "Flag any open support tickets, training gaps, or adoption gaps that may have surfaced in recent QBRs"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive on renewal status and CFO engagement strategy; confirm CS Director leads health-check discovery",
+          "Brief Finance Ops / Ops Support on restructuring context and flag any at-risk cost centers or business unit changes",
+          "Prepare usage dashboard and ROI summary (consolidation savings, automation time savings, FTE reduction via workflow efficiency) to share with customer"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [CFO / Finance Operations Lead] with a brief check-in framing support for their efficiency goals and offering a usage health-check",
+          "Schedule a 30-min call focused on understanding their software cost priorities and sharing platform optimization findings"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Conduct health-check review: seat optimization, underutilized features, automation rule consolidation, and training opportunities",
+          "Present findings and ROI dashboard to [CFO / Finance Operations Lead] and [Finance team]; position analytics suite as adjacent expansion (marginal cost, high ROI for pricing and share decisions during restructuring)"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 7+",
+        "tasks": [
+          "Log health-check findings and renewal risk assessment in CRM; schedule follow-up QBR with [CFO / Finance Operations Lead] to track cost-optimization progress",
+          "Document any product feedback on analytics demand (pricing and share use cases) for Product team; track motion toward analytics pilot"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "A quick check-in on your platform efficiency during this transition",
+      "body": "Hi [CFO / Finance Operations Lead],\n\nWe know PepsiCo is focused on operational efficiency across North America—and we want to make sure your data and analytics infrastructure is working as hard as possible for you. \n\nWe'd like to run a quick health-check on your platform and automation usage to identify any optimization opportunities (seat consolidation, automation efficiency gains, training gaps) that could support your cost goals. This usually surfaces 10-20% efficiency savings without sacrificing coverage.\n\nWould you have 30 minutes next week to discuss? Happy to share findings and talk through what's working best for your teams.\n\nBest,\n[CS Director]"
+    },
+    "slack": "PepsiCo is executing a 1,000-person North America workforce reduction—typical trigger for vendor audits and cost rationalization. Protect_renewal play: CS Director to lead health-check on platform efficiency, usage optimization, and ROI to show cost value during restructuring. AE to support CFO engagement and position analytics as high-ROI adjacent expansion. Check renewal date and usage data immediately; ready with cost-per-seat summary and consolidation story.",
+    "crmTask": {
+      "title": "PepsiCo Health-Check: Platform Efficiency & Cost Optimization (Restructuring Response)",
+      "due": "In 3 days",
+      "notes": "Signal: PepsiCo North America restructuring (1,000 FTE reduction). Play: Protect renewal and demonstrate platform ROI during cost review. Validate seat usage, cost-per-unit data, and any adoption gaps. Engage CFO/Finance Ops with health-check offer focused on efficiency and cost savings. Act: Present usage optimization findings and position analytics as adjacent, high-ROI expansion. Track: QBR, product feedback on analytics demand (pricing/share use cases), renewal motion."
+    },
+    "doneWhen": "Health-check findings documented and shared with [CFO / Finance Operations Lead]; renewal risk cleared or mitigation plan in place; analytics pilot interest surfaced or tracked as future expansion.",
+    "generatedAt": "2026-11-13T20:23:29.282Z"
   }
 }

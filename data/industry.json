@@ -1,5 +1,144 @@
 [
   {
+    "id": "3ZWxsLXRpbWVzLzg3NDU1My8",
+    "title": "Port of Los Angeles grapples with elevated rail dwell times",
+    "link": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-13T16:04:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:40.370Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Port of Los Angeles rail dwell times for idle containers have reached over nine days, indicating congestion and supply-chain delays.",
+    "angle": "Supply-chain delays at a major port create visibility and alerting needs for CPG manufacturers and retailers managing inbound inventory and fulfillment.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZpYlV4VE1EUTBURkU_b2M9NQ",
+    "title": "FTC Urged to Probe Companies Not Sharing Tariff Refunds With Consumers",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0FFYnFHS01DdjltazdVdTFUWkI1bDhHY2VYYjNKRGhab0FqeDRoMUp2MzFpMWhVbjZzV2NyMmNMbkNuaFVRQ016ZTF6aDNKWVVjS3RGRWRHNURrbUF5bXZ0V1p1SzV1ZWFiVzdtbXhPOE5lYVZlMzJwbU1sQjVNcEF6Y1Z4QWkwQUNKbjQ1VlJlZkdzb2VmMmk3R0w1S3hndDk3d0ZRaDl4M0FwbzVzT1d1ZGdTeC1kVmJ0YnJremx5VHZBbE5ENU9DakFIR2p1VFMzR1NkNkYtdmJ6VS1rX3FibUxTMDQ0TFE?oc=5",
+    "sourceName": "SupplyChainBrain",
+    "publishedAt": "2026-11-13T15:15:46.000Z",
+    "analyzedAt": "2026-11-13T20:23:45.265Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FTC urged to probe companies not sharing tariff refunds with consumers. Raises scrutiny on corporate pricing and pass-through practices.",
+    "angle": "Regulatory focus on tariff refund pass-through creates compliance and reputational risk for CPG and retail. Customers need transparent pricing and margin data to defend tariff-related pricing decisions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "qVnNSMmxNYlcwMWNnP29jPTU",
+    "title": "Exclusive-Amazon’s plan to own the world’s product data and fight AI shopping agents By Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekJLQ2RxN1FJNUl5VHdSNldJaXdUZGVSZHl0SmJ2UWQwbUdjREpSUWVsSXZRVkl2TEUySTBZYi1oV2Nwclh6UERPaDFBTXFtd3BNOFQ1aFVtQUY5TUJxYlFaRm5Fbm5IYTR4MHJBa0VVZHBxbHRiSU16MndkbzdtV1gwWktoSVhhcHVSSnNxdlVTVGtXWmphcTR0cXlUZHB5SWtNN2NwQ3llOGt3ZHZoSjFiMDJGZzg0WHdLS2d3emVVWVBTTFB2dDl1YjVsR2lMbW01cg?oc=5",
+    "sourceName": "Investing.com",
+    "publishedAt": "2026-11-13T11:12:50.000Z",
+    "analyzedAt": "2026-11-13T20:23:58.620Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Amazon is building proprietary product-data infrastructure and AI capabilities to control e-commerce product information and counter AI shopping agents, reshaping data leverage in retail.",
+    "angle": "Amazon's data and AI consolidation directly impacts how CPG brands and retailers source and own product intelligence; customers need robust data integration and e-commerce performance analytics to compete and protect their own data assets.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VOMEYwZGtGUE1ITkI_b2M9NQ",
+    "title": "FDA upgrades Ohio cinnamon recall to Class II over lead concerns",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3NlRHJGeWd3ZVRZWnRvTV9zYm1ITXhweUFFMlhHdllQNVdGSkpjVkxsWTRROVJuLXFYZ2hkV2xYUDJwRGZ2R0taQU1nSlNidjZNd2xwbW1CZ2NZbnNuX01NamlueE1iaUhxaFJLandaXzFJZDBWc3BOdERvbE1HMDAtZHUwUmhxQmF2WTk3QXR2QU8wc0HSAZYBQVVfeXFMTndzZURyRnlnd2VUWVp0b01fc2JtSE14cHlBRTJYR3ZZUDVXRkpKY1ZMbFk0UTlSbi1xWGdoZFdsWFAycERmdkdLWkFNZ0pTYnY2TXdscG1tQmdjWW5zbl9NTWppbnhNYmlIcWhSS2p3Wl8xSWQwVnNwTnREb2xNRzAwLWR1MFJocUJhdlk5N0F0dkFPMHNB?oc=5",
+    "sourceName": "FOX 8 News",
+    "publishedAt": "2026-11-13T10:30:41.000Z",
+    "analyzedAt": "2026-11-13T20:23:52.121Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "FDA upgraded an Ohio cinnamon recall to Class II over lead concerns, highlighting contamination risks in specialty ingredient sourcing.",
+    "angle": "CPG companies sourcing global ingredients (spices, additives) face contamination and compliance risk; they need supply-chain visibility and supplier quality monitoring to prevent recalls and meet FDA standards.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VkRNMkZNZDAxUFlWbz9vYz01",
+    "title": "AI is turning ad tech into a fight for the brain behind the buy",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOVlhTWhDU0RFa29aS21BdEdTMXpoSWJUSVYya2p2d0djeEJsenNGQWNJR01WMWh1UmxlNjFGcmVLdC0zTFFwZFdkczNrYm13ZGhQdHZwSjJUMTc4dERrX3U2Z1hQUE9yeUFUT1RxVk9OdW90TU5OcjRfdGZUQmxtd3ZKS0c4aTJ6MVJwc2NCUEJUVE95Z2thUVAzdkZyN3F0UC1KamRBQ3BjaS0yd0RBeHd4RDBpR0c5NUJwZkVYejJxdjlrMkpYVnF3ckNURjlFcnBoMlVPN3EtMU1GUWZyMWNhMm1qcmVDM2FMd01PYVo?oc=5",
+    "sourceName": "Digiday",
+    "publishedAt": "2026-11-13T05:03:17.000Z",
+    "analyzedAt": "2026-11-13T20:23:52.121Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "AI is reshaping ad-tech, with companies competing to influence retail media and e-commerce advertising decisions through AI-driven platforms.",
+    "angle": "Large retailers (Walmart, Kroger, Target) are investing in AI-powered retail media platforms and e-commerce advertising; Account Intelligence can help CPG brands analyze media ROI, pricing, and promotional effectiveness through advanced analytics on retail media spend.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VaFBOVk5tTUdsNVp3P29jPTU",
+    "title": "Private Label Loses Ground as Grocery Shoppers Reassess Value",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa09kYllHRTBjSUJIRGtOT2ZpcUI0YUREcVJ2ZGtHUWxYNTRWYTNFWlktaDFwQVdFc3hUTV9aRVhVeUJmbTVkSzRFMEg5bVAzQ1NvZEhFSy1mVkE0NHkyQ256OWVTR25RbFRteTh2ODdoQUVxaTJRWHlVanFCQUpaa3FWRHJfZlhEZmlVSmUwTTdWeVc3NUhPNVNmMGl5Zw?oc=5",
+    "sourceName": "Supermarket News",
+    "publishedAt": "2026-11-13T01:41:31.000Z",
+    "analyzedAt": "2026-11-13T20:23:40.370Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Private label loses ground as grocery shoppers reassess value, signaling a shift in consumer demand back toward branded products.",
+    "angle": "Category and pricing teams at CPG and retail customers need to understand private-label share trends and competitive positioning; informs pricing and product strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wb3RlRWhuYW1jd1lnP29jPTU",
+    "title": "Mayor Mamdani plans to expand NYC SNAP grocery incentives",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzMwOEVDWXMxMWZDRDk5RDBwaWpDRVoyQVJPQ0dvZXBaRlJHekRNLWZyaUNsajRGYW9HOWhRUWlmYkxaUUhyUldQSkhEQmRyRHE3bVVjMkxObTNjSnRJTXFVOE9vQ0hYZXpNZ0txMHdWMlRabVVxVFJJSm1oTHF3d1pBT0oteEhnamcwYg?oc=5",
+    "sourceName": "Yahoo",
+    "publishedAt": "2026-11-12T22:00:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:58.620Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "NYC Mayor Mamdani is expanding SNAP grocery incentive programs, which could increase consumer purchasing power for lower-income shoppers in a major retail market.",
+    "angle": "SNAP expansion affects demand forecasting and category planning for retailers and CPG brands selling into NYC; analytics and demand-modeling tools help customers model incentive-driven volume uplifts.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cERRWFZuYzBaTVR6WT9vYz01",
+    "title": "Even as they stabilize, tariffs continue to drive up prices",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVC1LQllRd1o0bDhaNGFiaXg1amR2ZW9MaWp2TnMyMEhaYzdfbHgtQkRrTXF2UVM5bGJJaWo2dWpUbE1WNkRsaDd5Q1VDdHFIOG9qZEljSFpxNFlzWkJzTkY1U2tocVhmbEd5dllmUWRZdHdoREg4ckNPa3V5bWR5U3hpRjhCa2x4SHFSNC1aX3FYS2tSWTRVMk5MY2ZkR0pDQXVnc0ZMTzY?oc=5",
+    "sourceName": "Marketplace.org",
+    "publishedAt": "2026-11-12T21:15:51.000Z",
+    "analyzedAt": "2026-11-13T20:23:45.265Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Tariffs continue to drive up prices even as they stabilize. Businesses face persistent cost pressures and pass-through decisions.",
+    "angle": "Tariff-driven inflation remains a live issue for CPG and retail cost management. Customers need real-time visibility into tariff impact on procurement and pricing to make fast decisions on margins and promotions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "lLWNobG9yaWRlLzg3NDU0Mi8",
     "title": "FDA revokes authorization of some chemicals used in food dye production",
     "link": "https://www.fooddive.com/news/fda-revoke-food-dye-chemicals-methylene-chloride/874542/",
@@ -45,6 +184,23 @@
     "relevance": 2,
     "summary": "Private label has reached a new record in unit share, signaling continued erosion of branded CPG market share in a challenging consumer environment.",
     "angle": "Retailers and CPG manufacturers need deeper category and pricing analytics to respond to private-label pressure. This is a key driver for analytics expansion and share-of-wallet analysis at retail and CPG accounts.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0LWNhcmF2YW5zLzg3NDUzNC8",
+    "title": "Trump threatens to double Mexico tariffs over migrant caravans",
+    "link": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-12T18:03:58.000Z",
+    "analyzedAt": "2026-11-13T20:23:40.370Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "Trump threatens to double Mexico tariffs over migrant caravans, effective immediately if the country does not halt caravan movement into the U.S.",
+    "angle": "Tariff threats on Mexico create immediate cost-of-goods uncertainty for CPG and retail customers sourcing from or through Mexico; urgent need to model tariff scenarios and supply-chain impacts.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -107,6 +263,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "vbi1hdHRhY2tzLzg3NDUxNC8",
+    "title": "US government aims to prevent cyberattacks on refrigeration systems",
+    "link": "https://www.fooddive.com/news/cisa-cybersecurity-grocery-refrigeration-attacks/874514/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-12T16:15:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:40.370Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "U.S. government urges businesses to implement cybersecurity measures on refrigeration systems in response to cyberattacks targeting supermarkets in Europe.",
+    "angle": "Refrigeration system vulnerabilities highlight the need for operational monitoring and alerting across retail networks; relevant to supply-chain and store operations teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "pXbU5QZWtsRlNrOUY_b2M9NQ",
     "title": "Walmex Accelerates Omnichannel to Capture E-Commerce Market",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOE1zRy02dzk1aHM0bDd2eGdmUjB5WmZlZXJOS3loYkNlZDRreHQ3T29qRzhoOHNrT0VnYm5ILUIzZV9qNWJGb0RoUDRpSnBBdUxjTDFEU1F4UE4xMTM1ZTM1V0hxRVN0aW15NF9EVjJFbXZoejRDN3ZzNG5tazRxZkM1VDEtQVZjQ3hGZkZHQ0FZSUs4OUdJWmNPeklFSk9F?oc=5",
@@ -135,6 +308,23 @@
     "relevance": 2,
     "summary": "A new JAMA Pediatrics study examines youth exposure to food marketing across digital platforms like TikTok and YouTube, documenting increased junk food advertising to children.",
     "angle": "CPG manufacturers face renewed scrutiny on digital marketing practices and child-targeted ads. This regulatory and brand-risk signal warrants proactive engagement with food and beverage customers on compliance tracking and marketing compliance analytics.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dWNlLWNvZmZlZS84NzQ1OTkv",
+    "title": "Consumers face higher grocery prices",
+    "link": "https://www.retaildive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874599/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-12T16:01:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:40.370Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Grocery inflation rose in October as fuel price increases pushed up the costs of many foods, creating renewed pricing pressure across the sector.",
+    "angle": "Inflationary cost shocks require CPG and retail customers to rapidly model pricing elasticity and promotional trade-offs; a key analytics and forecasting conversation.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -178,6 +368,26 @@
     ]
   },
   {
+    "id": "ZvUzFwdE1rWkRlVFE_b2M9NQ",
+    "title": "Whipped cream sold at Costco recalled in a dozen states ahead of Thanksgiving",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEhVWFRDM1I5LVEtMkdESklfYW95bGRsRzhON2RKbWZETFF0X3dqTkZ6SEFtXzhYbnRWMDhOSFRWMUxmd1pzTU95Ny1wYzc3N0RJWXhHNzRxbXk2TVJVU3pfLUJCY2l2LXlrWWpCaDZtS09fM2N0djZYWFpQa0ZOaDdNanQ3RkxJMXNLbk90Q3RFS0VGck8xSmNGOF9qMjjSAbMBQVVfeXFMUE9oM29WLWtLbFh6eFdwbDgtRjk3djk0NkZQbWxIY2d2cDhGWkw4NTBaSWd6WkJnOF9LWmpxR19JcGRfUzQ4enJwMW9OMWwyeVhfeDViWHRaSVl2akRkQzZfY2MxTDREMUFZaWY1dTdWQVFxbFd6Z0dDQ1VuWDV5SFBGLURqTktob0tHT3diWGlRVmpIckdtTzdzTEYyMGtqcnd3OUszSEVKLTVoS1ptMkZDeTQ?oc=5",
+    "sourceName": "WCTV",
+    "publishedAt": "2026-11-12T06:49:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:52.121Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Whipped cream sold at Costco was recalled in a dozen states ahead of Thanksgiving, signaling potential food safety issues in Costco's supply chain and distribution network.",
+    "angle": "A named account (Costco) faced a multi-state recall of a perishable product during peak season. This is an opportunity to discuss supply-chain visibility, quality monitoring, and recall-management automation to prevent recurrence and minimize brand impact.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Costco"
+    ]
+  },
+  {
     "id": "BWUE9ISmlWRUpPT0E_b2M9NQ",
     "title": "Canned & Packaged Food Market To 2035: Premiumization and Private Label Drive Growth - News and Statistics",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXdsR0IwbUFNdWp5eVQ2MDk1LThBbExsQkxjTjVuWEc3TkpqYWJoZEhFZXNNR1hWYXROYlZsM3BxMWMwQ3BGZmFKVU1JOFk1ajFfSi15ZG9JdlZ5YUdwandlakFRb0l5TXpJV1J3TFQ2Y2hwMWV2azktRTdaUUg2VTNXdmxScUp1ZFB1Mm8tVTNJaTVUMzRXMndFQ0x4R1p2Q0p4UUs5Ym8zSFV5amdlUjI4NmNLV0VPOHJiVEJOOA?oc=5",
@@ -188,6 +398,41 @@
     "relevance": 1,
     "summary": "Market research forecasts premiumization and private-label growth as dual drivers of the canned and packaged food market through 2035.",
     "angle": "Validates the market bifurcation between premium and value segments; CPG and retail customers need segmentation and demand analytics to navigate both ends of the spectrum.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dlRVMVJNRGhtTW5aMz9vYz01",
+    "title": "More sprouting seeds recalled because of possible contamination with E. coli and Salmonella",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUW5OTG1WQ1B2X0VjdFh6akZBeENybHVzbHpPLXBrdkVuTmk0YVBHRWNrZDYySmJjaHQySnR5OExlYzItNUpXdFVqTmVqcWZoYkZfNHh1VFNOVGU3T2d0T3RIV18wS05kR3JIa2R1QWZ2N0tKdzdTeDNUV1g3VTJyR2Z6YTJXNWZmQWZHM1Vsakt3RXlIZWtXTnFlajJlMVVYQkw1THVvSzdJQmZHS2RhZUM0amY1dDdEd1VFa1l3bHFvTU1RMDhmMnZ3?oc=5",
+    "sourceName": "Food Safety News",
+    "publishedAt": "2026-11-12T04:45:06.000Z",
+    "analyzedAt": "2026-11-13T20:23:52.121Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "Sprouting seeds recalled due to possible contamination with E. coli and Salmonella, adding to a pattern of food safety recalls affecting supply chains.",
+    "angle": "CPG and retail customers sourcing produce and specialty ingredients need better traceability and quality-assurance workflows to detect and respond to contamination risks before products reach shelves.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WE5RUWkxU1REQkRaZz9vYz01",
+    "title": "EMEA CPG Demand Signals: Private Label at 42% Share as Unit Growth Risks Rising",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGhUX3VDc3ExYkZzT1V3Mm1NN2JsWC1XMFBLbHBHcDJRX0ZOb3R0cTlaN1prOUJWaXFlVWZSNjFUX0gtcWRERUFtdG9iZW0tNV9ILWgwMWc1aEJrOGgzb05PSEE4QjlNUUwtRnFtVVQxU0NQRjhKRnZESFdvTnNLQXFFZXBwOExlV3dPbkpFYXNQQi1STDBDZg?oc=5",
+    "sourceName": "Circana",
+    "publishedAt": "2026-11-12T03:18:32.000Z",
+    "analyzedAt": "2026-11-13T20:23:58.620Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Private-label CPG products in EMEA have reached 42% share, signaling continued share erosion for branded manufacturers amid unit-growth headwinds.",
+    "angle": "Private-label growth is reshaping category economics and shelf-share battles; Account Intelligence customers need deeper market-share, pricing, and competitive-set analytics to defend share and justify price increases.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -352,6 +597,24 @@
     ]
   },
   {
+    "id": "eGFUbGFhQzFFTUdwWT9vYz01",
+    "title": "Aldi cuts roles as supermarket sector faces margin pressure",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWXJZQ3BSU3JUNi16U0NFWXVBd25RVWhDSFRYVFdlSkFMR1lJR0NEWEV3YUI1dlVZX1RJN0FHYlR6OXdmdjdHT25sX2E4Tk56OFNxWVAtN1lVTUstZU1fbWgzVGRxRUM3bG9zRWhtenFKY2xpWFI2ekZPMlF6VERpTHVnMUpOU09MalpxaTlaaC1EMGpY?oc=5",
+    "sourceName": "InternetRetailing",
+    "publishedAt": "2026-11-11T11:23:59.000Z",
+    "analyzedAt": "2026-11-13T20:23:45.265Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Aldi cuts roles as supermarket sector faces margin pressure. Reflects broader competitive intensity and cost-control measures across retail.",
+    "angle": "Grocery retailers are under sustained margin pressure. This is a timely moment to engage Kroger, Costco, and Target on pricing analytics and automation to protect margins and optimize promotional spend.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "GZG5ZVVp3YXpZME9BP29jPTU",
     "title": "Consumers are turning to cheaper brands like it's 2021 as inflation pinches",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWhlQktuZU9LMG42NVVRMVU1LTd4eHpzNS1kZno2VTlnSWJ0QXBoMnY0MFAydDg5OEpGSWlIVUpzcTRNMGRoWnVkRkZPRVBnZjZJUFFsbnd1QzZfRnRRdUVtTkZDaUNvU19adUdoSmhQOHQ2QVR0Y25PaXcyQWJqeVU3a21ZYkRqSzB4c09VRFVYODl0N1Vta2E2aThLVnJYTWRvNTVKVjhyTG9BRW5nUGJtb3FhNHJnZ01GYVc0M0hIRFdnYUZwazY0OA?oc=5",
@@ -467,6 +730,24 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0xTjFOTWNIUlFkMDA_b2M9NQ",
+    "title": "Frozen Meat Products Sold Nationwide May Contain Dangerous Undeclared Allergens, USDA Warns",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXpKeHVNZHp4YmVNRDZaT2FxanktMmpfZ0NOeHRqNS15X092UGNiSkY5QndrSFI2TllUSVdPdmYtNHBjYnA1V1Nqc3hOUUcwTTNKYjI0Rzl3RlRBcjVsRG9ESkZkeVdJY3dRdEFaUTduS25NbnljRHE5bzdHUnpXR3RuNXozcXpjZ2E3UmVEYzA1Sk9WbTViWTRnTUZFZ2xQRTM1N1NMcHRQd00?oc=5",
+    "sourceName": "People.com",
+    "publishedAt": "2026-11-10T19:28:39.000Z",
+    "analyzedAt": "2026-11-13T20:23:52.121Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "USDA warns that frozen meat products sold nationwide may contain dangerous undeclared allergens, requiring rapid recall and compliance tracking.",
+    "angle": "CPG manufacturers and retailers need automated allergen tracking, ingredient compliance, and recall playbooks to manage label accuracy and regulatory risk across complex supply chains.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
     ],
     "mentionedAccounts": []
   },
@@ -1246,6 +1527,23 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RReWJHVldVRnBDVkE_b2M9NQ",
+    "title": "LA Port Strike Threat Deferred Again as Labor Talks Drag On",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkc2YjlrU1d4bEl0ZDh6X29RLU9lUkI0eHpXbVlBcDhNcThaeGhUSWJJNWFLVkdOcEp0MWJpUTFOMWoxTnZ0NklSTzVNeHp1NzljdmZLQjZMOTdVaENZYlI2RnpUMkxrRFUyX0VqTUd4azloQ2ZUS29DVUQ5aXVqdm52X2ZGM0FpN2FGTHVTVHpQMGJEQ1dSeE5lS3JPTmhUdm1nb0t2X1lNUTh4RlNYSENpQ05sR1B5NHFySHFRTTQybGVWUFpCVA?oc=5",
+    "sourceName": "Bloomberg.com",
+    "publishedAt": "2026-11-07T06:00:00.000Z",
+    "analyzedAt": "2026-11-13T20:23:58.620Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "LA/Long Beach port labor negotiations continue to drag, with strike threat deferred but unresolved; ongoing uncertainty for West Coast import supply chains.",
+    "angle": "Ongoing port labor risk creates urgent need for supply-chain visibility and contingency alerting; automation and workflow tools help retailers and CPG track port disruption signals and trigger playbooks to manage inventory and sourcing decisions.",
+    "play": "automation",
+    "products": [
+      "automation"
     ],
     "mentionedAccounts": []
   },

@@ -1,5 +1,91 @@
 [
   {
+    "id": "d4V1YyOUJNMkpWVVE_b2M9NQ",
+    "title": "Private brands rise as way to build retailer loyalty",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXJiblFHNTByN3lHMkJxcVU0STRxYjF0RnR2dEgwZ3BZX2xGQ1lSalhUQ3k4UFRPVUFDUUxEZlBsaEgtY0pTdXhSQ1RsZFBIQ3V3Ri1FUVc0Y1BoQlo4UjVwVkd0bUZYRmg5M2dodU9FTjBFT0dXLXhkZUVKbk5OamVpVzZIamFVaGRSX29CaWxlMndiTVBDV3NDQXYwZVVpbUNKdFNtMmFDMU9PSWxWV29BM2JVUQ?oc=5",
+    "sourceName": "New Hope Network",
+    "publishedAt": "2026-11-14T03:55:09.000Z",
+    "analyzedAt": "2026-11-14T18:41:02.103Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Retailers are increasingly leveraging private-label and owned brands as a loyalty and margin driver.",
+    "angle": "Private-label growth is a structural shift that affects category mix, shelf placement, and pricing power for CPG partners; customers need visibility into share trends and promotional ROI by brand tier.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VVlVSRGhaUWs1RlFRP29jPTU",
+    "title": "Tariffs Pushed Prices Up. Why Retail and Industrial Investors Shouldn't Expect a Quick Reversal",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnVEdXpvTnRDdG1aNmw0MWo4SC0xXzUyOXAwMGFIRUZWS0g0MHlDaEdUQktGcFZ5cmFhR2lCOHF2ekFwTmVlc1ZUWDM2OURkUnF1RzM5RlNZR01JWlNfMWZnUlhTTUM1bldFNWpCZWJtSXRKQU9va2FGYm5aaTVRaUl0b29LTWM0NWkyZEEtNzlBb04zdUVURDhZQk5FQQ?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-14T03:35:00.000Z",
+    "analyzedAt": "2026-11-14T18:41:02.103Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Tariffs have pushed retail and industrial prices higher, and economists expect price stickiness rather than rapid reversal.",
+    "angle": "Persistent tariff-driven cost inflation forces CPG and retail customers to reassess pricing strategy, supply-chain sourcing, and margin recovery—core analytics and automation use cases.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Fkc1lWZzRiM05qUVE_b2M9NQ",
+    "title": "The Next Wave of Food Inflation Is Coming",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
+    "sourceName": "WSJ",
+    "publishedAt": "2026-11-14T01:00:00.000Z",
+    "analyzedAt": "2026-11-14T18:41:02.103Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Food inflation is expected to accelerate in coming months, driven by tariffs, commodity costs, and supply-chain pressures.",
+    "angle": "Inflation cycles create urgency for CPG and retail customers to model pricing scenarios, optimize margins, and forecast demand—core uses of Account Intelligence analytics and automation.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xoT2VsSjZSMHRsTUE_b2M9NQ",
+    "title": "Over 122K cases of Gatorade recalled due to undeclared food dyes, FDA says - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnpyMUxSRVkyX3loSDB0N0VhTWFZbFVEczI3T2taLWNVci1ySFo5dWEtQ3RGZFFKODhudmVTSkV5WUt4Z1FZRFlXcV93cjEySE5ya3FaMDNDNXZWUFhxZ0k4b3QxZTA4ZlZEYTRIdTdEZjhsTVZnSFdfUjRfY0hIc1hoMXY4SFVsUG1VTEFkZUk2REFKX281ZjR3cnpmdi1jYnRR0gGoAUFVX3lxTE9XaFl6TDdra3FTY012dHZqYlpBTDBiVzgzNlNZZkE5ZDN3Zko3YlFNdkRmVE91TlNHdHB1WnFkTHhjRjdiaUNtUUdsYXdqSGdVUHJOdE1BNHUwOGl5ZXpNRHVFMmxhXzFIbV9YdWtJd1dYT0ZSVFBCeXVGYmVvNHB4Sy1kbmk1X1Z6MHpNem9jMTVUQzRBeHF6V1lYN1hhZlhOelJ6R0tlMA?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-13T23:51:59.000Z",
+    "analyzedAt": "2026-11-14T18:41:06.671Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "PepsiCo's Gatorade brand recalled 122K+ cases due to undeclared food dyes; FDA enforcement action.",
+    "angle": "Major recall affecting a named account's flagship brand. Drives urgent need for supply-chain visibility, recall workflow automation, and rapid impact analysis across distribution and retail partners.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kQ1pUbHZhMkZPZURRP29jPTU",
+    "title": "USDA Gives SNAP Retailers an Extension on Stocking Rule",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGN2OHY1b3NDb2h2QlFpUEJCM3pYS0NnbkRjbE5vME9Dc3k5TFFic1NfZTNZaThnOURTMHFBeVA1eUJMSnh6TVRxY3l6RmFYbWNNS2lmYkV2elZzZ3NHSTQ4SW9sWUc0akN0SWlfN0RTbWV5WjVubVV2MUVxUzkwSkYyS1FMdXZha0dCZTlva2FOeDQ?oc=5",
+    "sourceName": "Civil Eats",
+    "publishedAt": "2026-11-13T23:01:12.000Z",
+    "analyzedAt": "2026-11-14T18:41:06.671Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA extends deadline for SNAP retailers' stocking rule compliance, reducing immediate operational burden.",
+    "angle": "Relief on SNAP compliance timeline gives grocers breathing room but signals ongoing regulatory complexity. Relevant for retailers managing benefit-eligible SKU assortment and compliance reporting.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "3ZWxsLXRpbWVzLzg3NDU1My8",
     "title": "Port of Los Angeles grapples with elevated rail dwell times",
     "link": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
@@ -27,6 +113,23 @@
     "relevance": 2,
     "summary": "FTC urged to probe companies not sharing tariff refunds with consumers. Raises scrutiny on corporate pricing and pass-through practices.",
     "angle": "Regulatory focus on tariff refund pass-through creates compliance and reputational risk for CPG and retail. Customers need transparent pricing and margin data to defend tariff-related pricing decisions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WkZjV3h3TkdSaWNVRT9vYz01",
+    "title": "Kansas Grocers Navigate Rising Food Prices, SNAP Changes, Rural Store Challenges",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmh4Q3JueDQ2eXZaREpYRXlKQ3dILWowaXJMMW1icGxVSFN0S3loUU12a3NDaDBTaFg0ajZyeURDN1NZUmJuc2Nra25aekFWM3hRZ2VyYWQxU0JhekRnYV9XQWF1eld5MVVEbnZwOXp1YmFPcC1RN3EwTVN5TV9OQWtWUUNmRzNqSGVqdFRWWmZzR0kyOWZUNUkzVUJUZG5EbS1EZ0I5NEtmTGlQTFAyMXZFcWxwNGRicUE?oc=5",
+    "sourceName": "The Shelby Report",
+    "publishedAt": "2026-11-13T15:00:20.000Z",
+    "analyzedAt": "2026-11-14T18:41:02.103Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Rural grocers face headwinds from food-price inflation and SNAP/benefit changes affecting customer purchasing behavior.",
+    "angle": "SNAP changes and rural store challenges underscore demand volatility; smaller grocers need analytics to adapt inventory and promotions to shifting customer baskets.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -440,6 +543,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "dodFdVeExPRkpoU1E_b2M9NQ",
+    "title": "Pembroke grocery strike continues over pension disputes",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMVIxS3hJR19TaUVwdGJvRERZS1hrNWdpWkg3Sm5KcFJBMlV2anJGRjZVcTBSZGNsZlhnU2w3ckY0NGhsUXlocTJaRmpCSkdQZlBiN2s4MWZxbHdYSTVSWW9wZW5PQWhtWUxLOFJhSQ?oc=5",
+    "sourceName": "Valley News",
+    "publishedAt": "2026-11-11T23:57:00.000Z",
+    "analyzedAt": "2026-11-14T18:41:12.330Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Grocery store workers in Pembroke are striking over pension disputes, creating potential labor and supply-chain disruption in regional distribution.",
+    "angle": "Regional grocery labor actions can affect supply-chain execution and store staffing; relevant context for customers managing distribution and labor volatility.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dFJGbFRWR052ZUZsMz9vYz01",
     "title": "New SNAP restrictions take effect November 1",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnBSX1FNOGx2M3JqamFmcFZXZVliSjliVUgzb1B0cHZrWGpwMmtLY2VncWU5czhBYXEzamtfRzFGd3M4cDZjZmM3elZZeG45NjBTT0VWSnlGM0lPX1hYNDhoMHBodl9pVHB5bzltR1htNGlnUjh2cFJHcE9WcXRpdlRGMWtlUdIBmgFBVV95cUxQRGRJakdFRTB6WmtMUldoYW5kWXdNU2wyMUM3OUwxWC1vX1J0Y003djEtZVQxN3JUdTJXdG9YV2ZORlBreEhrNkxZeHR1RXhBNUlmZVl1U2Ric1BiUFNFY19ZX05hQXdjbkpiTzh1andHODBhc18zcmtYVjU5RjYtV1VsSktMZjhYUFh3LUJTSEJtRFlTVGNveFl3?oc=5",
@@ -450,6 +570,23 @@
     "relevance": 2,
     "summary": "New SNAP restrictions took effect November 1, affecting eligibility and benefit levels for low-income consumers. This changes purchasing patterns and demand signals.",
     "angle": "SNAP policy changes directly impact consumer demand forecasting and category mix for CPG and grocery customers; Account Intelligence's analytics suite can help model demand shifts and pricing strategy in response to reduced purchasing power.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MUVXVk5VWTI5NFdYYz9vYz01",
+    "title": "New SNAP restrictions take effect November 1",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGRJakdFRTB6WmtMUldoYW5kWXdNU2wyMUM3OUwxWC1vX1J0Y003djEtZVQxN3JUdTJXdG9YV2ZORlBreEhrNkxZeHR1RXhBNUlmZVl1U2Ric1BiUFNFY19ZX05hQXdjbkpiTzh1andHODBhc18zcmtYVjU5RjYtV1VsSktMZjhYUFh3LUJTSEJtRFlTVGNveFl30gGaAUFVX3lxTFBEZElqR0VFMHpaa0xSV2hhbmRZd01TbDIxQzc5TDFYLW9fUnRjTTd2MS1lVDE3clR1Mld0b1hXZk5GUGt4SGs2TFl4dHVFeEE1SWZlWXVTZGJzUGJQU0VjX1lfTmFBd2NuSmJPOHVqd0c4MGFzXzNya1hWNTlGNi1XVWxKS0xmOFhQWHctQlNIQm1EWVNUY294WXc?oc=5",
+    "sourceName": "WVIR",
+    "publishedAt": "2026-11-11T20:48:00.000Z",
+    "analyzedAt": "2026-11-14T18:41:12.330Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "New SNAP restrictions take effect November 1, affecting government benefit programs that influence consumer purchasing power and demand for packaged and grocery products.",
+    "angle": "SNAP changes directly impact consumer demand and category mix for CPG and retail customers; a talking point to discuss how analytics and demand forecasting help navigate shifts in benefit-eligible product categories.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -649,6 +786,26 @@
       "integrations"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "l6TmxKcmNHUlZNVms_b2M9NQ",
+    "title": "Costco Recalls Popular Thanksgiving Dessert Topping Over Contamination Concerns",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MWE5eG8wcEFRc0N5S2k4UThZMzVQRGd1NWVJUkdWZ0dsWF9BTGlMLXNNdFY1TDR2eXdxVjJJOXlFUS12VVVoaXFrMnZidWNqemJ4N2hZdmpEUHg4ZHF6emVVQkN3WC12QkpHWE5ZbENobEszZzIzNlJrcGRVMVk?oc=5",
+    "sourceName": "The Healthy @Reader's Digest",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "analyzedAt": "2026-11-14T18:41:06.671Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Costco recalls popular Thanksgiving dessert topping due to contamination concerns; timing-sensitive for holiday season.",
+    "angle": "Recall during peak selling season creates urgency for retail partners to track impacted inventory and communicate changes to shoppers. Demonstrates value of automation and real-time platform visibility.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Costco"
+    ]
   },
   {
     "id": "dWc2R6UktNREpvVFE_b2M9NQ",
@@ -1136,6 +1293,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "MFpOVW1JdFV6TmlVUT9vYz01",
+    "title": "Teamsters-Represented Associated Grocers Northeast Workers Say Their Strike ‘Will Last As Long As It Takes’ Amid Contract Dispute",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNS3pKWnhVanR1T1dKelotZHZnQ2hwdnhpWnNIMWZWNVYxWTdJak9mU196NDlaQ2Q4b090QzgyTG1NVC1FeG5vSWdua0J2U0dGbUVsRjVueVN4MXo2RFpPdjBYdm1CM3NZa0ZaY19SQ05KQnpERkVQQjlocERHUDFPUkVyMXJrdHlBTmwzckdHTGJlb1RhOVZzM1FLc092QzJqcm5EYXVwYjk4SkZKYnhiQThFYjhONy10UG5wYzhIVkhacEMtSkJ0cWs2QmZNSEVIOVJOVXRrM0dLRkNCUVAwNWxOZmtSZUFTRVNYc0s1WXR6dHFVZnVFRV9BcUVYNXl5M1drMWZFMEJfZUY0eFd3VXVNXzhwS0ZNUmItUzNiUQ?oc=5",
+    "sourceName": "WNY Labor Today",
+    "publishedAt": "2026-11-09T16:14:48.000Z",
+    "analyzedAt": "2026-11-14T18:41:12.330Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Teamsters-represented workers at Associated Grocers Northeast have launched a strike over contract disputes, affecting regional grocery distribution and supply.",
+    "angle": "Grocery distribution strikes directly impact inventory flow and store replenishment for regional and national retailers; automation and alerting help route impact to merchandising and supply-chain teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "uZy1lZmZvcnRzLzg3MzYzNi8",
     "title": "Kroger accelerates direct sourcing efforts for better cost control, visibility",
     "link": "https://www.grocerydive.com/news/kroger-accelerates-direct-sourcing-efforts/873636/",
@@ -1245,6 +1419,23 @@
     "products": [
       "automation",
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "qVWpZNGNEaEtWV3hSP29jPTU",
+    "title": "Port of Los Angeles strike threat deferred to Nov. 20",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tUTQ5aDhPcHRBVTJRSWlwRUJtV2lVM1Uxand2N2VSbzk5U2dKSGZoTnhmWWxRRWZfYUZSVFBUeS04RWxGUkpzR01yRGpDcVdfS2dDRi15QU82azFac1ZZUjRGU0FjUjY4cDhKVWxR?oc=5",
+    "sourceName": "Transport Topics",
+    "publishedAt": "2026-11-09T13:58:11.000Z",
+    "analyzedAt": "2026-11-14T18:41:12.330Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Port of Los Angeles strike threat deferred to November 20 as union negotiations continue, creating ongoing supply-chain risk for import-dependent CPG and retail operations.",
+    "angle": "Port disruption threatens inbound supply for CPG and retail; customers need real-time visibility into logistics delays and inventory impact—a key use case for workflow automation and alerting.",
+    "play": "automation",
+    "products": [
+      "automation"
     ],
     "mentionedAccounts": []
   },

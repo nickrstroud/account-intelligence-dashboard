@@ -1363,5 +1363,35 @@
         "publishedAt": "2026-11-13T19:07:30.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-14T18:40:25.926Z",
+    "source": "daily",
+    "headline": "P&G Q3 2026: earnings call signals budget availability and continued AI/data investment momentum",
+    "signals": [
+      {
+        "category": "Q3 2026 Earnings & AI/Data Investment",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G reported Q3 2026 earnings with continued focus on AI and data-driven decision-making. Earnings call signals financial health and ongoing commitment to analytics and digital transformation.",
+        "suggestedAction": "Review Q3 earnings call transcript for specific mentions of data, analytics, or AI initiatives. Schedule a check-in with their Chief Data Officer or Analytics leadership to discuss how P&G is applying advanced analytics (demand forecasting, pricing optimization, market-share analysis) across their portfolio, and identify any gaps in coverage or new business units entering analytics workflows.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLNFU4X21TbzhmakZabExZNUg1alVWVndWNHBISGVDLWZLdURDc0VwSWJXQlJQeWJsOURXN050TTliY3BnazQxTjAzLVV5MFFhaW1hLVRZMmxEUHgxTXNMelVwMk1oNHJmSUVyaw?oc=5",
+        "publishedAt": "2026-11-13T18:21:59.000Z"
+      },
+      {
+        "category": "AI and Data Platform Initiative",
+        "updateType": "technology",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G St. Louis facility milestone marks 100 years with emphasis on AI adoption and modern data capabilities. Executive commentary highlights AI as a strategic priority across operations.",
+        "suggestedAction": "Reach out to the P&G executive quoted in the St. Louis article to understand how AI is being deployed in product development, supply chain, and merchandising. Explore whether advanced analytics (demand forecasting, pricing analysis) is part of their AI roadmap, and whether new teams or business units should be onboarded to the Analytics Suite.",
+        "sourceName": "STLtoday.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZElNSWt2VXNreHhCNExOcXA4T1hHWGhnOHVMc19SSGxlelpMLUJGZ2NvMl92S0pxX2hTaEhqOTFrQTR4N2hWWlFla0MtbzhDSVcxRzVNWDQyMFhnLXdtazRIUDVXa1l3Ylo2WTVvWUdCV0V4czZ6N1VHZFhzSXdyaVdBVEEwTHk0dFBTSnU3c24tcHlqeExUc3BB?oc=5",
+        "publishedAt": "2026-11-13T16:42:00.000Z"
+      }
+    ]
   }
 ]

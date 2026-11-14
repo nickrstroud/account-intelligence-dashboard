@@ -1230,5 +1230,35 @@
         "publishedAt": "2026-11-12T02:38:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-14T18:40:27.133Z",
+    "source": "daily",
+    "headline": "Costco gas station expansion and supply-chain quality incidents; mixed signals on growth and operational risk",
+    "signals": [
+      {
+        "category": "Gas station expansion",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Costco Eastside warehouse opened a new 50-pump gas station, indicating capacity and member-service expansion at a key location.",
+        "suggestedAction": "Ask about gas-station rollout plans for 2027—does this signal broader membership-experience infrastructure investment? Explore whether new warehouse or ancillary services are planned, and confirm current platform coverage across Costco's network of locations.",
+        "sourceName": "The Seattle Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS194MGppTVVhNzFNUWp5WXJIY0h5OWRpdjZCZkxQVWd1ci0wRXY5TktjX21BZjJXUTl3TUQ2T2VpM0IwTko2RDJVU0wyaHVqZnRBeWdoeklOU1J6OXVsb0YyVnZ6MWFEQnNvNHpJMTBTWWFQbGdsSlBHV1E5MURqcnFMYWd1S0tsT1JnOURWLTZUSEVhM2ZRU0hRR0FfQjVXUGZz?oc=5",
+        "publishedAt": "2026-11-13T23:32:08.000Z"
+      },
+      {
+        "category": "Kirkland product recall—cleaning chemical contamination",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco's private-label dessert (Kirkland Signature) recalled over cleaning-chemical contamination risk—a quality/supply-chain incident affecting high-volume merchandise.",
+        "suggestedAction": "Reach out to VP of Quality or Supply Chain Operations with a tone of support: offer a brief overview of how workflow automation and real-time alerting can help catch and coordinate recall response faster across warehouses and categories. Position as a tool to protect margin and brand trust on high-velocity private label.",
+        "sourceName": "NBC 5 Chicago",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1lkajNRd2N0djVQMmd3czMxaWxlWkRqSEoweHpsVXFFaDBqZm5yQWRyMk5KWHI5bmRnT3M2WXBZbVhCa1RUaUR0X3BlWGlOR0xlREp2cXFDWklkb1Y1aXhHWmppTkkxTWo0RXlaeEhPTkoxSGVsbXVlYl9MbUl2MmN2WXdsV08zV1JRTWxrTXlsdm9WZ0hXdm05N21odm82bUN3V1d5YnIxb0ZOSDl2cmRpMzJaZ9IBvgFBVV95cUxOU1pKVzhfYno5VU5FWGZ2SXVDU05ZdEFKbVQycHZ1ZU1xZFA2T3F5ZkZNanBqcXlVeHA2cGphTUJpUldtc19pVFRuTUhBa204c09NNXRZcnpuUTJwT204ZlFIbTFQNG9RUDU5ZzBiNng1RERNcTdMNzZ1VDE1eW10Nmd0LXN2dzlRMmdGZk9nRU51enRjUmRUSGh5WDNhQXNUY21PclVTb3dKSzZRdE4yT3AwMEY4dFZGOER3UGJB?oc=5",
+        "publishedAt": "2026-11-13T14:36:24.000Z"
+      }
+    ]
   }
 ]

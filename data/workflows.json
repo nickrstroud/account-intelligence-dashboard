@@ -58489,5 +58489,362 @@
     },
     "doneWhen": "Health-check findings documented and shared with [CFO / Finance Operations Lead]; renewal risk cleared or mitigation plan in place; analytics pilot interest surfaced or tracked as future expansion.",
     "generatedAt": "2026-11-13T20:23:29.282Z"
+  },
+  "a_1ocd4qa": {
+    "signalId": "a_1ocd4qa",
+    "account": "Costco",
+    "signalTitle": "Gas station expansion",
+    "play": "onboard_expand",
+    "goal": "Understand Costco's 2027 membership-experience infrastructure roadmap and identify opportunities to expand platform coverage across new warehouses and ancillary services.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Membership Experience or VP Warehouse Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Costco Eastside gas-station opening date and capacity details via public filings or warehouse inventory system.",
+          "Audit current platform deployment: which warehouses, business units, and ancillary services are currently covered?",
+          "Check renewal status and contract end date; identify any open product gaps flagged in prior QBRs."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Brief Account Executive and Product Manager on gas-station expansion signal and whitespace (analytics for member/category insight, integrations for new-market rollouts).",
+          "Align on whether to lead with membership-experience analytics (member behavior at gas vs. warehouse) or integrations (new location data flow).",
+          "Confirm owner and secondary contact; agree on outreach timing and tone."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Reach out to [VP Membership Experience] with warm note on gas-station expansion—frame as listening conversation on how platform can support new member touchpoints.",
+          "Request 30-min call to discuss: 2027 rollout plans, data and analytics needs for member traffic and spend trends, and current platform footprint gaps."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "On call: map current platform coverage against warehouses, fuel, and private-label services; identify which new locations or member-experience initiatives need data visibility.",
+          "Propose analytics or integration roadmap aligned to 2027 expansion; scope pilot for one new warehouse or fuel location if expansion is confirmed."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call notes and expansion intel in CRM; flag any new warehouse or service launches for follow-up.",
+          "Schedule 30-day check-in to assess pilot readiness or proposal review timeline.",
+          "Share anonymized insights on membership-service expansion trends back to Product team."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Your gas-station expansion and 2027 membership insights",
+      "body": "Hi [VP Membership Experience],\n\nCongratulations on the Costco Eastside gas-station expansion—a 50-pump capacity is a significant membership-experience investment. We're curious about your 2027 roadmap: are more fuel and ancillary services planned across other warehouses?\n\nWe'd love a brief call to understand how our platform can help you see member behavior and spend trends across these new touchpoints. It's a great moment to ensure your data infrastructure scales with the expansion.\n\nFree next Tuesday or Wednesday?\n\nThanks,\n[Your Name]"
+    },
+    "slack": "Costco Eastside opened a 50-pump gas station—signals broader membership-experience and warehouse expansion for 2027. Currently running core platform only; whitespace: analytics (member/category) and integrations (new locations). AE + CS Director to lead discovery on gas-station rollout plans and platform coverage gaps. First touch: call with [VP Membership Experience] by Day 7 to map 2027 roadmap and propose analytics or integration pilot.",
+    "crmTask": {
+      "title": "Explore 2027 gas-station and membership-expansion roadmap; assess analytics and integration opportunity",
+      "due": "In 7 days",
+      "notes": "Signal: Costco Eastside gas-station expansion (50 pumps, Nov 2026). Indicates capacity and member-service growth. Current state: core platform only. Whitespace: analytics for member/category insight, integrations for new-market and location rollouts. Action: validate platform footprint, align internally on lead and product focus, engage [VP Membership Experience] on 2027 plans and data needs, propose pilot scope for new warehouse or fuel location."
+    },
+    "doneWhen": "Call completed with [VP Membership Experience] and 2027 expansion roadmap confirmed; next steps or proposal agreed or scheduled.",
+    "generatedAt": "2026-11-14T18:40:39.710Z"
+  },
+  "a_1ix3641": {
+    "signalId": "a_1ix3641",
+    "account": "Costco",
+    "signalTitle": "Kirkland product recall—cleaning chemical contamination",
+    "play": "protect_renewal",
+    "goal": "Demonstrate workflow automation and real-time alerting as a tool to accelerate recall response, protect Kirkland Signature brand trust, and reduce margin impact on high-volume private label.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP of Supply Chain Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Check Costco's current coverage: confirm core platform footprint across categories and markets affected by recall.",
+          "Review renewal date and expansion whitespace (integrations for new-market rollouts, analytics for private-label insight).",
+          "Confirm no open support issues or escalations tied to data quality or reporting lag during critical supply-chain events."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Brief Account Executive and CS Director on recall context and timeline; confirm [VP of Supply Chain Operations] is the right entry point.",
+          "Sync with Product on workflow automation roadmap for supply-chain alerting and cross-functional playbooks (priority for this segment)."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Email [VP of Supply Chain Operations] with support and a concrete insight: mention how real-time alerting on quality flags and automated escalation across regions can shorten time-to-response on recalls.",
+          "Propose a brief 20-min call to discuss how workflow automation fits their current recall coordination process and Kirkland SKU velocity."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Walk through a recall scenario: show how workflow automation + integrations can flag anomalies in inventory, sales velocity, and quality events earlier.",
+          "Position workflow automation as a 2027 expansion pilot tied to Kirkland operations and high-volume SKU protection."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log conversation and expansion interest in CRM with timeline (pilot scope, budget authority, sponsor).",
+          "Report back to Product on workflow automation demand for supply-chain recall and QA use cases."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Support on Kirkland recall response + how real-time alerting can help",
+      "body": "Hi [VP of Supply Chain Operations],\n\nWe saw the Kirkland Signature recall news and wanted to reach out to see how we can help. We know recall coordination across regions and categories moves fast—and timing is everything to protect margin and brand trust.\n\nWe've been thinking about how real-time alerting and automated escalation across your supply-chain and merchandising teams could catch quality flags and coordinate response faster. Would a brief call be helpful to walk through how workflow automation fits your recall process and Kirkland's scale?\n\nLet us know how we can support you this week.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 Costco Kirkland Signature product recall (contamination risk)—high-velocity private label at risk. This is a protect_renewal play: show workflow automation + alerting as a tool to accelerate recall response and protect margin/brand. AE + CS Director lead; entry is [VP of Supply Chain Operations]. Goal: pilot workflow automation for supply-chain QA and recalls in 2027. Sync with Product on supply-chain alerting roadmap.",
+    "crmTask": {
+      "title": "Kirkland Recall Response: Workflow Automation + Real-Time Alerting Pilot",
+      "due": "In 3 days",
+      "notes": "Costco private-label recall (cleaning chemical contamination, 11/13/26). Signal: high-volume SKU at risk, recall coordination across warehouses and categories is time-critical. Play: position workflow automation and alerting as a tool to accelerate QA escalation and cross-functional response. Whitespace: integrations for new-market rollouts, analytics for member/category insight. Next: 20-min call with [VP of Supply Chain Operations] on workflow automation fit for recall scenarios and Kirkland velocity. Pilot scope and budget authority TBD."
+    },
+    "doneWhen": "Call scheduled with [VP of Supply Chain Operations] and workflow automation pilot interest captured (scope, timeline, budget owner).",
+    "generatedAt": "2026-11-14T18:40:39.971Z"
+  },
+  "a_vkc2n4": {
+    "signalId": "a_vkc2n4",
+    "account": "Procter & Gamble",
+    "signalTitle": "AI and Data Platform Initiative",
+    "play": "onboard_expand",
+    "goal": "Expand Analytics Suite footprint into supply chain and merchandising teams leveraging P&G's AI-first strategic direction.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP of Data & Analytics / Chief Data Officer",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm P&G's AI roadmap scope: which business units and use cases are prioritized (product dev, supply chain, merchandising)?",
+          "Review current platform footprint: which teams own Core Platform and Analytics Suite today, and which are whitespace?",
+          "Check renewal status and any open platform health issues to avoid overlap with distress signals."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief AE on expansion opportunity: supply chain and merchandising AI use cases (demand forecasting, pricing optimization) align with our Analytics Suite strengths.",
+          "Loop in Product: confirm roadmap for AI-driven alerts and automation features that could support P&G's AI vision.",
+          "Assign Account Executive and CS Director co-lead on outreach; AE owns expansion scope, CSM owns implementation logistics."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP of Data & Analytics] referencing the St. Louis facility announcement and P&G's AI strategic focus; invite 30-min conversation on how our Analytics and Workflow Automation capabilities support demand forecasting, pricing, and supply chain alerting.",
+          "Prepare 1-pager: Analytics Suite use cases in supply chain and merchandising, with prior CPG/retail customer examples (anonymized).",
+          "If warm, schedule call with [VP of Data & Analytics] and relevant supply chain or merchandising stakeholder."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Conduct discovery call: map P&G's AI roadmap to our product capabilities (demand forecasting, pricing analysis, supply-chain automation); identify pilot use case (e.g., demand forecasting for top 3 categories).",
+          "Proposal: scope for Analytics Suite rollout to 1-2 supply chain and merchandising business units; include Workflow Automation for alerts and approvals.",
+          "Define success metrics: e.g., 2-3 business units onboarded in Q1 2027, adoption of demand forecasting for 5+ categories."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log proposal and business unit expansion plan in CRM with renewal-risk buffer; flag for quarterly business review.",
+          "Assign CSM to supply chain and merchandising teams post-close for implementation support.",
+          "Gather product feedback from P&G on AI-first analytics workflows; share with Product for roadmap input."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "P&G's AI Strategy + Our Analytics Suite for Demand & Pricing",
+      "body": "Hi [VP of Data & Analytics],\n\nCongratulations on P&G's 100-year milestone and the St. Louis facility's renewed focus on AI and modern data capabilities. We've seen this drive real impact for peers in CPG and retail—especially in supply chain forecasting and dynamic pricing.\n\nGiven your AI roadmap, we'd love a quick conversation about how our Analytics Suite (demand forecasting, pricing optimization) and Workflow Automation (alerts to supply chain and merchandising teams) can accelerate these initiatives. \n\nWould you have 30 minutes next week to explore how this fits into your plans?\n\nBest,\n[Your Name]"
+    },
+    "slack": "P&G's 100-year announcement signals AI as a core strategic priority—opens whitespace for Analytics Suite in supply chain and merchandising. We own Core Platform and Analytics across brand teams today; opportunity is to expand into operations and retail-focused teams with demand forecasting and pricing optimization. AE + CSM co-lead outreach to [VP of Data & Analytics] this week; discovery call will map their AI roadmap to our product. Ask: Can we uncover a pilot use case and secure Q1 2027 expansion commitment?",
+    "crmTask": {
+      "title": "P&G Analytics Suite Expansion – Supply Chain & Merchandising (AI Roadmap Alignment)",
+      "due": "In 5 days",
+      "notes": "Signal: P&G's AI and Data Platform Initiative announced in St. Louis facility milestone (Nov 2026). Strategic opportunity to expand Analytics Suite (demand forecasting, pricing optimization) and Workflow Automation into supply chain and merchandising teams. Whitespace to address: AI-driven alerts and playbooks for retailer-specific actions. Current footprint: Core Platform + Analytics Suite across brand teams. Proposed play: onboard supply chain and merchandising business units with demand forecasting pilot in Q1 2027. Owner: AE + CSM. Next: validate scope, engage [VP of Data & Analytics], discovery + proposal by mid-month."
+    },
+    "doneWhen": "Supply chain or merchandising business unit commits to Analytics Suite onboarding with defined pilot use case and Q1 2027 kickoff date.",
+    "generatedAt": "2026-11-14T18:40:40.536Z"
+  },
+  "a_jmjrp": {
+    "signalId": "a_jmjrp",
+    "account": "Procter & Gamble",
+    "signalTitle": "Q3 2026 Earnings & AI/Data Investment",
+    "play": "onboard_expand",
+    "goal": "Expand analytics and automation coverage across P&G's new AI/data transformation initiatives and into workflow automation for retailer-specific alerts.",
+    "owner": "Account Executive + CS Director + Product Insights",
+    "contactRole": "Chief Data Officer, VP Analytics, VP Supply Chain",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review P&G Q3 2026 earnings call transcript for specific data, AI, and analytics investments; map to current platform footprint",
+          "Audit current coverage: which P&G brands and business units run platform + analytics today; identify teams not yet onboarded",
+          "Check for retailer-specific operational gaps: supply chain, merchandising, and marketing teams that could benefit from workflow automation for retail alerts"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Product on P&G's AI/data priorities (demand forecasting, pricing, market-share) to surface alignment and any feature roadmap fit",
+          "Align AE + CS on expansion scope: automation for retail alerts is likely high-ROI; confirm sales coverage for new business units",
+          "Confirm renewal status and contract terms to ensure expansion proposal timing works with procurement cycles"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send brief check-in email to [Chief Data Officer] or [VP Analytics] referencing Q3 earnings focus on AI/data transformation and specific mention of their priorities",
+          "Propose 30-min conversation with [CDO] + [VP Supply Chain] to discuss how advanced analytics and automated retailer alerts could accelerate their transformation roadmap",
+          "No pitch yet; focus on understanding their new initiatives and where our platform can deepen impact"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "In conversation, map P&G's stated AI/data goals to existing analytics use cases (demand, pricing, market-share) and surface workflow automation as adjacent expansion",
+          "Identify 1–2 highest-priority business units or brands for automation pilot; confirm integration needs and retail alert requirements",
+          "Propose expansion SOW or amendment: automation add-on for selected teams, scoped to specific retailer workflows; timeline and resource plan"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion opportunity in CRM with confirmed business unit(s), product scope, and expected ARR uplift",
+          "Set 30-day check-in to confirm pilot scope and kick-off timeline; ensure Product receives feedback on workflow automation feature usage",
+          "Close once expansion contract is signed and automation onboarding is scheduled"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "P&G's AI & Data Strategy: How Workflow Automation Fits Your Roadmap",
+      "body": "Hi [Chief Data Officer],\n\nCongratulations on P&G's strong Q3 earnings and continued investment in AI and data-driven decision-making. We've been impressed by your focus on advanced analytics across the portfolio.\n\nWe'd love to explore how workflow automation—specifically, real-time alerts and playbooks for retailer-specific insights—could accelerate your transformation roadmap. Many P&G brands are running demand and pricing analytics with us today; the next step is routing those insights to your supply chain and merchandising teams faster.\n\nWould you and [VP Supply Chain] have 30 minutes in the next two weeks to discuss? We have ideas tailored to your portfolio structure.\n\nBest,\n[Your Name]"
+    },
+    "slack": "P&G Q3 earnings call signals continued AI/data transformation momentum. We own core platform and analytics across their brand teams, but workflow automation for retailer alerts is a gap. Goal: expand automation add-on to supply chain and merchandising functions tied to their stated analytics roadmap. AE leads outreach to CDO + VP Supply Chain. Ask: confirm expansion scope, identify 1-2 pilot brands, and propose SOW within 2 weeks.",
+    "crmTask": {
+      "title": "P&G: Expand to Workflow Automation for Retailer Alerts (Q3 2026 Earnings)",
+      "due": "In 2 weeks",
+      "notes": "Signal: Q3 earnings call emphasizes AI/data investment and analytics transformation. Owned products: Core Platform, Analytics Suite, Data Integrations. Whitespace: Workflow Automation for supply chain and merchandising teams receiving retailer-specific alerts. Expansion play: scope automation add-on to 1–2 high-priority brands; align with their stated data transformation roadmap. Next step: outreach to CDO/VP Analytics + VP Supply Chain. Renewal status: confirm timing to align with P&G's contract cycle."
+    },
+    "doneWhen": "Expansion SOW signed for Workflow Automation add-on covering at least one new business unit or brand team; automation onboarding scheduled.",
+    "generatedAt": "2026-11-14T18:40:40.726Z"
+  },
+  "a_1daaqnc": {
+    "signalId": "a_1daaqnc",
+    "account": "Kroger",
+    "signalTitle": "New Store Opening",
+    "play": "onboard_expand",
+    "goal": "Confirm Zionsville store onboarding process and expand platform coverage to all Q1 2027 new locations to grow operational data volume.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Store Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check Kroger's current store coverage map in platform; identify whether new locations auto-onboard or require manual setup",
+          "Confirm Q1 2027 store opening plan (number, locations, go-live dates) via internal Ops/Supply Chain contact",
+          "Review any open issues or delays in existing store deployments that may affect Zionsville readiness"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Sync with Sales on expansion revenue potential (incremental seats/data volume); confirm AE will join customer call",
+          "Brief Support/Ops on deployment readiness and data integration needs for new store onboarding workflow"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach out to [VP Store Operations] with newsworthy hook: congrats on Zionsville opening, offer to map coverage and confirm platform auto-onboards store alerts",
+          "Share 2-minute overview of how other Kroger banners use workflow automation for new-store supply-chain ramp"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Map Zionsville + any other Q1 openings into coverage model; confirm store ID, POS integration, and alert playbook inheritance",
+          "Propose expansion scope: platform seats for new store team, automation rules for opening-week supply-chain events",
+          "Share rollout timeline and go-live success criteria with [VP Store Operations] and regional operations lead"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 21+",
+        "tasks": [
+          "Log expansion opportunity and coverage expansion to CRM; set renewal health flag positive",
+          "Validate Zionsville data flowing into platform post-go-live; confirm automation alerts active",
+          "Schedule post-launch check-in to identify additional Q2/Q3 opening candidates"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Zionsville Store Opening — Platform Readiness Check",
+      "body": "Hi [VP Store Operations],\n\nCongrats on the Zionsville location opening January 14. We want to make sure the new store is set up for success from day one with platform alerts and supply-chain automation.\n\nQuick questions: Are new stores automatically onboarded to our platform for store ops and supply-chain alerting, or does your team handle setup per location? We'd love to confirm Zionsville is covered and map any other Q1 openings into your alert playbooks.\n\nHappy to sync briefly to confirm next steps.\n\nBest,\n[Your Name]"
+    },
+    "slack": "Kroger signal: Zionsville store opening Jan 14 is incremental expansion opportunity. Need to confirm whether new-store onboarding to platform is systematic or manual, then map Q1 2027 openings into coverage. AE to lead customer conversation; CS validates deployment readiness. Win condition: Q1 store locations added to platform + workflow automation rules confirmed active by launch.",
+    "crmTask": {
+      "title": "Kroger: Q1 2027 New Store Onboarding (Zionsville + Pipeline)",
+      "due": "In 5 days",
+      "notes": "Signal: New store opening Zionsville, IN (Jan 14, 2027). Expansion play: confirm new-store onboarding process (auto vs. manual); map Q1 2027 locations into core platform coverage and workflow automation. Account owns platform + automation; whitespace in analytics (pricing, demand) and integrations (post-merger banners). Largest traditional US supermarket operator (2,800+ locations). Status: Initial outreach to VP Store Operations to confirm process and identify pipeline."
+    },
+    "doneWhen": "Zionsville store confirmed onboarded to platform with store ops and supply-chain alerts active by January 14, 2027 go-live; Q1 2027 store opening pipeline mapped and onboarding timeline agreed.",
+    "generatedAt": "2026-11-14T18:40:52.593Z"
   }
 }

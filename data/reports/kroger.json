@@ -1637,5 +1637,24 @@
         "publishedAt": "2026-11-12T10:02:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-14T18:40:26.073Z",
+    "source": "daily",
+    "headline": "Kroger continues incremental store expansion; investment focus on dividend returns and operational stability",
+    "signals": [
+      {
+        "category": "New Store Opening",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "Kroger opening new location in Zionsville, Indiana on January 14, 2027. Single-store opening is routine for the nation's largest traditional supermarket operator (2,800+ locations), but represents incremental platform coverage and operational data growth.",
+        "suggestedAction": "Confirm with the Ops team whether new store locations are automatically onboarded to the core platform for store operations and supply-chain alerting. If not systematic, offer to map Zionsville and any other Q1 2027 store openings into their coverage model.",
+        "sourceName": "Current Publishing",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEYybllGM2RTdkV2V2Nia056VC1aZlhOTmpzYVczWjhvZDZjcmo1TGtnbFpIc1dNb0pmb1Vha2c3eE1HZDF0Z2hiT3ZsQ2tPTndTQ1AtclZxcWxlTlNObVAyam9zeFFXWHhjdkx2akpRWWpSc2oyLWFaWFhmUUhXb05TRXNxazhET0J5cjFvSQ?oc=5",
+        "publishedAt": "2026-11-13T21:46:01.000Z"
+      }
+    ]
   }
 ]

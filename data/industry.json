@@ -1,5 +1,41 @@
 [
   {
+    "id": "YVZWZFFTVGR2VFVOSj9vYz01",
+    "title": "Associated Grocers strike in Pembroke continues into second week",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkRqeG5fajBRYWpwUEZkc1ppZ0laeXp5eVBXUHdPLVoweVRaUGlQSHdvQjgyVW9VUjV6X0xBVUVHVDhQWkFKSjYtbWdqZFZHZDRkdUFJQXZYN2JlSlRaR2hJZm1DSGtnTzhxd1ZDckdwcHg3OE5CTjYxT3JlVlNJNnctekliUlhaNjNaVVdQSTdvTUNJ?oc=5",
+    "sourceName": "Concord Monitor",
+    "publishedAt": "2026-11-14T19:00:00.000Z",
+    "analyzedAt": "2026-11-15T19:16:55.831Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Strike at Associated Grocers distribution center in Pembroke enters second week, disrupting supply to regional retailers and creating potential inventory and fulfillment gaps.",
+    "angle": "Labor disruptions at key distribution points create supply-chain visibility and contingency-planning needs; customers need real-time alerts and scenario modeling to respond to upstream shocks.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hSRll3WjIxRFNWSkI_b2M9NQ",
+    "title": "Egg recall linked to salmonella upgraded to highest risk level by FDA - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVzJhYk82T1JxNDF4TS1NX2pqWXdZNWlaMno3WE5sVldZZUJzM1lXcE1PekxJU1pEV1g2aTR5XzZGVEtmV0JpaTI5eTJvemhPVXl5ekR3VnBnRnFzNUlkUFpSQ2pjZE5qdExaTVVOQVhFcjR0Q01wRWk2QVA2cU1nRkpicHEtUmJXajlLUGRjLXRhX3cxZm9PU3lWclBGNFRpV2YzbjRQOVdhNFFfVzgtcWFHRFYwZ21DSVJB?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-14T12:46:42.000Z",
+    "analyzedAt": "2026-11-15T19:16:55.831Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "FDA upgraded egg recall linked to salmonella to highest risk level, signaling a major food safety incident with potential broad impact across CPG and retail supply chains.",
+    "angle": "Major food safety recall creates urgent need for supply-chain visibility and real-time alerting across distribution networks; a key use case for automation workflows that route recalls to the right teams.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "d4V1YyOUJNMkpWVVE_b2M9NQ",
     "title": "Private brands rise as way to build retailer loyalty",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXJiblFHNTByN3lHMkJxcVU0STRxYjF0RnR2dEgwZ3BZX2xGQ1lSalhUQ3k4UFRPVUFDUUxEZlBsaEgtY0pTdXhSQ1RsZFBIQ3V3Ri1FUVc0Y1BoQlo4UjVwVkd0bUZYRmg5M2dodU9FTjBFT0dXLXhkZUVKbk5OamVpVzZIamFVaGRSX29CaWxlMndiTVBDV3NDQXYwZVVpbUNKdFNtMmFDMU9PSWxWV29BM2JVUQ?oc=5",
@@ -79,6 +115,41 @@
     "relevance": 2,
     "summary": "USDA extends deadline for SNAP retailers' stocking rule compliance, reducing immediate operational burden.",
     "angle": "Relief on SNAP compliance timeline gives grocers breathing room but signals ongoing regulatory complexity. Relevant for retailers managing benefit-eligible SKU assortment and compliance reporting.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wUnhjSEpSUmtWVlZRP29jPTU",
+    "title": "NYC Bodegas Get Reprieve From New SNAP Rules After Mamdani-Trump Call, Mayor Says",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVldoNHNLMDRIX2RCTm16ZnJmQXdxS0FMQ3Mtb3RaTXFqNXBLWjBlTWZQWkRkQUtKcWxiLVpaSW1wdnpVcHpCT1NmT0swTVJjeGd0X0JydzZwMmFnTlRkMXNMSGRmTkhMcXI1dFpGSWlrSldRZ2ZNSTJoZUs1TzZReTRnVHN4TDFoelZ5TTZkX3UwcXBOa3ZiMXBuV1c5d0RxcHJRRkVVVQ?oc=5",
+    "sourceName": "The City Reporter",
+    "publishedAt": "2026-11-13T22:54:07.000Z",
+    "analyzedAt": "2026-11-15T19:16:55.831Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "NYC bodegas receive reprieve from new SNAP rules following political intervention; suggests regulatory volatility around benefit program compliance for small retailers.",
+    "angle": "SNAP rule changes and enforcement create compliance complexity for retailers; customers managing multiple store formats and regulatory jurisdictions need analytics and planning tools to model impact on basket mix and store economics.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWnpnMVFXZElhMGMwP29jPTU",
+    "title": "Mamdani Announces 90-Day Extension For Small Retailers to Meet New Federal Requirements",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlpEQ0l0bDQ4QmVxcHhWenhQc1ZYeU1qVlMyVUhRdkMtWWgzWUJ5UjZYR00ySkJXVzUyUFV0ci10bHplMmkwZUhyNzNNWWszSkhwaFVqd3U1ODU4T2RiSEpXSUFPa29WRC1CWEs3enNSODdXOHpaemV4LWRuMDlCSHhSS2drdmJQblg5UmVZQlc5cVhDRVlDQ0xpbW5ZaTdOTDk1OWU5ZU9aWkJpZVlHbVRDTGtSWTlfdjNaTEs2aE1sWnlxLUhKZzg1QWdIa0c0?oc=5",
+    "sourceName": "BKReader",
+    "publishedAt": "2026-11-13T19:40:00.000Z",
+    "analyzedAt": "2026-11-15T19:16:55.831Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Federal government announces 90-day extension for small retailers to meet new federal requirements, indicating compliance deadline pressure across retail sector.",
+    "angle": "Regulatory compliance deadlines and extensions are touch points for customers running multi-format retail operations; helps frame conversation about operational readiness and data governance.",
     "play": "platform",
     "products": [
       "platform"
@@ -204,6 +275,23 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VkpNUlhSUVFXaFlTQT9vYz01",
+    "title": "Outbreak Investigation of E. coli O26:H11: Raw Milk Cheese (September 2026)",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbno3cGVuUXlVcTVqVmVESXVUbjJvR1lJbDI3cTZsLVI3dWY2QXpsazlYeDFpX3Nna2JIX3BXd2RsbGlzM3hwdkpFUTdHNVRVUUxBeXd4d0RTNUlwc3dFeDd0V0E0Znc2QmROMUlpSmhtV3lkcVhZQWV1TWRzLXNIRnlVak5FTVE4VGVnTVlRLXVCT2JRUks5WE9zSVFkS2NBa0xiMXhQcEg2ZUNfNGJfLTc4dVJMRXRQQWhYSA?oc=5",
+    "sourceName": "U.S. Food and Drug Administration (.gov)",
+    "publishedAt": "2026-11-13T00:00:00.000Z",
+    "analyzedAt": "2026-11-15T19:16:49.722Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FDA outbreak investigation into E. coli O26:H11 in raw milk cheese from September 2026. Food safety issue affecting dairy supply chain and retail shelves.",
+    "angle": "CPG and grocery customers need to monitor and respond to food safety recalls. This is a trigger for conversation about supply-chain visibility, recall alerting, and cross-functional coordination across quality, procurement, and merchandising teams.",
+    "play": "automation",
+    "products": [
+      "automation"
     ],
     "mentionedAccounts": []
   },
@@ -489,6 +577,24 @@
     "mentionedAccounts": [
       "Costco"
     ]
+  },
+  {
+    "id": "IWnVPWE5uUW5wVGJBP29jPTU",
+    "title": "A Quarter of Key Goods Vulnerable to Supply Disruptions, Study Finds",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2tZeG5TXzA3T242OHBiUFBNWTFCRlhmUHhGdkdxMmhmeW5ma2hLSkRZSnZZcGNnTktKbm1CTlBKWV9FZkkwaFI1R0FWMkFTVjM5Q0p2THlTYnhiOVZRbUFrRjVQWGJBRjd3Mkh4dU9xWjNFd0hfaXZHbkxMVGVWbkFtWmc3ZngzQ1UzRHdDZDEwMDI5ZEQ3azJTLVBueTU5VEdZVnRqMHZuOXNnQnpTbA?oc=5",
+    "sourceName": "WSJ",
+    "publishedAt": "2026-11-12T06:35:00.000Z",
+    "analyzedAt": "2026-11-15T19:16:49.722Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "WSJ study finds approximately one-quarter of key goods remain vulnerable to supply-chain disruptions. Highlights ongoing supply volatility in critical product categories.",
+    "angle": "Supply-chain vulnerability is a persistent challenge for CPG manufacturers and retailers planning inventory, pricing, and distribution. Analytics and automation tools help identify at-risk SKUs and trigger mitigation workflows before disruptions cascade.",
+    "play": "automation",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "BWUE9ISmlWRUpPT0E_b2M9NQ",

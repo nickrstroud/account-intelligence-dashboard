@@ -58846,5 +58846,150 @@
     },
     "doneWhen": "Zionsville store confirmed onboarded to platform with store ops and supply-chain alerts active by January 14, 2027 go-live; Q1 2027 store opening pipeline mapped and onboarding timeline agreed.",
     "generatedAt": "2026-11-14T18:40:52.593Z"
+  },
+  "a_14jne3u": {
+    "signalId": "a_14jne3u",
+    "account": "PepsiCo",
+    "signalTitle": "Plant closures and headcount reduction",
+    "play": "protect_renewal",
+    "goal": "Protect platform coverage and automation workflows through PepsiCo's operational restructuring by mapping the new operating model and identifying continuity risks early.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Supply Chain",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Pull PepsiCo account map: confirm which plants, regions, and teams run platform/automation today and are affected by closures",
+          "Check renewal date, contract terms, and consumption metrics (data volume, user seats) over last 12 months to establish baseline",
+          "Flag any open support tickets, integration issues, or pending feature requests tied to affected supply chain or demand functions"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Sales (Account Executive) and Ops/Support: confirm this is a protect/continuity play, not a cost-cut risk requiring escalation",
+          "Agree that Account Executive leads relationship; CS Director owns workflow mapping and technical continuity plan",
+          "Brief Product on early signal: centralized demand/supply functions may reduce seat count but could drive automation expansion"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP Supply Chain] with empathy, specificity to restructuring, and offer to map new operating model to platform continuity",
+          "Request 30-min call to understand scope (plants closed, teams affected, centralization plans) and jointly identify platform configuration needs",
+          "Position as partner in operational transition, not vendor seeking to upsell"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-10",
+        "tasks": [
+          "On call, map current PepsiCo operating footprint to platform access, users, and automation workflows; identify consolidation opportunities",
+          "Propose a lightweight continuity plan: which teams stay live, which migrate, any seat/access changes, timeline alignment with plant closure schedule",
+          "Explore workflow automation expansion: if demand/supply teams are merging, automated alerts and playbooks could reduce manual handoffs and offset headcount loss"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 10-14",
+        "tasks": [
+          "Log CRM outcome: confirm operating model changes, any seat/platform adjustments, and proposed automation roadmap for next 90 days",
+          "Document success metric: zero platform/workflow disruption during transition; maintain or grow automation adoption to offset any team consolidation",
+          "Schedule 30-day check-in to validate new operating model is live and identify next expansion phase (e.g., analytics for pricing strategy)"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting your supply chain transition",
+      "body": "Hi [VP Supply Chain],\n\nWe saw the announcement about your plant consolidation and wanted to check in. Restructuring like this is complex, and we're here to help your demand and supply teams stay operationally smooth on the platform.\n\nCan we grab 30 minutes this week? I'd like to understand which regions and teams are affected, and we can map your new operating model to platform access, workflows, and any automation opportunities that might help with the transition.\n\nLooking forward to supporting you through this.\n\nBest,\n[Your name]"
+    },
+    "slack": "PepsiCo plant closures and 1K headcount reduction announced; supply and demand teams likely affected. This is a protect play—early outreach to map operating model to platform continuity and flag workflow automation opportunities for the consolidated footprint. Account Executive leading; CS Director owns technical mapping. First call target: this week with [VP Supply Chain].",
+    "crmTask": {
+      "title": "PepsiCo Restructuring: Map operating model to platform continuity",
+      "due": "In 3 days",
+      "notes": "Plant closures and headcount reduction across North America. Current platform/automation footprint at risk of consolidation. Early engagement to map new operating model, confirm continuity of access and workflows, and identify automation expansion opportunities to offset team consolidation. Renewal timing: [INSERT]. Key contacts: [VP Supply Chain], [Director Demand Planning]. Next step: 30-min discovery call to understand scope and joint continuity plan."
+    },
+    "doneWhen": "Documented new operating model, confirmed no platform/workflow disruption, and identified automation roadmap for next 90 days.",
+    "generatedAt": "2026-11-15T19:16:41.150Z"
+  },
+  "a_12ir87y": {
+    "signalId": "a_12ir87y",
+    "account": "Costco",
+    "signalTitle": "Product recall (Kirkland Signature whipped cream)",
+    "play": "protect_renewal",
+    "goal": "Demonstrate how Account Intelligence can reduce recall response time and cross-functional misalignment during supply chain crises.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Supply Chain or VP Quality Assurance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm recall scope, timeline, and internal response teams involved (quality, supply chain, legal, communications).",
+          "Check Costco's current core platform usage: which SKUs, business units, and manufacturing partner data are in the system?",
+          "Review internal CRM notes for any past escalations around quality, compliance, or supply chain visibility."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and Customer Support on recall context; confirm [VP Supply Chain] is the lead contact for this play.",
+          "Sync with Product on workflow automation feature readiness for quality alerting and escalation logic; flag for Customer Advisory Board agenda if relevant.",
+          "Agree internally: CSM owns engagement and discovery; Account Executive preps for expansion conversation once pilot scope is set."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP Supply Chain] referencing the recall and inviting a brief conversation on how team currently detects and escalates quality exceptions across Kirkland and partner facilities.",
+          "Frame as discovery only: 'We're thinking about where Account Intelligence could reduce manual work and cross-team coordination during these crises.'"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Run collaborative workshop with [VP Supply Chain], quality, and ops teams to map current recall workflows (detection → decision → comms) and pinpoint delays or gaps.",
+          "Propose Workflow Automation pilot: automated alerting on ingredient/supplier exceptions, approval playbooks for recall decisions, and escalation rules to comms and retail operations.",
+          "Define pilot scope (e.g., Kirkland Signature high-risk categories) and 90-day success metrics (e.g., time-to-alert, escalation accuracy, stakeholder alignment)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 14+",
+        "tasks": [
+          "Log pilot launch in CRM with clear success criteria and stakeholder agreement.",
+          "Monthly check-in on alerts generated, playbooks executed, and team feedback; document ROI on response time.",
+          "Prepare customer reference narrative for product team if pilot shows material impact on recall speed or compliance."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Recall Response at Scale: How Account Intelligence Can Help",
+      "body": "Hi [VP Supply Chain],\n\nI wanted to reach out following the Kirkland whipped cream recall. I imagine your team is managing a lot right now across manufacturing partners, retail comms, and compliance.\n\nWe've been thinking about where Account Intelligence could reduce manual coordination during these high-pressure situations. Specifically, automated alerts on ingredient and supplier exceptions, plus decision playbooks that route escalations to the right teams fast—especially valuable with Costco's international footprint.\n\nWould you have 20 minutes in the next few days to walk through how you're detecting and responding to quality issues today? I'm not pitching a solution yet; I'd just like to understand where the bottlenecks are.\n\nBest,\n[Your Name]"
+    },
+    "slack": "Costco recall signal: Kirkland Signature whipped cream contamination detected. Opportunity to pilot Workflow Automation for quality alerting and recall escalation playbooks. CSM leads discovery conversation with [VP Supply Chain] on current recall workflows; Account Executive preps expansion scope once pain points are validated. Success = pilot agreement + 90-day launch by end of Q1.",
+    "crmTask": {
+      "title": "Workflow Automation Pilot: Costco Supply Chain Recall Response",
+      "due": "In 14 days",
+      "notes": "Kirkland Signature whipped cream recall (contamination) triggered outreach to VP Supply Chain. Discovery goal: map current quality exception detection and recall escalation workflows. Pilot opportunity: automated alerting + decision playbooks for ingredient/supplier quality exceptions, tailored to international partner network and rapid timelines. Whitespace: analytics suite (member/category risk) and integrations (new market rollouts) for future phases. Renewal context: core platform only; expansion would extend engagement and deepen stickiness during critical supply chain moments."
+    },
+    "doneWhen": "Customer agrees to 90-day Workflow Automation pilot scope and success metrics are documented in CRM.",
+    "generatedAt": "2026-11-15T19:16:41.425Z"
   }
 }

@@ -1260,5 +1260,24 @@
         "publishedAt": "2026-11-13T14:36:24.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-15T19:16:27.438Z",
+    "source": "daily",
+    "headline": "Costco-brand product recall signals supply-chain vigilance opportunity; potential for Workflow Automation alerting expansion.",
+    "signals": [
+      {
+        "category": "Product recall (Kirkland Signature whipped cream)",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco-brand whipped cream recalled due to potential contamination with cleaning chemical. As a high-volume private label manufacturer, Costco faces reputational and operational pressure to detect and respond to quality issues across its supply chain.",
+        "suggestedAction": "Reach out to the VP of Supply Chain or Quality Assurance to understand how recall workflows are currently managed across Kirkland Signature SKUs and manufacturing partners. Propose a Workflow Automation pilot focused on automated alerting and escalation playbooks for ingredient quality exceptions, recall decision-making, and cross-channel communication—especially valuable given Costco's international footprint and rapid recall timelines.",
+        "sourceName": "NBC News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWQzN1I2Y3BQc3ZWaFBSbDBKWG83VFNBM0tsd0J1TWVfUVQ1X1QtcEU0cHJfWW5waEFrN0RmX21wamlyM1pYWW1lMTkxS0J1Tm5iQzVXZjZVSFdwQ0tLanVOcXRCQVE5dF9UMVFHQVcxR1lCY0J4ZGo1Ql9YZ21uRVpHMDA5T2tUTXBr?oc=5",
+        "publishedAt": "2026-11-14T21:21:47.000Z"
+      }
+    ]
   }
 ]

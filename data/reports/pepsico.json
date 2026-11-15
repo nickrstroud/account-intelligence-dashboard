@@ -1749,5 +1749,24 @@
         "publishedAt": "2026-11-11T18:53:00.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-15T19:16:26.224Z",
+    "source": "daily",
+    "headline": "PepsiCo restructuring with plant closures and 1,000-job cuts signals operational consolidation and potential platform contraction risk",
+    "signals": [
+      {
+        "category": "Plant closures and headcount reduction",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo announced 1,000 job cuts in North America following a string of plant closures. While the company remains profitable, this restructuring signals operational consolidation and reduced headcount across affected regions, which typically correlates with lower data volume and team coverage on the platform.",
+        "suggestedAction": "Reach out to your primary contact (likely VP of Supply Chain or Demand Planning) this week to understand scope: which plants/regions closed, how many teams are affected, and whether demand-planning or supply-chain functions are being centralized. Offer to help map the new operating model to platform access to ensure continuity and identify any workflow automation opportunities around the transition.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRKTzFid2lkem1QXzVxUi0yOEtrdGh0YXNDUEVnOEJqLWRUYmRRbXdmNUZOT1JFcGF2TnhCQVpWeGJ4dVh6UVlnNU9LQmp5bFJtTlpVWnZGMm1zX1dXcUtGTE41Rlg1eGRfSC12YnRyUzNoQVNBaWVwaS1UTV93TF82YjNjbVlyWGRCWUY4V3lfaFBNQ3c?oc=5",
+        "publishedAt": "2026-11-11T10:15:00.000Z"
+      }
+    ]
   }
 ]

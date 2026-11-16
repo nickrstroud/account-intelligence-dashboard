@@ -1,5 +1,192 @@
 [
   {
+    "id": "1zdGFuZGFyZHMvODc0NzgyLw",
+    "title": "USDA delaying new SNAP stocking standards",
+    "link": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-16T22:16:00.000Z",
+    "analyzedAt": "2026-11-16T22:46:55.501Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA delayed new SNAP stocking standards by 90 days from Nov. 4 deadline, giving retailers more time to comply with new SKU requirements.",
+    "angle": "SNAP compliance shifts affect retail operations and assortment planning; grocers need to track and plan for evolving regulatory stocking requirements across their network.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RllUVGh5UkVjMmMzWT9vYz01",
+    "title": "Lower Tariffs, Higher Gray-Market Risk: Why Manufacturers Should Review International Distribution Now",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDluTWNjZHNRVkpOXzUySXdleVlJdFRRNDNya1FJdDVMd1Rna21hMExseTdFaDNDUEtuT3hLQTZ6SmFQTFJicDk1enY1OHBlbVl4amtNN2lZbHRiOEFnLUVaWUpmcFhSRGEyUXNJUWJjM1VTamJpWDdIOExJc0JBMHNpaTM5MlRQY05ZNFp4REVnQ3FET0IzODJKU19URVJva3pPdE9mXzFzSlBKUldsb055MkRwb03SAbwBQVVfeXFMTzVZQXI1VnBkZU0wZ3R0NENpUVdycVZKNnFndW5rSUlwT21sbjY5aFp0V0lmNU1HZS1zNmtLUnF6M1U3ckV1eVppQmFtRVltNmdTdk1lbnNuT0syWG85aEx2U2ZVTHlid1FtLUpjLVNrVEVmWnNQYlBzdy0zSks5YXluTEQwbkR5c2J2Sl9GY1JuRHFBeV9HcGtEc2sxN0k4UjRDSm9OckpaaENDX3pUZlpkS2FYTThyREc2c3Y?oc=5",
+    "sourceName": "The National Law Review",
+    "publishedAt": "2026-11-16T19:56:19.000Z",
+    "analyzedAt": "2026-11-16T22:47:11.441Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Lower tariffs are creating new gray-market risks for manufacturers managing international distribution networks. Manufacturers need to review and strengthen controls over their distribution channels to prevent unauthorized sales.",
+    "angle": "CPG and retail customers operating global supply chains need visibility into distribution partner activities and cross-border movement. This is a workflow and visibility challenge where automation and integrations help track and alert on unauthorized channel activity.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "zYVhkUk0zUTJSVk4yP29jPTU",
+    "title": "Retailers are turning their stores, apps and websites into connected media networks",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDUzaXo4b1JvN3ZkdEt0Wm54YWwxb3FjTFhGcUZYQXRzTHFhUk5OT1puQXhZcml4Q3h0RmpWTzJIN3AyQ3NTMjhNWjdaMDFvVEMtSk56THlJYVo0SFNSaC02YktxV1RibWc3c1pjWUVlY0tLX0xybDQ1SjFOaHRHMWY1QWloaERtSldiVmhrdVdTSUVJZ0Y4eHhzd3BTZnI4ZkJ3aXdRM3Q2RVN2?oc=5",
+    "sourceName": "Techli",
+    "publishedAt": "2026-11-16T17:35:07.000Z",
+    "analyzedAt": "2026-11-16T22:47:13.617Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Major retailers are building connected media networks across stores, apps, and websites to monetize customer data and drive advertising revenue.",
+    "angle": "Retail media expansion is a key growth lever for large grocers and big-box retailers; Account Intelligence customers need visibility into media-network performance, customer segments, and campaign ROI alongside traditional sales analytics.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "sZWFuLWxhYmVsLzg3NDc2NS8",
+    "title": "Sugar replacement maker Oobli acquired by biotech firm Amyris",
+    "link": "https://www.fooddive.com/news/oobli-acquired-amyris-sweet-proteins-sugar-clean-label/874765/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-16T16:34:00.000Z",
+    "analyzedAt": "2026-11-16T22:47:01.312Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Sugar replacement maker Oobli was acquired by biotech firm Amyris to expand manufacturing scale as demand for clean-label sweeteners grows.",
+    "angle": "M&A signal in ingredient supply chain; relevant for CPG customers evaluating portfolio strategy and ingredient sourcing around health/clean-label trends.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWNoYWluLWZtaS84NzQ3MDEv",
+    "title": "Grocery inflation is set to go up as input costs rise",
+    "link": "https://www.grocerydive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874701/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-16T16:19:00.000Z",
+    "analyzedAt": "2026-11-16T22:46:55.501Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "High energy costs and El Niño weather patterns expected to drive grocery inflation above average over the next few months.",
+    "angle": "Pricing pressure and input-cost inflation are critical planning drivers for CPG manufacturers and retailers; analytics on category margin and pricing elasticity become essential to strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "azVRVEVodFptUlFUQT9vYz01",
+    "title": "Study: Consumers continued shift towards private label products in 2026",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEdDSE03OW1vdnhueS1WMjloRGI3WlhQMXoxdDFydnF2R3IzUVNyQVlWVm83LWlGTDlyT2tjOVdZY09Lb1pfaGplcklUUWJvM3Q0OU1mM0FYdGpzV3pQOTI1UURISGZhd250VGphZ2xDb3hxNmFJZHZ5TzdTUzRNWG9MU0ZNa09sSUpiWEtxYk5QTEhtZmRQTA?oc=5",
+    "sourceName": "Chain Store Age",
+    "publishedAt": "2026-11-16T16:01:16.000Z",
+    "analyzedAt": "2026-11-16T22:47:01.312Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Consumer shift towards private-label products continued in 2026, intensifying competitive pressure on branded CPGs.",
+    "angle": "Structural market shift driving share loss for branded players; customers need visibility into category, channel, and demographic trends to defend margin and adjust portfolio strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UtdG8tYm9hcmQvODc0NjgyLw",
+    "title": "Target names food industry executive as a director",
+    "link": "https://www.grocerydive.com/news/target-adds-food-industry-executive-to-board/874682/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-16T15:47:00.000Z",
+    "analyzedAt": "2026-11-16T22:46:55.501Z",
+    "updateType": "leadership",
+    "relevance": 1,
+    "summary": "Target named Sally Grimes, former CEO of Clif Bar and Diageo, to its board in December.",
+    "angle": "Leadership change at Target signals potential strategic shifts in food and beverage category management; worth noting for account planning.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "xpZ2liaWxpdHkvODc0Njg4Lw",
+    "title": "USDA looks to tighten SNAP eligibility",
+    "link": "https://www.fooddive.com/news/usda-proposed-changes-snap-eligibility/874688/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-16T15:23:00.000Z",
+    "analyzedAt": "2026-11-16T22:47:01.312Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA is considering tightening SNAP eligibility, which would cut more than 6 million people from the food assistance program.",
+    "angle": "Demand-side shock affecting CPG and retail customer bases; shrinking SNAP benefits will reduce purchasing power for lower-income consumers and require pricing and promotional strategy shifts.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "SkNNRVpUVmxocVYwST9vYz01",
+    "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG56YlN0MDdsU2pKSThXS1dhalk2SjlGX2RzdGpjck0zcG84OU5LOEZXX1IwVzBmVkxhRThyOXFZZUJ2dW9LOGxPQmZHXzNlQTZORERGX0RRZTVMTXlrT3RWQkxTU2phZm44N0drMHctakk5UEJyTy1qNG5SRmpTOFpOMHlKeUdTSkRacmVrMUdTdkXSAZgBQVVfeXFMUHRRNF9FcG13Sjkya2RFNDJaMVg3VUNOWjM0ZlVFcTlQWERiTHZuTjFsMHgzY0xuOW9EQjlPVE9IYWdpQmJ3eEJDdEFwNE5kWTFjSVFCVHUtaWtYTERKM1hGN1ZBV1pwV1ZsX1JEZzZ6NmpyT05LdHZIcnI2WHE4WGlnT3pZZGZYOVJFajlxVGJCMEZTVlhqV0I?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-16T15:10:04.000Z",
+    "analyzedAt": "2026-11-16T22:47:11.441Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Taylor Farms lettuce recall across 27 states due to cyclosporiasis outbreak. Major produce recall affecting grocers and foodservice operators.",
+    "angle": "Retailers carrying Taylor Farms products need rapid visibility into affected SKUs, distribution points, and inventory to execute recall logistics. Supply chain automation and alerting capabilities help coordinate recalls across stores and distribution centers.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Y2xhaW1zLWZ0Yy84NzQ2NDIv",
+    "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+    "link": "https://www.grocerydive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874642/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-16T14:53:00.000Z",
+    "analyzedAt": "2026-11-16T22:46:55.501Z",
+    "updateType": "legal",
+    "relevance": 2,
+    "summary": "Family Dollar agreed to pay $63M to settle unfair-pricing claims from state and federal regulators, citing focus on pricing accuracy.",
+    "angle": "Pricing compliance and accuracy are under regulatory scrutiny in discount retail; this underscores the need for robust pricing-audit and automation capabilities across store networks.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MFIyY2xOSWRIbFdRUT9vYz01",
+    "title": "These Companies Are Using Trump’s Tariff Refunds for Executive Bonuses",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
+    "sourceName": "ProPublica",
+    "publishedAt": "2026-11-16T11:00:00.000Z",
+    "analyzedAt": "2026-11-16T22:47:06.183Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Companies are using tariff refunds to fund executive bonuses rather than reinvesting in operations or price reductions. This highlights how tariff volatility is affecting cost structures and capital allocation at large CPG and retail firms.",
+    "angle": "Tariff uncertainty and policy shifts are reshaping financial planning and cost-of-goods calculations. Analytics and automation tools help track tariff exposure and model pricing scenarios across portfolios.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "YVZWZFFTVGR2VFVOSj9vYz01",
     "title": "Associated Grocers strike in Pembroke continues into second week",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkRqeG5fajBRYWpwUEZkc1ppZ0laeXp5eVBXUHdPLVoweVRaUGlQSHdvQjgyVW9VUjV6X0xBVUVHVDhQWkFKSjYtbWdqZFZHZDRkdUFJQXZYN2JlSlRaR2hJZm1DSGtnTzhxd1ZDckdwcHg3OE5CTjYxT3JlVlNJNnctekliUlhaNjNaVVdQSTdvTUNJ?oc=5",
@@ -63,6 +250,23 @@
     "relevance": 2,
     "summary": "Tariffs have pushed retail and industrial prices higher, and economists expect price stickiness rather than rapid reversal.",
     "angle": "Persistent tariff-driven cost inflation forces CPG and retail customers to reassess pricing strategy, supply-chain sourcing, and margin recovery—core analytics and automation use cases.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ME50YWtOc2JGRXlkQT9vYz01",
+    "title": "Tariffs Pushed Prices Up. Why Retail and Industrial Investors Shouldn't Expect a Quick Reversal",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkt3MGxTLXZwUXJVU05NdERJREoyY0piRzc2T0ptRW9BU1JNbmZvS0I1RlctSXh1dzdwS01iYUxMdVFpcGNRNGwxWk5mRmxGQWRUdlBKUU9uS29hVmNyQ3ZLYjNYTUxiQksyaHBYUXM5SXNUZXdrTjVmYmxPYS1jRUtrVS0wVUt6cEVhQlZwV0NtakNsbFEydA?oc=5",
+    "sourceName": "The Motley Fool",
+    "publishedAt": "2026-11-14T03:15:00.000Z",
+    "analyzedAt": "2026-11-16T22:47:06.183Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Analysis of tariff-driven price increases and why retail and industrial investors should not expect quick reversals. Suggests tariff impact is structural, not transient.",
+    "angle": "Persistent tariff-driven inflation requires retailers and CPG manufacturers to plan for sustained margin pressure. Analytics and pricing models help quantify the structural impact of tariffs on category margins and consumer demand.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -140,6 +344,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "MxaldTMUpUVmRGYmc_b2M9NQ",
+    "title": "Canada’s Ambassador Warns Trump’s Tariffs Are Raising Business Costs: ‘Uncertainty Increases Your Cost of Capital’",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-13T22:30:21.000Z",
+    "analyzedAt": "2026-11-16T22:47:06.183Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Canada's Ambassador warns that Trump tariffs are raising business costs and increasing cost of capital uncertainty for companies. Supply-chain and pricing volatility from tariff policy is a material risk for large cross-border operators.",
+    "angle": "Tariff and trade uncertainty is forcing CPG and retail leaders to re-model supply-chain costs, pricing, and margin scenarios. This is a core conversation for customers managing multi-country sourcing and pricing strategies.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "LWnpnMVFXZElhMGMwP29jPTU",
     "title": "Mamdani Announces 90-Day Extension For Small Retailers to Meet New Federal Requirements",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlpEQ0l0bDQ4QmVxcHhWenhQc1ZYeU1qVlMyVUhRdkMtWWgzWUJ5UjZYR00ySkJXVzUyUFV0ci10bHplMmkwZUhyNzNNWWszSkhwaFVqd3U1ODU4T2RiSEpXSUFPa29WRC1CWEs3enNSODdXOHpaemV4LWRuMDlCSHhSS2drdmJQblg5UmVZQlc5cVhDRVlDQ0xpbW5ZaTdOTDk1OWU5ZU9aWkJpZVlHbVRDTGtSWTlfdjNaTEs2aE1sWnlxLUhKZzg1QWdIa0c0?oc=5",
@@ -206,6 +427,25 @@
       "analytics"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "dmVyeS1zaXRlcy84NzQ1ODAv",
+    "title": "Walmart more than doubles planned drone delivery sites",
+    "link": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-13T14:37:21.000Z",
+    "analyzedAt": "2026-11-16T22:47:01.312Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Walmart is more than doubling its planned drone delivery sites with Zipline, enabling rapid air delivery nationwide over several years.",
+    "angle": "Major retailer investment in autonomous delivery reshaping fulfillment and last-mile economics; relevant for customers tracking Walmart's competitive moves and their own distribution-network strategy.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
   },
   {
     "id": "qVnNSMmxNYlcwMWNnP29jPTU",
@@ -750,6 +990,25 @@
       "platform"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "aHlSSHBaVVU5ak5UVT9vYz01",
+    "title": "Whipped cream sold at Costco has been recalled. See affected product",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXhGUGtZTmk4eVpMeW9Ld0FsSXlkNzZ2RXJqMWlXVGFpVFBRRHB1SmlCZUEwWWRQWkdYV0N3X0xqZ0xGODZFRjNpRmpxZ1RZcHJCdmV4ZzJESjU1UEhZN3pKaXVCUmp6M0tVSk53WkdGV1hIYU5wMHBWWnZVLXcxRDVtOFA3d0EwRzNQN2xmZEVGaDNQOUEwaU92TTdSdzQwdkRLTG1vLUtQcjRoSE1RU25PTS1GY2FMc2JsdF9sMWt3a3hyRHpZUU9jNTU?oc=5",
+    "sourceName": "USA Today",
+    "publishedAt": "2026-11-11T16:14:00.000Z",
+    "analyzedAt": "2026-11-16T22:47:11.441Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Whipped cream product sold at Costco has been recalled. Food safety issue affecting a named account.",
+    "angle": "Costco needs to manage recall execution and ensure affected inventory is removed from shelves and distribution. Supply chain automation helps track and coordinate the recall across their network.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Costco"
+    ]
   },
   {
     "id": "tbWVyZ2VyLVVLLzg3NDM2MS8",

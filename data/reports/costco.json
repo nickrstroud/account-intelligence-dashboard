@@ -1279,5 +1279,35 @@
         "publishedAt": "2026-11-14T21:21:47.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-16T22:46:31.504Z",
+    "source": "daily",
+    "headline": "Costco expanding AI and India tech footprint; strong financial position supports data platform growth",
+    "signals": [
+      {
+        "category": "India market expansion and AI technology investment",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Costco is expanding its tech footprint in India and increasing AI investments. This signals potential new market rollouts and digital transformation initiatives that will require data connectivity and integration capabilities.",
+        "suggestedAction": "Contact the VP of International Operations or Chief Technology Officer to understand the scope of India expansion and AI initiatives. Offer a phased integration plan for India's new data sources (local POS, supply chain, e-commerce) and discuss how Analytics Suite could power localized member insights and pricing strategy in the new market.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM19VSHVGRXpuakxCWUZsSGc4ckRGb04wTHFzRWk0T05fWkxXekZzYVV3TDllUEFRX3BmcVRZeTFkeDZhNGlReHMtMllaaEJWQU1CUXZJWTlPbmVhc2t3d2w4bkVuTFlNb3NpOWF0UHJWV0haTEFQbTJZR243cy0wRjlLclpMdDJzTGg3TW0yWmxiRUp2VWJ2dnYwaHNuS1cwUUw0?oc=5",
+        "publishedAt": "2026-11-12T14:48:51.000Z"
+      },
+      {
+        "category": "Strong financial performance and capital deployment",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Special dividend and strong financial position indicate robust profitability and available capital for technology investments and expansion.",
+        "suggestedAction": "Reference Costco's strong Q4 position and special dividend in renewal conversation. Position Analytics Suite as a tool to maximize ROI on international expansion and optimize Kirkland Signature pricing/mix across new markets, particularly India.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14LW4zNHI2LWhNV2ZRMTkwbHdmdFpFa2JaanZ6U015WTZYTzhNdnZHNFRwYXlxNHhjc3NRVnZHX1NvRHVsajlfakw4cXV5OEIxVDhFb2xhQ3l6LVRsUmZXd3RNOFl4NFRoZjRPMmZSMnNpZG5uNUtGR0hSaw?oc=5",
+        "publishedAt": "2026-11-11T21:15:00.000Z"
+      }
+    ]
   }
 ]

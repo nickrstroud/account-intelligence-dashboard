@@ -1768,5 +1768,35 @@
         "publishedAt": "2026-11-11T10:15:00.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-16T22:46:32.029Z",
+    "source": "daily",
+    "headline": "PepsiCo announces 1,000-job restructuring amid turnaround pressure and declining legacy-product demand",
+    "signals": [
+      {
+        "category": "Restructuring & Layoffs",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "PepsiCo announced approximately 1,000 job cuts as part of a turnaround effort. The layoffs reflect organizational simplification amid declining demand for legacy products (Pepsi and Frito-Lay core items). This signals margin pressure and cost-cutting, typical of a defensive posture.",
+        "suggestedAction": "Reach out to your primary contact to understand the scope of the restructuring relative to their demand-planning and supply-chain teams. Confirm whether the groups they use Account Intelligence with are affected, and position Workflow Automation's alerting and automation capabilities as a way to maintain visibility with smaller teams.",
+        "sourceName": "The Food Institute",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FTnhZUEN2bG9qNTBmbXVuQUtlZ1JWMllKaTItejdpbUlJMXJ5MU92YlZhSE1VNEw5Znp4YUVfc09DemNsNGlBTTNhQWZmTHRoZnF4Yk5yM3FwcnZMa3RBaVRleEpFUXFyYlc0ZGJVWUdKSHR5dHdoZDhQc1A?oc=5",
+        "publishedAt": "2026-11-13T12:51:08.000Z"
+      },
+      {
+        "category": "Margin Pressure & Demand Decline",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Articles indicate Americans are buying less of two core PepsiCo products (classic Pepsi and Frito-Lay snacks), driving the restructuring. This category-level share and pricing pressure is a classic use case for Account Intelligence's Analytics Suite—demand, pricing, and market-share analysis across the snacks and beverage portfolios.",
+        "suggestedAction": "Schedule a conversation with their VP of Strategy or Finance to discuss how Analytics Suite can help model pricing elasticity and demand scenarios across their category portfolio in real time, to inform both cost and revenue strategies during the turnaround.",
+        "sourceName": "Inc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa090NDd1RF9xUlhydVctYU5BNXF3bWhyTkdudkhzUUlEZ2dydFN3UE9ZLUlLMTJBNWFZYTRGYTZCLVpsd0traWhHV3JLVThDREJMLTVTbzJFNmZwUmpBcTlvNHZnUEhJakxzTFFtdnRYOHRvUnVObmNGXy1rX3pheURWRlBxRllMSnRpMmNTYjhRbkFjVWM5OG1RZFhrc0FDbnJVRmx0NWFZc19MZHd4MlVwdnktS29lQjBLY0dtRzFuemlwV2hGNWx5cw?oc=5",
+        "publishedAt": "2026-11-11T18:48:22.000Z"
+      }
+    ]
   }
 ]

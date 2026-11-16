@@ -904,5 +904,24 @@
         "publishedAt": "2026-11-10T15:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-16T22:46:30.753Z",
+    "source": "daily",
+    "headline": "Board appointment of retail-focused director; no material operational or strategic shifts detected",
+    "signals": [
+      {
+        "category": "Board Appointment",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "Target appointed Sally Grimes, former Clif Bar CEO, to its board of directors effective December 1, 2026. Grimes brings packaged-goods and brand experience but no announced operational changes, new initiatives, or strategic pivots tied to data, analytics, or supply-chain transformation.",
+        "suggestedAction": "Monitor for any public statements from Grimes on Target's digital, supply-chain, or analytics strategy in coming months; no immediate outreach warranted.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHhHbzAxWlgwVG9XSEZDTGdSUHJRX1NReXJsYks3SjA2LV96WXdIWmpsVWVlbzY3UWxtdVFWYjdVRUs1RG1SMmxnX2REMDczS2ZNdUI1OEZ6aVRmODktYTFxZjZtaTZYWnMycUlBNmM3czRTSHJ1RUhyc1JjcFF1cWV3R05YSFVZMHFWeDhaVVFfVGhtWjV4a1ZJN2R6aElldGZ4b096Z1pldy11NHp5ag?oc=5",
+        "publishedAt": "2026-11-12T11:30:00.000Z"
+      }
+    ]
   }
 ]

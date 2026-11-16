@@ -58991,5 +58991,286 @@
     },
     "doneWhen": "Customer agrees to 90-day Workflow Automation pilot scope and success metrics are documented in CRM.",
     "generatedAt": "2026-11-15T19:16:41.425Z"
+  },
+  "a_yqt5wx": {
+    "signalId": "a_yqt5wx",
+    "account": "Costco",
+    "signalTitle": "Strong financial performance and capital deployment",
+    "play": "onboard_expand",
+    "goal": "Expand from Core Platform to Analytics Suite to drive ROI on Costco's international expansion and optimize Kirkland Signature performance in new markets.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Strategy + Chief Merchant",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current Platform adoption across markets and Kirkland Signature teams",
+          "Map India expansion timeline and merchandising team structure",
+          "Review renewal date and contract terms for expansion window"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on expansion opportunity tied to India go-live and special dividend capital availability",
+          "Align with Product on analytics use cases for private label mix optimization across geographies"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Strategy] referencing strong Q4 and special dividend to position expansion conversation",
+          "Propose discovery call: pricing and assortment strategy for India launch with analytics lens"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 10-21",
+        "tasks": [
+          "Demo Analytics Suite focused on category and pricing analysis for multi-market private label",
+          "Develop 90-day pilot plan: India Kirkland Signature analytics starting at market launch"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion proposal in CRM with India timeline and pilot success metrics",
+          "Monthly check-in on India rollout readiness and analytics adoption"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Maximizing Kirkland Signature ROI as you expand to India",
+      "body": "Hi [VP Strategy],\n\nCongratulations on a strong Q4 and the special dividend—a testament to Costco's execution and member value. As you scale Kirkland Signature into India and new markets, pricing and assortment strategy will be critical to that success.\n\nWe're seeing our best retailers use advanced analytics to optimize private label mix and pricing across geographies in real time. Would it make sense to explore how Analytics Suite could inform your India launch strategy—from day one?\n\nHappy to set up a brief discovery call with your team.\n\nBest regards"
+    },
+    "slack": "Costco signaled strong financial position and capital deployment via Q4 earnings and special dividend. Play: expand Core Platform to Analytics Suite to support India rollout and optimize Kirkland Signature pricing/mix across new markets. Lead: Account Executive to propose pilot tied to India launch. Ask: Sales support on expansion positioning and Product input on private label analytics use cases.",
+    "crmTask": {
+      "title": "Expansion Opportunity: Analytics Suite for Kirkland Signature International Growth",
+      "due": "In 5 days",
+      "notes": "Signal: Q4 earnings, special dividend, and India expansion. Whitespace: Analytics Suite for category/pricing and Integrations for new-market rollouts. Contact: [VP Strategy] and Chief Merchant. Next step: discovery call on India launch analytics strategy. Renewal context: confirm date and expansion window."
+    },
+    "doneWhen": "Analytics Suite pilot proposal accepted and India launch timeline confirmed with merchandising team.",
+    "generatedAt": "2026-11-16T22:46:41.537Z"
+  },
+  "a_1prat0n": {
+    "signalId": "a_1prat0n",
+    "account": "PepsiCo",
+    "signalTitle": "Margin Pressure & Demand Decline",
+    "play": "advise",
+    "goal": "Help PepsiCo model pricing elasticity and demand scenarios across snacks and beverage portfolios to inform margin recovery strategy during category headwinds.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Strategy or VP Finance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current platform and automation footprint across snacks, beverage, and supply-chain teams.",
+          "Review renewal timeline and check for any open support or feature gaps.",
+          "Map pricing and demand analysis workflows today—who owns them, what tools they use, what scenarios they model."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Align with Account Executive on expansion play and competitive risk in category analytics space.",
+          "Brief Sales on positioning: Analytics Suite as margin-recovery lever during turnaround, not cost-cutting tool.",
+          "Confirm CS and Account Executive own the engagement; agree on lead."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send email to [VP Strategy/VP Finance] anchored on category headwinds and real-time scenario modeling.",
+          "Propose a brief virtual conversation: how they currently forecast elasticity and demand, and where manual work or blind spots exist.",
+          "Mention Analytics Suite capability for snacks and beverage portfolio; frame as adjacent to their current Platform + Automation investment."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 10-21",
+        "tasks": [
+          "Conduct discovery call: map current pricing and demand processes, stakeholders, data gaps, and decision cadence.",
+          "Propose Analytics Suite proof-of-concept: 1-2 key categories (e.g., Frito-Lay snacks), focused on elasticity modeling and scenario planning.",
+          "If receptive, scope SOW and commercial terms aligned with expansion into new product and new team."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM activity, stakeholder roles, and decision timeline.",
+          "Track proof-of-concept progress and business outcome (e.g., faster pricing decision, margin scenario modeling).",
+          "Close loop with Product on competitive insights and category analytics feedback."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Real-Time Pricing & Demand Analytics for Snacks and Beverage Portfolio",
+      "body": "Hi [VP Strategy/VP Finance],\n\nRecent category headwinds in snacks and beverages highlight the value of real-time demand and pricing analytics. Many of our customers facing similar share and margin pressure use our Analytics Suite to model elasticity and run scenario planning across portfolios—informing both cost and revenue strategy in near real-time.\n\nYou're running our Platform and Workflow Automation today. I'd like to explore how our analytics capabilities could complement what you're already building, especially for snacks and beverage pricing and demand modeling.\n\nWould you have 20 minutes next week to discuss your current forecasting process and priorities?\n\nAll best,\n[Your Name]"
+    },
+    "slack": "PepsiCo facing margin and demand pressure in snacks and beverages—a perfect setup for Analytics Suite expansion. We own Platform + Automation today; this is an adjacent play into pricing elasticity and demand scenario modeling for strategy and finance teams. CS Director to lead discovery and PoC scoping. Need Sales alignment on positioning and terms.",
+    "crmTask": {
+      "title": "PepsiCo Analytics Suite Expansion: Pricing & Demand Modeling for Margin Recovery",
+      "due": "In 5 days",
+      "notes": "Signal: Category headwinds (Pepsi, Frito-Lay volume/share decline) driving margin pressure and restructuring. Opportunity: Analytics Suite for real-time pricing elasticity and demand scenario planning across snacks and beverage portfolios. Contact: [VP Strategy] or [VP Finance]. Current footprint: Platform + Automation. Next: validate current pricing/demand workflows, align internally on positioning (margin recovery lever, not cost-cutting), and propose discovery call."
+    },
+    "doneWhen": "Analytics Suite proof-of-concept initiated for 1-2 Frito-Lay or Pepsi categories, with signed SOW and delivery timeline in place.",
+    "generatedAt": "2026-11-16T22:46:44.048Z"
+  },
+  "a_9w09ne": {
+    "signalId": "a_9w09ne",
+    "account": "Costco",
+    "signalTitle": "India market expansion and AI technology investment",
+    "play": "onboard_expand",
+    "goal": "Establish Costco India as a new platform footprint and position Analytics and Integrations as core enablers of market entry and localized strategy.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP International Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Confirm scope: is India expansion a pilot (1–2 locations) or full rollout, and what's the timeline?",
+          "Check internal: current platform usage depth at Costco HQ; identify which teams own international data strategy and AI roadmap.",
+          "Map integration gaps: what POS, supply chain, and e-commerce systems will Costco India use, and how do they differ from US deployment?"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–3",
+        "tasks": [
+          "Brief Sales on expansion scope and integration opportunity; confirm Account Executive leads expansion play.",
+          "Sync with Product on India market AI + analytics roadmap fit and any localization needs (multi-currency, local compliance).",
+          "Align with Ops/Support on deployment capacity and timeline for new market integrations."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–7",
+        "tasks": [
+          "Email [VP International Operations] with insight on data and analytics precedent for retail market entry (mention localized member insights, pricing optimization for new market).",
+          "Propose a brief call to map India platform and integration requirements—lead with their expansion roadmap, not our product."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–21",
+        "tasks": [
+          "Co-develop a phased integration plan: POS and supply chain connectors for India launch, with analytics and pricing modules as Phase 2.",
+          "Align on success metrics: platform user adoption, data volumes, and readiness for localized member and category analytics."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log India expansion as new business unit in CRM; track platform seats, integrations, and analytics adoption.",
+          "Monthly sync with [VP International Operations] on deployment milestones and expansion roadmap updates to Product."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Costco India: Powering market entry with connected data and localized insights",
+      "body": "Hi [VP International Operations],\n\nWe've been following Costco's India expansion and AI investments with great interest. As you scale Kirkland Signature and membership in a new market, data connectivity and localized insights will be critical to member acquisition and category performance.\n\nWe'd like to explore how our platform, integrations, and analytics capabilities can support your India launch—from day-one POS and supply chain connectivity to real-time member and pricing insights for your strategy teams.\n\nWould you have 30 minutes in the next two weeks to map your India data architecture and discuss how we can accelerate your market entry?\n\nBest regards,\n[Your name]"
+    },
+    "slack": "🚀 Costco India expansion signal: they're rolling out to India and investing in AI. This is a whitespace play for integrations (local POS, supply chain) and analytics (member and pricing insights). AE to lead expansion outreach; align with Product on India-market analytics roadmap. Goal: position for new business unit + 2–3 new products. Need to validate scope and timeline ASAP.",
+    "crmTask": {
+      "title": "Costco India Expansion – Platform, Integrations, and Analytics Opportunity",
+      "due": "In 7 days",
+      "notes": "Signal: Costco expanding to India with AI tech investment. Whitespace: Integrations (local POS, supply chain, e-commerce) and Analytics Suite (member insights, pricing strategy). Current footprint: Core Platform only. Next step: validate expansion scope and timeline with [VP International Operations]; propose phased integration and analytics plan."
+    },
+    "doneWhen": "Initial discovery call held with [VP International Operations]; India rollout scope, timeline, and system architecture documented; phased integration plan shared and reviewed.",
+    "generatedAt": "2026-11-16T22:46:45.079Z"
+  },
+  "a_9svgli": {
+    "signalId": "a_9svgli",
+    "account": "PepsiCo",
+    "signalTitle": "Restructuring & Layoffs",
+    "play": "protect_renewal",
+    "goal": "Confirm that demand-planning and supply-chain teams remain staffed and committed to Account Intelligence, and position workflow automation to amplify smaller teams' productivity.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of Demand Planning",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check internal account health scorecard: last renewal date, platform usage trends, and automation adoption by team.",
+          "Review org chart and confirm whether demand-planning or supply-chain functions were affected by the restructuring.",
+          "Identify whether PepsiCo has flagged any changes to their contract scope or team access."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive and Ops to assess renewal risk and determine if proactive outreach is needed.",
+          "Brief Product on whether workflow automation adoption has been a friction point or opportunity during the transition."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Reach [Director of Demand Planning] with a low-pressure check-in: acknowledge the restructuring, offer support, and ask how visibility into demand and supply has been impacted by team changes.",
+          "If demand-planning team was reduced, propose a brief automation audit to identify high-impact alerts and playbooks that can extend team capacity."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Conduct an automation workflow review: map current alerts, approvals, and playbooks to remaining team size; identify quick wins to amplify their impact.",
+          "Prepare a simple proposal to expand Workflow Automation adoption (e.g., new alerting for supply disruption or pricing sensitivity) as a retention and value-add play."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log the restructuring impact and renewal confidence in CRM.",
+          "Schedule a 60-day check-in with [Director of Demand Planning] to review automation performance and expansion roadmap."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Ensuring your team stays on top of demand and supply—especially now",
+      "body": "Hi [Director of Demand Planning],\n\nI saw PepsiCo announced some organizational changes this week. I wanted to check in and see how your demand-planning and supply-chain teams are holding up—especially as your group navigates leaner staffing.\n\nOne thing we hear often from teams going through transitions: our automation and alerting capabilities become even more valuable when you're running with smaller crews. The right playbooks route insights to the right people without adding manual work.\n\nDo you have 15 minutes in the next few days to catch up? I'd like to hear what's working well and where we might help you amplify your team's impact.\n\nBest,\n[Your name]"
+    },
+    "slack": "PepsiCo announced ~1,000 job cuts (margin pressure, organizational simplification). Potential risk to demand-planning and supply-chain teams using our platform and automation. Play: protect renewal by confirming team stability and positioning workflow automation as a force multiplier for smaller teams. CS Director leads outreach; Account Exec and Ops aligned. Goal: renewal confidence + expansion opportunity into new automation workflows within 60 days.",
+    "crmTask": {
+      "title": "PepsiCo Restructuring: Protect Renewal & Position Automation as Productivity Multiplier",
+      "due": "In 3 days",
+      "notes": "PepsiCo announced ~1,000 layoffs as part of margin-pressure turnaround (Nov 13, 2026). Demand-planning and supply-chain teams are primary users of core platform and workflow automation. Next steps: (1) Validate whether restructuring affected user groups; (2) Engage [Director of Demand Planning] with support-first message; (3) Conduct automation audit to identify high-impact workflows that extend team capacity; (4) Propose expansion into new alerting/playbooks (e.g., pricing, supply disruption). Renewal timing: TBD—confirm in validation phase. Owner: CS Director."
+    },
+    "doneWhen": "[Director of Demand Planning] confirms team staffing impact, agrees to automation workflow review, and schedules 60-day expansion roadmap discussion.",
+    "generatedAt": "2026-11-16T22:46:45.294Z"
   }
 }

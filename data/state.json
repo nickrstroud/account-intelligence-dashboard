@@ -1,7 +1,7 @@
 {
   "accounts": {
     "procter-gamble": {
-      "lastCheckedAt": "2026-11-15T19:16:22.632Z",
+      "lastCheckedAt": "2026-11-16T22:46:26.494Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSGZoSC1RZ3ljdEVaOWQxSDhsd0lBdC01WXNLMVJodllaS2h1OThxbVRLWUc0ckRDOHdQNlVlWFZCTDBNbVh1SlhNeHJhVnlsMGpfV0hsWkhEcG1kSzNRY1lWU2Z0Qm5pdERlX000aWliWmM3blNJT1ZyMNIBgAFBVV95cUxOQmplR3pxdTdldmFUazNDMVZjU192bFd1WVFUQjlWSWJfOGRkUFRCWTZSdHJBeWhsUlF0dEtFM0ZzUUNhVjFiQzBuNFFJR0pZVFZaTDVfWm1mRUxxblQ0QWtVTk0tT3RYQUJhT1l4ZkdmamdBMVJNYkM2T0E1UXZlaw?oc=5",
         "t:procter gamble earnings beat as sales rise 4 boosted by laundry and home products",
@@ -84,7 +84,7 @@
       ]
     },
     "pepsico": {
-      "lastCheckedAt": "2026-11-15T19:16:26.225Z",
+      "lastCheckedAt": "2026-11-16T22:46:32.031Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2wtZThVMWRwbE5CNmZUbzN2elFIdk84aTI0dzQzaWdreFlRUHdMOE1nTXk0aFpqc2hGR1VnNzUyYlBlVVpSRkR0YWpLS0planRpZmVEVjZEeVJtOFYtVXJqUDFJV21zaWF2NmVRLU9GdWRJTk05VGk2VloydDVhMUdvLW5md3FsM2FOVWhmN3JDd3RzZEp3QXN3ZWV3MmY5X0E?oc=5",
         "t:nearby business bracing for impact after knoxville pepsi plant closure announced",
@@ -143,11 +143,21 @@
         "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXB5SHliOEpnUkI3bXlETk1nYzBjNGJHYUljUnRCZHlabEhpWTdGaFNqTDJJaE9DeGtrS3E3QUpJaGhtZ3A2ekRqUnF4TkhVQS1BQjBqeEtwOFRqX3pBdVJuMEl3SUk3RzYyRENJT2hfMlBHU29zcGVkckJGZ016b2xHcWJZWDUwNHZmNjFCWQ?oc=5",
         "t:pepsico plans to cut close 1 000 workers in north america",
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRKTzFid2lkem1QXzVxUi0yOEtrdGh0YXNDUEVnOEJqLWRUYmRRbXdmNUZOT1JFcGF2TnhCQVpWeGJ4dVh6UVlnNU9LQmp5bFJtTlpVWnZGMm1zX1dXcUtGTE41Rlg1eGRfSC12YnRyUzNoQVNBaWVwaS1UTV93TF82YjNjbVlyWGRCWUY4V3lfaFBNQ3c?oc=5",
-        "t:pepsico slashes 1 000 more north american jobs after a string of plant closures despite netting billions last quarter"
+        "t:pepsico slashes 1 000 more north american jobs after a string of plant closures despite netting billions last quarter",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVvUXduUEQwZUNfRERERlRhbXdoQTczMHd0RmdhV0xwWXByZHZDYWI5bi1MSHpYLWNOQUJ4R3dYQ3FUX2drM0xsRXJ5WTZ6RkNYUE5hTkNpMEdtdUZkYmZkbkliRWZ6V0EzS2QwcE96b3N1QWlGMnJveHJKektYYzRVZmdrQ0ZHMFJMS083VkItZ2FkOFh2U205SzhVZF9xNFNmX3VSaWdtOGhyZjJraw?oc=5",
+        "t:indian american ceo ram krishnan in spotlight as pepsico announces 1 000 layoffs",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FTnhZUEN2bG9qNTBmbXVuQUtlZ1JWMllKaTItejdpbUlJMXJ5MU92YlZhSE1VNEw5Znp4YUVfc09DemNsNGlBTTNhQWZmTHRoZnF4Yk5yM3FwcnZMa3RBaVRleEpFUXFyYlc0ZGJVWUdKSHR5dHdoZDhQc1A?oc=5",
+        "t:pepsico s turnaround gets tougher",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEM19tNmt5YXRjN05GdUNvOXliVTRfbUxQdmgzM0dWNHJST0FvYVRJUHppUTFkMWl4SkpHaGRWaUY3NEJudi1tUkduUTVYNDI2OTlJNkxkVEl0U1ZwLTJ6U0NfTjB5aHYz?oc=5",
+        "t:pepsico to cut about 1 000 jobs",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa090NDd1RF9xUlhydVctYU5BNXF3bWhyTkdudkhzUUlEZ2dydFN3UE9ZLUlLMTJBNWFZYTRGYTZCLVpsd0traWhHV3JLVThDREJMLTVTbzJFNmZwUmpBcTlvNHZnUEhJakxzTFFtdnRYOHRvUnVObmNGXy1rX3pheURWRlBxRllMSnRpMmNTYjhRbkFjVWM5OG1RZFhrc0FDbnJVRmx0NWFZc19MZHd4MlVwdnktS29lQjBLY0dtRzFuemlwV2hGNWx5cw?oc=5",
+        "t:pepsico is cutting 1 000 jobs as americans buy less of 2 products that built its empire",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGdoUXhGd0FTbkdCaFY3a3EyY3k4WW1YUlN6OWlEQ3ZUa3haWmRlSmc1UjdtdUdwWGhkQ0lERm5rU3JuVXJDSVJBdnIyb2dXRUNuY0dRa08tM3VnZ3BZZ2d4aHRFQ0k3ODd4R2tobDBqVVJJbVktMlN0eXZjeXhYUGp3U09uQ0c3aU9PZzVvSjFrQllwR2c4?oc=5",
+        "t:pepsico plans 1 000 job cuts as employers seek simpler organizations"
       ]
     },
     "coca-cola": {
-      "lastCheckedAt": "2026-11-15T19:16:24.762Z",
+      "lastCheckedAt": "2026-11-16T22:46:27.783Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2OFhTQkJKSWxlRHY3VVR3Y250OUtHTklQYlpxM0FkWl9lSFVfb0dHYUpDU1hFM3E2T2w0dVFtYTdiUDJ1MUZKWUIwTGRRZHJrdUdzU2RB?oc=5",
         "t:coca cola ko stock price company overview news",
@@ -226,11 +236,15 @@
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHZBaVZwcEM1UXo4OTVCdzJoN243aXBoVmllS2dMVFk0Um5QWnFyVjFHOW8zU0R2MTBmNG10NE9PVFNoLUFrcHB4R014WnJ6YllrVHdBeW5LM09EbEhJT0pPTkkyUmFxQzZTMmQ4U0xuRVMxNW5UeVJXMFNYZGhFSldXanZKS2lIT09NRnpMWkEwWjVReW16c3lPdmVhRnZtOTQ1dktHeklmNE1ScmZBZGdQeEhfaGNrdW4zenp6NTR2Uk5yNTdsOEYxTC1DS0kxY2Nv?oc=5",
         "t:kremlin not aware of request to seize coca cola hbc s russian assets spokesman says",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT01Qd2tBWFltdmozdFpoaXVRN2trQVdTajEwVHNrNWZQVXpuT3VWMVhMVnIxM1JTN3hDT1Mzd1RxZ3ROdnZ6TW9mUlQwamR6NFZQOWhrWnZNcU41RFltekxlbEdkaHY3bzV6ZXVROXFfdTRQMF9UNkdkTWNfWTB5M0NGNVVGMFgyT28zcXlBVFJFRlI5SjhabTlWUzg?oc=5",
-        "t:can coca cola benefit from rising demand for functional drinks"
+        "t:can coca cola benefit from rising demand for functional drinks",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlF2ODdqRGVRT2xFdmE3QUl2ZFVfeHhXbXZRc3lSbE51WWp0Q0dqS2todlFBNHQ5SElPb19VQ2RrNlNvZjktTUVkd29aRHhqb00wckNnQlQ3dUpEMWdYTXFnUFRidmhhSGotNEp1cXVPU256MkkwaS1tNWprQzQ2NW5iUGVTelZfLXJZal9OZ1E0a2VjMXA3d1ZtX24?oc=5",
+        "t:sfa first generation students awarded 5k scholarships from coca cola",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE50R1dRV2NuMWMzWnJNRUd2SmtJSU1zdHV3QzJ2bmtYTVBLZ3IyNG9LbGJra2lUVnZMSnA5Vm1heVlLVjh1eUdGWkJQM0psVTc1RExkNnRGR2t1VzB3Si1JQmFFSVJPek91U0wyTnotUXF4c0lST2JzOFJub2NRQQ?oc=5",
+        "t:8 times coca cola tried and failed miserably"
       ]
     },
     "target": {
-      "lastCheckedAt": "2026-11-15T19:16:25.236Z",
+      "lastCheckedAt": "2026-11-16T22:46:30.755Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnljOC12V1FtYUdJWU1OeUxucFZ3dDFHZmgtTml0bWh5X1JqT1Q3VEF0NXNkZmZhU0Q4V0tKVWFoTTd0ZHd6Z2tYUEpPRTRDQXpMNnl0UFh2NHoyRG1mcGphMmJyaFl1UUNKSC1SRjhGbG5iTjFtS05KSDZ4Yjh5MkdTb1ptVno2TGZfeVVxbURGTkxOb1NMVVNfa1lQNFZFbExXNw?oc=5",
         "t:target corporation tgt is a trending stock facts to know before betting on it",
@@ -293,11 +307,19 @@
         "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZThBaXhMR1kxS0dmaGVRT1BaZDZlQVJLS3ZGRldRMURZRldkTm04RG96UFNYRng4eUdCNXR3cE45WXBHeHZFcEZuN2RmcnhPd3VmX1kwM1lHM0VsRmxaY0NtbE5pQmEzdmJ5RU9TRjlkR3R5ZkN5bWF0NVJQa19WUVdXRlN1OXo3VnJOT0JBWGx2WlR5c1FNa20wNThoQndSeEhDbTdmeEpVMGg1NUVCcExJTW4tUk9YUFFsWGZDRWhrcFN0bERjNDNqdW16d09NelNqX3FiSEFCVmZlZE1KX3Fmaw?oc=5",
         "t:target corp on nov 11 elects sally grimes as director effective december 1 2026",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFwanQ3N0JmRWNYSFJGaTdNbW5XQ3hzYUgzYk0xSUFrSkRDWGFDblNtdUwyZHN6REtNOWg5YjFoQWZaZDhqSUFKU3g4c2lzS0pTUzdoT0d1U0hNbDIxQ2dLQktRamhUQko5S0FKQUNzTEQ4cWZXU1ZYYXI0eklfT01JWk5NVjM4RnUtUHg3eWJjeWx1TC1XcW1tSjlrUnpGdkJlZ2E3Y0czdmRZX2Zia0hLQmJQTVhqaTEzSnJaUlNUeFZLcFMxVVFVUUVTdWxGS0VsbVVtdnlSeS1s?oc=5",
-        "t:target corporation tgt stock sold by international assets investment management llc"
+        "t:target corporation tgt stock sold by international assets investment management llc",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1YyTzZZV0M2NnBEOFBuUWR0S2RsVGVfZWt1X2Jjc2daRU5DZnF3YXB3UTZpTklILXY2SzZMRHhjVVpPNlJLVGhpb09naC1oMDdFNXZMRWVyMUR2SFVqUWRkRXNEZng0RGtMRzRDRGlPanRQMGVjVlRienZoa29RU3lNVS1vYUQ1bkItMXAyMlZpYUZLZTZJajRTNXc1YWpa?oc=5",
+        "t:target tgt will add a former clif bar ceo to its board on december 1",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRENGTGpBczEwWENoMTF0Q2h4X0s1Nkd0RjEzVWI2dF9KaC1rb01La3BlRXhPSmxBTEJlSzhtci1KTVBDZHNhdVAzeXdKbzJEWUlzbjZLLVdKa0J3VEZxb0JReXEzUGNxNllhYlhUMGFZNkFTT19sVGdiWl9ocm1aeFcydUZud2RyOUtjQ0czRXF4ZExKdHM0WU1VZmI1VHVvbmUxVUlZVWVPa21nYVNtWl9lR0dtM0F5MXIzczZuUW9sckpYTWdz?oc=5",
+        "t:target stock gets fresh institutional ownership signal on ex date ad hoc news de",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHhHbzAxWlgwVG9XSEZDTGdSUHJRX1NReXJsYks3SjA2LV96WXdIWmpsVWVlbzY3UWxtdVFWYjdVRUs1RG1SMmxnX2REMDczS2ZNdUI1OEZ6aVRmODktYTFxZjZtaTZYWnMycUlBNmM3czRTSHJ1RUhyc1JjcFF1cWV3R05YSFVZMHFWeDhaVVFfVGhtWjV4a1ZJN2R6aElldGZ4b096Z1pldy11NHp5ag?oc=5",
+        "t:target appoints sally grimes to board of directors",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMi01YmdpSVFwaU8wenU1WUhpS2Jlc0l5T3hNSUFheTNTTVFYVXVHaHRlTGVZZkpNem41WkxTQi1OLW4zeHd2MkVna0toN0VTcEhOT0F6a2JsM2NaOS04cWoxQzFNMUJXRmJSMWppcmxUNlVjS29kWEE2UTlOa0xxeTlGZ1JGdmU0X19aeGJVd2tzbjQ0UGp0ZnJWT3ZQT0tURndiN1kyR2g1TG0yRmR0VEdSdF9XVHhCTTctWTVwaEdwcjJtWlZGeHYtd2pxb2g0SXVEcnRFdnlwUjlL?oc=5",
+        "t:target corporation tgt shares newly acquired by red cedar investment management llc"
       ]
     },
     "keurig-dr-pepper": {
-      "lastCheckedAt": "2026-11-15T19:16:23.680Z",
+      "lastCheckedAt": "2026-11-16T22:46:26.506Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkdQZU9PdWNFOFpCeU9TX0lQZ0NRZzZLcXVyT1V2MmZXNUhSVEVyNm83NWoydG50bzdYdjlBZEJfWU5hYmxlVWJRem9UZkFPU1FSdHppcHo4ZFhub0dUU1BwRUcwMk1Dc1hZeFBRVFNIRjVhWmhnZjFfbkR3OWs5aU9iVVRMZzk2cmowc1NOZmlJVDcwRU5j?oc=5",
         "t:keurig dr pepper s coffee business remains challenged",
@@ -382,7 +404,7 @@
       ]
     },
     "costco": {
-      "lastCheckedAt": "2026-11-15T19:16:27.439Z",
+      "lastCheckedAt": "2026-11-16T22:46:31.506Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ocjFybHZyaXRBWmNnTDFVS0M2SWNZd2RaMlVJX2hkOTl1aW9FVHdrR241a04zbnNFM2s4d2NFYkYzZkh4MVhxNkhwblVaR2ptdW0yc3FKelBjZ2g4OER1bjhwYkVqU21lMHdndWZB?oc=5",
         "t:i ve baked bread professionally this costco bread has the crisp crust and chewy interior i love",
@@ -469,11 +491,19 @@
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1lkajNRd2N0djVQMmd3czMxaWxlWkRqSEoweHpsVXFFaDBqZm5yQWRyMk5KWHI5bmRnT3M2WXBZbVhCa1RUaUR0X3BlWGlOR0xlREp2cXFDWklkb1Y1aXhHWmppTkkxTWo0RXlaeEhPTkoxSGVsbXVlYl9MbUl2MmN2WXdsV08zV1JRTWxrTXlsdm9WZ0hXdm05N21odm82bUN3V1d5YnIxb0ZOSDl2cmRpMzJaZ9IBvgFBVV95cUxOU1pKVzhfYno5VU5FWGZ2SXVDU05ZdEFKbVQycHZ1ZU1xZFA2T3F5ZkZNanBqcXlVeHA2cGphTUJpUldtc19pVFRuTUhBa204c09NNXRZcnpuUTJwT204ZlFIbTFQNG9RUDU5ZzBiNng1RERNcTdMNzZ1VDE1eW10Nmd0LXN2dzlRMmdGZk9nRU51enRjUmRUSGh5WDNhQXNUY21PclVTb3dKSzZRdE4yT3AwMEY4dFZGOER3UGJB?oc=5",
         "t:kirkland brand costco dessert recalled because it could contain cleaning chemicals",
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWQzN1I2Y3BQc3ZWaFBSbDBKWG83VFNBM0tsd0J1TWVfUVQ1X1QtcEU0cHJfWW5waEFrN0RmX21wamlyM1pYWW1lMTkxS0J1Tm5iQzVXZjZVSFdwQ0tLanVOcXRCQVE5dF9UMVFHQVcxR1lCY0J4ZGo1Ql9YZ21uRVpHMDA5T2tUTXBr?oc=5",
-        "t:costco brand whipped cream recalled over potential presence of cleaning chemical"
+        "t:costco brand whipped cream recalled over potential presence of cleaning chemical",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM19VSHVGRXpuakxCWUZsSGc4ckRGb04wTHFzRWk0T05fWkxXekZzYVV3TDllUEFRX3BmcVRZeTFkeDZhNGlReHMtMllaaEJWQU1CUXZJWTlPbmVhc2t3d2w4bkVuTFlNb3NpOWF0UHJWV0haTEFQbTJZR243cy0wRjlLclpMdDJzTGg3TW0yWmxiRUp2VWJ2dnYwaHNuS1cwUUw0?oc=5",
+        "t:costco eyes broader india tech footprint as ai bets grow",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNmdrT09HUnhTMUgzUmlVeXpNYmFXY3lqM1hvOGl5dThPTTA0SXpjZ0NFYUdLZGFndlNPSUgxckQ2TjlaaXRreXZhaElVS2dtNDd5R3A0RS04TFRMc1F2QzBtQVBHYk94YmFUVTNfMng4VXhrMHd2aGlpajhzRVVtcnR4dGEyV19Ca3pCTWZyNExsYjBUa3ZMMWpFLTVjSkxic1prRVNVV3h2Q1NpNjNtS0h1NU9qSWdFNDhHc2hmWWRzN2dTWjVYM04ycm51MkVvV09CRFk4Tl9SNU3SAe8BQVVfeXFMTl9BdHRRRWxreENDcXVqQVhOb011bV90QjBpMkxiSHdocTZRN1lJaWp2ZkxwdW43OHJ3Z1AyUmVNTWdPVlM1RTJWQ2JJWmIyalpSVlJRY2YxdmxZRFZGUDlGQ0xqRXNOcFdPR1gyTjFfdHJHMG10aFBWek96U2F0SGpYTVFFTEdtLW5OV0toSWUtU2dEM1FnbzM0QmVCMkdsczd3M1V3UkhlUmFjXzA2bWJ0ejN1bzgzVXhuSThleVk2b3hlTDFiVjNUVElrU1RTQjVpRVAycnFaQy1hQ09MeHBzSk9OYTdQdERDODVYUzg?oc=5",
+        "t:costco s black friday sale goes live this week get a 45 shop card for holiday shopping when you sign up now",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE14LW4zNHI2LWhNV2ZRMTkwbHdmdFpFa2JaanZ6U015WTZYTzhNdnZHNFRwYXlxNHhjc3NRVnZHX1NvRHVsajlfakw4cXV5OEIxVDhFb2xhQ3l6LVRsUmZXd3RNOFl4NFRoZjRPMmZSMnNpZG5uNUtGR0hSaw?oc=5",
+        "t:costco s special dividend is just one reason it s a good place to shelter from ai chaos",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTZlUUsza0hVcjlpcDBlX0JZWkNzdDROLWFoT3V3NmJhd3V0ak9nRTVtMVFzckpxRmVEOUJBY3lkYzNKV040TENleXVhVG5SS25yNGltbEJKQUFJTk9ldi02V25xSU55TUVVdzZ4elF2V2x3NF9weEdFdnpuajJLMFZjQnhZNGlqVXFJ?oc=5",
+        "t:i tried cheesecakes from costco trader joe s whole foods and walmart there s just one i d buy again"
       ]
     },
     "walmart": {
-      "lastCheckedAt": "2026-11-15T19:16:24.015Z",
+      "lastCheckedAt": "2026-11-16T22:46:27.972Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU1RMTZkOXVLVEdVS3JONkx0MG01YXBDWU9JTlNyMnlUT3F2b0g0ZXdQR3NoUmdGejlLRnFmSDFiV2FmeEhzdWg1UDB3UTJ4ZlRSeUpBakd2clhYTHc5QkxkajI1UTB3YjJxY1JRTXJQSWlEU1RUVEJjd3Q0WjRCQk1wYzN1T1dSTFBzX0J5U2xZWDBTb2FtdTdBWTJ3S3hyQjhoNENsS044Zw?oc=5",
         "t:walmart is sending out 9 8 million in refunds are you getting a check",
@@ -550,7 +580,15 @@
         "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVXRMOG93MkRaQnBQYkM1dnNkRDJ0SkVBVFZlZ09nN0k0OWhxQmUyZkVmanpYZzZYUk1WanFXcVlVaXAtZWxIWU5tSnY5U3hDZUJ1eWZGM2pnMUQ4d0JvdzBLTG9sZEYyYXg2UDRUX2pXMFZxT3U2eVcxQlQyV1FLYnk0dVRmR1Vsa1QxVkFxRTlXcTEzSm5oX0NOVmxkTGlBRmxmZzRZQVljNklqYU96bmJIdmVmbURuOVFQZV9Hckl4RWVsT0ZSV2tVLU5URTRFMW5Ja2pRbWpPX1ZGZWVLdFU4dXBMb3h1eThXX1VaN3Q?oc=5",
         "t:the best walmart black friday style deals start as low as 5 according to a fashion expert",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWNFVVFRVzY1ZmdwTnBkTEpQR1JNa19sMDJoZ2M0alZPX0oyOGtyaGlOQjZqVlN0Q2F6eERnZmNnOVIzTVlYVFZHcGxrU1FteUc5bFk5dVhaakNvTHVQa1FxR2h2ZUEzYndTclY3R0toNU1LZWlZYVZVZVAxYnJRSWRDeWpZc1RPSVFCbA?oc=5",
-        "t:the best early walmart black friday deals 2026 the strategist"
+        "t:the best early walmart black friday deals 2026 the strategist",
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYVJ1bjdqaWtlU0xBSGQwU1F1RTY2OS1KMUhnRE40YkQ5eXdjZVpZNVQ0LUN3OFh5UGNIRUFwZ0VDYmF1ZVR6T1JybjlOVTI2VHpKRWhVdE1kX1YxbGViY3lpWWsyakZId01vcWQtQVRBWm1JYlJCdGI1cFpzR3J5X2VmaG5DZURiT0lDQ0M2SlZYZGxwczhuVjZ4U0FiU0RXV19qNGszcGVBSER1M0xLQ0drMG5Yc3VNYXBON2V1WC1TenowSmhZWnZxRUN5V3lFby1uNzM5VHRfblVkeE4zbHBmNExaaDYwSTE0Wk9JTkRvVWRaTWFpaWlUbDFQUQ?oc=5",
+        "t:walmart black friday style deals start as low as 5 and these are our favorite expert approved finds",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTdoLWpONHBKcXdjNHJqVHlKOHB4dTNaYlZndG14cHpfcF9PZ2JpcTJ3cUpWeUJqQmdKWWE4dFNxaHk4VDRJZUxkOWNodUE2Wks4S2NUVVdjZnhzaXNFNERUaHEwQzZyMzd6cHNramZ2VlJiMW02RjJySzRGVUswZmo5WWxQQlZkMzdqQjZLZ3QtYXc?oc=5",
+        "t:walmart rolls out 35 holiday meal deal that serves 10",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUlEUFpNSTlHUm5ldGh1U0tKVDBBWkI1NzJ4cHRsRW5GYjVoenBCQ2thMldTRTVpTjFEM2ZQTUJ5aFhEWnkyODNKNTVIc1ZWNFRRdkxYZ2lCS2ZONWtIYkRkVW05WnpGYzVtMUhmb294a3hET0R2aWdRa3h1Y2FQWnlDZWtNSTJyc1lscnJ5aWxaUzVDQXdxWHJUZkZla1VyTjlB0gG3AUFVX3lxTE05T0VfSzJMb01td2RYNTNsV0FOUnVZWlUxcmZubzVtT2FGTzR5Q1dOSDg4VmxtWmNpYkFuWmRzY3BsOW1JRnZCQVcxM3VadTR5U19RZ01sdkFuVWk3RHFJeFlrdlpzbklldTYwZTNqM3VZZFdma2ZCZjZQUDZPMG43UmlLWXlJQWV1SEJVLWJaQlJ3aHNsVzU2N0d3elZ4ZnFGLW1OTlZEZ2pkcW9IQzlJQ2dINU1XMA?oc=5",
+        "t:st albans police searching for carjacking suspect after walmart incident",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDUxaXRFQ2ZYOHlyYzNGVFBFM3c5VzhXQXRWUFJIVkp4Q1FZUTZEZ25tOWdiM1YyTU5QLTdEeTJjNDVQWXQyb2Z4cy1FZlpEbFloODJmcUZuYVZIVFNXTjJmbEZEMWdqdFprQjNaRUtqZ0JVbDY0RUlqZUlhdHc1QmJyc01mS1o4RzVwZlo5RGJOa3E4LVpiUkdub0EtSF9pcG5rcmpIQlVDOUtNT1JYU1JHOTVlV2UzWjhnU1RZbjVZNmdhNktiMw?oc=5",
+        "t:walmart s running an early black friday sale this weekend when it ends"
       ]
     },
     "kroger": {
@@ -1268,7 +1306,74 @@
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPREVkUktyWmVBQ2ZJTktfZHJTREpjdm10akV6S1ZxWmFJYi04ZEpKZjdhd0o1S2NmX1RmOVRVdzJnQUhUZmF6Nm5mYkExMlNIZXhkSEI3ckJ1dHdLNVAxalhjSU43Y05ueEdwVExDT2UtWlhqS3FjOGthSXVRaVY1UzNuVTYwNVRDRmZzRnh3X2FQTW93WkRRZUxiLWJiWGNtNjhLRjJYUlNoZjZ4NThCeVFQWk9VdGZIVnEyRjhPS2RLWUFwWGxzdlJMZElTRU1HQ1pxelZheXpkeG1OdkpHb2pwY0tFdnlFVWJ0ejFFT01sdWM?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkRqeG5fajBRYWpwUEZkc1ppZ0laeXp5eVBXUHdPLVoweVRaUGlQSHdvQjgyVW9VUjV6X0xBVUVHVDhQWkFKSjYtbWdqZFZHZDRkdUFJQXZYN2JlSlRaR2hJZm1DSGtnTzhxd1ZDckdwcHg3OE5CTjYxT3JlVlNJNnctekliUlhaNjNaVVdQSTdvTUNJ?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWxZNVh5NnpYTGJ3QzRjUjZBcW9TWmhJSnEydHdLcTFRLTNqdHd6TC1INjhFWEo4NDNJV2FLYlNWaXZiZUo3dEtPMkMwUVJNa1JZTzFmdU8wTXJreVBjNU01V19Bb0lWNlhoVThDUHpqYnM0ckVxSG1mNmtPOXNXT3NQVlhMMjhHQTU4c1dJWmpuV3NGNlVuVWpHdC03TVdNdVJTdjUyTjFXcUJOODYxeVp4MU5pei1pTUZ3S1phWVZUWUF0ZnQxRk1CYnhvQmM?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDBWdWt0VE5mV29NbHNmbF85aVBQNVlUcExVbnpRRzl3UFBuLW9kSjBMT3ZnWG5oZWNwTXZnaHVLOEJhdUk2amVOUHp5NDhpRXpSVkdBSzJRWk9xcXMwRkZnSG14LTBleEZFOHBydVNld091LUhzeFNfZlBIVzBLOWhiSVZDQVZ6djZ2RkpXM2pkQW9KTlViLQ?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDBWdWt0VE5mV29NbHNmbF85aVBQNVlUcExVbnpRRzl3UFBuLW9kSjBMT3ZnWG5oZWNwTXZnaHVLOEJhdUk2amVOUHp5NDhpRXpSVkdBSzJRWk9xcXMwRkZnSG14LTBleEZFOHBydVNld091LUhzeFNfZlBIVzBLOWhiSVZDQVZ6djZ2RkpXM2pkQW9KTlViLQ?oc=5",
+    "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
+    "https://www.grocerydive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874701/",
+    "https://www.grocerydive.com/news/target-adds-food-industry-executive-to-board/874682/",
+    "https://www.grocerydive.com/news/vallarta-supermarkets-new-store-san-jose-california-in-store-restaurant/874667/",
+    "https://www.grocerydive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874642/",
+    "https://www.grocerydive.com/spons/under-protective-screens-florida-grapefruit-finds-room-to-grow/874216/",
+    "https://www.retaildive.com/news/nike-turnaround-fatigue-sportswear-footwear-innovation-pipeline/874762/",
+    "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
+    "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
+    "https://www.retaildive.com/news/toy-sales-growth-adults-circana/874706/",
+    "https://www.retaildive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874481/",
+    "https://www.retaildive.com/spons/how-much-warehouse-automation-do-you-really-need-and-should-you-build-or-o/874469/",
+    "https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
+    "https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/",
+    "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+    "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
+    "https://www.supplychaindive.com/news/uniuni-to-tap-carriers-like-gofo-for-some-peak-season-deliveries/874556/",
+    "https://www.supplychaindive.com/news/fedex-launches-china-us-air-capacity-ahead-of-peak-season/874590/",
+    "https://www.supplychaindive.com/spons/from-cost-center-to-growth-engine-the-supply-chain-value-shift/874220/",
+    "https://www.supplychaindive.com/spons/business-continuity-starts-before-supply-chain-disruption/874344/",
+    "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+    "https://www.fooddive.com/news/oobli-acquired-amyris-sweet-proteins-sugar-clean-label/874765/",
+    "https://www.fooddive.com/news/usda-proposed-changes-snap-eligibility/874688/",
+    "https://www.fooddive.com/news/snacking-popcorn-innovation-conagra-hershey-innovation/823188/",
+    "https://www.fooddive.com/spons/glp-1s-additional-metabolic-therapies-longevity-minded-consumers-and-a-tr/874592/",
+    "https://www.fooddive.com/spons/everyone-is-talking-about-ai-visibility-grocery-cpg-brands-need-more-than/873830/",
+    "https://www.fooddive.com/spons/better-food-traceability-starts-at-the-first-mile/873412/",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEdDSE03OW1vdnhueS1WMjloRGI3WlhQMXoxdDFydnF2R3IzUVNyQVlWVm83LWlGTDlyT2tjOVdZY09Lb1pfaGplcklUUWJvM3Q0OU1mM0FYdGpzV3pQOTI1UURISGZhd250VGphZ2xDb3hxNmFJZHZ5TzdTUzRNWG9MU0ZNa09sSUpiWEtxYk5QTEhtZmRQTA?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUhxa0lia05fVXZfN28yOEt5dVlqNEh4NUJpaFFlSDNXMkY3Z1lveldhcDdlLXhZSURpRkJKeDNmQmVySUc5NFBUSHVqY1Jkcl9raktxZVJlTVVSQUtJTUZDaXdLMlJFdnBCYWxhd3FtaDlRYUZpR0hEQVlqZlQ5OHIyRXZzZ3lhN1JSYlZCdkJCZW9KU2I4Q3VId1Q0aGxaUVRwQ0xsZm9LTTFWa0ExNE1qcFhrQnFQemxEcDBqM1hOUy13?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9adUNCdnU4ZTY4bzVlMVlDU2JkSDRqRGt6a3Azb2YxMjZHMlNBUU0xOG5aMlRrZHI2RTltSUdTU2Q1MnhoRlZwYXBBRnc1WG1RaW5hN1dlaVVTM21FTWFjMXh4SGg0Sm5XMHFGMUFGMExKM05PcWgzZFFPbDg?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeE1JYU5pVzhZcmFPUlFCODRNRTFoM192dG90NTVWR3c1OVlxamR0RFRwaUs3SmxKMy0tZXkzSjNpMEpVQ290YXVWcTZQRUxOaG9memFMWUxYb2lKR1FuLXVVOGd2T1Z4QXFEUGRleG9EMUdoaTJheTlzZDdyYlFMaTFQeTVOX2tGRENLcmJBVlliandMVmVqekRKZExNTkZyb3hDMVc0MV9tTlFqaEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUpwcDh6dnZ4Z3dLOUY4NFc2aVU4NEJ0Z2VvYUZjTGJZbURCZHkyZktkZmZLM2Zsa1BIdFQtZE9aNFlkUjQ1TGxudnlUaDlLNVBfb1BlRExLa1NoeVhVdWxDeTUtbVlmWTczQ0xJY0Q5bjZuR2o2a0JWZURHY2RNTVB4M2Z3UzMxOUZPZUg0TXRrZDRpN1IwZnRVSW1qQ0MwN1B4QWlLRHlISkhqelRScHQ1NGNib09qVmpZ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWVwTlk0X0J1U3VvREJZY05LdGtPSDVWTDhtVUEtb3JIZ0dlNWhfc2FNN214dTlETHhwSnRJRXBVNkJlaHhkR3NKbG41MnlaOUJpN00wd1NkZXhwaWY2REJDbEJRQmUxQWZhSjB5Mm1XM2lGUmdMLXZMdUFLZ3kwcjBYWms4Zjh6MjhYb2dNWmRpV29KVGM4NUFFbnZrYU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlgxWEE3eHZTazVKY3ZIN1BWODgxMHN0R3J0MTJ3UFlCXzVudWc3VENSNW9DNjhSVVZ2cG5jVXprQkpwTUxuNGJoVDUwWE5ManNZZUNnT0lQS2YtQ0dYcEIwNXpfUGlwUmotMnJ0R1RVbWNBQVpnVVMzWnFmbjdmUnhnZEdWRHV3aFo4RHNibng1T0xoMXBTY1M5REprUjhFaE5TcVpFZ0dJUjlFVlhNaURaZk1fVTRZT2l4WFhZeGJGXzllWkw0TjVhUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmZKbzhSRTI3VDZpaXZLRkZuREo2b2VEVFBDaVhYZmpTaVRmenBydWdPb2lVVGhaZ0pVYk5YWW8wVFlCcVBYRlhISmQxb29UVnZUZUFieDVXcXhiYVU1RmJveGgxYkFUcmhaZTNoSFpSMEJmQkItcHM1VTJuSDVRRy1ZWUdza1E?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQS01WGNUZlNLUWVpTUZ3MElmalFEaFZRa2VvU25LRFIyVlFUNVJ1RG94bWpFeWt5eGlXNXZXRXRWdjFBaDNrQVhMTmM2VkdPZGpqVTVHZEp1MmF1ZUtXZWtrb1ZCMElsQ2MwaXZJRTl1Y0E4UW5HQWJJYUZ5RXQ2ckQteEcwU3ZKRGt2U0Q1cUVXc1Zfc2JFX09kZ2lWYlhIVFNRcEJyWlpYWDFIY1VuMTFETUl1cngtRjM1ODRVeml6cEotRWREcUFfUlNPTjZzNEREQVdQd2lfV1kw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeXVqSXdiaXJnS0RKVVJrdWpCSnBSSngtOVY2ZFJWVzI3cWdFcGJpNnEtSEIzZGJYNGw0Yl9CYUZxVnZOMnNXY0YtSEJabkpqODR4N1ZEMXotS2RnYlVvT281YkVHYWc0RDNPajZDY3NOV3J5cldza3M3Mm1id1JwWF9UdGtGVG1vYm5qZGZjRHNLR1lQNTQ4QkZySTdpVjhaZVlzT25Rc3MwNmlodGlZeVU4MHFyMllLZjR2a1Q2UThfMldtNGNTcTlBT2xUTW90b3NUZ1MtQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UF9sZUlfRW1JWUk0aFM0c3piM2NibmV1eUlJWFhlT1RYY0xzX2RiWmluSzdHc2F3QUJiUTlrNXZacTFLSUZUNUE1YjFDcFloN2NtWUY5U3hJNWNkTHpyNzJKaS16d3NfV3NOV3BxeXBUVklHSVVXMS1R?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmRLMGI0enhtd3B4NkNjWTdmeDhTaFQ3bVJVNG14NlRtS2x3eEdFSzI5Qk1fUFM5VHU2ODcwSi11U1lKSXl0bklZVk5JQzFuQWxzS09CMHhrQVFKbEFhQUhkVjJvQnBWX1hDYkloMlNYMFlzcVZPc3ZMUUFEc0E1bS0tTXROdWFKbmRRZkxPdW0tSlhnYTZEN1JGcDVFWWRJNnNIUDlB?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZ0a0lYVDBwUjdmVk84ZS1Kc2dPdUN4NkoxZGJSc2E2eHBTYk1SUWkzQTlXN3I5YjFIYXo1NERWTEpNVjlDN0R4NWt3TlJwN0h3R1NHTXI5d1V5SlBFNGVfS2ZtbFpYVHpRTG90VERTcE9yNE5oZlBSSzJQOGlnajEwQWhOb0xaZlc2YnFnRlh5blpwd0QxTk96eG1NS3RQOU5KWWt3bURNdm4yZWl1angzZFBfZVo2WkEwUEpB?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0RJNnRRZ1RoaFhBNDFuWmVkUnNOVVdTMVljMExXemhuZm05bnp3TW9iQnRDejdSNUNFcjRkU29xUUZJU2pGY2hIMUVxbU9pa0NKa1daUGprNVVCVnE3eFhSUGR4c0x6UVNlZE5xU3lvMURkWWVoSXZtdl8yWHVvTXJpbFFoYjBD?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkt3MGxTLXZwUXJVU05NdERJREoyY0piRzc2T0ptRW9BU1JNbmZvS0I1RlctSXh1dzdwS01iYUxMdVFpcGNRNGwxWk5mRmxGQWRUdlBKUU9uS29hVmNyQ3ZLYjNYTUxiQksyaHBYUXM5SXNUZXdrTjVmYmxPYS1jRUtrVS0wVUt6cEVhQlZwV0NtakNsbFEydA?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzUxeWdoVzVGZVR2Zm1RY09BdEFwdmpLYXNQWjM2aFBsRXRWQk5zZkFha081aEJvQVhJbzVpVU03OUk4M21FMUxpcE1oMjFqRERmSnFDWkttZU5kaTVFRU8yMnJMYmRVd3VucEhQLXhXMWNPV2VKMl9NLUM3bWMtSThIZVpwRUtpUW1jeTh0bmM2Z2NUd3F0THVkZHJTQTVs?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDluTWNjZHNRVkpOXzUySXdleVlJdFRRNDNya1FJdDVMd1Rna21hMExseTdFaDNDUEtuT3hLQTZ6SmFQTFJicDk1enY1OHBlbVl4amtNN2lZbHRiOEFnLUVaWUpmcFhSRGEyUXNJUWJjM1VTamJpWDdIOExJc0JBMHNpaTM5MlRQY05ZNFp4REVnQ3FET0IzODJKU19URVJva3pPdE9mXzFzSlBKUldsb055MkRwb03SAbwBQVVfeXFMTzVZQXI1VnBkZU0wZ3R0NENpUVdycVZKNnFndW5rSUlwT21sbjY5aFp0V0lmNU1HZS1zNmtLUnF6M1U3ckV1eVppQmFtRVltNmdTdk1lbnNuT0syWG85aEx2U2ZVTHlid1FtLUpjLVNrVEVmWnNQYlBzdy0zSks5YXluTEQwbkR5c2J2Sl9GY1JuRHFBeV9HcGtEc2sxN0k4UjRDSm9OckpaaENDX3pUZlpkS2FYTThyREc2c3Y?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5oekJOV25xQnZXc0o2V3pIbkhKM25FNUxoY3Z6Q1Y4TWhLa1VKb05zUkhTaU1ObWNDRjJ4U2U2X2dDeWFVR3NwM3JpemtoZ0Zvdk5xWkVmTFNMZ3VURWFINEdzdlFVRV9jMXppeFZQcEZYZw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG56YlN0MDdsU2pKSThXS1dhalk2SjlGX2RzdGpjck0zcG84OU5LOEZXX1IwVzBmVkxhRThyOXFZZUJ2dW9LOGxPQmZHXzNlQTZORERGX0RRZTVMTXlrT3RWQkxTU2phZm44N0drMHctakk5UEJyTy1qNG5SRmpTOFpOMHlKeUdTSkRacmVrMUdTdkXSAZgBQVVfeXFMUHRRNF9FcG13Sjkya2RFNDJaMVg3VUNOWjM0ZlVFcTlQWERiTHZuTjFsMHgzY0xuOW9EQjlPVE9IYWdpQmJ3eEJDdEFwNE5kWTFjSVFCVHUtaWtYTERKM1hGN1ZBV1pwV1ZsX1JEZzZ6NmpyT05LdHZIcnI2WHE4WGlnT3pZZGZYOVJFajlxVGJCMEZTVlhqV0I?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNlJfMEs4ZC0xdzRiTTQwdnpsdEhPOTlWY0UybnlpYXB5ZHdPZ0llLWc1YWZxUUNGN0FQU0NLZ1Zka1RxN2pscUZhRXJBY1hMTFJvcmpBMnJpaE9jTzUzRnhrVkxSMFJoblZvWGRJazk2QU1jenFv?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdW9LMlJOdWJCZW1EalhXSFB5eFdUaXNKamRHa29lZGlQVFBVb0xDeEc4eGJNNlB3R1dEZy0yM001dG1ELS1Ra0g3UmZBaEN1UWlxN1Z6c3dtWXNUVWRGQnBmN2trT2JzZlBhQnJ4ZFg?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQanROOGJvZHVScEhGRHMtRzlZalBIUERQb2g1ZW5rdGgtRGhJbnkwd0lxOGl5dnpMOWhweFdHUzA1dTV0SkVaVXhMODBPWHJ3NFEzQVVYMTRFYnZxb056NVBnM3hpamlfNlRVNnplUjM4ZFNidVVLWFNrNTBJNW9XX0h2d0dpVGxaVUdCZEYzY2hMYUsxUGZDOUlQeTBtb0hPTGhjd1E0MDRzY2Z00gGyAUFVX3lxTE9uOVhwcWVwb1JuMl9xaHhwdjNsMnBzN2ZCNDhQRS02NTlLTTd5S2syOGkwaDhhcU0zY3VGYmh6Xy02ZEUzNmxiMG5peWYyQTJKYWN6LWhYRmdRX2V5NVcxTkdrNUNQWm9IeWl1b3Fzbzg5Z25aalNKQWZNVDF0eFpJbk1rVG9XZlh0dUZjNXZhNjl1VjVFbEZ2d21FUktYdUo0eUtCSk5QeFVmUHpVMmd1UEE?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXhGUGtZTmk4eVpMeW9Ld0FsSXlkNzZ2RXJqMWlXVGFpVFBRRHB1SmlCZUEwWWRQWkdYV0N3X0xqZ0xGODZFRjNpRmpxZ1RZcHJCdmV4ZzJESjU1UEhZN3pKaXVCUmp6M0tVSk53WkdGV1hIYU5wMHBWWnZVLXcxRDVtOFA3d0EwRzNQN2xmZEVGaDNQOUEwaU92TTdSdzQwdkRLTG1vLUtQcjRoSE1RU25PTS1GY2FMc2JsdF9sMWt3a3hyRHpZUU9jNTU?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVhaZjZBOWlDaGgzYTZSZkpIb3E4c1N5WFlyalRMa0ViNzBvS1ZBV1Z4SFpqUnlJeThxbjFpRVRCSU50TnVrTEFMUThQV0NLbHY2M0FFbmtmcnFVSGdVZlpSaGRhSnN0azR0aUxEbmhncEpwZVRWc1czdkNEX3lNQ0xobnI3NktmM2VOWFRjdnZlY1FCc2l1NDM3dEgxeGvSAbABQVVfeXFMTk9DYzllbGxRcmd1WGJMaVNaOVdYZUlfZ2gwdlBnRE02VFhxNEFveWYxbE1Na2RRbGhzNWlOZ1hJYmZTNzZxWnRtSV8xc0lYdDFIQmRqeERsS0o2VjBnemJjNlVjanhxUUtkWjdvY2lBb1pDYklqSVhqdEdKaU9tX2JUb3Y2Nl9aQzhGajJPUFhIMGxzU2F6dWxFYlpyM0NWTEJZVVRzX2tzVllFbVpsSm0?oc=5",
+    "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkdNbzN2eVFpTURrbzE4dXlaSkJHLXhCYUdJZFhLMzdyYkNwSFFLajZlQWZBcVVjRkpwdHU4dDlfNFVZLUlMVFo0SEFzcElSSHU5ejl5QmZtVlFjNXpKYVphZGhmQ0NrcWk3X0laaFZabkNVbS1neTJaZ3dVM1lIdmUtc2h0a0xYNXlxeW10QXNLVFNPVGMxVlhyOFhsMEQ0ODlPUTc1a1R1b2hSTlNRV0RqWnhpdkRWTFBsc29qaWNaQWpXTnJDZlExZGlxRzhLdkRnUms5WkFZdHRIbVBqQ0UyWGpDX3lkaXVZSTRjUmoyQ1lQdmtFcFFWNURaUVRWMnJ5R1NFamFqQmdyVDA5WnRCNndHc0VVYnpUN2d2MzJMYU4tTlVyTTh5X294Uy1L?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2Vnc1pRREJUbV9iaFNrN0tGOW1mYnNRVUNNZmQ4dUc1UzBEa3B3RkdVMTh3YUhxYUhNNE9OTXpUSDYwdlJQSVo3UHdHT0Vzb0ZPSWFJR1VwMGpXVlJrOW56dWxPckZJN0VOS05adGh6MWJKcUdRa1Z0SzhsLW9LQjZUbXFmZUVJWWt4Q1QyUGgxOEJCRVJjVmdQOFBUeXJybEROWGU2TDVqY0txM1dkaTQtWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDNZNVFHMFlyMGNYcmltUHExWWNKMm85RWh0Nm53b3ozSkdwMmtYVkY0U2loZDl3Q2NJNGZlWGx0MDJUcmJycEpHQU1Yb2ZaRFUxVG5vQU9MZ2daUkJQWHVYZUFYdkxEZHhEVG5iblYyMXNWMU9mWktfZkJUOUJiQ0U4WG9uMGxjc3JLc2pIUnQ1UWJkOUtwQ2pjbnc3OGo3ZElHaHZxNHJ3ZUxwT1llREZabDFQbjlKWGtWREFuSHh5MHh3MlFR?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1RfMGhEb21WbzZYcE1vbmhkcXVCZlhCdHA0amFfUVBZZmVlUjlaRUE2NmZpTUYxaTY2SHJaV0RPa3lHVXByZ1pQUF8wdlU4T3ZtR3RQRmNFNGdzT2k3RnlBWlEwcm1BdV80WmtJNUJNZnZUY1hJWjBtNGJQT1JfbkJtemFKWTJKOHFfMEF4YlNYdExDR3FyWXdwSzZPMHA5TUZXN2tHSEhxV29UYTFkd3VwY3FrVFE?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OWC05T09oTDFNY0ZtYnVTVFpDSHhaRTNWZy1wSjM0dVFNRmo1MXJ0ekZKYnNWdk9WdExiME5WTk9aSjlZSDU3SjlPaTlycUpCUnBlSlNiajk0M01jQzRZR0YwaXR4ZVdZQlF6LVIxeXZOZjRfZE5fSnR5SVpKS1k?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE13aElGWHFTZksyU0xJZGlsWFJ5Q2liNkRwZThLVE9JcWxxeWh5UUkyb0R5NTlNZUFhWXZhMFFJcHp4NG8tbmxVYVNMMGttTktzbVlrTHFGWjVPQW1TVmpuQnZCcFgtM3pUcjBV?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjh0UHVCTGFmZDFzeVBLQW96WWctWHlsdmEtdWN4ZlBvV05Oc1h6UGR1MkJlMmxNU0ItZ2k4STBscHZlRUY0M0VnOWprQ2ptVlpaRV92cU42NTdjYzNPbEtCeW1vUEhkVGtqWjl4eEVfbmsybl9OV0NoMW9LbGo0TkpDOUFubnBMS0RxcHFfYXdDRFZqLVBiRUhuMDFBQW5tVWsxa0hUelJPc3ZKal9yRk1JQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDUzaXo4b1JvN3ZkdEt0Wm54YWwxb3FjTFhGcUZYQXRzTHFhUk5OT1puQXhZcml4Q3h0RmpWTzJIN3AyQ3NTMjhNWjdaMDFvVEMtSk56THlJYVo0SFNSaC02YktxV1RibWc3c1pjWUVlY0tLX0xybDQ1SjFOaHRHMWY1QWloaERtSldiVmhrdVdTSUVJZ0Y4eHhzd3BTZnI4ZkJ3aXdRM3Q2RVN2?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1RuaGhYbURLZlRZMm05NEdYQS10NjZ2OGt1U3l0b1VLcENmRENEdE9JSkZPWjU2MjNPaTZ3UWdsZVQyVXVzSDctNzhJZGVkdlNtYk9uWERBQmU3OEVEMkVuX3BzWllHQUdycDFwT3FLZFdmaXFVQ3hhdEZMUi02TUluWWxDZkMxTXVTOUFWSGtndw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTJoYk9HRlRiN3BwV21ScHV6OHA3RDgtQlNyelgzVEhoSTdDNk5FZldlM0dVaWh4dU5SUDlnTkRhcDh5aXIxYWcyWms0MlNweWZPSFlGY21MSUFRUWxtTkxyeFNjR3ROcHJvTkV5dGotd3A4SEktSGZVQ0NKczV4eC1CMlJkNWpaWVE0dXl4UTFlQUdjTE9FR3VoQkkzdVhaZHBXRjRBQW7SAa4BQVVfeXFMT3BHTUdHd2tZaDhCZlZZQW1DblVnYnFEYzFYanBreXJHRHZDUGdGa3ptb0pua2ZNZVdRczhTMC1VYTRaaUVQd2JLdWVhRno2eXM4SnN6NlgxbkNucTNKeVZQeHZkdGpZOFdiNkRSU2RNZDFYbWExRllYcXJLbHlqdUhoRDl3YWRsLUxqQzF4eEFiWkUwN0RYdnd6bHZLaFpqWjl6cmRvTlhsT1FOcFdn?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjJSY19uVEtwcExrMnJnbUlhRWVRWWF3Mm42VkRLbk5HdGxOeXh1U0VTb1d4dF94dDZXT2tHbDVXSi1JYnVpM0dvaEw1dkVwOFdjRUtyR2lISTF1S1pHNW95R1VXeEtiOFJoZ1FLV0Y2akZ6Z2FPNGk5UHdCUmdOMFN3TGFfVnpwQno5YVVsVktGQk9aQWZLTm0xeWU?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUlsemhEMEVXdkMyaWhIUzlsaUJOc1JUNzhicHFGbktsdnJVb0RxekREbWNpaDlhUGxzTDFfdnBwYkpzR1Y2TC1NdGxYaU5Jdk83N0hQZVhGaDFNdE00VkYyTTVheXJXS2ZQclFZNjRQUEtrdG1KQzV0OHZ5SUppNk1ZZHA1YllBNVdoQlMwdFJ6bUtCb3I1MVJxelNEYUpGSjdNdUx0NzZaQnR5dWZ6ZzNNbw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdjB4SlV4Ynpxc3h6Z21SVUY3YTlkbkp0TFRqcmZUT2lZRHBDeTR0SmVnTmdEY1l2bHh1SG9qV05FVk9sTE5XbVY5VFBtUEUwalpRUUZjMkxseEJINTk1Z3NYMURTQnhRQURua3hDTUlETG91Y1k3R2xaR05FczMxRU1RMHJ4b3NhNlFFVE5tT1ZOajNCS3RzWWpTZHRuRXFuWGlqRUFxNnZJbUxTZXExaVFHanhIWklhTlZHQjhkelFKUjFZRlM1SXNsNzhobEdxTUZRWDdCZDI2eGxlMEdhN3RwRE12QldJMTk1dmpFVGxSeTVMdnkzY0JveDlPWWl4Z3JMVXlnVE9OSk5nVlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeklDVVRyalo1WGVqUFIxUS1XejRTYWhZa3FaTFlUclFaZXpyeTYxeDdla09pZFFHbS1lTmVtNndMUVlNc3B0bkVJeDRWVE14UEJsMHl1NnV0bWJHSzlRT1h4R3ZtQlFzcmtPLXFLWW8zbkZwMzQyZ3VfM3FMbVh5SlRHZ0QxbEpQZ1ZOWTF0Ymt2Znc5c0JPQjVXUkZ5QTVFQUhyZWVCWUY1TGY1WkNhdjBQVGZueHBFVm5yU3kyWWQ5VlpGanJtd3hR0gHKAUFVX3lxTE16SUNVVHJqWjVYZWpQUjFRLVd6NFNhaFlrcVpMWVRyUVplenJ5NjF4N2VrT2lkUUdtLWVOZW02d0xRWU1zcHRuRUl4NFZUTXhQQmwweXU2dXRtYkdLOVFPWHhHdm1CUXNya08tcUtZbzNuRnAzNDJndV8zcUxtWHlKVEdnRDFsSlBnVk5ZMXRia3ZmdzlzQk9CNVdSRnlBNUVBSHJlZUJZRjVMZjVaQ2F2MFBUZm54cEVWbnJTeTJZZDlWWkZqcm13eFE?oc=5"
   ],
-  "lastIndustryRunAt": "2026-11-15T19:16:55.833Z"
+  "lastIndustryRunAt": "2026-11-16T22:47:13.619Z"
 }

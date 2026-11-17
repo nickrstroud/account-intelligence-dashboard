@@ -1386,5 +1386,24 @@
         "publishedAt": "2026-11-07T10:05:57.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-17T21:33:31.139Z",
+    "source": "daily",
+    "headline": "Coca-Cola HBC listing and $2.6B deal signals potential platform and integration expansion needs for new entity",
+    "signals": [
+      {
+        "category": "HBC listing and acquisition deal",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Coca-Cola HBC (Hellenic Bottling Company) securing JSE listing approval ahead of a $2.6B transaction signals material M&A activity within the Coca-Cola bottling network. As a major bottler and distributor, HBC's operational integration will require data connectivity and reporting consolidation.",
+        "suggestedAction": "Contact the VP of Supply Chain or Finance to understand whether HBC will be consolidated into Coca-Cola's existing platform footprint post-deal, and confirm data integration requirements for bottler-to-manufacturer reporting flows.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMy1XOWdiWW5TZmppa2R5X3FSSUR5YkI2WUNTcm9YWHdyTGZDWDMwSDBvUHkyX3B5emNyT2xMX1VKOTEwN1RMSmdQVkJWSnBKbjVjam14aklFaFFPekU3M2FFUlhQM3V2QUgyOEw2RUozSTNHWVhQS3JHem9XYkVHdXJLdXR6dkZQTDg0TlhBSkR0ZmtRRFVmc2lXNGpJOVgyQUxmX2pRREVxdlBEbjZ3dg?oc=5",
+        "publishedAt": "2026-11-16T07:54:00.000Z"
+      }
+    ]
   }
 ]

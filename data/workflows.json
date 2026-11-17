@@ -59272,5 +59272,288 @@
     },
     "doneWhen": "[Director of Demand Planning] confirms team staffing impact, agrees to automation workflow review, and schedules 60-day expansion roadmap discussion.",
     "generatedAt": "2026-11-16T22:46:45.294Z"
+  },
+  "a_hhhe9q": {
+    "signalId": "a_hhhe9q",
+    "account": "PepsiCo",
+    "signalTitle": "Warehouse Consolidation & Job Elimination",
+    "play": "protect_renewal",
+    "goal": "Confirm Workflow Automation is delivering value in supply chain optimization during consolidation and position platform as a risk mitigation tool for the transition.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Supply Chain",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review PepsiCo's current Workflow Automation deployment: which DC operations, alert cadence, and routing optimization in use.",
+          "Check renewal date, contract value, and any open support issues tied to supply chain operations.",
+          "Scan for news on Tulsa consolidation scope (how many DCs affected, timeline, teams impacted)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Align with Account Executive and Support Ops on positioning: efficiency gains and risk mitigation during transition, not cost-cutting.",
+          "Confirm CS Director owns the conversation; loop in Supply Chain specialist if available to speak to demand planning and DC optimization specifics."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP Supply Chain] with a warm, specific ask: how is Workflow Automation helping optimize routes and DC operations as you consolidate facilities? Frame as support for the transition, not selling."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-14",
+        "tasks": [
+          "Schedule 30-min conversation to understand consolidation scope and current platform/automation pain points; identify quick wins (new alerts, automation rules) to ease the transition.",
+          "If opportunity surfaces, propose Analytics Suite pilot for pricing/share visibility during portfolio shifts post-consolidation."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outreach, conversation summary, and any new use cases or expansion conversation outcomes in CRM.",
+          "Set renewal check-in 90 days pre-expiration; flag any consolidation-related risk to renewal success."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting Your DC Consolidation: How We Can Help Optimize the Transition",
+      "body": "Hi [VP Supply Chain],\n\nWe heard about PepsiCo's warehouse consolidation initiative and wanted to reach out with support. During a transition like this, the right alerting and automation can be a real asset—ensuring demand signals and DC operations stay aligned as you optimize routes and footprint.\n\nI'd love to understand how Workflow Automation is working for you today and where we can help reduce friction during this shift. Are you open to a brief conversation in the next week?\n\nBest,\n[Your Name]"
+    },
+    "slack": "PepsiCo signaling supply chain restructuring via Tulsa warehouse consolidation. This is a retention play: confirm Workflow Automation is delivering value in DC optimization and position platform as a transition risk mitigation tool, not cost-cutting. CS Director leads outreach to [VP Supply Chain] with a low-pressure conversation focused on their consolidation challenges. If traction, expand to Analytics Suite for pricing/portfolio visibility.",
+    "crmTask": {
+      "title": "PepsiCo Warehouse Consolidation: Protect Renewal & Identify Efficiency Wins",
+      "due": "In 3 days",
+      "notes": "Signal: PepsiCo eliminating Tulsa warehouse jobs as part of operations consolidation. Play: Protect renewal by positioning Workflow Automation as a supply chain optimization and transition support tool. Engagement focus: How is automation helping DC routes and demand planning during consolidation? Whitespace: Analytics Suite for pricing and share visibility across snacks and beverage portfolios post-consolidation."
+    },
+    "doneWhen": "30-minute conversation scheduled with [VP Supply Chain] to discuss consolidation scope, current Workflow Automation value, and opportunity for new automation rules or analytics expansion in next 60 days.",
+    "generatedAt": "2026-11-17T21:33:46.301Z"
+  },
+  "a_1e3vxoa": {
+    "signalId": "a_1e3vxoa",
+    "account": "Kroger",
+    "signalTitle": "Earnings & Guidance Question",
+    "play": "protect_renewal",
+    "goal": "Help Kroger's finance and strategy teams optimize pricing and margin protection in a soft sales environment by demonstrating how advanced analytics can support their cost and revenue initiatives.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Finance / VP Strategy",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review Kroger's recent earnings call transcript and analyst commentary to map specific cost-savings and pricing initiatives underway.",
+          "Confirm current platform and automation footprint across store operations and supply chain; identify which finance/strategy teams lack visibility.",
+          "Check renewal date, contract terms, and any open support or expansion conversations with existing stakeholders."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive and finance/ops support lead to align on Kroger's margin pressure narrative and cost-reduction priorities.",
+          "Confirm CS Director will lead outreach to Finance/Strategy; agree on positioning (cost defense, not new spend) and Analytics Suite value narrative."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Finance] or [VP Strategy] with a warm check-in tied to analyst commentary: acknowledge margin environment, offer a brief conversation on how demand and pricing analytics help protect margins in soft-sales periods.",
+          "If positive response, schedule 30-min exploratory call; focus on their current cost and pricing visibility gaps, not a demo."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "During call, map how Analytics Suite (demand forecasting, price elasticity, promotional ROI) plugs into their cost-reduction and pricing strategy; use real examples from soft-sales environments.",
+          "If interest, propose a lightweight 2-week pilot with Finance/Strategy: analyze a category or region for pricing and margin optimization using existing Kroger data."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outreach, call outcomes, and pilot interest in CRM with renewal-risk context; track Finance/Strategy team engagement as leading indicator of renewal health.",
+          "If pilot runs, measure: pricing decision quality, margin impact estimates, and cross-team adoption intent post-pilot."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Margin protection in a soft-sales environment—let's talk",
+      "body": "Hi [VP Finance/Strategy],\n\nWe noticed the recent analyst questions about margin pressure and cost-savings realization at Kroger. It's a tough environment, and we thought it might be helpful to reconnect.\n\nOur analytics customers in similar positions are using demand forecasting and price-elasticity analysis to tighten their pricing and promotional strategies—and protect margins without sacrificing volume. We've built this capability on top of your existing platform and data.\n\nCould we grab 30 minutes to explore whether this helps your team? No pitch—just a conversation about what you're working on.\n\nBest,\n[Account Team]"
+    },
+    "slack": "Kroger earnings signal: analyst commentary on soft sales and margin pressure. Play: protect_renewal via Finance/Strategy outreach. Position Analytics Suite as margin-defense tool (demand + pricing analysis in soft-sales environment). CS Director leads outreach to [VP Finance/Strategy]; AE supports. Pilot goal: demonstrate pricing/elasticity analysis on 1 category/region in 2 weeks. DoneWhen: Finance/Strategy team engages in exploratory call and signals pilot interest.",
+    "crmTask": {
+      "title": "Kroger: Margin protection outreach—Analytics Suite pilot opportunity (soft-sales context)",
+      "due": "In 5 days",
+      "notes": "Signal: Analyst concerns re: soft sales and cost-savings realization; margin pressure. Play: Proactive outreach to Finance/Strategy teams (not currently covered by platform/automation footprint). Value: Analytics Suite for demand + pricing analysis to support cost-reduction and pricing initiatives. Whitespace: Analytics Suite + potential integrations for acquired banners. Renewal context: Check renewal date and risk posture. Pilot goal: 2-week lightweight analysis on 1 category/region (pricing/elasticity/margin impact)."
+    },
+    "doneWhen": "Finance/Strategy team accepts exploratory call and expresses interest in a 2-week pricing/elasticity pilot.",
+    "generatedAt": "2026-11-17T21:33:47.705Z"
+  },
+  "a_lgol1n": {
+    "signalId": "a_lgol1n",
+    "account": "Coca-Cola",
+    "signalTitle": "HBC listing and acquisition deal",
+    "play": "onboard_expand",
+    "goal": "Secure workflow automation and data integrations coverage for HBC supply-chain operations post-acquisition consolidation.",
+    "owner": "Account Executive + VP Customer Success",
+    "contactRole": "VP Supply Chain",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Confirm HBC is a material bottling partner and check current Coca-Cola account structure (do they already run HBC data on our platform or is HBC separate).",
+          "Review current contract and renewal timeline; flag if this M&A activity intersects renewal discussions.",
+          "Scan for existing supply-chain pain points or bottler reporting requests in the account (Ops/Support intake)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Sync with Sales on expansion opportunity: scope HBC entity seats, integrations, and workflow automation demand; agree on exec sponsor (SVP Supply Chain or CFO likely).",
+          "Brief Product on bottler-to-manufacturer data flow requirements and workflow alerting use cases; confirm automation product fit for multi-entity bottler networks.",
+          "Assign Account Executive to lead—coordinate with VP Customer Success on customer messaging."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Call [VP Supply Chain] to congratulate on HBC deal momentum and ask about post-acquisition data consolidation roadmap (no product pitch yet).",
+          "Share a brief case study or scenario on how peers handle bottler-network reporting and alerting; position as a resource during integration.",
+          "Secure 30-min follow-up with Finance or Integration PMO to understand timeline, ownership, and priorities."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "Conduct joint discovery: map HBC reporting requirements, existing systems, and bottler-to-Coca-Cola data flows; identify workflow automation and integration gaps.",
+          "Build a phased onboarding plan for HBC (platform seats, priority integrations, automation workflows); tie to acquisition integration milestones.",
+          "Propose workflow automation pilot: alerting on HBC supply-chain events (demand shifts, inventory, logistics) routed to [VP Supply Chain] team."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM activity and expansion opportunity; set quarterly business reviews aligned to HBC integration progress.",
+          "Track adoption of new automation and integration features by HBC; measure cost avoidance or velocity gains (e.g., faster bottler reporting).",
+          "Gather customer feedback on bottler-network workflows for Product roadmap."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "HBC Integration: Supporting Your Data Consolidation",
+      "body": "Hi [VP Supply Chain],\n\nCongratulations to Coca-Cola on the HBC acquisition milestone. As you consolidate HBC's supply-chain operations, we want to make sure your data reporting and alerting keep pace.\n\nWe've helped peers integrate multi-bottler networks into a single reporting backbone—consolidating demand, inventory, and logistics data while alerting the right teams to shifts in real time. We'd like to explore how workflow automation and data connectors could support your HBC integration roadmap.\n\nWould you have 30 minutes next week to walk through your integration priorities?\n\nBest,\n[Account Executive name]"
+    },
+    "slack": "🎯 **Signal: Coca-Cola HBC Acquisition ($2.6B)** – Major bottler consolidation will require data integration and supply-chain reporting. Opportunity: workflow automation + integrations for bottler-to-manufacturer flows. **Play: onboard_expand.** AE leads outreach to [VP Supply Chain]; Product to validate automation fit. **Ask:** Confirm HBC sits outside current platform footprint; scope integration and automation scope to size opportunity.",
+    "crmTask": {
+      "title": "Coca-Cola HBC Acquisition – Workflow Automation & Integration Expansion",
+      "due": "In 5 days",
+      "notes": "HBC ($2.6B acquisition, JSE listing approved) is a major bottler partner. Expect material M&A-driven data consolidation and bottler-network reporting needs. Initial contact: [VP Supply Chain]. Likely stakeholders: Chief Integration Officer, [Director of Supply Chain Operations], Finance. Whitespace: automation for supply-chain alerting; integrations for HBC systems. Tie to renewal cycle if active."
+    },
+    "doneWhen": "Discovery call completed with Supply Chain and Finance; HBC integration roadmap and reporting requirements documented; phased onboarding plan and automation pilot proposed.",
+    "generatedAt": "2026-11-17T21:33:47.986Z"
+  },
+  "a_1ysk2c7": {
+    "signalId": "a_1ysk2c7",
+    "account": "PepsiCo",
+    "signalTitle": "North America Performance Decline",
+    "play": "advise",
+    "goal": "Help PepsiCo's finance and strategy teams identify pricing and elasticity opportunities across snacks vs. beverages to defend margins amid North America competitive pressure.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Chief Strategy Officer or VP Finance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Review PepsiCo's last earnings call and analyst notes on North America margin/volume headwinds and Monster Beverage competitive dynamics.",
+          "Check internal platform/automation adoption: which business units (Frito-Lay, Quaker, Pepsi brands) are live and depth of demand/supply workflows.",
+          "Confirm renewal date and any open support issues or feature requests that signal readiness or risk."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Sync with Account Executive: confirm [Chief Strategy Officer] or [VP Finance] is the right entry point and brief on competitive context.",
+          "Alert Product/Analytics team: flag PepsiCo as a high-potential Analytics Suite prospect and brief on snacks/beverage elasticity use case.",
+          "Agree: CS owns the diagnostic and relationship; AE owns expansion conversation if reception is warm."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [Chief Strategy Officer] with a friendly check-in anchored to the North America headwinds and their likely need for pricing clarity.",
+          "Propose a brief 30-min call to walk through how our platform data can surface elasticity and category dynamics across snacks and beverages.",
+          "Make it about *their* problem (margin defense), not our product pitch."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–21",
+        "tasks": [
+          "If [Chief Strategy Officer] engages: run a live Analytics Suite demo showing pricing and share trends across Frito-Lay and Pepsi brands (or use anonymized competitive set) to illustrate elasticity insights.",
+          "Prepare a 1-pager on how Analytics Suite + existing Platform/Automation workflows could automate pricing alerts and category-level dashboards for finance and merchandising.",
+          "If receptive, schedule a follow-up scoping session with category finance and strategy leads to define pilot scope and timeline."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log all outreach and responses in CRM; track engagement sentiment (warm/neutral/cold).",
+          "If no response after 2 touches, escalate to Account Executive for direct outreach or pause until next earnings event.",
+          "Success = [Chief Strategy Officer] agrees to a scoping conversation and Portfolio Finance/Merchandising teams are looped in."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "North America pricing clarity: how to defend margins across snacks and beverages",
+      "body": "Hi [Chief Strategy Officer],\n\nWe're following the North America margin and volume headwinds you're navigating—and we think there's an immediate play here.\n\nYou likely have good top-line data on category trends, but category-level elasticity and pricing dynamics across snacks vs. beverages can be hard to surface fast. Our Analytics Suite was built for this: pricing and share analysis that shows where elasticity differs between your portfolios and how to defend margin.\n\nWould you have 30 minutes next week for a quick call? We can walk through what this looks like on your data—no pitch, just insight.\n\nBest,\n[Account Owner]"
+    },
+    "slack": "🚨 **PepsiCo North America Margin Pressure Signal** – Analyst downgrade + competitive threat from Monster. We own Platform + Automation; whitespace is Analytics Suite for pricing/elasticity across snacks vs. beverages. Play: advise on category pricing dynamics to defend margins. CS leads diagnostic + relationship, AE joins if expansion opens. First move: outreach to [Chief Strategy Officer] by Day 5 with demo offer. Win = scoping conversation with Finance/Merchandising.",
+    "crmTask": {
+      "title": "PepsiCo Analytics Suite exploration – North America margin defense",
+      "due": "In 7 days",
+      "notes": "Signal date: 2026-11-17. Context: PepsiCo facing NA competitive pressure (Monster Beverage, margin/volume headwinds, analyst downgrade). Currently own Platform + Automation for demand/supply workflows across Frito-Lay, Quaker, Pepsi. Analytics Suite is core whitespace: pricing and share analysis for category finance/strategy teams. Outreach strategy: position Analytics as a tool to identify elasticity and pricing opportunities across snacks vs. beverages to defend NA margins. Target [Chief Strategy Officer] or [VP Finance]. Pilot scope will likely include category-level pricing dashboards + alert workflows for merchandise and finance teams."
+    },
+    "doneWhen": "[Chief Strategy Officer] or [VP Finance] agrees to a 30-minute scoping call with Finance and Merchandising representatives to explore Analytics Suite for category-level pricing and elasticity analysis.",
+    "generatedAt": "2026-11-17T21:33:49.942Z"
   }
 }

@@ -1798,5 +1798,35 @@
         "publishedAt": "2026-11-11T18:48:22.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-17T21:33:33.180Z",
+    "source": "daily",
+    "headline": "PepsiCo facing North America headwinds with warehouse consolidation and competitive pressure",
+    "signals": [
+      {
+        "category": "North America Performance Decline",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo facing persistent problems in North America with analyst downgrade to Sell; competitive pressure from rivals like Monster Beverage with steadier growth trajectory. Demand and pricing pressure likely across snacks and beverage portfolios.",
+        "suggestedAction": "Schedule a brief check-in with their Chief Strategy or Finance team to understand how they're responding to North America margin/volume headwinds. Offer to run a pricing and share analysis across snacks vs. beverages to identify where elasticity and category dynamics differ—this is core Analytics Suite value they don't yet own.",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85cHBuOTNhRHEzaGxUakc1dVRGSFNIVEZxY0RTYXJySE1rb0J4SFpabVBNSVFtNGVyeEhIWDhfd01yN0R2a0VYeHRpUWpHTDBOelJjTFphc3hNWVlZS3cxV1U5dFVwTkY0VVktTkdRb1VFTTk1VTllRzNR?oc=5",
+        "publishedAt": "2026-11-17T13:30:00.000Z"
+      },
+      {
+        "category": "Warehouse Consolidation & Job Elimination",
+        "updateType": "restructuring",
+        "play": "automation",
+        "score": -1,
+        "summary": "PepsiCo eliminating Tulsa warehouse jobs as part of operations consolidation, signaling cost-reduction restructuring in supply chain footprint.",
+        "suggestedAction": "Reach out to their VP of Supply Chain to understand the scope of warehouse consolidation and whether Workflow Automation alerting and demand planning is helping them optimize routes and DC operations during this transition. Position as a retention/efficiency conversation, not a cost-cut play.",
+        "sourceName": "The Journal Record",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYVlSemtQQ0NTQjd5eVRtZmluWGZIeDdrRUdEaUNtSEZaRnh3NWhYME93d2hiWGlzMlpsU04tVWFIUmVDQjQ4TFlXYnBRRzlyMUczUDVEYl9zbU9JYnRFWUl2dV9qb2g2ZlVCVlJWWkFzbGZ0Q0QyY0ZyRUhmZUZDb3lR?oc=5",
+        "publishedAt": "2026-11-16T17:48:13.000Z"
+      }
+    ]
   }
 ]

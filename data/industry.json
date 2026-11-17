@@ -1,5 +1,271 @@
 [
   {
+    "id": "NHpPVlV3ZFhWRVRUZz9vYz01",
+    "title": "AI-Driven Retail Traffic Surges 693% as Businesses Explore AEO and GEO",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0tJN3FDa2pGYl9HMzNnOUFTaVBhVFhOd2tQNmhncHZsTzBiNGpTNG5HdE93S3ZpMlJ2N1pqUTdVN29CaVZoNUhXeHRybWk5b0VTcmlhby1GeFNMdi1zRlNBQkhEcy1fSXRzLWJsZmNjUzBfX1pIU3hLNEw1eXNscDBteHY4UmNMQU8zVjdmLTRGTXhDRXRKNXNjS0k2czh3VGVjZmFzeTBRb3JfOXIycTRSci10UkdLTU4zOVUwdXVETTg?oc=5",
+    "sourceName": "The Detroit News",
+    "publishedAt": "2026-11-17T20:54:43.000Z",
+    "analyzedAt": "2026-11-17T21:34:05.792Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "AI-driven retail traffic analytics are showing significant adoption growth as retailers explore audience and geo-targeting.",
+    "angle": "Retail and CPG customers are investing in AI-powered insights for location and audience optimization. This signals demand for advanced analytics and integration of retail traffic data into strategic decision-making.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "weFFURk5JVlRkdmRBP29jPTU",
+    "title": "Kroger's new store formats trade apparel space for fresh food",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHczZHZDOGV6RDgyMUdoX3RzUGZxQmZTM1B0ejFPTTdEZkFFYUQ2LXNOVmYwcE82SldHQWx6QmI2Y3hGUnplaV9VMFJ0WlB1eU90c1VxejJWNWlyUTV3YU9JOHBqZzVGMnF6ZXFJRkdkclVYc0lmYTlKcWNpc01nTmhXRGFici1oQVJlQlFwb2V6eGlsTGRzRjZ2bExwVk1mM0NpUlRsb0xQTFNIVTdvdA?oc=5",
+    "sourceName": "MarketScale",
+    "publishedAt": "2026-11-17T20:09:59.000Z",
+    "analyzedAt": "2026-11-17T21:34:05.792Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Kroger is redesigning store formats to reduce apparel space and expand fresh food offerings.",
+    "angle": "Kroger's strategic pivot to fresh-food-focused formats signals changing inventory, assortment, and supply-chain priorities that may require new data models and category analytics.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "d2FyZWhvdXNlcy84NzQ4Mjkv",
+    "title": "US Foods to test inventory-scanning robots at 6 more warehouses",
+    "link": "https://www.supplychaindive.com/news/us-foods-to-test-inventory-scanning-robots-at-6-more-warehouses/874829/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-17T19:18:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:00.179Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "US Foods is piloting inventory-scanning robots across 6 warehouses by year-end to improve warehouse efficiency.",
+    "angle": "Signals broader adoption of automation and robotics in food-service supply chains; relevant for CPG manufacturers and retailers managing inventory visibility and warehouse operations.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "GRm5WVE5DYjNJM01nP29jPTU",
+    "title": "New SNAP rule pushed back 90 days",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTZnX2gxbnB4bFREdnFPbU1RRHpiMTRMaVJsYVJFemFiLUt6WGFCMF9na04tdmtKOVlJWEZHVjZ2cFpOQlBDa3hvMDFYSHNZU0tiM3lraW5XcENkZnpfT0xxVlNPbGlFX0k2Tm5jOWlBNEtKRDI4YVhzbVE0M0FWSl9ibFFnVTNCb3I3Mg?oc=5",
+    "sourceName": "Supermarket News",
+    "publishedAt": "2026-11-17T19:11:04.000Z",
+    "analyzedAt": "2026-11-17T21:34:18.074Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA pushes back SNAP benefit stocking standards by 90 days, delaying retailer compliance deadline for new product rules affecting soda, candy, and other categories.",
+    "angle": "The SNAP rule delay impacts inventory, assortment, and promotional planning for retailers and CPG manufacturers. Customers need visibility into affected SKU compliance and demand forecasting across SNAP-eligible products to manage the transition.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VWc1YzJSVVkyMDJPUT9vYz01",
+    "title": "Kroger Names Melanie Zimmermann to Lead Advertising Business",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGV6dzY5b3V2UDJkRFVjSkF0UTR4ZnFZWjB4ZEc4T1NuSkIySHRfSUFRTjhlNVE0ME82UHVZN0FjeXdCTHQ0dGt0ejZLbnUxdUZ6ZjEtRFJTUGRZQWZ1QUJlU1FQaXBUWkFXNDFncF8zVzluTDRPS080MW9wWHJwRWwwbGQ1MnYxTE1XWWNJNUg5c2RUY202OQ?oc=5",
+    "sourceName": "ADWEEK",
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:18.074Z",
+    "updateType": "leadership",
+    "relevance": 2,
+    "summary": "Kroger names Melanie Zimmermann to lead its advertising business, signaling deeper organizational investment in retail media as a strategic priority.",
+    "angle": "Kroger's leadership hire for advertising suggests expansion of its retail media and audience platforms. This is an opportunity to discuss analytics and automation capabilities for managing scaled ad operations and CPG partner integrations.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "5aYVZreEllV0V3Wnc_b2M9NQ",
+    "title": "US retail sales showcase underlying strength despite cost-of-living crunch",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFYQzF0Y092amNQX1ZybEpWNGF0TkJ6SDY0eWtIenJRRWE2by1QSXROdzVLLUF3MjJqNGxyZkJVVWEzeUZGNXlIekdaT0pMUFRmd2pPbl9BZTRGZERFSnFOend6M0FKU3laSWdPdEpiWkw3TlVTejkwdFZaeHJyR3dTb2o5Y0toVnZaVkxIeWEwZw?oc=5",
+    "sourceName": "Reuters",
+    "publishedAt": "2026-11-17T18:28:52.000Z",
+    "analyzedAt": "2026-11-17T21:34:11.026Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "US retail sales remain strong despite cost-of-living pressures, showing consumer resilience heading into holiday season. Retail strength persists amid inflation concerns.",
+    "angle": "Positive retail demand backdrop supports confidence in customer inventory and demand planning; useful context for strategic account conversations on demand forecasting.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aHFXRXhmYjFOQlpsaz9vYz01",
+    "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
+    "sourceName": "The New York Times",
+    "publishedAt": "2026-11-17T16:21:41.000Z",
+    "analyzedAt": "2026-11-17T21:34:11.026Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Shoe prices hit record highs driven by inflation and increased tariffs. Broad price inflation across apparel and footwear reflects tariff pressures.",
+    "angle": "Tariff and inflation impacts ripple across retail and CPG supply chains; a key topic for CPG and retailer customers managing pricing strategy and cost-of-goods planning.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "6ZXJvLXN1Z2FyLzg3NDg5MC8",
+    "title": "The food health and ingredient claims driving lawsuits",
+    "link": "https://www.fooddive.com/news/lawsuits-food-beverage-ultraprocessed-zero-sugar/874890/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-17T16:03:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:05.792Z",
+    "updateType": "legal",
+    "relevance": 2,
+    "summary": "Litigation around zero-sugar labels and ultraprocessed food claims is rising, creating regulatory and reputational risk for CPG manufacturers.",
+    "angle": "Major CPG brands face increasing legal exposure on ingredient and health claims. Analytics and reporting capabilities help track claims compliance and market messaging risks.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1vbi1yZWNvcmQvODc0NzMyLw",
+    "title": "How to prepare for the most severe El Niño on record",
+    "link": "https://www.supplychaindive.com/news/how-to-prepare-for-the-most-severe-el-nino-on-record/874732/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-17T15:57:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:00.179Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A severe El Niño weather event is expected to disrupt supply chains; manufacturers should audit systems for failure risks and implement protective measures.",
+    "angle": "Major supply-chain risk for CPG manufacturers and retailers with agriculture-dependent products or logistics exposed to weather; requires scenario planning and rapid response coordination.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "nZXMtZGVlcGVuLzg3NDc5Ni8",
+    "title": "Pardon the Disruption: Grocers have backed themselves into a corner with e-commerce",
+    "link": "https://www.grocerydive.com/news/pardon-the-disruption-online-grocery-challenges-deepen/874796/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-17T15:35:45.000Z",
+    "analyzedAt": "2026-11-17T21:34:00.179Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Instacart and DoorDash are exploring a merger as Amazon and Walmart strengthen their e-commerce and grocery delivery positions, reshaping the competitive landscape for grocers' direct-to-consumer channels.",
+    "angle": "Major threat to independent and regional grocer margins and customer relationships; a consolidation of this scale shifts where grocers' data and fulfillment capabilities need to focus.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "RGxYUzAxcFVrUkZRZz9vYz01",
+    "title": "WARC: Walmart U.S. ad revenue projected to reach $6 billion in 2026",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzRoOHg1YU5kMjVQY2RPNUZ0Q0xNV0VnVmhxZ1ROZ2pQY2xhMVNjUzlVdHVQcFpXZWswLXFrUUdlRlFEUklnV09tQnlNUHRZM0JCeHpfOS1JVFcxQjcyV25WQmpXbm10Q1FqNW1DOUF2bU5jTTREalJoVlFuUUVHQUV6ckhYRWxiLVNYVU5VUDlXS01pUkRFQg?oc=5",
+    "sourceName": "TheDesk.net",
+    "publishedAt": "2026-11-17T15:33:50.000Z",
+    "analyzedAt": "2026-11-17T21:34:18.074Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart U.S. ad revenue projected to reach $6 billion in 2026, reflecting rapid growth in retail media networks as a strategic revenue pillar.",
+    "angle": "Walmart's accelerating retail media business underscores the competitive importance of data analytics and audience insights for CPG manufacturers. This signals growing customer demand for analytics and integrations to optimize media spend and attribution across retail channels.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "0d1R6ZFZWVVU1VEU4P29jPTU",
+    "title": "Major food groups join forces to accelerate regenerative agriculture",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzV4RXBsaDlyd05fa2VNMENhVGdRd00zendPbVBHcEo0ZjBFVmFqQURVVkZoOGxYMENZVzRaYkxDRFVETFNoV1ZBbmVsd3hUVmVNSGhRM25XSWVrUklOVUlqSTNLd1RzY2NkVHNmVHBBSmZoYndBWk5TUU5oTFNGZlp3ZmQ0UURHV09sUnVGaTd4UU4wTzdVVUU5TE8?oc=5",
+    "sourceName": "Food Ingredients First",
+    "publishedAt": "2026-11-17T14:36:57.000Z",
+    "analyzedAt": "2026-11-17T21:34:11.026Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Major food groups are collaborating to accelerate regenerative agriculture initiatives. CPG industry is moving toward sustainable sourcing and supply chain practices.",
+    "angle": "Signals industry-wide shift toward regenerative agriculture and supply chain transparency; relevant for CPG customers tracking sourcing data and sustainability reporting.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VnVSR1k1VUZaVlowaz9vYz01",
+    "title": "Worldly Agrees to $350 Million Acquisition by UL Solutions to Expand Supply Chain Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT2JXclJtdXNMNkc5YmhvX1h3UFVVV2xneDBVaUNIUktTZVRVMUJObWxMNzNoUmVxMS13VVJnWFlHN05Jdnd5cTFHM01rNjIyMUpzelE4bThQU2xuMTY3NlRzTG41WmpncjU0SVZ1NElGV3dXemQzQTBwcm9JTmxFWVQ3dmtzMTZSYmxLTWliQVJmMlpFeEhxMkhRMU56LWtiQUpzYzdqNU1mOTNkS0FxSmtETFVzLTZLTjBOcW9IaXo5ZnVuRGY5UFZVZ0k?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-17T14:14:47.000Z",
+    "analyzedAt": "2026-11-17T21:34:11.026Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "UL Solutions acquires Worldly, a supply chain intelligence platform, for $350 million. The deal expands UL's capabilities in supply chain visibility and risk management.",
+    "angle": "Signals competitive pressure in supply chain intelligence space; relevant for Account Intelligence customers evaluating third-party supply chain data integrations and automation opportunities.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hOSG8yVWxSS2FuaDM_b2M9NQ",
+    "title": "Ottawa’s trade war is making it more expensive to buy Canadian",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMm1XWWpUcXRXME0tS1dnUVpmX1Q4cC1TMHRUR3liV1RYM3VJek9LSEo1bkRRLUQ5OTFQRUk5c3pVYmZIREZhSGhaUjB3SEM4a2hRQkRfQVoxcFVkSGc1MHlSMFFPUE1HaXZxZjdGcXZ3Rm5NbHhZZ3BvOUMwWkRGNjRaMUFzLTRYeWZuTjZIbWRsZ1ZRN2tYSldjWnZfelZFa2NFV0ZiOE9XNHo2UlRKanh3?oc=5",
+    "sourceName": "Retail Insider",
+    "publishedAt": "2026-11-17T05:43:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:05.792Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Canadian trade tensions are driving up costs for imported goods and cross-border retail procurement.",
+    "angle": "Tariff and trade-war impacts on cost of goods and supply-chain complexity are immediate concerns for CPG and retail customers sourcing from Canada. Pricing and margin analytics are critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RpZXRhcnktc3VwcGxlbWVudA",
+    "title": "Rulemaking To Provide That N-acetyl-L-cysteine Is Not Excluded From the Dietary Supplement Definition",
+    "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23351/rulemaking-to-provide-that-n-acetyl-l-cysteine-is-not-excluded-from-the-dietary-supplement",
+    "sourceName": "Federal Register (Proposed Rule)",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:20.026Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "FDA proposes to allow N-acetyl-L-cysteine (NAC) as a lawful dietary supplement ingredient, potentially expanding the market for dietary supplement products containing NAC.",
+    "angle": "CPG manufacturers in the dietary supplement and health category may see new product formulation opportunities; relevant for customers with nutrition, wellness, or supplements business units tracking regulatory changes.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "1zdGFuZGFyZHMvODc0NzgyLw",
     "title": "USDA delaying new SNAP stocking standards",
     "link": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/",
@@ -170,6 +436,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "lbnRzLXBsYW50Lzg3NDYxNy8",
+    "title": "Conagra Brands to close Missouri ingredients plant",
+    "link": "https://www.supplychaindive.com/news/conagra-brands-to-close-missouri-ingredients-plant/874617/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-16T13:02:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:00.179Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Conagra Brands is closing a Missouri ingredients plant employing 442 workers and consolidating production to Arkansas.",
+    "angle": "Supply-chain consolidation and cost optimization at a major CPG player; signals continued focus on manufacturing footprint efficiency and ingredient sourcing.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "MFIyY2xOSWRIbFdRUT9vYz01",
     "title": "These Companies Are Using Trump’s Tariff Refunds for Executive Bonuses",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
@@ -183,6 +464,23 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "STVVFVlViRTB5YzBVP29jPTU",
+    "title": "Food Groups Question Legality of Trump’s Soda, Candy Ban in SNAP",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW5Nd25BR1Q0NTJFd1NQeDdYcUE4TDg3U25oNkNfNDR3S3V0T1g1UnRic21vNWd1cjZxazU5Y2xhZG04OFctQUZlNGIyOFI1bmxzQmtrWHhlS3lOZkx0Z3RHNmdmcUlERE1BeHhaSEFPcElrNk1ya29UaE53ZHg4WG1EcF9mUTRNUldpci1aMktTZlBwNFp1OTlLaGpUSVRKS254WkdJRkFHV1ZvOTRMUEVUbE0yc0U?oc=5",
+    "sourceName": "Bloomberg Law News",
+    "publishedAt": "2026-11-16T09:31:00.000Z",
+    "analyzedAt": "2026-11-17T21:34:18.074Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Food industry groups question the legality of Trump's proposed SNAP ban on soda and candy, signaling potential policy uncertainty and litigation risk around benefit program restrictions.",
+    "angle": "Regulatory and legal uncertainty around SNAP product eligibility creates risk for CPG and retail customers. Having centralized visibility into affected products, customers, and compliance status across the platform becomes critical for scenario planning.",
+    "play": "platform",
+    "products": [
+      "platform"
     ],
     "mentionedAccounts": []
   },

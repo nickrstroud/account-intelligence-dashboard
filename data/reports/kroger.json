@@ -1656,5 +1656,24 @@
         "publishedAt": "2026-11-13T21:46:01.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-17T21:33:34.350Z",
+    "source": "daily",
+    "headline": "Kroger faces soft sales and cost-savings scrutiny; minor operational delays and local incidents signal no material expansion or contraction signals",
+    "signals": [
+      {
+        "category": "Earnings & Guidance Question",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": -1,
+        "summary": "Analyst commentary raises concerns about soft sales and questions around cost-savings realization at Kroger, suggesting margin pressure and revenue headwinds.",
+        "suggestedAction": "Schedule a check-in with Kroger's Finance and Strategy teams to understand cost-reduction initiatives underway and pricing/promotional strategy in response to soft demand. Position Analytics Suite demand and pricing analysis as a tool to protect margins in a soft sales environment.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXhad19yNlpKRTZzcUtDXy1kbUEyekZXUFBKXzhPamR1SmpUUkJwV08xUE1BeklObEl4UENfRnJESkxyTVZKYkJqSlhXZXZSc2s5SVJTQm9lTmJ3UjgzN3VnTy1obmNic3d6dktTYXp0WHZJUXpGRTF6OXR3cGQzZENCWlUzb1pfRjVzajk3aHRyc3g5X0FR?oc=5",
+        "publishedAt": "2026-11-13T08:14:42.000Z"
+      }
+    ]
   }
 ]

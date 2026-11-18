@@ -1,5 +1,238 @@
 [
   {
+    "id": "tGSVluaDNTVEZDZHc_b2M9NQ",
+    "title": "Breakfast items made with biscuits sold in several states recalled over listeria risks, USDA says",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnd1aDlJZDJrc1gyOWlndV82VjhjZmo1MHFuUzZkbE5DQzgtOVZBeThvdEd1bjhrSi1KMXVHZ0tCYmZjRGRhOUI4UnhBV3NKU1ZTWmdKaWtrMmh4c2M1bnl6eXJDVnNkcHNnRHAtWXZBc2xvZmR6SnVmV2RmbDNLNk1jTWdBNVZKWXFDZllzWFNOTkpldExxNktFYlc5MTJpYWhuTDBzbXRRdjRud0hBM1RrLWwxRnk4ci1XdDZIVEhtcXVPMGtJTjFfdmtXdk8wRkFIYnh3STFCdw?oc=5",
+    "sourceName": "kiiitv.com",
+    "publishedAt": "2026-11-18T20:52:37.000Z",
+    "analyzedAt": "2026-11-18T21:10:27.371Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Breakfast items with biscuits recalled across multiple states due to listeria contamination. USDA-issued recall affects retail and food manufacturing operations.",
+    "angle": "Recalls and food safety incidents drive urgent need for supply-chain visibility and automated alerting. Customers managing affected SKUs need rapid cross-functional coordination across merchandising, supply chain, and operations.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "N0WmxGeGRYaEJWMDQ_b2M9NQ",
+    "title": "Ingredient recalls: why one bad input hits many products",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRnJqNy1kWEs3OE1BNF9fRE11RlVjek9FS0c1T3F4V2N0TjlITXUzcmotZkliYnJVRUZpeHVNaFdTZFFGOGlISjB1TXdjYlE2R3l6dWhnY2J5enctZlFxdXhBV04?oc=5",
+    "sourceName": "qz.com",
+    "publishedAt": "2026-11-18T20:21:32.000Z",
+    "analyzedAt": "2026-11-18T21:10:21.044Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A single ingredient recall can cascade across dozens of finished products, forcing rapid traceability and risk mitigation across supply chains. Food safety incidents are accelerating recalls and supply disruptions.",
+    "angle": "Ingredient-level recalls demand fast traceability, inventory impact modeling, and supply-chain automation to identify affected SKUs and trigger rapid response workflows—critical for food safety compliance and risk management.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RYMHBoZG1sRWJrOW4_b2M9NQ",
+    "title": "Strike Risk Grows at Busiest US Ports as Contract Talks Stall",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUF9zTkM2VWg1Wi1JVGJ4eUxvcXVHeHlTSTEzVFdzX2tDQ0RaRmRFQm9yS2RaZDhKeDBiTHpPLUVfcXRjOWFZV2tzdWR0VGVqekYtdk9CWXJYMnNubzFGZklhNXVzQlJYYnE1UzdtcFV0U2RPX2YyVjhSU0NmTV9ydUltbUZYUzJ1RkRRUDFFLUxiZUlPNEpma0VyYWI5NlkxVUt3M2Jqdlo4X0phdmlEbk9n?oc=5",
+    "sourceName": "Bloomberg.com",
+    "publishedAt": "2026-11-18T17:33:22.000Z",
+    "analyzedAt": "2026-11-18T21:10:27.371Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Port labor contract negotiations stalling at major US shipping hubs; strike risk escalating as talks break down.",
+    "angle": "Port disruptions could severely impact inbound and outbound logistics for CPG and retail customers. Customers need real-time supply-chain visibility and automated escalation workflows to manage inventory and shipment routing.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pZZGkxSk0xQmpTbWM_b2M9NQ",
+    "title": "Why grocery stores are competing to offer the cheapest Thanksgiving meal deals",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHgtQ2RmamE2Ynh5TWgteFRWWUZzNXp6S08wdWJIMzBYckhYWEdoYlZpTnVsSFNBUDJmTG40MDRmak02V3hQOEVXQllIN28wRkpETzlPWnhvWF9kTVEzTGl4ejNCMExpcDU5aWczZmNjVGg1WlFaZ3NMUUh3UFppTy1aWERQRUtIY1BFQjZlU2pCemczSFMyMTZsSDdMZDBBTDZYdi1JM1BjSmc?oc=5",
+    "sourceName": "Star Tribune",
+    "publishedAt": "2026-11-18T17:23:22.000Z",
+    "analyzedAt": "2026-11-18T21:10:21.044Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "Major grocery stores are aggressively promoting low-price Thanksgiving meal deals, signaling intensifying price competition heading into the peak holiday season.",
+    "angle": "Competitive pricing moves and promotional intensity are creating urgency for retailers to optimize margins and basket-level profitability; analytics on private-label performance and promotional ROI are critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWluZmxhdGlvbi84NzUwNTgv",
+    "title": "Economic optimism plunges to lowest level since Great Recession",
+    "link": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-18T17:12:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Consumer economic optimism has plunged to its lowest level since the Great Recession, as perception diverges from GDP growth.",
+    "angle": "Weak consumer sentiment will pressure demand elasticity and trade-down behavior. Retail and CPG customers need category-level demand forecasting and consumer-insight models to navigate shifting basket.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pYS1ncm9jZXJ5Lzg3NTAzNy8",
+    "title": "Kroger names new retail media chief",
+    "link": "https://www.grocerydive.com/news/kroger-precision-marketing-melanie-zimmermann-retail-media-grocery/875037/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-18T16:25:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Kroger names Melanie Zimmermann as new retail media chief as the grocer reshapes its executive team and operations overhaul.",
+    "angle": "Kroger is doubling down on retail media—a high-margin revenue stream that complements core merchandising and pricing analytics. This signals increased data-driven media buying and attribution work.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "dHMtZ3JvY2VyeS84NzQ5MDUv",
+    "title": "Why grocers are opening new price-focused stores",
+    "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-18T16:18:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "Major grocery chains are launching new price-focused store formats to balance value perception with profitability.",
+    "angle": "New store formats and aggressive pricing strategies require real-time visibility into promotional elasticity, margin erosion, and store-level performance—core analytics and platform capabilities.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWNoYWluLWZtaS84NzQ4Njgv",
+    "title": "Grocery inflation set to go up as input costs rise",
+    "link": "https://www.fooddive.com/news/grocery-inflation-food-prices-supply-chain-fmi/874868/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-18T14:21:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "High energy costs and El Niño weather patterns are forecast to elevate grocery price inflation above average over the coming months.",
+    "angle": "Input-cost shocks and commodity price spikes require rapid scenario modeling and pricing elasticity analysis. Retailers and CPG brands need analytics to forecast margin impact and adjust promotional strategy in real time.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xzLWdyb2NlcnkvODc0OTgxLw",
+    "title": "Amazon adds prepared meals to same-day grocery delivery service",
+    "link": "https://www.grocerydive.com/news/amazon-same-day-prepared-meals-grocery/874981/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-18T13:41:44.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Amazon expands same-day grocery delivery to include prepared meals under $8, deepening encroachment into traditional grocery margins.",
+    "angle": "Amazon's grocery play threatens customer basket composition and margin mix. Grocers need real-time demand and pricing analytics to defend share and adjust promotional strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9tbW9kaXRpZXMvODc0OTYzLw",
+    "title": "PepsiCo improves deforestation-free sourcing for key commodities",
+    "link": "https://www.supplychaindive.com/news/pepsico-improves-deforestation-free-sourcing-for-key-commodities/874963/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-18T12:59:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "PepsiCo improved deforestation-free sourcing for key commodities to 94% in 2025, up from 90%, as it tracks ESG and sustainable sourcing goals.",
+    "angle": "Sustainability reporting and commodity-traceability requirements are growing. PepsiCo's work here signals need for supply-chain transparency and ESG-linked cost accounting within analytics workflows.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "PepsiCo"
+    ]
+  },
+  {
+    "id": "My1lYXJuaW5ncy84NzQ5NTkv",
+    "title": "Target traffic rises as retailer reports broad-based gains",
+    "link": "https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-18T11:55:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:13.748Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Target reports 5% Q3 traffic growth and plans up to $6 billion in capital expenditures next year, signaling network expansion and format investment.",
+    "angle": "Target's growth and reinvestment likely includes new store formats and business units (e.g., grocery, Same-Day Services). This is a retention and expansion conversation for new team and data coverage.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "HT1hObFkxTmhTa1puP29jPTU",
+    "title": "What a Nationwide FAA Ground Stop Teaches Perishable Food Suppliers About Holiday Resilience",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYk53U284MU5aNk1oTXNpU0pXN0UzZUxKVDRRNGhrZXM1eWdIazA5bGRmWDBOdFZiNG5GdjAxNEhLQzV3SF93MU5uR0ZLWDdkOFlyYkdBT1JLWTg1RUYwVnVqdFQ4bWo5RDRkQUdoeWNyTF9DX3hTNmtCdjNwbThCbDlLVzJFNEVXbHE1MzRucXp6eWJTZFVXaV9GeVNvdWlHUlo0Mmd2MjZZcTMzV2lvTmRzZ3ZGOXNlY1NhSkZn?oc=5",
+    "sourceName": "The Packer",
+    "publishedAt": "2026-11-17T22:38:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:21.044Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "An FAA ground stop disrupted perishable food logistics, highlighting supply-chain fragility and the need for resilience planning ahead of busy holiday season.",
+    "angle": "Supply-chain shocks require rapid alerting and playbook automation to reroute shipments and adjust demand forecasts; perishable distributors and retailers need real-time visibility and actionable workflows.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NOWE0yZEMxWVpuaHQ_b2M9NQ",
+    "title": "Walmart’s US ad revenue is forecast to increase 24.8% to $6.0bn in 2026, cementing its place as second-largest US retail media network",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzBvanBlTkQ4ckc5WUhPck9aSGtqQ25xdHVsNjQ0TWViTWhFQVhaZXZoQ1NfVmdwZ2luRHJ6Vk93U0sxRnVNRWxaTERROFNnQnU2V055X3JxV0NOYW4wS2k0UzZ4Tldyb0c3TTBMUjY0cEQxS0ViWFJVcy12TERhdVdMX3dNQnBQVF9PWUdWRG11YVhXTU5mZHRBTDRZckJrQ29KX29xTUp1TmZ5ajZMczZ4dzMtSG51eE1FdTJBdERYeEZJWGlMQXR2Z2l0N200eVNicjZPYzhZU0RTN0xsNXM2dC1YZnht?oc=5",
+    "sourceName": "Roastbrief US",
+    "publishedAt": "2026-11-17T22:27:29.000Z",
+    "analyzedAt": "2026-11-18T21:10:27.371Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart's US ad revenue forecast to grow 24.8% to $6.0bn in 2026, solidifying its position as the second-largest US retail media network.",
+    "angle": "Walmart's accelerating retail media business is reshaping how CPG brands allocate marketing spend and measure ROI. Customers selling into Walmart need better analytics on media performance and consumer behavior tied to ad placements.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
     "id": "NHpPVlV3ZFhWRVRUZz9vYz01",
     "title": "AI-Driven Retail Traffic Surges 693% as Businesses Explore AEO and GEO",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0tJN3FDa2pGYl9HMzNnOUFTaVBhVFhOd2tQNmhncHZsTzBiNGpTNG5HdE93S3ZpMlJ2N1pqUTdVN29CaVZoNUhXeHRybWk5b0VTcmlhby1GeFNMdi1zRlNBQkhEcy1fSXRzLWJsZmNjUzBfX1pIU3hLNEw1eXNscDBteHY4UmNMQU8zVjdmLTRGTXhDRXRKNXNjS0k2czh3VGVjZmFzeTBRb3JfOXIycTRSci10UkdLTU4zOVUwdXVETTg?oc=5",
@@ -319,6 +552,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "3M1drTk1VMko0Y0VFP29jPTU",
+    "title": "Why better food price forecasts take more than one model",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnI0QkN5Q0pUazdUMmRGM1Bkd3RKNmtGUUJRMlJVV3hGLV81QXB4ZXN4Si1fZlRSZEtQZ3hqZjZ1NnVDbDNBemZJRkkwUUZTRWZJMk01WUVrQnZVV0ppQkNCZjc0MC1Icm9BT3ZqT2Y3UTRWRTJOaGRWSzNjQVhJWVM5V2U2Sl9lYWw3WkNMU2J4cEE?oc=5",
+    "sourceName": "Arizona State University (ASU)",
+    "publishedAt": "2026-11-16T17:29:06.000Z",
+    "analyzedAt": "2026-11-18T21:10:21.044Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "ASU research highlights that multi-model forecasting delivers better food price predictions than single-model approaches, underscoring the value of advanced analytics in CPG and retail pricing.",
+    "angle": "Validates the business case for advanced analytics and ensemble forecasting; relevant talking point with analytics-mature customers considering expansion or optimization of their forecast infrastructure.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "sZWFuLWxhYmVsLzg3NDc2NS8",
     "title": "Sugar replacement maker Oobli acquired by biotech firm Amyris",
     "link": "https://www.fooddive.com/news/oobli-acquired-amyris-sweet-proteins-sugar-clean-label/874765/",
@@ -432,6 +682,23 @@
     "play": "automation",
     "products": [
       "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RhMmRHT0VGd05Ha3c_b2M9NQ",
+    "title": "Graphic: How grocery prices have changed since Trump took office",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjdvMHBjVmxKUzBCNnhHNDNrRGN3a3c5cXJrY0h5cTlXYWE2VGhwcVpLXzcxclFucFlkWHFjNWk3VnBoUmhiSldoUUVRR29GdDkzRnhVZEt1a2I0V25KWFhuaV9EeHIzaVFMN1lhMUlWejNCdjJTUExUTDAyTzM0TjNURk15ZkIySk9PX2FfZG9IY0YwbTVPZFpTTW9iaHpVeFB1RzZZbVluZUtzakk0SDJ4a2dGOEFwNGkw?oc=5",
+    "sourceName": "NBC News",
+    "publishedAt": "2026-11-16T14:29:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:21.044Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Grocery prices have shifted noticeably since Trump took office in Nov 2026, likely reflecting tariff and trade policy changes. This is a key talking point for large grocers and CPG manufacturers navigating pricing and cost pressures.",
+    "angle": "Retailers and CPG brands are facing real-time pricing pressure and need advanced analytics to model cost scenarios, adjust promotions, and forecast demand elasticity as tariff impacts ripple through the supply chain.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": []
   },
@@ -652,6 +919,23 @@
     "relevance": 2,
     "summary": "Canada's Ambassador warns that Trump tariffs are raising business costs and increasing cost of capital uncertainty for companies. Supply-chain and pricing volatility from tariff policy is a material risk for large cross-border operators.",
     "angle": "Tariff and trade uncertainty is forcing CPG and retail leaders to re-model supply-chain costs, pricing, and margin scenarios. This is a core conversation for customers managing multi-country sourcing and pricing strategies.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VEZIYVVWd05XcFlRUT9vYz01",
+    "title": "Mamdani announces deal with White House for 90-day extension for new SNAP re­quire­ments",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtlVnAwcGEyWl9xanJEWU1ZN0U2aVBfVHkxc2RVTXlBbG82MzRQbVBZN3JKcnY1Q3FRaGtOdS1TUkVFSGJZd3J2QWRsM0NOUkVKRlgybHAxUm9JU1E5NlY1UVlkRzBNdXQ5VC1XUk12QUZDdlpxUGJ0YjYxbVRlSmJGcFR2d01pOThGMXhvb2VNQ3N6QlJ6MjktV1h4OUwxSUp2YUFWNFVjaHpCX3lLVmlBYnBZZGhQTDJWeWhIYnktbVdpbTFHaUVwNWpYQQ?oc=5",
+    "sourceName": "Spectrum News",
+    "publishedAt": "2026-11-13T21:43:00.000Z",
+    "analyzedAt": "2026-11-18T21:10:27.371Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Administration grants 90-day extension for new SNAP requirements, delaying implementation of stricter eligibility or benefit rules.",
+    "angle": "SNAP policy changes directly affect CPG sales mix, pricing strategies, and demand forecasting for lower-income segments. Delay creates planning window but heightens need for scenario analytics and demand sensing.",
     "play": "analytics",
     "products": [
       "analytics"

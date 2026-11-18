@@ -1309,5 +1309,35 @@
         "publishedAt": "2026-11-11T21:15:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-18T21:09:30.270Z",
+    "source": "daily",
+    "headline": "Costco benefits from panic-buying surge; strong cash position supports expansion budget",
+    "signals": [
+      {
+        "category": "Demand surge from supply-chain event",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Tech outages driving panic-buying and stockpiling at Costco, lifting near-term demand. Reflects broader consumer behavior shift and category dynamics.",
+        "suggestedAction": "Reach out to VP of Merchandising or Finance to understand how they're using platform data to track this demand surge across categories and regions in real time; offer Analytics Suite for demand forecasting and member behavior segmentation to capitalize on the volatility and prepare for the normalization period ahead.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaHJQcV85OUpLcFZlUXhMR2x2QnEyNS1BVWpqUGpObFpBU0E5eG1pUi1xdmhFcVVxSFcwc1QxVjk5TG80eFkzYXJRV1l0X3FuZ0wydVFCbGhmMDJIdUlGZ09aVEw2TlBpMzVCX1EzcUloanBLRnFr0gF8QVVfeXFMUGd6d2tnRmRzRk9jZ0FkdmloSzF2d1JCdkl3QWVvQjBTcUlyV2tJU1dLdjRTRHJqQmc3b1dhOG1DTFBfb0JSb1ZUNlB5SzdjR1plbmplR0plUzVtMFdSMlhHbHBpeEM0WWhldmQ5aU9Xcy1XSkJCNFE4Yi02Wg?oc=5",
+        "publishedAt": "2026-11-18T14:44:38.000Z"
+      },
+      {
+        "category": "Special dividend payout ($13B)",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Costco returning $13B in special dividends, signaling strong profitability and free cash flow; positions company to invest in growth initiatives.",
+        "suggestedAction": "Schedule a check-in with Finance leadership to explore whether category and pricing analytics could support margin optimization and new private-label expansion plans funded by strong cash position.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeElIQXVxNEtIWWJkMXdiQ0hfOUtOelZ5ZGhCV3MzUldkTXNRRlFwa0hYTE5xMTVZTENtRmI0U3dvSGtrcjE4ZmdYRU5sMlB1bGRia3FaWlpmSnh1V1RkeW04TC04ejdxQ2hRMktuM0xmRVphNi1rUWk4VFo4VExyaFhMTzliSzhxRFpWa2VELTVwQXFiS2VwSGt6MHdzQQ?oc=5",
+        "publishedAt": "2026-11-15T18:05:02.000Z"
+      }
+    ]
   }
 ]

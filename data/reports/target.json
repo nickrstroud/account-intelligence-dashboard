@@ -923,5 +923,35 @@
         "publishedAt": "2026-11-12T11:30:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-18T21:09:31.168Z",
+    "source": "daily",
+    "headline": "Target Q3 earnings beat with turnaround momentum, but apparel and housewares remain weak; quality issues driving category pullback",
+    "signals": [
+      {
+        "category": "Q3 2026 Earnings Beat",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported Q3 2026 earnings that beat estimates with sales momentum from turnaround efforts. Strong financial performance signals improved budget capacity and business confidence.",
+        "suggestedAction": "Schedule a brief check-in with the merchandising strategy lead to understand how Analytics Suite is supporting the turnaround narrative (category mix, pricing, demand forecasting). Position this as a win and gauge appetite for deeper category-level analytics to accelerate recovery in the weak apparel and housewares segments.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnFOdW54UzdiM2xRc2FfVVE5Rk9zZmtURkRZMzlwYjlDQ1ZJWFRvNHl6TTM2c3NTMTFDaTFCSndndUxNZ3BacVJpUEM1SlU4VS1PdkdybFlRTGlvNlZfaGJQM2p0OXl6X1RPeVVtNDhhRDRLczJDS1RhVjVwR3hnQnpYRXlEcEt6T29reEJnTmFhNS1jOW1TOEF5RkxGSDJXOXJVdUk1VlNQTlg0NWpJZw?oc=5",
+        "publishedAt": "2026-11-18T15:16:48.000Z"
+      },
+      {
+        "category": "Women's Apparel Quality Issues & SKU Reduction",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target cut women's apparel styles by 20% due to quality issues, exposing a category-level problem. This mix-down and quality challenge suggests need for tighter demand forecasting and category health monitoring.",
+        "suggestedAction": "Outreach to apparel/housewares merchandisers: highlight how Analytics Suite's demand and pricing analysis can help isolate quality-impact signals and optimize remaining SKUs for margin recovery. Tie to the broader turnaround story and the two weak categories flagged in earnings.",
+        "sourceName": "scanx.trade",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmt3TE13LUZFaW1UM0gwRmZYN2tpZ1Bld3VIS0lKeEFralFhRlBVRUMyUWFMQXVsUEk5SGtLMzhLWHhMbS1DNnV6NU40UHlVeUJpc2RUNy1YcW50M2M1d1B5bG9kMWlVcFJuaHhMdU9LazYyTkJFcENyMTJnZU9hd2IyNEZDSkplZ19WZUlTVjI0dWdYWk9COHZ5ZThPejdDaXlCdUZHTnVXd21VTEZ2eGdYQ3Y?oc=5",
+        "publishedAt": "2026-11-18T14:42:21.000Z"
+      }
+    ]
   }
 ]

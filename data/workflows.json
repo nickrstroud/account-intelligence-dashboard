@@ -59555,5 +59555,366 @@
     },
     "doneWhen": "[Chief Strategy Officer] or [VP Finance] agrees to a 30-minute scoping call with Finance and Merchandising representatives to explore Analytics Suite for category-level pricing and elasticity analysis.",
     "generatedAt": "2026-11-17T21:33:49.942Z"
+  },
+  "a_y9np7f": {
+    "signalId": "a_y9np7f",
+    "account": "Costco",
+    "signalTitle": "Demand surge from supply-chain event",
+    "play": "onboard_expand",
+    "goal": "Expand Analytics Suite adoption to help merchandising and finance teams forecast demand volatility and optimize inventory across categories and regions during and after the surge.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Merchandising, VP Finance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Check account platform usage: which business units and categories are actively running data in real time right now?",
+          "Pull renewal date and contract scope to confirm current platform-only footprint",
+          "Confirm this demand spike is showing up in their platform data (verify with Support if needed)"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on the expansion opportunity and renewal strength signal; agree AE owns the conversation",
+          "Sync with Product on demand forecasting use case; gather 1-2 example wins or capabilities to reference",
+          "Assign CS Director to support and coordinate follow-up onboarding if Analytics Suite engagement moves forward"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "AE reaches out to [VP Merchandising] with brief note about how peak demand windows like this create forecasting challenges—and opportunity to plan the normalization period",
+          "Offer a short, no-pressure conversation: how are you tracking member behavior and demand volatility across regions right now, and what would better visibility look like?"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "If interest confirmed: conduct 30-min working session with [VP Merchandising] and [VP Finance] to map current reporting gaps during volatility (demand by category, region, member segment)",
+          "Present Analytics Suite focused on demand forecasting and member behavior segmentation; tailor to their peak/normalization cycle",
+          "Outline 4-6 week onboarding plan tied to their decision timeline"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and next steps in CRM; set renewal check-in for 2-3 weeks out",
+          "Track whether Analytics Suite proof-of-concept or pilot advances; measure: decision + signature or pilot start date",
+          "Debrief Product on demand forecasting use case maturity and member behavior segment interest"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Demand volatility data: quick thought for the surge ahead",
+      "body": "Hi [VP Merchandising],\n\nWe've been watching the demand surge across retail, and it hit us that you're likely tracking significant spikes in real time right now across your categories and regions. \n\nThe harder question: are you ready for the normalization? Member behavior and category dynamics shift fast during volatility. We've helped similar retailers use advanced demand forecasting and member segmentation to plan both the peak and the pullback.\n\nWould a brief conversation help—30 min to map what visibility you have today and what would change the planning game? No pitch, just insight.\n\nBest,\n[Account Executive]"
+    },
+    "slack": "🚨 Costco signal: demand surge from supply-chain event lifting stockpiling. Core platform only today; whitespace is Analytics Suite for demand forecasting + member segmentation to ride the spike and prep for normalization. AE to reach out to VP Merchandising on demand planning conversation. CS Director support for onboarding if it moves. —&gt; Decision target: 2-3 weeks.",
+    "crmTask": {
+      "title": "Expand to Analytics Suite: demand forecasting + member behavior segmentation (demand surge signal)",
+      "due": "In 3 days",
+      "notes": "Signal date 2026-11-18: tech outages driving panic-buying and stockpiling at Costco. Reached out to [VP Merchandising] on 2026-11-20 about demand volatility and member behavior forecasting. Current state: core platform only. Expansion opportunity: Analytics Suite for demand forecasting and member segmentation to capitalize on surge and prepare for normalization. Renewal check-in scheduled for mid-December."
+    },
+    "doneWhen": "Analytics Suite proof-of-concept initiated or pilot start date confirmed with [VP Merchandising] and [VP Finance] within 4 weeks.",
+    "generatedAt": "2026-11-18T21:09:45.741Z"
+  },
+  "a_w9hpih": {
+    "signalId": "a_w9hpih",
+    "account": "Target",
+    "signalTitle": "Q3 2026 Earnings Beat",
+    "play": "onboard_expand",
+    "goal": "Expand Analytics Suite footprint to apparel and housewares categories and explore automation tools to operationalize insights across store operations and supply chain.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Merchandising Strategy",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Target's Q3 earnings release and merchandising commentary for category performance trends and turnaround narrative",
+          "Audit current Analytics Suite deployment: which categories, teams, and use cases are active; identify coverage gaps in apparel and housewares",
+          "Check renewal timeline and budget cycle to confirm capacity for expansion discussion"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive on expansion opportunity: apparel and housewares analytics plus automation upside for supply chain and store ops",
+          "Align with Product on feature readiness for category-level demand forecasting and pricing optimization in weaker segments",
+          "Confirm Account Executive leads expansion conversation; CSM owns analytics performance narrative"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP Merchandising Strategy] congratulating turnaround performance and linking it to Analytics Suite insights (demand, pricing, category mix)",
+          "Propose 30-min check-in to review how analytics supported Q3 momentum and explore apparel/housewares recovery roadmap"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "In call with [VP Merchandising Strategy]: review current category analytics, weak-segment performance gaps, and ROI case for apparel/housewares expansion",
+          "Introduce workflow automation use case for store-operations and supply-chain teams to operationalize pricing and demand signals",
+          "Co-develop analytics expansion scope and timeline with merchandising and supply-chain leadership"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and expansion interest in CRM; schedule follow-up with procurement or supply-chain lead if automation is qualified",
+          "Track analytics adoption in new categories monthly; measure impact on apparel and housewares margin and velocity trends",
+          "Close loop with Product on feature feedback and competitive wins in weak-segment recovery analytics"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congrats on Q3—Let's Accelerate Apparel & Housewares Recovery",
+      "body": "Hi [VP Merchandising Strategy],\n\nCongratulations on Target's strong Q3 earnings beat. Your turnaround momentum is impressive—especially the category mix and pricing discipline showing through. We've loved seeing how Analytics Suite is fueling that confidence in demand and competitive positioning.\n\nAs you tackle the remaining headwinds in apparel and housewares, we'd like to explore how deeper category-level forecasting could accelerate recovery in those segments. Our team has seen strong ROI when we pair analytics with automation to route pricing and supply signals to ops faster.\n\nWould you have 30 minutes next week to chat about the analytics that worked this quarter and what a roadmap to apparel/housewares recovery might look like?\n\nBest,\n[Your name]"
+    },
+    "slack": "Target beat Q3 earnings on turnaround momentum (merchandising strategy narrative). Current footprint: Core Platform + Analytics Suite for merchandising. Opportunity: expand analytics to apparel and housewares, plus introduce workflow automation for supply chain and store ops to operationalize insights. AE leads expansion; CSM drives analytics narrative and coordinates supply-chain intro. Check-in with [VP Merchandising Strategy] next week to validate opportunity scope and timeline.",
+    "crmTask": {
+      "title": "Target Q3 Earnings Win – Expand Analytics & Explore Automation",
+      "due": "In 7 days",
+      "notes": "Positive signal: Q3 earnings beat signals improved budget capacity. Current state: Core Platform + Analytics Suite deployed for core merchandising (category mix, pricing, demand forecasting). Whitespace: apparel and housewares category analytics; workflow automation for supply chain and store operations. Next step: validate analytics impact on Q3 turnaround with [VP Merchandising Strategy]; scope apparel/housewares analytics expansion and automation use cases. Competitive risk: mitigate with early engagement and clear ROI narrative tied to weak-segment recovery."
+    },
+    "doneWhen": "30-minute call completed with [VP Merchandising Strategy] where analytics impact on Q3 turnaround is validated and expansion roadmap for apparel/housewares analytics + automation is qualified or moved to next review cycle.",
+    "generatedAt": "2026-11-18T21:09:46.109Z"
+  },
+  "a_13wznf9": {
+    "signalId": "a_13wznf9",
+    "account": "Costco",
+    "signalTitle": "Special dividend payout ($13B)",
+    "play": "onboard_expand",
+    "goal": "Position analytics and integrations suite to support Costco's margin optimization and private-label expansion funded by strong cash position.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Finance + Category Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current platform coverage: which business units and categories are live, and what analytics gaps exist for margin/pricing decisions.",
+          "Check renewal status and contract seat capacity to understand room for expansion.",
+          "Review competitive landscape: does Costco use third-party pricing/category tools, or build in-house?"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales and Account Executive on Kirkland Signature expansion opportunity and analytical leverage points.",
+          "Align with Product on private-label analytics roadmap: member demand forecasting, margin waterfall by category, SKU mix optimization.",
+          "Confirm CS Director owns expansion conversation; AE supports on commercial terms."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Finance] highlighting Costco's proven cash generation and opportunity to unlock Kirkland growth through data-driven category and pricing decisions.",
+          "Propose brief 30-min call to discuss how peers use real-time member and category analytics to accelerate private-label expansion and margin."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Co-facilitate discovery call with [VP Finance] and [VP Category Management] to map current analytics capabilities, Kirkland expansion roadmap, and new-market rollout priorities.",
+          "Develop scoped analytics + integrations proposal: member insights, pricing elasticity, SKU performance by market/format.",
+          "If receptive, establish 90-day pilot for one new-market rollout with integrations and analytics enabled."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and pilot scope in CRM; track member analytics adoption and expansion deal progression.",
+          "Monthly check-in with Finance and Category teams on analytics ROI; collect wins (margin uplift, Kirkland velocity) for reference calls.",
+          "Close loop with Product on use cases: private-label member demand forecasting and pricing optimization feedback."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Unlocking Kirkland Growth: How Real-Time Analytics Accelerate Private-Label Expansion",
+      "body": "Hi [VP Finance],\n\nCongratulations on Costco's strong Q results and the $13B special dividend—a reflection of your operational excellence and member loyalty. As you explore where to invest that capital, we wanted to reach out about an opportunity we're seeing with other retailers: using real-time member demand and category analytics to accelerate private-label expansion and margin optimization.\n\nGiven Kirkland's growth trajectory and your expansion into new markets, analytics on member penetration, price elasticity, and SKU mix by format and geography can unlock incremental margin and faster time-to-scale. Would you be open to a brief call to explore how peers are using these insights?\n\nBest regards,\n[Account Intelligence CSM]"
+    },
+    "slack": "🎯 Costco special dividend ($13B) signals strong cash position and growth investment appetite. Opportunity to expand from Core Platform to Analytics Suite + Integrations for Kirkland Signature expansion and new-market rollouts. CS Director leads discovery with Finance and Category; AE owns expansion terms. Goal: 90-day pilot on member analytics + integrations for next market rollout.",
+    "crmTask": {
+      "title": "Expand to Analytics Suite + Integrations: Kirkland Private-Label Growth &amp; New-Market Rollouts",
+      "due": "In 5 days",
+      "notes": "Signal: $13B special dividend (2026-11-15) signals strong profitability and capital allocation toward growth. Suggested contact path: VP Finance + VP Category Management. Whitespace: Analytics Suite (member/category insights, pricing elasticity) and Integrations (new-market data, ERP/POS connectors). Strategy: Position analytics as margin-optimization and Kirkland-expansion enabler. Next step: Secure discovery call to map current state, expansion roadmap, and pilot opportunity."
+    },
+    "doneWhen": "Signed 90-day analytics + integrations pilot for new Kirkland market rollout, with baseline member demand and pricing elasticity reporting in place.",
+    "generatedAt": "2026-11-18T21:09:46.306Z"
+  },
+  "a_d6brw4": {
+    "signalId": "a_d6brw4",
+    "account": "Target",
+    "signalTitle": "Women's Apparel Quality Issues & SKU Reduction",
+    "play": "advise",
+    "goal": "Isolate quality-impact signals in women's apparel and equip merchandising to optimize remaining SKUs for margin recovery using advanced analytics.",
+    "owner": "CS Director + Merchandising Analyst (or Account Executive if expansion lead)",
+    "contactRole": "VP Merchandising, Apparel & Housewares",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Target's earnings call and Q3 guidance on apparel/housewares headwinds; confirm 20% SKU reduction was quality-driven.",
+          "Audit current Analytics Suite usage: which merchandising teams are live, what reports are they running, any gaps in demand or quality-signal visibility.",
+          "Check renewal date, contract coverage, and any open support or escalation tickets tied to category performance."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Align with Account Executive and Product on Analytics Suite gaps: can we surface quality-impact signals (e.g., returns by style, margin erosion) in existing dashboards or do we need a custom view?",
+          "Confirm whether Supply Chain or Store Operations teams are in scope for this play (whitespace signal) or if we focus on Merchandising first.",
+          "Agree on lead: CS Director owns engagement and insight, AE joins for expansion conversation if margin-recovery opportunity emerges."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Merchandising] referencing the apparel SKU reduction and quality challenges; offer a brief analysis of how demand and returns data can isolate quality-impact drivers.",
+          "Propose 30-min call: share a sample analysis of how similar retailers use Analytics Suite to track quality signals and optimize pricing/mix on remaining SKUs.",
+          "No ask yet—position as peer insight into category health, not a product push."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Conduct discovery call with [VP Merchandising] and category team: map current analytic pain points (e.g., how do they currently isolate quality vs. demand drivers?).",
+          "If gap exists: propose a focused Analytics Suite configuration or new dashboard (e.g., quality-adjusted demand model, SKU-level margin tracking) to support SKU optimization.",
+          "If receptive: outline expansion to Supply Chain/Store Operations teams (workflow automation for quality alerts and SKU reorders)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and discovery outcomes in CRM; track if Merchandising commits to a new analytics workstream.",
+          "If expansion deal surfaces: hand to Account Executive for contracting; CS stays on for onboarding.",
+          "Post-call, send 2-3 reference examples of quality-signal analytics from similar retail customers (anonymized)."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Isolating quality impact in apparel: a quick analytics idea",
+      "body": "Hi [VP Merchandising],\n\nI saw Target's recent SKU reduction in women's apparel and the quality challenges driving it. We've been thinking about how Analytics Suite can help isolate quality-impact signals—returns by style, margin erosion, demand shifts—so your team can optimize the mix on remaining SKUs for margin recovery.\n\nI'd love to share a brief analysis on how similar retailers are using demand and pricing data to pinpoint quality drivers and guide SKU strategy. Would a 30-min call next week work?\n\nThanks,\n[Your name]"
+    },
+    "slack": "Target flagged women's apparel quality issues and cut SKUs by 20%—a clear signal they need tighter demand forecasting and quality-impact visibility. We're running an *advise* play: reach [VP Merchandising] with a sample analysis of how Analytics Suite isolates quality signals and optimizes remaining SKUs. CS Director leads discovery; AE joins if margin-recovery or supply-chain expansion opportunity emerges. Goal: convert to new analytics workstream and explore whitespace in automation + integrations.",
+    "crmTask": {
+      "title": "Target Women's Apparel: Isolate Quality Signals & Optimize SKU Mix",
+      "due": "In 5 days",
+      "notes": "Signal: 20% women's apparel SKU reduction due to quality issues (earnings call, 2026-11-18). Current coverage: Core Platform + Analytics Suite for merchandising. Whitespace: workflow automation and integrations for supply chain and store ops. Play: advise merchandising team on quality-impact analytics; uncover expansion opportunity if margin recovery is a priority. Contact: [VP Merchandising, Apparel & Housewares]. Renewal: check contract date."
+    },
+    "doneWhen": "Discovery call held with [VP Merchandising]; identified specific analytic gaps (quality-signal visibility, SKU-level margin tracking) and agreed on next Analytics Suite configuration or expansion step.",
+    "generatedAt": "2026-11-18T21:09:47.508Z"
+  },
+  "a_16k5fvh": {
+    "signalId": "a_16k5fvh",
+    "account": "Kroger",
+    "signalTitle": "Pricing Pressure & Public Backlash",
+    "play": "advise",
+    "goal": "Help Kroger model pricing elasticity and competitive positioning to defend margin and volume under public and competitive pricing pressure.",
+    "owner": "VP Customer Success + Category/Pricing Expert (Sales Analyst)",
+    "contactRole": "VP Pricing or VP Category Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current pricing strategy workflow: what tools and data sources are [VP Pricing] using to model elasticity and competitive positioning today?",
+          "Review Kroger account: current platform adoption (store/supply alerts), renewal timeline, and any prior Analytics Suite conversations.",
+          "Flag: new retail-media leadership may signal shift in pricing power and analytics investment—check for budget or project signals."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales Analyst and Account Executive on Ohio campaign, margin pressure, and Analytics Suite fit for pricing elasticity use case.",
+          "Confirm: does Kroger have clean POS + competitive price feed integrations? If not, flag Data Integrations as dependency.",
+          "Lock point person (AE or CSM lead) and positioning: this is about defending their margin narrative with data, not about our product."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Pricing] with specific ask: a 20-min call to walk through how they're currently quantifying volume/basket impact of recent pricing moves in Ohio and neighboring regions.",
+          "Lead with their public challenge (not ours) and position Analytics Suite as a way to have clearer, real-time visibility into elasticity and competitive positioning."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 10-21",
+        "tasks": [
+          "Conduct discovery: map their current pricing analytics workflow, data gaps (POS timing, competitive feeds), and decision-maker alignment (merchandising, finance, strategy).",
+          "Proposal: Analytics Suite pilot focused on 1-2 high-pressure categories/regions (e.g., Ohio, Texas) to quantify elasticity and test regional pricing scenarios.",
+          "Identify expansion path: once pricing analytics lands, Integrations for acquired banner data (post-merger banner consolidation)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log discovery outcomes and proposal status in CRM; track decision timeline tied to Q1 planning or pricing reset cycles.",
+          "Owner: flag Product team on Kroger's elasticity modeling and competitive benchmarking requirements for analytics roadmap.",
+          "Success metric: Analytics Suite pilot signed within 60 days; baseline: at least 2 category teams engaged in discovery."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "How Kroger is quantifying pricing elasticity under margin pressure—let's talk strategy",
+      "body": "Hi [VP Pricing],\n\nThe Ohio campaign and competitive pressure are real signals about where pricing and demand analytics matter most. We work with retail leaders on quantifying elasticity and competitive positioning in real time—not just reacting to public backlash, but staying ahead of it with data.\n\nI'd like to spend 20 minutes understanding how you're currently modeling volume and basket impact of recent pricing moves, and where visibility gaps exist. Our Analytics Suite is built for exactly this: pricing scenarios, regional benchmarking, and elasticity modeling tied to POS and competitive feeds.\n\nAre you open to a quick call next week?\n\nBest,\n[Your Name]"
+    },
+    "slack": "🚨 Kroger signal: Ohio pricing backlash + new retail-media leadership signals pricing analytics is now a strategic lever. We own platform + automation; Analytics Suite is a natural fit for pricing elasticity and competitive benchmarking. Play: advise on margin defense strategy. AE + CSM lead discovery with [VP Pricing]. Target: pilot within 60 days covering 1-2 high-pressure categories.",
+    "crmTask": {
+      "title": "Kroger: Analytics Suite Pilot—Pricing Elasticity & Competitive Positioning",
+      "due": "In 14 days",
+      "notes": "Signal: Ohio pricing backlash + new retail-media leadership. Whitespace: Analytics Suite for pricing elasticity, demand modeling, regional benchmarking. Dependency: validate POS/competitive data feeds for integrations readiness. Renewal: check renewal timing and budget cycle alignment. Next step: discovery call with [VP Pricing] on current modeling workflow and data gaps."
+    },
+    "doneWhen": "Analytics Suite pilot proposal signed or scheduled for delivery within 60 days, covering elasticity modeling for ≥1 category or region.",
+    "generatedAt": "2026-11-18T21:09:59.083Z"
   }
 }

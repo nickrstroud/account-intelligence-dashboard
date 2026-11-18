@@ -1675,5 +1675,46 @@
         "publishedAt": "2026-11-13T08:14:42.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-18T21:09:33.318Z",
+    "source": "daily",
+    "headline": "Kroger faces public backlash on pricing amid retail-media leadership transition; pricing analytics and data governance become operational priorities",
+    "signals": [
+      {
+        "category": "Pricing Pressure & Public Backlash",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coordinated ad campaigns in Ohio accusing Kroger of 'predatory' pricing and 'ripping off' shoppers signal public and competitive pressure on margin and pricing strategy. Combined with new retail-media leadership, this indicates pricing and demand analytics are becoming a strategic lever.",
+        "suggestedAction": "Contact the VP of Pricing or Category Management to understand how they're modeling pricing elasticity and competitive positioning in affected markets. Propose Analytics Suite as a tool to quantify the impact of pricing changes on volume and basket size, and to benchmark regional pricing strategy against competitors.",
+        "sourceName": "WOSU Public Media",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmlEVkV1ejBQeGgtYVNVUWFJTUVjRFpiTGFQcDU2Q1NoTmRVVGFOYzAtVFFabzRnTGZKUE5sLWtIMDFPblV1UEtvTF93UUZydlJVNDJpSkEyZF9iaG1Sd2k1eFU5bVlrVDFodnotZHhCWjlVd0ZYRThHSVB6ZklpYll3d3RwM09qbGY2eVFkYklkR2RoNTJpZnh0RXdUeUpQVUduMmVmWmJ5QQ?oc=5",
+        "publishedAt": "2026-11-17T21:33:00.000Z"
+      },
+      {
+        "category": "Data Governance & Regulatory Scrutiny",
+        "updateType": "regulatory",
+        "play": "integrations",
+        "score": 0,
+        "summary": "Ohio Capital Journal report raises questions about Kroger's data gathering practices at scale, suggesting regulatory and public scrutiny of how customer and operational data are collected, used, and governed. This is a governance risk and an operational priority.",
+        "suggestedAction": "Reach out to the Chief Privacy Officer or Data Governance lead to discuss how Account Intelligence can support transparent, auditable data flows through the platform—especially for integrations across acquired banners and retail-media data sources. Position as a risk-mitigation and compliance enabler.",
+        "sourceName": "Ohio Capital Journal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWpFRFQ5b3YtdXMyOXlxSFVobUliSVFzNVVNQUllWFhXVXFBQ050WG1EU2tnR0xUQXdqeXM4akJCOUJTY19zSHlSSGJKa25uSXVHTVRmVFNRUnMyZXhYWVJyNkQyTkVKRXVwVEhBLU5Tb25qSHNCZ2JWT3RLVlhZcFRkbXFrN3dBbHFYcEZPVTRsLW9jeE52YTNwcGJ3SUNlNWxRRjVpcUpzSFlUWDdwbjAtRk5YNXJIcEhIc2U4ZFhIZw?oc=5",
+        "publishedAt": "2026-11-18T08:54:49.000Z"
+      },
+      {
+        "category": "Retail Media Leadership Change",
+        "updateType": "leadership",
+        "play": "platform",
+        "score": 0,
+        "summary": "Kroger named Melanie Zimmermann as new Chief Advertising Officer / retail-media lead. New leadership in this high-growth, data-intensive business unit signals a re-evaluation of tools and vendors, and potential for platform expansion if retail-media reporting and workflows are centralized.",
+        "suggestedAction": "Schedule an introductory call with Zimmermann's team to understand their data and analytics priorities for retail media. Explore whether retail-media revenue, advertiser performance, and campaign workflows could be consolidated into the core platform to improve visibility across the advertising and merchandising businesses.",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFFU182aFJBQzJfcFpWcnkyTzdvc24xSE91Q2l5bEdLa1F3dW9PRldpWGFiMXpCdDdiRVJXdE9CNmVfVThFV3Q2d2s0YnhCTWFSU0hfRXE4OVVJTlJySGg1eUlDRFZkcU10cklLVkhNcTlyWk9kT2NxN0Mtck5YdFRvLU43Z3FTRFhVNjJrbkZvUTJCY19fc212aHBmZlFYV0MtRXNfSWJIRVE?oc=5",
+        "publishedAt": "2026-11-18T16:29:11.000Z"
+      }
+    ]
   }
 ]

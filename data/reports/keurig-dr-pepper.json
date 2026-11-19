@@ -1517,5 +1517,24 @@
         "publishedAt": "2026-11-13T11:09:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-19T21:13:37.532Z",
+    "source": "daily",
+    "headline": "KDP raises $2B via stock offering to reduce debt ahead of announced business split",
+    "signals": [
+      {
+        "category": "Business Split / Restructuring",
+        "updateType": "restructuring",
+        "play": "integrations",
+        "score": 2,
+        "summary": "The announced split of KDP into separate entities (coffee systems and beverage brands) creates a material portfolio change. This will require new data integrations between separated business units and new platform deployments if each entity independently operates.",
+        "suggestedAction": "Schedule an infrastructure review with the CIO/VP of Data to map current platform usage across coffee and beverage divisions and plan for post-split data architecture. Propose integrations for any new ERP, POS, or inter-company data flows created by the separation.",
+        "sourceName": "AOL.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xbGthNG0tNXZwNE9reHE0bWI2RUJwNklxSEtpNzdGQkFvQkozUlR0YVpSUU9fanFWYVgxUXQzdVdwUmZvU29jUnFZZk9tU1hScWl2ZlEtbEVqYzE1Z1h2Q2dzQnZwSVFKMWxNRUYzSC04QktIci1v?oc=5",
+        "publishedAt": "2026-11-13T04:08:00.000Z"
+      }
+    ]
   }
 ]

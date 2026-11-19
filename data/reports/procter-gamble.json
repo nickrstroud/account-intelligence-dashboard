@@ -1393,5 +1393,24 @@
         "publishedAt": "2026-11-13T16:42:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-19T21:13:35.983Z",
+    "source": "daily",
+    "headline": "P&G targets $10B productivity savings; material efficiency initiative likely to drive automation and workflow optimization",
+    "signals": [
+      {
+        "category": "Productivity & Efficiency Savings Target",
+        "updateType": "earnings",
+        "play": "automation",
+        "score": 1,
+        "summary": "P&G CFO announced up to $10 billion in productivity savings targets. For a company of P&G's scale, this signals a major internal efficiency push across operations and teams—a strong indicator of budget availability for workflow automation and process optimization.",
+        "suggestedAction": "Contact P&G's VP of Operations or Chief Procurement Officer to understand which business functions are in scope for the productivity program. Propose a workflow automation assessment focused on supply chain, merchandising, and category-management alert workflows—areas where automation can accelerate decision-making and reduce manual intervention time.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakdXUjRrWjlvbzF6UXAxRVFJanhvT0dJMmplX2hNZUIybjNpWTdmU1dhdGNMMXY1cnNxaEw1WWZaaFlEcmxZcWtRV1lZc1o4UWhPQ3lTY3g0V3RIOElob1dRYmZtQUVrWjV2bzRqUm02Z1JRRzNGa09SMVdRb1ZWQ19nQnRqMTNqMXktQW41MHB6VHFHY212VU5EczJ6d1F0SnVnenFzdHhEeGlkN1Itb2xTSTVqWm9Xc21pLW5KeHFhNEd0amc?oc=5",
+        "publishedAt": "2026-11-19T19:51:30.000Z"
+      }
+    ]
   }
 ]

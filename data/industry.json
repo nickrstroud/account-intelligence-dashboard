@@ -1,5 +1,204 @@
 [
   {
+    "id": "WFRtc3pabGg0YzFKbj9vYz01",
+    "title": "Survey: Profound Gap Between Knowing Supply Chain Risks and Acting on Them",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0FDVElHN2NsUHZXZW85WkQyYU1Nc2JmTzRQaURxQjdza0lRc21ZOG9KUHV1YVd3RmdJYkpqbDZmTktud3B0ZV9EMzdrS1VBZTJEdWJtaklWSEJUMzVRNW9ESURFam9IXzRDczctRzJaeW9FNkFUZVAyeEVHcmZoeV9ZQWIyOXZRc3padVpDeUY1UTRjN3VPYWNBQUUyLTgwRmNXa0hEZC1VeGtqWldDREVreWd4ZFRuZDBfQ0ktbTU2eE5xMmhLNmNyQ3Nkdm1QT2xsNHZJcWtmNmVXYmhUZEJyTWFXTmszZlh4c1Jn?oc=5",
+    "sourceName": "SupplyChainBrain",
+    "publishedAt": "2026-11-19T18:46:16.000Z",
+    "analyzedAt": "2026-11-19T21:14:32.076Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "A supply-chain risk survey reveals a significant gap between awareness and action on supply-chain risks among companies. This speaks to execution challenges in managing known vulnerabilities.",
+    "angle": "Account Intelligence customers in CPG and retail are likely tracking supply-chain risks but struggling to operationalize response. Analytics and automation products help bridge that gap by surfacing actionable signals and automating escalations.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bWFwLWxhYmVscy84NzUyMjYv",
+    "title": "FDA to allow labels highlighting foods for digestive sensitivity",
+    "link": "https://www.fooddive.com/news/fda-allows-low-fodmap-labels/875226/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-19T18:19:07.000Z",
+    "analyzedAt": "2026-11-19T21:14:26.478Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FDA will not enforce against low-FODMAP food claims after a First Amendment lawsuit. This opens labeling opportunities for CPG manufacturers targeting digestive health segments.",
+    "angle": "CPG customers can now market digestive-health products with low-FODMAP claims without FDA enforcement risk—a new market segment and pricing opportunity worth analyzing demand and category impact.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wZ3hOVFkzY1VWU1NRP29jPTU",
+    "title": "FAA Ground Stop: Impact on Thanksgiving Food and Black Friday",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDNZR2N6M3lvTHdyUWZDV29XY1NoX0NhTXZ4VDBOWDMtYnQ5TlhjQnFoa01fWDAwRmpMTS1WcElOOWZJOWJydVo4RE9GNFp5bk1xVE1GbDVteUxqNmJOZGo5clFLTGFFXy1VREhWbHhjR0pIeGRWU0FvLU1lVmp5V01oc0gxNTY3cUVSSQ?oc=5",
+    "sourceName": "Inbound Logistics",
+    "publishedAt": "2026-11-19T16:49:54.000Z",
+    "analyzedAt": "2026-11-19T21:14:32.076Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "An FAA ground stop during peak holiday season (Thanksgiving/Black Friday) is impacting food supply and logistics, with ripple effects on fulfillment and inventory across CPG and retail.",
+    "angle": "Major logistics disruption during peak retail season requires real-time visibility and rapid response coordination. Customers need to quickly analyze impact, communicate with suppliers, and adjust demand/supply plans—core use cases for platform and automation.",
+    "play": "automation",
+    "products": [
+      "platform",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "zLWVhcm5pbmdzLzg3NTE2Ni8",
+    "title": "Walmart’s e-commerce boom driven by fulfillment speed",
+    "link": "https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-19T15:54:00.000Z",
+    "analyzedAt": "2026-11-19T21:14:19.091Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Walmart U.S. e-commerce grew 23% in Q3, driven by fulfillment speed as a key competitive differentiator in the mass retail channel.",
+    "angle": "E-commerce velocity is reshaping retail-CPG dynamics; customers need to understand fulfillment-driven demand patterns and adjust supply-chain and promotion strategy accordingly.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "WmtZMFl0U2xsQll6QT9vYz01",
+    "title": "Walmart Sees Weakest Global Ad Sales Growth in 2 Years",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaGUwRUQ5WHdPV29uc0lsa2NYNS1mMHhTbTRHQ0lQM2VTRFZIeloxY1dDNUp6ZTNiMnd2c01WNURkRDFBbFpQc21id2ZKYWU4eTEydXlXQjQ1SjIxNGJQU1A2bENFQjlOR0NCR0l4WHRXOWpmNndnMzBvcHRjczg5WjFDQ0xqTDRIaVZTTzBLMTdWV3Z6a3pBSWRNUWI3OGs0bkpSdElBZWxTRzNDRWVKTTZmV19FWG1Lb19FV2hvOGMzdFNQaGgydjB4TVNxZkZ0X1NRbkt6VHVfYy1lcGZkY0YtSllBYzA?oc=5",
+    "sourceName": "ADWEEK",
+    "publishedAt": "2026-11-19T15:34:27.000Z",
+    "analyzedAt": "2026-11-19T21:14:37.572Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart reports weakest global ad sales growth in 2 years, signaling slower retail media momentum. Indicates potential pressure on e-commerce and advertising-led revenue expansion.",
+    "angle": "Signals shifting priorities at a major retail customer; CSM should probe Walmart's retail media and data monetization strategy to ensure Account Intelligence analytics and integrations remain aligned with their evolving business model.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "lc3RhdXJhbnRzLzg3NTE2OS8",
+    "title": "Walmart touts grocery, restaurant growth in Q3",
+    "link": "https://www.grocerydive.com/news/walmart-q3-earnings-fiscal-2027-grocery-restaurants/875169/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-19T15:25:00.000Z",
+    "analyzedAt": "2026-11-19T21:14:19.091Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart achieved some of its highest grocery share gains in three years during Q3, signaling strong competitive momentum in a core category for CPG manufacturers.",
+    "angle": "Walmart's accelerating grocery share gains directly impact CPG customer merchandising, pricing, and promotion strategies; a critical read for category and finance teams analyzing market dynamics.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "0aW9uLXBhdXNlLzg3NTE3Mi8",
+    "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+    "link": "https://www.fooddive.com/news/cal-maine-eggs-bird-flu-florida-production-pause/875172/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-19T14:58:00.000Z",
+    "analyzedAt": "2026-11-19T21:14:26.478Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Cal-Maine halts egg production at Florida plant due to avian influenza, compounding industry-wide oversupply and price crash. Supply disruptions and pricing volatility continue.",
+    "angle": "Egg-dependent CPG and retail customers need real-time visibility into commodity supply shocks and price volatility to adjust procurement, inventory, and retail pricing strategies.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cy1zYWxlcy1xMy84NzUxMDYv",
+    "title": "Target’s AI shopping assistant is driving sales",
+    "link": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-19T14:16:00.000Z",
+    "analyzedAt": "2026-11-19T21:14:19.091Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Target's AI shopping assistant 'Ask Target' is in beta and showing early sales success, indicating growing AI adoption at major retailers for customer engagement.",
+    "angle": "Retail AI adoption signals a shift in how consumers discover and purchase products; CPG teams should monitor AI-driven demand patterns and optimize product recommendations and visibility.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "Vm1TSE5GV1RSTVoyOD9vYz01",
+    "title": "Grocery Store Attacks Highlight a Growing Food Safety Concern—Cybersecurity",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1VjRWM1N2g1LUR5Q0dFQVNtdG5pUzVEc3lCckZFWkJKYmVUQzFLaFQ2S3J2alM2UHg0UEpKeFZPWHAyS1JzQjY0dWJmUWZMWnhXempPTWF6cElHdTQ5UjYxekluc2I0c3hMRGpIcUJMOHJoV1dzcGJQRzhPS2JRT1ZJd094U0FWMHA5NU0yN28tUHZaOVVmSHNFWTRMZ28?oc=5",
+    "sourceName": "U.S. Government Accountability Office (.gov)",
+    "publishedAt": "2026-11-19T14:01:25.000Z",
+    "analyzedAt": "2026-11-19T21:14:32.076Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Cybersecurity attacks on grocery stores are emerging as a food safety concern, with the GAO highlighting vulnerabilities in critical retail infrastructure. This reflects growing operational risk in the food supply chain.",
+    "angle": "Grocery and CPG customers need better visibility and automation around supply-chain disruption scenarios. This creates urgency to implement alerting and playbook automation to route security and operational incidents to the right teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dkxWZDFha1JuWVMxej9vYz01",
+    "title": "Possible Strike Looms Over Ports of LA, Long Beach Amid Labor Talks",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHp5RThZNGczZ0NmS05YTjZPTS1pbnpXdW5FMzFraW92ZXFZWjdxcE9pU2k4UGstTzNtQkR5aTBqZHVST2xuQkVfZWtHLTJUZE9ZT2dQN0ZGblRfVjNROVhrekNINkwyTjdRUWlHNHcxYm50a2xMUU9uS0tieUZ3ZDRLU3VnZy1ueFNGOXcwX1hmYkg5SUM3STdCOUtnSmJYYURxUGFvLVd1akRnYS1z?oc=5",
+    "sourceName": "MyNewsLA.com",
+    "publishedAt": "2026-11-19T01:42:03.000Z",
+    "analyzedAt": "2026-11-19T21:14:39.744Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Potential strike at LA and Long Beach ports amid ongoing labor negotiations could disrupt West Coast import/export operations and supply chains for retail and CPG companies.",
+    "angle": "Port disruptions directly impact inbound inventory for grocers and big-box retailers, and outbound shipments for CPG manufacturers. Customers need visibility into supply-chain ripple effects and contingency planning.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aUk4ybFpZbHAzTW04P29jPTU",
+    "title": "Target aims to apply its apparel playbook to grow Good & Gather",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzN6cHNDN2ROazN3d0I4R2szNncxaGlrNWpVZm5uZzM3X29YWkhUcjJ1VUZxZUFjcGhaeDZWcXpTeERHczIwNExPcm50LVkwbFJnU3piNkMwbFozaEdNS2d1LWkwLXdBaVBsUG85YzlkaXdITDIzZkZYOTQ1OHRrazlfaE95a0ZZbjlrMGFNSlR1dFp0ZC1GNFVpV1FCdWNTNUlCTWZHZzNodXdEOVZRN2lZYlp3Mm8?oc=5",
+    "sourceName": "MarketScale",
+    "publishedAt": "2026-11-18T22:08:00.000Z",
+    "analyzedAt": "2026-11-19T21:14:26.478Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Target is scaling its Good & Gather private-label brand using its apparel playbook, signaling aggressive private-label expansion and category growth.",
+    "angle": "Target's private-label acceleration is a critical expansion signal for CPG suppliers and rival retailers—data analytics on category mix, margin, and brand velocity is essential to compete.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
     "id": "tGSVluaDNTVEZDZHc_b2M9NQ",
     "title": "Breakfast items made with biscuits sold in several states recalled over listeria risks, USDA says",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnd1aDlJZDJrc1gyOWlndV82VjhjZmo1MHFuUzZkbE5DQzgtOVZBeThvdEd1bjhrSi1KMXVHZ0tCYmZjRGRhOUI4UnhBV3NKU1ZTWmdKaWtrMmh4c2M1bnl6eXJDVnNkcHNnRHAtWXZBc2xvZmR6SnVmV2RmbDNLNk1jTWdBNVZKWXFDZllzWFNOTkpldExxNktFYlc5MTJpYWhuTDBzbXRRdjRud0hBM1RrLWwxRnk4ci1XdDZIVEhtcXVPMGtJTjFfdmtXdk8wRkFIYnh3STFCdw?oc=5",
@@ -32,6 +231,25 @@
       "automation"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "ci1lYXJuaW5ncy84NzUwNzcv",
+    "title": "Target sees ‘strong momentum’ in food and beverage",
+    "link": "https://www.grocerydive.com/news/target-grocery-food-beverage-category-revamp-third-quarter-earnings/875077/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-18T17:33:53.000Z",
+    "analyzedAt": "2026-11-19T21:14:19.091Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Target added over 2,000 items to its food and beverage department in Q3 as part of an ongoing category revamp, driving reported 'strong momentum.'",
+    "angle": "Target's aggressive F&B expansion signals growing shelf space competition and potential changes in product assortment and promotional mix; CPG suppliers need to monitor and respond to shifting retailer strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
   },
   {
     "id": "RYMHBoZG1sRWJrOW4_b2M9NQ",
@@ -251,6 +469,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "JNNGNYSlpjek5ZYnc_b2M9NQ",
+    "title": "Nearly 1.6 million pounds of meat voluntarily recalled nationwide - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXpRYV9mVnFzZUV1aFhPMngtTXI0ck5GS1NQUG9TdlZjd2hBWDRDQVNsV1dkbFA0eC1OLUw5TmhPcWdJWWpkNTg1WFZIU3lmYUdvY3hUcEh2YVpyQThHbnRxN0lsTS1zVGJZYkpOZG1wNHNfSHBNekVvNUkzQy1KSXAzWnRZZjkzdTZQd3EwV2o5UDVtVnJiOWk0Z2M4cXJZczNYbw?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-17T20:15:54.000Z",
+    "analyzedAt": "2026-11-19T21:14:37.572Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "Nearly 1.6 million pounds of meat voluntarily recalled nationwide due to safety concerns. Major food safety event requiring rapid supply-chain response and customer notification.",
+    "angle": "CPG and retail customers need visibility into recall scope, affected SKUs, and customer communications—workflow automation and alerting through Account Intelligence can orchestrate cross-team response and protect brand reputation.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "weFFURk5JVlRkdmRBP29jPTU",
     "title": "Kroger's new store formats trade apparel space for fresh food",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHczZHZDOGV6RDgyMUdoX3RzUGZxQmZTM1B0ejFPTTdEZkFFYUQ2LXNOVmYwcE82SldHQWx6QmI2Y3hGUnplaV9VMFJ0WlB1eU90c1VxejJWNWlyUTV3YU9JOHBqZzVGMnF6ZXFJRkdkclVYc0lmYTlKcWNpc01nTmhXRGFici1oQVJlQlFwb2V6eGlsTGRzRjZ2bExwVk1mM0NpUlRsb0xQTFNIVTdvdA?oc=5",
@@ -336,6 +572,23 @@
     "relevance": 1,
     "summary": "US retail sales remain strong despite cost-of-living pressures, showing consumer resilience heading into holiday season. Retail strength persists amid inflation concerns.",
     "angle": "Positive retail demand backdrop supports confidence in customer inventory and demand planning; useful context for strategic account conversations on demand forecasting.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "52TlhKWWVrWlhkRlU_b2M9NQ",
+    "title": "SNAP Eligibility Rule Could Cut 6.3 Million Shoppers",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjVVQ0I4d1UzNG5XTEN4MnYweGJPSjMzblg3aHFPY1BjWWVDajJwNWZYTlB2R3otdVNOSVktMjQxVU9FdEtsSTd3dUliWlJZb1d6QlhGQnNBckdSN3FQQW9RRVYyMlkwWUdSNm1pWWc2WFVRNzM3ajNrSTJIdENvNXJYekZXdFU?oc=5",
+    "sourceName": "Abasto, Food and Beverage Industry News",
+    "publishedAt": "2026-11-17T16:56:54.000Z",
+    "analyzedAt": "2026-11-19T21:14:37.572Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Proposed SNAP eligibility rule could remove up to 6.3 million shoppers from the program, materially shrinking addressable market for CPG and retail customers.",
+    "angle": "Major demand shock for CPG and grocery retailers; Account Intelligence customers need analytics to model impact on category, regional, and demographic demand, and automation to adjust pricing, promotions, and supply planning.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -601,6 +854,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "GUE1IRktaa1paY0VFP29jPTU",
+    "title": "Why DoorDash’s $17 Billion Instacart Acquisition Matters For Small Retailers",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTURpN3MzWF9KU1BVRlhub1hIQ2tJbi0xUF91ZzZOUFNuMTNpTVMza2NfaXY1ZmdkTHk3ZkZudHF4WHNtRi11Z0NyNDJkb0NWZ0t0WjJ5T2FESXV4QVItRjFPNWpwTWdDSzFTa3JwWktmY0dDVTFyeFZZdktmRjN2THFXazBiVUh2TW5BOFY5WW1JbThyeTF5RDlGMW1OMnBYdXR3UWtnOXdSSHhxSDdrZEtudkNhcTFuOWRaNjVwaDQwczRJal9EZmFPMHFKZkZZcEE?oc=5",
+    "sourceName": "Forbes",
+    "publishedAt": "2026-11-16T16:16:18.000Z",
+    "analyzedAt": "2026-11-19T21:14:26.478Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "DoorDash acquires Instacart for $17 billion, reshaping e-commerce and delivery dynamics in grocery and retail.",
+    "angle": "Major consolidation in e-commerce fulfillment changes the competitive and data landscape for grocers and CPG brands managing direct-to-consumer and delivery channels.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "azVRVEVodFptUlFUQT9vYz01",
     "title": "Study: Consumers continued shift towards private label products in 2026",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEdDSE03OW1vdnhueS1WMjloRGI3WlhQMXoxdDFydnF2R3IzUVNyQVlWVm83LWlGTDlyT2tjOVdZY09Lb1pfaGplcklUUWJvM3Q0OU1mM0FYdGpzV3pQOTI1UURISGZhd250VGphZ2xDb3hxNmFJZHZ5TzdTUzRNWG9MU0ZNa09sSUpiWEtxYk5QTEhtZmRQTA?oc=5",
@@ -696,6 +966,23 @@
     "relevance": 2,
     "summary": "Grocery prices have shifted noticeably since Trump took office in Nov 2026, likely reflecting tariff and trade policy changes. This is a key talking point for large grocers and CPG manufacturers navigating pricing and cost pressures.",
     "angle": "Retailers and CPG brands are facing real-time pricing pressure and need advanced analytics to model cost scenarios, adjust promotions, and forecast demand elasticity as tariff impacts ripple through the supply chain.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RVZIUkpRMHgzTTFaQj9vYz01",
+    "title": "Private-label unit sales edge up as national brands decline",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjhzYmdmcjV1RDlMVWZqNTIzdWlFNWRxN2VCWUE1elRoUXhUOXlpNkNQYk1PV2U5b29oUHhCbE9JdERPNGR2X1gydzFOeVZVODlnQ1hoQlhvLVoxR3FYS3FuYVBZSlVjeURYdm5VdzNqd3BVd2FpMVduTnhuR082LXhBZ1lFZ0dIMS0teFAzOHJBb2hRejBmdlZoM2REVHRJQ0x3M1ZB?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-16T14:16:31.000Z",
+    "analyzedAt": "2026-11-19T21:14:26.478Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Private-label unit sales are growing while national brand sales decline, continuing the structural shift in retail pricing power and category dynamics.",
+    "angle": "Private-label growth is squeezing national brand margins and market share—CPG and retail customers need deeper analytics on pricing, promotion effectiveness, and category mix to defend position.",
     "play": "analytics",
     "products": [
       "analytics"

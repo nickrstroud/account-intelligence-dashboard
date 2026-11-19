@@ -953,5 +953,24 @@
         "publishedAt": "2026-11-18T14:42:21.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-19T21:13:39.598Z",
+    "source": "daily",
+    "headline": "Target Q3 earnings beat with strong stock momentum; tariff refunds boosting near-term EPS but masking underlying operations",
+    "signals": [
+      {
+        "category": "Q3 Earnings Beat & Stock Strength",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported Q3 EPS of $2.65, including a $0.50 benefit from tariff refunds. Stock hit 52-week high, signaling confidence in management and business direction. Strong financial performance typically creates budget headroom for technology and analytics expansion.",
+        "suggestedAction": "Reach out to the VP of Merchandising or Finance to congratulate on the quarter and inquire whether Target plans to expand analytics coverage (e.g., new categories, SKU-level forecasting, or pricing optimization) as part of post-quarter strategic planning. Position Analytics Suite deeper penetration as a lever to sustain momentum.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmhtMHd2WnkxRndXRm1XRk5KcHhVZUNMOHNQdlAtdGdDT1FVUmR1YjRKZzVNLU42cV91QnhCbE9ZLXJybUxfNFpCc2ExNGZ3eGdyTjFVR2RLT2pNbmdvMGd3ci1yVjFEN2xwNU1raDM4c1JJNm5zbFRRQ1JMWk02ZGhaVFYzVkRzaUp6a08tc0pkREFhYWI3bmVGb2wzbGpmbGlNUXJ2Qzk4TVJLeXNpMFZrZll5azZoU3RDeHNLYzVuWndzaVpERFRCWQ?oc=5",
+        "publishedAt": "2026-11-18T11:30:00.000Z"
+      }
+    ]
   }
 ]

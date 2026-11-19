@@ -1339,5 +1339,35 @@
         "publishedAt": "2026-11-15T18:05:02.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-19T21:13:38.732Z",
+    "source": "daily",
+    "headline": "Costco financial strength and market resilience amid tech disruption; buyback signals confidence but operational vulnerability presents automation/alerting opportunity",
+    "signals": [
+      {
+        "category": "Capital return & strong earnings",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Costco announced $4B buyback and special dividend, hitting all-time high stock price. Reflects strong financial position and confidence in earnings outlook.",
+        "suggestedAction": "Reach out to CFO/Strategy team to explore Analytics Suite for demand forecasting and member-category analysis to support pricing and margin decisions as they deploy capital into growth.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3JZUXJRekpXSnlWaGt4cmZWTnQwN0FmRjNtRHFzb1VLZnRtZmtuV1hpV0JKamc1OUpIN3VSc3QxYWVZRndEMExETzlycE9wQlVILXdSc1RyTjhaSVVsOWJoLXd1TVV2a0d6Y2RuYXN1eXJGSld4LWpQVUhkUGNrc1ZiMC0tRVNVbi16NW9NTVZ0M25nNVE?oc=5",
+        "publishedAt": "2026-11-13T15:50:00.000Z"
+      },
+      {
+        "category": "Tech outage vulnerability & surge demand",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Recent tech outages triggered panic buying and surge in emergency supply purchases at Costco; generators and emergency supplies sold out. Signals operational resilience but also exposure to disruption.",
+        "suggestedAction": "Proactively outreach supply chain / merchandising leadership to discuss Workflow Automation for real-time alerting on inventory spikes, out-of-stocks, and category exceptions during demand surges—a readiness conversation ahead of next disruption.",
+        "sourceName": "NewsNation",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV19ELUhkU0xFRVVhdFQtQ0thd0FyazBFa1B0ODh4ME52cnNZVHhVQ2ZmbmUyZFNfRWZtOTFkMjltYjNjQlhUUjFaMEdsbDdBYUJHNGg3cWFhOFhKbGVldmgxcUE2aGFiRnN5ekN4SXM5S3dNM0ItdVV2YWItMkV4ZklYVUtDNXRCN2dr0gGQAUFVX3lxTE43cG5sOTNiU3kwR3JoUXlPWGY5NGRlRF9DVlRTT2tqWTBlTUhzV2NiS2ZQM0xpYzNZWEw1d2VxRzJNQTdfd2g4cWV6blh0NDFPU1NOZEl6NnVSaVpmNEJCN0lMSGJzTkZwUDlXR3pFLUJQX0F2MjlJeEx4MGVKblp3QnBvanBMU1RKTmZPNDdPZA?oc=5",
+        "publishedAt": "2026-11-18T21:53:39.000Z"
+      }
+    ]
   }
 ]

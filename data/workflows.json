@@ -59916,5 +59916,436 @@
     },
     "doneWhen": "Analytics Suite pilot proposal signed or scheduled for delivery within 60 days, covering elasticity modeling for ≥1 category or region.",
     "generatedAt": "2026-11-18T21:09:59.083Z"
+  },
+  "a_1ak5j5y": {
+    "signalId": "a_1ak5j5y",
+    "account": "Keurig Dr Pepper",
+    "signalTitle": "Business Split / Restructuring",
+    "play": "onboard_expand",
+    "goal": "Map current platform usage across coffee and beverage divisions post-split and secure expansion to integrations and analytics for each independent entity.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP of Data / CIO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Audit current platform deployment: which teams, business units, and data volumes span coffee and beverage divisions today.",
+          "Review renewal terms and coverage (platform-only baseline); check if integration or analytics adoption is on the roadmap.",
+          "Flag any active support cases or data quality issues that may resurface post-split."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on expansion opportunity: integrations for new inter-company data flows and ERP connectors post-separation.",
+          "Align with Product on analytics roadmap for category performance (demand, pricing, market-share) for each entity.",
+          "Assign CSM and Account Executive to co-lead infrastructure review with customer."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach [VP of Data / CIO] with an invitation to map platform usage across the two divisions and plan data architecture for independence.",
+          "Mention we've supported similar portfolio separations and want to ensure no data gaps between coffee and beverage teams post-close."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Conduct infrastructure review: document current platform footprint, identify data flows that will break at separation, and map new ERP/POS integrations needed for each entity.",
+          "Develop phased integration and analytics expansion proposal scoped to post-split operating model."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log review outcomes and proposal in CRM; track whether customer commits to expanded integrations or analytics pilots for new entity.",
+          "Schedule 90-day check-in post-separation close to validate data architecture and identify integration success or risk."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Planning Your Platform Footprint Across Coffee and Beverage Post-Split",
+      "body": "Hi [VP of Data / CIO],\n\nCongratulations on the announced split. We've worked with other large portfolio separations and want to help you plan the data architecture cleanly from the start.\n\nToday your platform spans both divisions. We'd like to map how coffee and beverage teams use it now—and what new data flows, ERP connections, or analytics each entity will need independently.\n\nWould you have time for a 30-minute infrastructure review in the next week? We can walk through your current setup and outline a phased plan for post-separation.\n\nBest,\n[Account Success Team]"
+    },
+    "slack": "🔄 KDP split signal: core platform spans coffee and beverage divisions. Major expansion play—integrations for new inter-company flows and analytics for category performance on each side. CSM + AE to lead infrastructure review with [VP of Data]. Ask: map current footprint, propose integration + analytics expansion scoped to post-split model. Win condition: proposal for new products by end of Q1.",
+    "crmTask": {
+      "title": "KDP Split Infrastructure Review & Expansion Plan",
+      "due": "In 7 days",
+      "notes": "Signal: Business split of KDP into coffee systems and beverage brands (announced 2026-11-13). Current state: core platform only; spans both divisions. Opportunity: (1) integrations for new ERP, POS, inter-company data flows created by separation; (2) analytics for category performance on each entity. Risk: data gaps or platform duplication if architecture not planned proactively. Action: schedule infrastructure review with [VP of Data / CIO] to map usage and propose phased expansion."
+    },
+    "doneWhen": "Infrastructure review completed and expansion proposal (integrations + analytics) delivered to customer.",
+    "generatedAt": "2026-11-19T21:13:51.800Z"
+  },
+  "a_qvtjtr": {
+    "signalId": "a_qvtjtr",
+    "account": "Walmart",
+    "signalTitle": "Raised guidance & pricing pressure",
+    "play": "onboard_expand",
+    "goal": "Introduce Analytics Suite to Walmart's pricing and demand-planning teams as a tool to defend margins and optimize price-volume trade-offs in a low-price, high-margin environment.",
+    "owner": "Account Executive + Category Analyst",
+    "contactRole": "VP Pricing Strategy; Director of Demand Planning",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Walmart's FY25 earnings call transcript and investor deck; flag pricing/margin commentary and cost headwinds.",
+          "Check current platform usage: which business units, data volumes, and integration refresh cycles.",
+          "Identify pricing and demand-planning org structure; confirm sponsorship and decision authority with [VP Pricing Strategy] via [Account Executive]."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales and Product: Walmart's pricing pressure and guidance raise; Analytics Suite fit for margin defense via elasticity and demand modeling.",
+          "Align internally on ROI narrative: how Analytics Suite quantifies volume-margin trade-off and competitive positioning.",
+          "Confirm [Account Executive] leads outreach; set clear expansion opportunity size and timeline."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Pricing Strategy] and [Director of Demand Planning]: congratulate on strong guidance and reference their public low-price commitment; propose a brief conversation on how demand and price analytics can protect margins amid cost inflation.",
+          "Offer a 20-min discovery call to map their current pricing workflow and margin-optimization challenges; no pitch."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 10-21",
+        "tasks": [
+          "Run a proof-of-concept workshop: use Walmart's existing POS and e-commerce data to model price elasticity and forecast demand lift at different price points.",
+          "Build a business case: quantify how Analytics Suite could improve margin capture across key categories while maintaining competitive positioning.",
+          "Proposal for pilot rollout to 2-3 high-margin categories (e.g., grocery, home essentials)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 21+",
+        "tasks": [
+          "Log engagement and pilot terms in CRM; set clear 90-day success metrics (adoption rate, margin-impact modeling, team feedback).",
+          "Weekly check-ins with [Director of Demand Planning] on pilot progress; escalate blockers to [Account Executive].",
+          "Close feedback loop: share usage insights with Product; track competitive intelligence (e.g., how Walmart's demand-forecasting maturity shapes roadmap)."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Defend margins with smarter pricing & demand insights—let's talk",
+      "body": "Hi [VP Pricing Strategy] and [Director of Demand Planning],\n\nCongrats on the strong FY guidance and your public commitment to low-price leadership. We know margin pressure is real amid fuel costs and supply-chain volatility. \n\nWe've built analytics specifically for retail teams like yours: demand forecasting and price elasticity modeling to quantify the volume-margin trade-off and optimize pricing strategies by category and region. Given your existing data foundation with us, there's a quick path to testing this.\n\nWould you be open to a brief conversation to map your current pricing workflow and explore how this could work for a pilot?\n\nBest,\n[Account Executive]"
+    },
+    "slack": "🎯 **Walmart expansion signal:** Raised FY guidance and confirmed low-price positioning despite cost pressure. Opportunity: Analytics Suite for pricing and demand planning to defend margins. **Play:** Engage Pricing & Demand Planning teams with a PoC around price elasticity modeling and margin-volume trade-offs. **Owner:** Account Executive leads outreach. **Ask:** Get intro to [VP Pricing Strategy] and [Director of Demand Planning]; confirm org structure and decision timeline for pilot.",
+    "crmTask": {
+      "title": "Walmart: Analytics Suite pilot for pricing optimization & margin defense",
+      "due": "In 14 days",
+      "notes": "Signal: Walmart raised FY25 guidance; confirms low-price commitment amid fuel/supply-chain cost pressure. Opportunity: Analytics Suite (demand forecasting, price elasticity) for pricing teams to optimize margin-volume trade-off. Current footprint: Core Platform + POS/e-commerce integrations. Whitespace: Analytics + Automation. First step: validate demand-planning org structure and sponsorship; propose 20-min discovery call with [VP Pricing Strategy] and [Director of Demand Planning]. PoC focus: 2-3 high-margin categories; 90-day success metric: elasticity model accuracy and margin-impact forecast adoption."
+    },
+    "doneWhen": "Analytics Suite PoC pilot agreed and scoped with [Director of Demand Planning]; 2-3 categories selected for elasticity modeling; kickoff meeting scheduled.",
+    "generatedAt": "2026-11-19T21:13:54.054Z"
+  },
+  "a_1vip2sm": {
+    "signalId": "a_1vip2sm",
+    "account": "Costco",
+    "signalTitle": "Capital return & strong earnings",
+    "play": "onboard_expand",
+    "goal": "Expand from Core Platform to Analytics Suite to support member-driven pricing and category strategy across Costco's international and private-label growth initiatives.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Finance / CFO's Strategy Office",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm Costco's current platform footprint: which business units run Core Platform, renewal date, and data volume.",
+          "Review Costco's recent investor disclosures and earnings call: capital allocation priorities, geographic expansion plans, and margin/pricing focus areas.",
+          "Check for any active support issues or feature requests related to member analytics or demand forecasting."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on the expansion opportunity: Analytics Suite fit for member segmentation, category demand, and pricing strategy.",
+          "Align with Product on member-focused analytics capabilities and data model readiness for Costco's scale and international markets.",
+          "Confirm AE and CSM ownership and cadence: who leads the expansion conversation with [VP Finance / CFO's Strategy Office]."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send warm outreach from CSM to [VP Finance / CFO's Strategy Office]: tie strong earnings and capital return to need for sharper member and category insight to drive pricing and margin accretion.",
+          "Propose a 30-min discovery call with Finance, Strategy, and Merchandising leads: focus on how Analytics Suite powers demand forecasting and member-category profitability as Costco deploys growth capital."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Run discovery call: map Costco's pricing and member analytics workflows; identify gaps in current Platform capabilities; scope Analytics use cases (member lifetime value, category elasticity, private-label margin modeling).",
+          "Develop proof-of-concept or pilot proposal: recommend Analytics Suite rollout for 1–2 priority categories or geographies (e.g., Kirkland Signature expansion into new market) with clear ROI tie to margin and member retention."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM: discovery outcomes, Analytics use-case scope, and pilot timeline; set next milestone (proposal, budget approval, or pilot kick-off).",
+          "Owner confirms close-of-quarter or renewal alignment: Analytics expansion should anchor Q2 2027 growth conversation or bundle into annual renewal."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Member-driven pricing strategy in your growth phase",
+      "body": "Hi [VP Finance / CFO's Strategy Office],\n\nCongrats on the strong earnings and capital return—a signal of real confidence in the business.\n\nAs you deploy that $4B into international expansion and private-label growth, we thought it worth a quick conversation: our Analytics Suite helps retailers like you model member demand and category profitability at scale—especially useful when entering new markets or repricing Kirkland Signature across regions.\n\nWould you have 30 minutes in the next week to chat with your Strategy and Merchandising teams about how member-focused analytics can tighten pricing and margin decisions? We'd love to map it to what you're seeing today.\n\nLet me know what works.\n\nBest,\n[Your name]"
+    },
+    "slack": "🎯 **Costco expansion play**: Strong earnings + $4B capital return signals confidence and capital redeployment into growth. Costco owns Core Platform only; whitespace is Analytics Suite for member-driven pricing and category strategy (especially Kirkland private-label expansion). Recommend AE + CSM reach [VP Finance / CFO's Strategy Office] with discovery-focused conversation on member analytics and demand forecasting. Lead: AE on expansion; CSM on pilot design. Win = Analytics pilot signed within 60 days.",
+    "crmTask": {
+      "title": "Costco: Expand to Analytics Suite for member-driven pricing and category strategy",
+      "due": "In 7 days",
+      "notes": "Signal: Costco announced $4B buyback + special dividend on strong FY2026 earnings. Account holds Core Platform only. Opportunity: Analytics Suite for member segmentation, category demand forecasting, and pricing strategy—especially valuable as Costco deploys capital into international expansion and private-label (Kirkland) growth. Recommended contact: VP Finance / CFO's Strategy Office. First step: discovery call mapping current pricing/member workflows and Analytics use cases. Pilot scope: 1–2 priority categories or new geographic market. Success metric: Analytics pilot proposal signed by end of Q4 2026 or bundled into renewal planning for 2027."
+    },
+    "doneWhen": "Analytics Suite pilot proposal approved and signed by Costco Finance/Strategy team.",
+    "generatedAt": "2026-11-19T21:13:54.472Z"
+  },
+  "a_l836y3": {
+    "signalId": "a_l836y3",
+    "account": "Procter & Gamble",
+    "signalTitle": "Productivity & Efficiency Savings Target",
+    "play": "onboard_expand",
+    "goal": "Expand workflow automation into supply chain, merchandising, and category management to support P&G's $10B productivity savings program.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Operations or Chief Procurement Officer",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review P&G's earnings call transcript and investor materials to map productivity program scope across supply chain, procurement, and merchandising functions.",
+          "Audit current Account Intelligence footprint: confirm Core Platform and Analytics Suite deployments, map which teams are covered, and document gaps in automation adoption.",
+          "Flag renewal timeline, budget cycle, and any open support issues or feature requests from existing teams to contextualize expansion appetite."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on expansion opportunity: workflow automation as efficiency lever for P&G's program; confirm AE owns lead and CS supports with technical credibility.",
+          "Sync with Product: document which automation workflows (alerts, approvals, playbooks) would address top P&G use cases (supply-chain disruptions, pricing decisions, retailer-specific promotions).",
+          "Secure internal champion: assign CS Director to lead engagement and position as trusted advisor on process optimization, not vendor."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Operations or Chief Procurement Officer] with P&G earnings news as hook: outline how workflow automation reduces manual handoffs and accelerates decision cycles in their priority functions.",
+          "Propose a 30-minute discovery call: assess which workflows in supply chain, merchandising, and category management are slowing decisions or creating bottlenecks—position as workflow audit, not demo.",
+          "Prepare 1-pager: 2-3 anonymized examples of how comparable CPG/retail customers use automation to cut alert response time and manual approvals (efficiency + speed wins)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Conduct workflow assessment with [VP Operations], [Chief Procurement Officer], and supply-chain/merchandising leads: map current state, friction points, and automation opportunities tied to productivity targets.",
+          "Co-create a prioritized automation roadmap: 2-3 high-impact workflows (e.g., supplier disruption alerts, retailer-specific promotions, category margin thresholds) with estimated efficiency gains and time-to-value.",
+          "Build a formal proposal: scope, timeline, pricing tier for Workflow Automation module; align ROI to P&G's productivity savings program and procurement budget."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log discovery call notes and assessment findings in CRM; document identified workflows and estimated efficiency upside for stakeholder alignment.",
+          "Track proposal acceptance and champion feedback; set internal cadence to monitor product feedback and competitive positioning.",
+          "Close loop with Product: share workflow priorities and use cases from P&G assessment; feed back to roadmap."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "P&G's $10B Efficiency Push: Workflow Automation Opportunity",
+      "body": "Hi [VP Operations / Chief Procurement Officer],\n\nYour $10B productivity savings announcement caught our attention—it's a compelling signal that P&G is prioritizing operational efficiency across the business.\n\nWe work with [P&G's brand teams] on data and decision-making today. One area where we see the biggest efficiency wins is workflow automation: alerting your supply chain, merchandising, and category teams to act faster—fewer manual handoffs, faster approvals, clearer priorities.\n\nWould you have 30 minutes to chat about which workflows in your org are slowing decisions right now? We'd like to understand where automation could be the biggest lever for your program.\n\nBest,\n[Your Name]"
+    },
+    "slack": "🎯 P&G Earnings Signal: $10B Productivity Savings Program\n\nP&G's CFO announced major efficiency targets—P&G is primed to invest in process automation and workflow optimization. We own Core Platform + Analytics with P&G; Workflow Automation is a clear whitespace play to support their productivity goals.\n\n**Play:** Expand to supply chain, merchandising, category management via workflow automation discovery.\n**Lead:** AE + CS Director\n**Ask:** Secure meeting with VP Operations / Chief Procurement Officer; conduct workflow assessment; build automation roadmap tied to their savings program.\n\nTarget: Proposal by end of Q4.",
+    "crmTask": {
+      "title": "P&G Productivity Efficiency Program – Workflow Automation Assessment",
+      "due": "In 5 days",
+      "notes": "Signal: P&G CFO announced up to $10B productivity savings targets (11/19/26). Opportunity: expand Workflow Automation module into supply chain, merchandising, category management. Current footprint: Core Platform + Analytics Suite across brand teams. Gap: no automation adoption yet. Play: 30-minute discovery to assess workflow friction, build automation roadmap, propose phased rollout tied to productivity savings program. Owner: AE + CS Director. Next: align internally (Sales, Product, CS), prepare discovery agenda and use-case examples, outreach Day 3-5."
+    },
+    "doneWhen": "Workflow automation proposal submitted to P&G with prioritized roadmap and efficiency ROI tied to their productivity savings program.",
+    "generatedAt": "2026-11-19T21:13:56.143Z"
+  },
+  "a_5xr5ug": {
+    "signalId": "a_5xr5ug",
+    "account": "Costco",
+    "signalTitle": "Tech outage vulnerability & surge demand",
+    "play": "advise",
+    "goal": "Help Costco anticipate and respond faster to sudden demand spikes and inventory disruptions by introducing real-time alerting and automated workflows.",
+    "owner": "CS Director + Supply Chain GTM Lead",
+    "contactRole": "VP Supply Chain Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current core platform usage: which business units, data refresh cadence, and existing alert/reporting workflows",
+          "Check renewal status and expansion budget scope for supply chain technology investments",
+          "Review any open support tickets or feature requests related to inventory visibility or alerting"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on expansion opportunity: Workflow Automation for supply chain resilience (TAM: inventory, out-of-stock alerts, surge response)",
+          "Align with Product on how real-time alerting integrates with current platform; flag use case for roadmap feedback",
+          "Confirm CS Director owns engagement; Sales supports expansion close if opportunity emerges"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach [VP Supply Chain Operations] with invitation to brief: how real-time alerting helped peers respond faster during demand surges (no demo, no ask yet)",
+          "Request 30-minute conversation to understand Costco's post-outage playbook and where visibility gaps hurt most",
+          "Position as readiness conversation: preparing for next disruption, not selling"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "If receptive: co-design a Workflow Automation proof-of-concept (POC scope: 1-2 high-priority categories, 2-week pilot on a single club location or region)",
+          "Map Costco's existing data feeds (POS, inventory, supply chain systems) to alert types (out-of-stock, surge, exception-based replenishment)",
+          "If not ready for POC: schedule quarterly check-in; leave playbook or case study for internal circulation"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and receptiveness; flag if Workflow Automation becomes expansion priority for renewal cycle",
+          "Document learnings on supply chain alerting use case for Product feedback (demand surge, out-of-stock, cross-category exception handling)",
+          "If POC launches: track adoption, alerting accuracy, and speed of response during next demand event"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Costco + Real-Time Alerting: Preparing for the Next Surge",
+      "body": "Hi [VP Supply Chain Operations],\n\nThe recent tech outages and surge demand exposed how fast visibility gaps can cascade—and how well-prepared teams respond. We've seen peers use real-time alerting on inventory spikes and out-of-stocks to shorten response time by hours during disruptions.\n\nI'd like to explore whether a similar approach could help Costco's supply chain stay ahead of the next surge. No demo, no commitment—just a 30-minute conversation about where visibility matters most in your playbook.\n\nWould next week work?\n\n[Your name]"
+    },
+    "slack": "Recent tech outages at Costco surfaced demand surge + inventory visibility gaps; surge buying of emergency supplies signals both resilience and risk. We're recommending a proactive outreach to [VP Supply Chain Operations] on Workflow Automation for real-time alerting and exception-based response. CS Director leads engagement; Sales supports if POC opportunity emerges. Goal: readiness conversation this month, potential pilot if receptive. Flag learnings back to Product on supply chain alerting use case.",
+    "crmTask": {
+      "title": "Workflow Automation Readiness: Real-Time Alerting for Demand Surges",
+      "due": "In 5 days",
+      "notes": "Signal: Tech outages triggered surge demand and inventory disruption at Costco (11/18/26). Current state: core platform only; whitespace in Workflow Automation (alerting, playbooks) and Analytics (demand forecasting). Play: advise on real-time alerting for supply chain resilience. If receptive, design 2-week POC on high-priority category (e.g., emergency supplies, Kirkland Signature SKU surge). Tie to renewal cycle (expansion TAM: automation + analytics for supply chain, member insights, international rollout support)."
+    },
+    "doneWhen": "30-minute discovery call with [VP Supply Chain Operations] completed and next steps agreed (POC scope, timeline, or quarterly follow-up scheduled).",
+    "generatedAt": "2026-11-19T21:14:06.375Z"
+  },
+  "a_1oyzlly": {
+    "signalId": "a_1oyzlly",
+    "account": "Target",
+    "signalTitle": "Q3 Earnings Beat & Stock Strength",
+    "play": "onboard_expand",
+    "goal": "Capitalize on strong Q3 earnings and budget headroom to expand Analytics Suite coverage into new categories and store operations.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Merchandising, VP Finance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Target's Q3 earnings release for specific growth drivers and strategic priorities (e.g., owned brands, store productivity, supply-chain efficiency).",
+          "Audit current Account Intelligence footprint: confirm Platform and Analytics Suite scope (categories, teams, SKU coverage), identify merchandising and finance expansion gaps.",
+          "Check renewal timeline and health score; flag any open support issues or feature requests from prior quarters."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive on earnings beat tailwinds and merchandising/finance budget signals; agree on [VP Merchandising] as primary contact and [VP Finance] as secondary.",
+          "Align with Product on Analytics Suite roadmap: confirm pricing optimization and SKU-level forecasting capabilities ready to demo.",
+          "Notify Support/Ops: flag this as expansion opportunity; ensure no open tickets or incidents block outreach."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send congratulations email to [VP Merchandising] referencing Q3 momentum and asking about FY strategic planning for analytics, particularly new categories or store-ops coverage.",
+          "Schedule 30-min call: position as peer-to-peer win-share, not a pitch—goal is to understand Target's post-earnings roadmap and where analytics can add margin or productivity.",
+          "Prepare one-pager: Analytics Suite use cases for owned brands and store-level category insights tied to Q3 tailwinds (confidence in direction)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "If interest: co-design analytics expansion roadmap (which categories, teams, SKU granularity, timeline) aligned to Target's strategic priorities.",
+          "Propose pilot or phased rollout (e.g., top 3 owned-brand categories in Q1, then store-ops expansion); include success metrics (forecast accuracy lift, margin improvement).",
+          "Secure LOI or amendment to core contract to formalize scope and pricing for expanded analytics users and data volume."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM activity (call, email, outcome) and next step; set reminder for 2-week follow-up if no commitment.",
+          "If deal: track go-live date, adoption KPIs (logins, model runs, insights actioned), and customer success touchpoints.",
+          "Collect feedback from [VP Merchandising] on new analytics features used; feed to Product for account-led insights."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congrats on Q3—let's talk analytics and owned-brand growth",
+      "body": "Hi [VP Merchandising],\n\nCongratulations on a strong Q3—great to see Target's momentum reflected in the earnings. With the tailwinds you're seeing, I'd love to explore how we can deepen our analytics work to support your FY roadmap.\n\nSpecifically, I'm curious whether you're planning to expand analytics coverage into new owned-brand categories or store-level insights as part of post-quarter planning. We've recently enhanced our Analytics Suite for SKU-level forecasting and pricing optimization—both are delivering real margin lift for peers.\n\nWould you have 30 minutes in the next week or two to chat strategy?\n\nBest,\n[Your Name]"
+    },
+    "slack": "🎯 Target Q3 earnings beat (EPS $2.65, stock at 52-week high) = budget headroom signal. Play: expand Analytics Suite into new categories and store ops to ride momentum. AE owns lead + call; CM supports roadmap design and LOI. Need Product to confirm SKU-level and pricing capabilities ready for demo.",
+    "crmTask": {
+      "title": "Expansion: Analytics Suite – Q3 momentum outreach",
+      "due": "In 5 days",
+      "notes": "Signal: Q3 EPS beat + stock strength = budget headroom. Reached [VP Merchandising] to explore Analytics expansion into owned-brand categories and store-level coverage. Opportunity scope: SKU-level forecasting, pricing optimization. Next: Schedule call, assess appetite for pilot or phased rollout."
+    },
+    "doneWhen": "First call with [VP Merchandising] scheduled and completed; customer has articulated FY analytics roadmap and appetite for expansion scope (categories, teams, timeline).",
+    "generatedAt": "2026-11-19T21:14:08.919Z"
   }
 }

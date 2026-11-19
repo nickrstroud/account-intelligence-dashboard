@@ -1180,5 +1180,24 @@
         "publishedAt": "2026-11-04T15:37:45.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-19T21:13:37.335Z",
+    "source": "daily",
+    "headline": "Walmart raises FY outlook and affirms price-leadership strategy amid cost pressures; retention secure, analytics expansion play emerging",
+    "signals": [
+      {
+        "category": "Raised guidance & pricing pressure",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart hiked FY sales outlook and confirmed commitment to low-price positioning despite soaring fuel costs. Signals strong top-line performance but pricing and margin pressure in the competitive retail environment.",
+        "suggestedAction": "Schedule a check-in with Walmart's pricing and demand-planning teams. Position Analytics Suite (demand forecasting and price elasticity) as a lever to defend margins and optimize pricing strategies in the face of rising fuel and supply-chain costs. Reference their public commitment to price leadership—analytics can help quantify the trade-off between volume and margin.",
+        "sourceName": "CNBC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LV0lxTE41NmNVYW15ZTE3dndjYy1YUFdVYm5uNkFiWWE5NU53ZVEwc3RuR0cxdFNqWXdVX3lTYUVOYXFlaGVGUnJvU3Y5QTFpdU8yWWdxTnVGMVh1TVFfMlM0WndyTmpjcW5HTGlaZWc4dVHSAXhBVV95cUxQMjhJaXpYODlkQ2xkSHB3Z1FCc1pDdkpCWU1NbnZleFV2Q2VoMG9RekZ6U2RfS2ItcVU1X3VuZUZTSlhCUGZGLUN3M1pIdDlXT0tEdXBJZkJSU050VUFBV0NVVGlOcGtLVXRyZjJJQVpnM0I2bFJzY1A?oc=5",
+        "publishedAt": "2026-11-19T05:01:01.000Z"
+      }
+    ]
   }
 ]

@@ -1412,5 +1412,24 @@
         "publishedAt": "2026-11-19T19:51:30.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-20T20:57:26.091Z",
+    "source": "daily",
+    "headline": "P&G announces aggressive manufacturing workforce reduction of up to 30% by 2030 driven by automation—signals operational transformation and potential budget constraints",
+    "signals": [
+      {
+        "category": "Manufacturing workforce reduction & automation initiative",
+        "updateType": "restructuring",
+        "play": "automation",
+        "score": -1,
+        "summary": "P&G announced plans to reduce manufacturing and logistics workforce by up to 30% by 2030 as part of an automation-driven operational transformation. While automation investments signal modernization, the restructuring and cost-cutting context suggests near-term budget pressure and potential headcount reductions that could affect platform seats and expansion appetite.",
+        "suggestedAction": "Schedule a check-in with P&G's VP of Supply Chain Operations to understand the scope and timeline of automation investments. Specifically ask whether their Workflow Automation whitespace (retailer-specific alerts for supply-chain teams) could help accelerate the efficiency gains they're targeting, and whether the restructuring will affect headcount on current platform teams. Frame as a strategic efficiency partner, not an opportunistic upsell.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWNEUUhHMUFTQjdHbDF1dVlhWmwxbjkyNzBXM2JBRXdqVFRlcjMwTG9lWWRWRTV2bXlzQkdUX2lyUE1zT2pUSzVmTDF2akJKVjNtWFhfRVhQSXhwdEpZb3FOSWcwYnFiSTlCYWNwLWNfVXdweC1XVzg5Y1hRaE56M2diNWV1OTRiMzhZUV9KUm1ZYjZnQXlEN3phejJaMkJPaUVQQWxRNA?oc=5",
+        "publishedAt": "2026-11-19T22:27:33.000Z"
+      }
+    ]
   }
 ]

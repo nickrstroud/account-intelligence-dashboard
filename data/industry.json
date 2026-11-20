@@ -1,5 +1,238 @@
 [
   {
+    "id": "RmJXbHpUMHg0Tm1GMj9vYz01",
+    "title": "Kroger Precision Marketing Names Melanie Zimmermann Group VP",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTJvai02YUlmUmdkTDdyY3BZcFROckpzNHB5aDVoLXRka3JhempZZGlfODVGeEdaQnRaRnNPUGhHdTdDQVNzS0dKNGt5TkdIWWJ6eEpURndNQjRxUzdheFhDSUVNUkVuLTY1VUtWcWZ6NWhtNDlkV1FyeXlsU21jUkp5M25DTjFWa1lFbWlzT0x4NmF2?oc=5",
+    "sourceName": "Progressive Grocer",
+    "publishedAt": "2026-11-20T20:25:15.000Z",
+    "analyzedAt": "2026-11-20T20:58:50.272Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Kroger names Melanie Zimmermann Group VP of Kroger Precision Marketing, signaling investment in retail media and advertising analytics.",
+    "angle": "Kroger's promotion of a retail media leader reflects rapid growth in ad tech and suggests expansion of data and analytics capabilities—opportunity to discuss analytics and integrations expansion for retail media workflows.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "cmdlcy1pbi1xMy84NzUzMzkv",
+    "title": "Walmart’s sub-30-minute delivery volume surges in Q3",
+    "link": "https://www.supplychaindive.com/news/walmarts-sub-30-minute-delivery-volume-surges-in-q3/875339/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-20T19:38:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Walmart's sub-30-minute delivery volume surged in Q3, with leadership signaling further acceleration through faster store pick times.",
+    "angle": "Rapid delivery expansion is reshaping CPG demand patterns and retail logistics. Customers need to understand Walmart's delivery network strategy, promotional cadence, and category priorities to plan SKU mix and supply-chain coordination.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "zZFd4WlowVnRjMkpOP29jPTU",
+    "title": "FDA urgently recalls sandwiches over dangerous ‘organism’ linked to fatal infections",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcnhIWGxXZUpfbS1qZTRDRDlFTWZzM0xWd0hHNGRBOG0xSlo2TEdzS3hYYXBrRURNVkt2WGJUZXgyai14NGVDbUl5Y3BCbnh5REJsNTdUMkRhdjl6LU1va2Q2QmNSWmx3eG56ZkM0Q3ZhVHJ5ZFFVNGVHZ3B4a1BoUGE5X0RhUER4VDIxN05Cbm92VEUzNXJ2TU13dWxZZ0Vtc2JN?oc=5",
+    "sourceName": "New York Post",
+    "publishedAt": "2026-11-20T18:37:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:42.663Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "FDA urgently recalls sandwiches over dangerous organism linked to fatal infections, indicating active food safety crisis requiring rapid response.",
+    "angle": "Food recalls demand immediate visibility across supply chains and rapid communication to affected channels and customers; automation and integration tools are critical for coordinating recalls and protecting brand.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "IRnZRbDgwYm1zeFp3P29jPTU",
+    "title": "How Will DoorDash's Acquisition of Instacart Remap the E-Commerce Landscape?",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RIVFVMOEtWbHNpVFJYOEp3UEhqZ00wUWJSSVBqY1VYOUl1VGVCV3g0ZEluNXA5eWlIdHEwNFZ6ajJKSHdpT0VZOUVmVlhLNHNRRWxBWTVITWJ6cVQxeURKcUJmQzNCTUNMblZ0N2ZYWnA2eXY2cnBILXJ3NDduTk0xbHkxdnRaQ3pZUWxraWFaTW0ybHFvQl80bmsxZw?oc=5",
+    "sourceName": "Progressive Grocer",
+    "publishedAt": "2026-11-20T17:39:41.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "ma",
+    "relevance": 3,
+    "summary": "DoorDash's $17 billion acquisition of Instacart marks a major consolidation in e-commerce grocery delivery and retail media, reshaping the competitive landscape.",
+    "angle": "This deal creates urgent integration and data challenges for CPG and retail customers: Instacart's retail media and customer data will merge with DoorDash's logistics—existing Account Intelligence customers need to understand data flow, media attribution, and competitive positioning immediately.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "XTTBVbTVuWjFaU1p3P29jPTU",
+    "title": "DoorDash announces $17 billion acquisition of Instacart",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWWR1UWlmT0VLUU9EbWlQWXYySG1MSXpxNU1WNm5weWJOOHBwanJZMnlGRVhXM0xVQ1NEY294alQ0djJ5WmgtU0NtVDBLNVRrYWw1TjlTc2x0dVByc2JvOGgyZjhHTEVwNWM0Um5nZ1ZSZw?oc=5",
+    "sourceName": "Indianapolis Recorder",
+    "publishedAt": "2026-11-20T16:58:57.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "ma",
+    "relevance": 3,
+    "summary": "DoorDash acquires Instacart for $17 billion, consolidating the two largest U.S. e-commerce grocery and delivery platforms.",
+    "angle": "This mega-deal reshapes retail media, customer data ownership, and CPG-to-consumer channels—Account Intelligence customers need to rethink media spend attribution, customer insights, and competitive intelligence strategies.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Y2VyeS1zYWxlcy84NzUyNjcv",
+    "title": "The Friday Checkout: Target is becoming a bigger threat in grocery",
+    "link": "https://www.grocerydive.com/news/the-friday-checkout-target-grocery-sales/875267/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-20T16:26:41.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Target is growing food and beverage sales while traditional supermarket operators decline, signaling a shift in retail grocery competition.",
+    "angle": "Target's grocery strength is a competitive threat to CPG sales and retailer relationships. Customers need visibility into Target's category performance, assortment trends, and promotional velocity to protect share.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "vbi13YWl2ZXJzLzg3NTI2OC8",
+    "title": "USDA faces lawsuit over remaining state SNAP waivers",
+    "link": "https://www.grocerydive.com/news/usda-lawsuit-18-state-snap-food-restriction-waivers/875268/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-20T16:10:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA faces a class action lawsuit over state SNAP waivers following a court block of five other state waivers, creating uncertainty around benefit program rules.",
+    "angle": "SNAP waivers affect demand and pricing strategy for CPG manufacturers and retailers in affected states. Customers need to model revenue and volume impact across geographies as waiver status remains in flux.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1LW91dGJyZWFrLzg3NTMxNi8",
+    "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+    "link": "https://www.supplychaindive.com/news/cal-maine-halts-egg-production-at-florida-plant-after-bird-flu-outbreak/875316/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-20T15:09:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Cal-Maine halts egg production at Florida facility due to bird flu outbreak as the industry faces oversupply and consumer price collapse.",
+    "angle": "Bird flu disruptions affect CPG ingredient costs and retail pricing strategy for egg-based products. Customers need supply-chain visibility and cost modeling tools to navigate commodity volatility and margin pressure.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MVNqVmhhbFpZVW5Rdz9vYz01",
+    "title": "Food industry braces for rising prices as consumers reach affordability limits",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOEsySVV4SnBwRGJrbFB3MXcwRzhXeXJETjRoX2VELVlRbVdwZHdFVDdlb25xMXpzSVlYanVJOEN2NFJSS2dETWF3UEtjZ2JyYkV5QWpDcnc2ZVo2R0U1TXdhMFdRX2NFT0tTV004ckcxVzRXRDhOcVpaSnhPcFBmekJSb211RDh0Rmo0WGxoRVEzM3JZRl9LQjFPTmI3cHZtb1ltcUh4UXBuZmFQS0VDYll0SS1WdEZQWldBZFZLNkx4d05sN2x1NmE1SjVhalZYUnQw?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-20T14:40:07.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Food industry faces pressure to raise prices as consumers hit affordability limits, signaling a critical inflection point in pricing power and demand elasticity.",
+    "angle": "CPG and retail customers need to model pricing elasticity and demand scenarios across categories—a core use case for analytics and forecasting to protect margin and volume.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9uZ2VyLXRlY2gvODc1MTE3Lw",
+    "title": "Target boosts on-shelf availability, aided by stronger tech",
+    "link": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-20T14:38:53.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Target is leveraging AI and advanced data science to improve on-shelf availability and make faster inventory decisions.",
+    "angle": "Target's adoption of AI-driven inventory optimization strengthens its competitive position and sets expectations for CPG partners on data collaboration and demand-sensing capabilities.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "b21tb2RpdGllcy84NzUxMzAv",
+    "title": "PepsiCo improves deforestation-free sourcing for key commodities",
+    "link": "https://www.fooddive.com/news/pepsico-improves-deforestation-free-sourcing-for-key-commodities/875130/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-20T14:29:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:25.231Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "PepsiCo improved deforestation-free sourcing for key commodities to 94% in 2025, up from 90% the prior year.",
+    "angle": "Sustainability sourcing progress is a market signal of CPG commitment to ESG and supply-chain transparency, relevant for supply-chain auditing and risk management conversations.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "PepsiCo"
+    ]
+  },
+  {
+    "id": "rdFpkMGRpVWtJM05nP29jPTU",
+    "title": "Intersnack Group Completes Acquisition of Utz Brands for $14.25 Per Share, Taking Snack Maker Private",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNakt1NkJqSWlJQWNxOWNBUWJwZjJka3ljMXlKYmcwZGZlVDlyMWJnT0ZHR0szVE9wSTltWGJ4bWRwYjdVSzJ4T0NUMGVsNVo5X3duRWVIY2hzbzBqblVfb0pNVGZqdEYzODBYNEpVa25XZEhZUUFGUUdIOHNucTZ2QnpiU0RnQ0RQd1F6dmlEbnhrbGF1R0owUVhUSWs1T0ZjSGE4RmlJQ21FVXVGU2FmdGJrbUxFbHRJNFFuQk5pbTZzcDktdXJNbnhxZktZd0diUkI3Ng?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-20T14:16:21.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Intersnack Group completes $14.25-per-share acquisition of Utz Brands, taking the snack maker private.",
+    "angle": "Portfolio consolidation in salty snacks; relevant context for CPG suppliers and retailers tracking competitive positioning and M&A activity in the category.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aENVR0kyYURVeGVHcz9vYz01",
+    "title": "Walmart Global Ad Sales Jump 25% YoY On 37% U.S. Increase 11/19/2026",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzF6OGNya3VUWW9FMnQ2Wlc3dnZwaU1GYWttdGJjQzVXajJKVU5wTXAxYXFEcE1iajhYb0loc2lsOEo3OXpIcTVja0RTOC1iQmItNjU1MGtVTmVpSjRFLUtQVDZSNmpGRF9wVjZEWXllOFVuS1hVbWEwM0V6LVItdUhhdUpxRkI1bnM2MEpfMURDa3pGeUJnVlhCNGVhbWhCUGI2aDUxeGs?oc=5",
+    "sourceName": "MediaPost",
+    "publishedAt": "2026-11-19T20:11:56.000Z",
+    "analyzedAt": "2026-11-20T20:58:50.272Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart global ad sales up 25% YoY with U.S. increasing 37% in Q3 2026, outpacing company growth.",
+    "angle": "Walmart's accelerating retail media revenue signals increased data and audience analytics investment; expansion of advertising and attribution analytics is a natural upsell for existing platform customers.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
     "id": "WFRtc3pabGg0YzFKbj9vYz01",
     "title": "Survey: Profound Gap Between Knowing Supply Chain Risks and Acting on Them",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0FDVElHN2NsUHZXZW85WkQyYU1Nc2JmTzRQaURxQjdza0lRc21ZOG9KUHV1YVd3RmdJYkpqbDZmTktud3B0ZV9EMzdrS1VBZTJEdWJtaklWSEJUMzVRNW9ESURFam9IXzRDczctRzJaeW9FNkFUZVAyeEVHcmZoeV9ZQWIyOXZRc3padVpDeUY1UTRjN3VPYWNBQUUyLTgwRmNXa0hEZC1VeGtqWldDREVreWd4ZFRuZDBfQ0ktbTU2eE5xMmhLNmNyQ3Nkdm1QT2xsNHZJcWtmNmVXYmhUZEJyTWFXTmszZlh4c1Jn?oc=5",
@@ -18,6 +251,46 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NlVVJZVm1oZmJXMWo_b2M9NQ",
+    "title": "Holiday Shoppers Seek Affordability at Walmart, Target and Other Retailers",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0drRFRLUldFNzlZVWRNNU1DVllVbm9fd2Y4UG1xd0xuLUZpUmJ0dlhMU3oxUU9IRUtCS0JTNnJnUk53bkZrWDhIRTNoXzRGUlpoNXQ1dGp0TEJscUl1bDducXZuZFJaV09ZazhXMWIzdm9OQW5fLWJvdXZnUTgzVXQ0Q2RKT1RJVlAyZ3lCeURYVmhfbW1j?oc=5",
+    "sourceName": "The New York Times",
+    "publishedAt": "2026-11-19T18:39:11.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Holiday shoppers prioritize affordability and value at Walmart, Target, and other retailers amid broader consumer price sensitivity.",
+    "angle": "Demand is shifting toward value-oriented retailers and private label, creating an urgent need for CPG suppliers to track share and basket shifts by channel and store format.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart",
+      "Target"
+    ]
+  },
+  {
+    "id": "UZWxCSU9FODRSRzV2P29jPTU",
+    "title": "Walmart warns of fuel cost pressure, lifts annual targets ahead of holidays",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5",
+    "sourceName": "Reuters",
+    "publishedAt": "2026-11-19T18:38:53.000Z",
+    "analyzedAt": "2026-11-20T20:58:42.663Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart warns of fuel cost pressure but lifts annual targets ahead of holidays, signaling resilience despite inflationary headwinds in transportation and logistics.",
+    "angle": "Fuel and logistics cost inflation is a key operational pressure for large retailers; customers need better visibility and forecasting of supply-chain cost impacts to protect margins.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
     "id": "bWFwLWxhYmVscy84NzUyMjYv",
     "title": "FDA to allow labels highlighting foods for digestive sensitivity",
     "link": "https://www.fooddive.com/news/fda-allows-low-fodmap-labels/875226/",
@@ -33,6 +306,42 @@
       "analytics"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "dlZGRkJORzUzYkVwbj9vYz01",
+    "title": "USDA Cut Funding for a Program That Helps SNAP Participants Afford Fresh Fruits and Vegetables",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmtJenlyOTBhUUNOalhkaUhrQnBtMVRNSHhhNk84N2ZRczZ4Z0Ffd29oTUx5cjh6QnJuOVcyS2hqbkt5QmN4SEFVaDZqMzlGSFBZNC1TYzBDRXA3VFdzcGZGY3JhUF9nS2xPMVpnYl9OeTFZRlU3Y0Z1NU8zY3RtYjBBNC1WR083MExEbDV0akdqSHFyTGxSMkF0M3RrLXAtXzVFNEYydFpROEplYTdsZldlNDl6ZTFuZkZXYnJ0c1BvVFFBNG53bEpn?oc=5",
+    "sourceName": "Florida Policy Institute",
+    "publishedAt": "2026-11-19T17:35:59.000Z",
+    "analyzedAt": "2026-11-20T20:58:50.272Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "USDA cuts funding for SNAP fruit and vegetable subsidy program, reducing purchasing power for lower-income households.",
+    "angle": "SNAP funding cuts directly impact demand forecasting and pricing strategy for CPG and retail customers; analytics on consumer basket shifts and category mix will be critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "a3hQTlVWaFgwaEJXUT9vYz01",
+    "title": "Target’s turnaround is paying off, with operating profit up 76%, helped by a $301 million tariff windfall",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG8xRnNVV1JZbXdkdDRMVFJWRkpBd3JUNHMzYVZ3QWJEZVh5OW5oSDljWXRjWWtiTEl5Y0pZdWNXMDF0NmhxRW5tUUVGVzkyN0VRbDl0Tmpxb252Um45OVdLR3RGY0xXTmdicWRaYjlXYWNqVGY3U25tOEcwOERmNkFmNkNTekxPNUVhX0hBWQ?oc=5",
+    "sourceName": "Fortune",
+    "publishedAt": "2026-11-19T16:53:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:42.663Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Target reports 76% operating profit increase, with $301 million tariff windfall boosting results as tariff pass-through dynamics shift.",
+    "angle": "Tariff pass-through and cost recovery are now material profit drivers for retailers; analytics and automation tools help CPG and retail partners model scenarios and respond quickly to tariff policy changes.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
   },
   {
     "id": "wZ3hOVFkzY1VWU1NRP29jPTU",
@@ -162,6 +471,42 @@
     "mentionedAccounts": []
   },
   {
+    "id": "2UVZSRFR6Tk9RVmN3P29jPTU",
+    "title": "Port workers strike looks more likely this weekend, shippers say",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVFhSRUJBQlEzUXM5cmVGSTQ5WWtTNE5lbURMR25YcDFoV3Y2THc5SlhvNTlUcEpCdjRScFlURGJJdGxiTjlRWllnVE02ZUtoYTFnaV9VU2tOMFo2STRvMDFiMG8xOF95bUlKTUdIY2xyMFZPWWNJbDZ6V05ndFl3a09ZTHp3aXlNa1VIdUdJbFB6U1JlbUNuMUJvQVRDTzNOQVcw?oc=5",
+    "sourceName": "LAist",
+    "publishedAt": "2026-11-19T13:00:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:54.703Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "Port workers strike looks more likely this weekend at Southern California ports; shippers warning of imminent disruption.",
+    "angle": "Immediate supply-chain risk at a critical logistics hub for CPG and retail distribution. Customers need visibility into inventory, demand, and sourcing—key use cases for workflow automation and alerting.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WGhCWnpWckxWRjVUQT9vYz01",
+    "title": "Target’s most reworked snack, candy and drink aisles grew nearly 10%",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDhEblZ0bW5lZDF0MlBMT21IcGVNRFdTcmhsSDVnQjNXRGNtQ05RRUcweXluSmVSNUhqM1JtNW9PYVMyWWZjRmRpcDBHUDk2RS1VWXlfczBZazE0OHRxaEtDOFdZQ3BGNjVSN2pZUmNNZjdnTGRGMnM1bU1DdV95c0xlTEVFbUpCVU9NLWJrZWM1NzFoRnhPUEdObUhkTXlBck50dGtRTHlldjJjUnFDbEVXWXhBZzVrLVF5TA?oc=5",
+    "sourceName": "MarketScale",
+    "publishedAt": "2026-11-19T12:07:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Target's snack, candy, and drink aisles grew nearly 10%, reflecting private-label and category expansion in high-margin segments.",
+    "angle": "Target's expansion into high-margin snacks signals portfolio and assortment strategy shifts that Account Intelligence customers supplying these categories need to track and respond to.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
     "id": "dkxWZDFha1JuWVMxej9vYz01",
     "title": "Possible Strike Looms Over Ports of LA, Long Beach Amid Labor Talks",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHp5RThZNGczZ0NmS05YTjZPTS1pbnpXdW5FMzFraW92ZXFZWjdxcE9pU2k4UGstTzNtQkR5aTBqZHVST2xuQkVfZWtHLTJUZE9ZT2dQN0ZGblRfVjNROVhrekNINkwyTjdRUWlHNHcxYm50a2xMUU9uS0tieUZ3ZDRLU3VnZy1ueFNGOXcwX1hmYkg5SUM3STdCOUtnSmJYYURxUGFvLVd1akRnYS1z?oc=5",
@@ -199,6 +544,41 @@
     ]
   },
   {
+    "id": "SRFdtVnlNM3A2WTBVP29jPTU",
+    "title": "USDA Warns Six States of Listeria Risk in Biscuit Meals",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWd3hYRXJSdS1sV1V0TkJFcDV3RTcxV2I0Y1o1blhOd21ZT2JpdnpTYmwtQXFnTlkxeWRhTU5mMm81TWlJRG85aVpDVEFLOEpmREUwX0J6bmM4b09GUnRDWmVyM3p6Y0U?oc=5",
+    "sourceName": "cwibc.co.id",
+    "publishedAt": "2026-11-18T20:56:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:50.272Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "USDA warns six states of listeria risk in biscuit meals, expanding the scope of food-safety risk.",
+    "angle": "Multi-state recalls and regulatory warnings require cross-functional coordination and real-time data routing to supply-chain, quality, and compliance teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "YzVTVVV3WW5odVluYz9vYz01",
+    "title": "Breakfast items made with biscuits sold in several states recalled over listeria risks, USDA says",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWFwalZzSXZ0WlNfbTRKZFZVOEFMQ0NXaU84SjI0LTBFbWdyS2xrVTFlQ21DOWxtRjYyN3FVN1BNbjhpQ0RDcU9zRTVBNW1BemI5MFBDMlJBS0xCaDRFalpTWTFOLUxRc0xRNzFnSXEtQVlVU3pySkhkcGRQZ1FXdlYxVHpHSWdsZVNDZUthSTQ2MnFvZjI0SGtMR3VpR2FfQTZwektzbVJ6OS1LX2lHdnRNTmlaekNBaTRRUG9ObjZKSTBqYS10R1Y3bm9nOGhmbktYWkc5SUUwYnhuYnc?oc=5",
+    "sourceName": "12newsnow.com",
+    "publishedAt": "2026-11-18T20:54:56.000Z",
+    "analyzedAt": "2026-11-20T20:58:42.663Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "USDA reports recall of breakfast items with biscuits sold across multiple states due to listeria risks, signaling ongoing food safety concerns.",
+    "angle": "Multi-state food recalls require cross-functional visibility and rapid playbook execution; automation and integration capabilities enable CPG and retail partners to coordinate responses and manage risk.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "tGSVluaDNTVEZDZHc_b2M9NQ",
     "title": "Breakfast items made with biscuits sold in several states recalled over listeria risks, USDA says",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnd1aDlJZDJrc1gyOWlndV82VjhjZmo1MHFuUzZkbE5DQzgtOVZBeThvdEd1bjhrSi1KMXVHZ0tCYmZjRGRhOUI4UnhBV3NKU1ZTWmdKaWtrMmh4c2M1bnl6eXJDVnNkcHNnRHAtWXZBc2xvZmR6SnVmV2RmbDNLNk1jTWdBNVZKWXFDZllzWFNOTkpldExxNktFYlc5MTJpYWhuTDBzbXRRdjRud0hBM1RrLWwxRnk4ci1XdDZIVEhtcXVPMGtJTjFfdmtXdk8wRkFIYnh3STFCdw?oc=5",
@@ -226,6 +606,59 @@
     "relevance": 2,
     "summary": "A single ingredient recall can cascade across dozens of finished products, forcing rapid traceability and risk mitigation across supply chains. Food safety incidents are accelerating recalls and supply disruptions.",
     "angle": "Ingredient-level recalls demand fast traceability, inventory impact modeling, and supply-chain automation to identify affected SKUs and trigger rapid response workflows—critical for food safety compliance and risk management.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "gyYldNd1lXdHViMG8_b2M9NQ",
+    "title": "Aldi pasta recalled in 4 states over botulism risk",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEtPQXJWNWRPdmJYc0xBdVRhSzI3cU56U3pwS2ptUWJIYXY3blFtZ3RmMXBaNkVQRnFwTDJtS3E4R3BlUVZMQloycGdCSFZvUF9LZlZqOENhemlEeHFFbnR3Ry1JQzlBX3hqa25rMXhoS3ROT1V1WXIyU29mVExLTWloRVJxcEnSAYwBQVVfeXFMTkFBQWpjQ0NjcGpMQVRKd28ycWNYcGhxejBQb1lrODRuR01hTldtWDk5TDJSVEFndGJvOW1nRjJac2VzYm1NRUcwT3FlN3lVcTA1N3JHRG1mSnBic1ltUGQ1Ni1jTHRESlNfVzVHaS1qRmI5NDl2cm1qbDZobFhHR0xuRTh2bWMwYWtub0o?oc=5",
+    "sourceName": "NewsNation",
+    "publishedAt": "2026-11-18T20:03:34.000Z",
+    "analyzedAt": "2026-11-20T20:58:42.663Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Aldi recalls pasta in 4 states over botulism risk, demonstrating ongoing product safety issues requiring rapid supply-chain response.",
+    "angle": "Food safety recalls are a critical operational and reputational risk; customers need integration with supply-chain systems and automation to coordinate recalls across distribution and retail partners.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "c1cE5saFRMVXRDU1E_b2M9NQ",
+    "title": "What biscuits are recalled? Fresh To You sandwiches and Mmm! Meals biscuit and gravy, in 9 states",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblZaek1kXzNORHBxYjZWaVZxTi1tRklfcjNJVkZNU2dzZTFmUVlXVDNsVTdYSkRlOTB0S0xfWm1QRHh2WFdIcDIyRVh5TDl2WVpabFdjMDV1ZGt5dDRmSXFfa1NRVGtnUWVZMUxpRmpfU3Jja3lYMDdrQkVINnRvQ0xObTNwYUEwX1hReDV2VGVXRXc0bEJEeHAyeFBIWlpBdFhqXy1UX0xDeGxfZUFVU1RPRzNXaW5pNlhTLUtCSQ?oc=5",
+    "sourceName": "Nacionale",
+    "publishedAt": "2026-11-18T18:16:30.000Z",
+    "analyzedAt": "2026-11-20T20:58:50.272Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Fresh To You sandwiches and Mmm! Meals biscuit and gravy products recalled across 9 states.",
+    "angle": "Product recalls create urgent need for rapid visibility into affected SKUs, distribution networks, and customer impact—a key automation and alerting use case for CPG manufacturers and their retail partners.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JNVVJxU1doblQzTm4_b2M9NQ",
+    "title": "Southern California port employers say no movement on watchmen contract talks as strike risk grows",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd1ROSENDWEVBUFNvVVc3RGtYVUh0WkRURWJsajBRSkZ4SkJGb292TjJjVk9EWmFWMHAyREFrV2VhZkFVUVMwbzQtcWlWQ1pfRlZmTU9sMnJ6NGlyVnJwZXlLLWdlcWJBczhjTnhRNTBkNnpscmd5QTNlbDdzQVJ5Yk55cGtzZjZ4ZGJpS0ZTZzd4bHF5VUVxUTZhbTdHTHBPRzZleXRIVUVjVlFZN0ZSNGR5d1YyYUJ6cG9wZTVJT011Tmx0VERJbV9wdkM2MURqSWhnT3Nn?oc=5",
+    "sourceName": "Reuters",
+    "publishedAt": "2026-11-18T17:57:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:54.703Z",
+    "updateType": "supply_chain",
+    "relevance": 3,
+    "summary": "Southern California port watchmen contract talks stalled with no progress; strike risk growing as labor negotiations remain at impasse.",
+    "angle": "Port disruptions directly impact CPG/retail supply chains and inventory planning. This is a live threat to customer fulfillment timelines and cost—a conversation starter about demand sensing and supply-chain automation.",
     "play": "automation",
     "products": [
       "automation"
@@ -413,6 +846,23 @@
     "mentionedAccounts": [
       "Target"
     ]
+  },
+  {
+    "id": "TklZVU13TUVwSVQwMD9vYz01",
+    "title": "Teamsters Local 633 enter third week of pension strike",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05WGdHMWRfQlRFQmhoOEhSWFlnbTBEVEdnZXJwR1RDUXdsTTJDZ3Foc1ExMzNIRE4wR19JWFZ3YzFwdktNNVpKdk9UdXlkaGJEb3doazh1ZllQUk0tYzd6bGpBT3lqVXo4WVNIYUMwMEpIT00?oc=5",
+    "sourceName": "Valley News",
+    "publishedAt": "2026-11-17T23:12:00.000Z",
+    "analyzedAt": "2026-11-20T20:58:54.703Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Teamsters Local 633 enters third week of pension strike; labor dispute ongoing.",
+    "angle": "Regional labor action affecting freight and logistics networks serving CPG and retail supply chains; relevant for customers managing cost and delivery timing.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "HT1hObFkxTmhTa1puP29jPTU",
@@ -730,6 +1180,23 @@
     "relevance": 2,
     "summary": "Canadian trade tensions are driving up costs for imported goods and cross-border retail procurement.",
     "angle": "Tariff and trade-war impacts on cost of goods and supply-chain complexity are immediate concerns for CPG and retail customers sourcing from Canada. Pricing and margin analytics are critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RPVlRObFgwNVhOSGM_b2M9NQ",
+    "title": "Thanksgiving Staples Up 11% as Soaring Prices Gobble Up Paychecks",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT05vTDZsR2o4VmVTU1FEY2lvTFUyaTRhZllLZ1hmaWNXNXJyenhLR3docFpITGdOcUstcmtYWFQtbzN4ZVF6eDFfTFdqSk5BbElpbDJiaEhWMXp2emJDUnZIa3IwT0pmMVgyMDFEVzdGY2xfMzNwdVpMcmlBRjYyaVdQR1Y5NTR4Njl3TlZRaVFNeUp3TFJ1NzdOVTNlX05XNHc?oc=5",
+    "sourceName": "The Century Foundation",
+    "publishedAt": "2026-11-17T04:02:16.000Z",
+    "analyzedAt": "2026-11-20T20:58:35.120Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Thanksgiving staples prices up 11% year-over-year, with consumers increasingly price-sensitive and shifting to private label and trade-down.",
+    "angle": "Major CPG suppliers and retailers need real-time visibility into basket composition, private-label mix, and channel-level demand to respond to shifting consumer behavior.",
     "play": "analytics",
     "products": [
       "analytics"

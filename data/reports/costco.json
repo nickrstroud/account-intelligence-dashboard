@@ -1369,5 +1369,24 @@
         "publishedAt": "2026-11-18T21:53:39.000Z"
       }
     ]
+  },
+  {
+    "company": "Costco",
+    "runAt": "2026-11-20T20:57:29.571Z",
+    "source": "daily",
+    "headline": "Costco experiences operational disruptions from tech outages; demand surge on generators and panic buying",
+    "signals": [
+      {
+        "category": "Tech outage and operational disruption",
+        "updateType": "supply_chain",
+        "play": "automation",
+        "score": 1,
+        "summary": "Costco experienced tech outages that triggered panic buying and inventory strain across multiple categories (generators, essential supplies). The outages created visibility and demand-forecasting challenges typical of sudden demand spikes.",
+        "suggestedAction": "Reach out to VP of Supply Chain Operations to understand how the outage impacted their real-time inventory and demand visibility. Position Workflow Automation's alerting and playbook capabilities as a hedge against future disruptions—e.g., automatic routing of out-of-stock alerts to merchandising and supply chain teams during demand surges.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHh0Qnd1ZUs1di12Tjd5LXVVR1lTc3pWWVlnVTlDbWZ3Q25id2YxMFhndk9nQzdNNDVvQkdobXlBY0xZd1Y1QmUyTVlmWGo0VHY2VTNaMHBnek5vdU5JZWdaTlZpckpUWnNydUVnMnlCMENKbXIyMkxqaGhpcDNRT0ZXQnBZTUNjNDJXVUlGSEFxT20xQU1KSVpzQlB4b1QzOTJRbmFub2NrZjRxTWdRU2pn?oc=5",
+        "publishedAt": "2026-11-19T19:19:22.000Z"
+      }
+    ]
   }
 ]

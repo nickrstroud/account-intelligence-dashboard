@@ -1199,5 +1199,35 @@
         "publishedAt": "2026-11-19T05:01:01.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-20T20:57:30.110Z",
+    "source": "daily",
+    "headline": "Walmart digital sales now primary growth driver; Q3 beat raises budget and analytics expansion opportunity",
+    "signals": [
+      {
+        "category": "Digital acceleration and e-commerce growth",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 2,
+        "summary": "WSJ reports Walmart's digital sales are now the primary growth driver, displacing store-based revenue. Combined with Q3 earnings beat and positive guidance, this signals major momentum in e-commerce and retail-media channels where pricing, demand, and inventory analytics are critical.",
+        "suggestedAction": "Schedule a brief call with the VP of Pricing/Strategy to discuss how Analytics Suite can support dynamic pricing and demand forecasting across digital channels—especially retail-media and marketplace. Position this as scaling their pricing capability to match digital velocity.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1NMeEgtRlBKbmh5MGpoTmJfNUUtLS1QNUgxeTJnUlh2NTJvSjY3dndxekJzZXFxRFF3TkkxLWxpUG4zSmxTVGdyUFh6bC1uem5EWkprRWlQS01JdkNaT2xXd3l5eTM2bE9HU3IxR1BadWhwNHRmQ2xhRjhTZ0NRSHlhcUZUT1RBN2c?oc=5",
+        "publishedAt": "2026-11-20T13:37:05.000Z"
+      },
+      {
+        "category": "Q3 earnings beat and positive guidance",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart exceeded Q3 forecasts and raised guidance, indicating strong financial performance and likely budget availability for new platform investments in analytics and automation.",
+        "suggestedAction": "Confirm with CFO's office or Investor Relations that Q3 results will translate to increased IT/data-platform budget for 2027, and position Analytics Suite as ROI-accretive for pricing and demand optimization.",
+        "sourceName": "Investor's Business Daily",
+        "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RDFKWTRxU0htcEJBRF82RmtWeU42VDJrRUlya0F3Y0pZZk9wN1hQaWRNRkR3OW5taGJFYUkzU2I4eUlLYkdmMkppTTdmWkFuSTdCV0x2ZENRQzc0NUNDR05RQTZ3NXVvRTJBc19WZw?oc=5",
+        "publishedAt": "2026-11-19T14:53:00.000Z"
+      }
+    ]
   }
 ]

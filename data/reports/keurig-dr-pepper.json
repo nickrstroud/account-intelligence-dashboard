@@ -1536,5 +1536,35 @@
         "publishedAt": "2026-11-13T04:08:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-20T20:57:27.722Z",
+    "source": "daily",
+    "headline": "KDP raises $2.25B in equity ahead of portfolio split; asset reallocation creates integration and analytics expansion opportunity",
+    "signals": [
+      {
+        "category": "Debt refinancing and equity raise",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Keurig Dr Pepper completed a $2.25B stock offering to reduce debt ahead of an announced split of the company. This capital move signals financial flexibility and suggests active portfolio restructuring in the near term.",
+        "suggestedAction": "Confirm timing and scope of the KDP split announcement (which brands/units will separate). Once clarity emerges, propose Analytics Suite to the split-off entity's finance and category teams to track pricing and market-share dynamics during separation; offer Core Platform integrations planning for the new unit's ERP and retail data feeds.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdjgyWlJtTGhHOEJELXA2b0VTMjVVMmNnRy1wOEloRTNfd0lLcGhlSnIzbmNacjdueHZlcVhWcWJ1NlMxU2lDOTFlUEE5R3YxckVLU3V0d1BHQzdiNzNBOU1jZC1sQTN2OUhaV0JqQ0thb3NYY2kxRTliaXBkb3lJRHlEZzEwSTRhdGp6cnpydENyZnc1M3hLejZCaGtvQTdxZ0diaWJVaU50ZVBtR1JmaWU0VEYwc3plNlRfcTdxV2RZMVlxR3J3MThRRQ?oc=5",
+        "publishedAt": "2026-11-16T21:31:27.000Z"
+      },
+      {
+        "category": "Portfolio restructuring and plant conversion",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Keurig is converting a Lehigh Valley plant previously used for Dr Pepper production to serve Chobani (a Keurig-owned brand). This represents internal asset reallocation and production footprint change tied to the broader portfolio split.",
+        "suggestedAction": "Ask KDP's supply-chain or operations lead whether the Chobani unit will operate as a separate P&L after the split, and if so, whether it will need its own data integrations into Account Intelligence for plant output, inventory, and demand planning. Offer to map Chobani's ERP and supply-chain systems to the platform.",
+        "sourceName": "MarketScale",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGNvb29XWktzQ3RRSDRLRDEtVDM1d2IwczZSSS1mWGNlSG80RGRqM0JUNXBReE1lOFJEck51cU1TMWQ5Q3BkOFpYdV94c2hlZmw3S1dQOEVDeXkxNmhSb3c5QkdGUzZRbnZrWXZuMXdNNEpOblBCLU1ZLV9IVThVUXZWcUphYUNWSFZkNnpHdlY2Z21EUEc5ZG9WQ3JUeEY2UzZGWDlZR3RmcjR0eXZRZ096LXFPQ0lxU3VfOS1uWktSaU0?oc=5",
+        "publishedAt": "2026-11-19T19:07:00.000Z"
+      }
+    ]
   }
 ]

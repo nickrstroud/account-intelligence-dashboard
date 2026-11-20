@@ -1716,5 +1716,24 @@
         "publishedAt": "2026-11-18T16:29:11.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-20T20:57:31.345Z",
+    "source": "daily",
+    "headline": "Kroger layoffs signal cost-reduction pressure and potential near-term platform/automation contraction",
+    "signals": [
+      {
+        "category": "Restructuring / Layoffs",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "Kroger is executing significant layoffs across multiple roles, including offshore positions in India. This signals cost-reduction mode and organizational contraction, which typically leads to freeze on expansion initiatives and potential reduction in seats/users on incumbent platforms.",
+        "suggestedAction": "Reach out to your primary contact this week to understand the scope of layoffs and whether they affect any teams using Core Platform or Workflow Automation. Frame the conversation around operational continuity: confirm that alert and approval workflows remain mission-critical during the restructuring, and offer a brief health-check on active automation playbooks to ensure they're not broken by role changes.",
+        "sourceName": "WKRC",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaU9ORmh4Rzl4bk1ZejdXa3o4cEVKVncyYWo2bl9vN3ZsVVJoWjZzRERNQTYxZnlyOFJqOHFZUmdkdE1kcnNIYVdJTXFQeDZjdjRBYy1yMTBRbXBabDM4NjJ2MWczRXJVQjFGbWdpWnpOSW9EUVdlX09WTFV5RGNXdlkyQTU1SFY4UlZYZUx3R2lLenVRcmpsQjZvWDVSMlJhSU8zMHFRd2o5YTJ4SkVqWWVBYTlnQQ?oc=5",
+        "publishedAt": "2026-11-20T06:01:20.000Z"
+      }
+    ]
   }
 ]

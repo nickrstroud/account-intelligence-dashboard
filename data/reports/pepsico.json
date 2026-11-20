@@ -1828,5 +1828,35 @@
         "publishedAt": "2026-11-16T17:48:13.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-20T20:57:27.269Z",
+    "source": "daily",
+    "headline": "PepsiCo reports stable dividend and hospitality partnership; analyst downgrade signals margin/growth headwinds",
+    "signals": [
+      {
+        "category": "Analyst Downgrade",
+        "updateType": "market",
+        "play": "analytics",
+        "score": -1,
+        "summary": "Wall Street downgraded PepsiCo, suggesting margin or competitive pressure in their core categories (snacks, beverages). Likely reflects pricing power constraints or volume headwinds in a competitive market.",
+        "suggestedAction": "Schedule a check-in with the head of category strategy or pricing team to understand competitive and margin dynamics in their key categories. Position Analytics Suite as a tool to monitor pricing elasticity, share trends, and promotional effectiveness in real time.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUJUMnlGZV9BRzVzM0lnNGY2NVNkOGU5Q2ZGZ2dzTzRIM2pOREJkaVNtRTZfclcxTXV2VnlpS0NQV01vWlJRN2Ywby1UeTlpUGR1eWRIRGFoQ2x6U2JGVDBwalZnclRYZjFKVGRfN1hBTmJDQjdqMGM4clhudDlkS0NNbFlFMG5OX2JpbUdjOVY5a3hXMF9YYzBVQ1FxaDBTYklfRWZR?oc=5",
+        "publishedAt": "2026-11-17T22:36:02.000Z"
+      },
+      {
+        "category": "New Distribution/Partnership",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "PepsiCo entered a 10-year partnership with Hyatt covering 700+ U.S. properties, expanding beverage and snack distribution into hospitality. New channel represents incremental volume and data footprint.",
+        "suggestedAction": "Confirm whether the Hyatt channel will be onboarded to the platform for demand forecasting and supply-chain alerting. If not yet planned, offer to map the new distribution channel into their existing workflow automation to flag stockouts or demand anomalies at Hyatt properties.",
+        "sourceName": "Hospitality Net",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMDFNakJyd0l6OWlqcTEwU2FRdW1GanNpT0Y2N3hiMDk5elFiR1ZxTzFvY2Zsemp0OFZpSmFrOTBFTjRxVGJadEZSeURXYmY3TEtWbVRFQUFsSWI5eVpZOTI0N1dRdURBdTBUTXllUTY4ZGlzOXVRRmpxaEF2aW9YTC1mRjJuMERuM1RLakxPcnljcjBUalJ4eGVwMEwzYzNJSndqdGpDWG5ZYmNIYkcyVHpSaFR0Wmg1MVhjWVoyV1RSTXhuSGE1Q1c2LVh3djJpR1FuRXVmZXFNNGw2bDNBM2dWMkVCSDc5QzIzNG4yaXZqMDVoSUYtM2Z3dFpvMmVYenVtbFpoZVhFdXlnWVZlUEJkSnVVdXFGYnc?oc=5",
+        "publishedAt": "2026-11-20T10:36:24.000Z"
+      }
+    ]
   }
 ]

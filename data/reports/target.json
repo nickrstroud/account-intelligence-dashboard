@@ -972,5 +972,24 @@
         "publishedAt": "2026-11-18T11:30:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-20T20:57:30.977Z",
+    "source": "daily",
+    "headline": "Target Q3 earnings beat and raised FY2026 guidance signals budget headroom for platform expansion and analytics investment",
+    "signals": [
+      {
+        "category": "Q3 earnings beat and guidance raise",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target beat Q3 sales expectations and raised FY2026 sales growth outlook to ~6%. Strong financial performance typically enables budget allocation to analytics initiatives for pricing, demand forecasting, and market-share analysis across their merchandising and category teams.",
+        "suggestedAction": "Schedule a brief call with Target's VP of Strategy or Finance to discuss how the raised guidance impacts their 2027 merchandising and pricing analytics roadmap. Position Account Intelligence's demand and market-share forecasting as a lever to sustain momentum, and explore whether new categories or owned brands should be added to analytics coverage.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTGl0elZrb3k1MHJRY0xPSnFraXpxd0pnVzB3TEV4c3UwTl9HTjFLbkdnTHBCUi1HLVEwV1padU9zemdDMG1vTklPUnRFV19EalpQS1lmbkZzc3pxaHRxSzE3Z2E2X2hyTHJwVDhyakpLMzljODd0cUdHZm45Y2swMS1zbzhGNnpKQTZlM0E4bWdrRjZvazhRZ3lJUjk1aDhndDBVUVZDS1hMMHo1Z0dOelhDaGtMQW1fa21oVnR5ekF0aUdfMGZyREhzZXRRaUFweXhKakN5V21oUQ?oc=5",
+        "publishedAt": "2026-11-18T11:40:36.000Z"
+      }
+    ]
   }
 ]

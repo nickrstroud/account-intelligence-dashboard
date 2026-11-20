@@ -1405,5 +1405,24 @@
         "publishedAt": "2026-11-16T07:54:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-20T20:57:25.362Z",
+    "source": "daily",
+    "headline": "Coca-Cola shifts holiday campaign strategy away from AI-generated creative; brand reputation management focus",
+    "signals": [
+      {
+        "category": "Brand and marketing strategy pivot",
+        "updateType": "brand",
+        "play": "none",
+        "score": 0,
+        "summary": "Coca-Cola is stepping back from AI-generated holiday advertising after divisive market reception, signaling a reputational recalibration. The shift reflects brand stewardship priorities rather than core business disruption or strategic expansion.",
+        "suggestedAction": "Monitor for any downstream impact on marketing operations or analytics needs. This is primarily a brand-management story; no immediate Account Intelligence expansion signal unless it ties to demand forecasting or category strategy work around holiday campaigns.",
+        "sourceName": "Marketing Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzZ2aUZMcTNVV2ZBb0NIMVNjNElxSFh0ZjhqVTc0RGthTjhBV05QVzJiNjhTQXZsU0xHeUxiWlU3RFcxbksxMHJyVUs0Nk4tOGt4cUhmSWhwaTVHSEFPRW9sZW1JdUJfZFBYWWIzT1VTVTl4WkJPVF9xUFBsM2pHUWlzSXlKWll6Nmp4RWNxaVdvc3Fzd2lPd0h6a2I0aGNvU3lRbGpYTWNhT2R4WlJPZg?oc=5",
+        "publishedAt": "2026-11-19T18:45:06.000Z"
+      }
+    ]
   }
 ]

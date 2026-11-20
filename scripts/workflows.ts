@@ -7,6 +7,7 @@ import { VENDOR_CONTEXT } from "./vendor-context.ts";
 import { PRODUCTS } from "../lib/vendor.ts";
 import { WORKFLOW_PLAYS, STAGE_ORDER } from "../lib/workflow-plays.ts";
 import { accountSignalId } from "../lib/signal-id.ts";
+import { applyDirectorRules, isAtRiskSignal } from "../lib/escalation.ts";
 import type { AccountSignal, Company, Workflow } from "../lib/types.ts";
 
 // Turns each account signal into a ready-to-run play: five stages, a customer
@@ -38,6 +39,8 @@ Rules:
 - The email is short (90-140 words), warm, helpful, and specific to the news. No hard sell.
   For bad news (distress, damage, layoffs), lead with support.
 - The Slack note is 2-4 sentences to internal colleagues: what happened, the play, who leads, the ask.
+- The CSM/Acct Mgr. leads every play (owner role: "CSM/Acct Mgr."). Do not make the CS Director
+  the lead or the owner; escalation steps for the CS Director are added automatically.
 - doneWhen is one measurable outcome.`;
 
 const TOOL: Anthropic.Tool = {
@@ -48,7 +51,7 @@ const TOOL: Anthropic.Tool = {
     properties: {
       play: { type: "string", enum: WORKFLOW_PLAYS.map((p) => p.value) },
       goal: { type: "string", description: "One sentence: what this play achieves for the account" },
-      owner: { type: "string", description: "Internal roles, e.g. 'CS Director + Account Executive'" },
+      owner: { type: "string", description: "Internal roles, e.g. 'CSM/Acct Mgr. + Account Executive'" },
       contactRole: { type: "string", description: "Customer contact role for the outreach, e.g. 'VP Asset Management'" },
       stages: {
         type: "array",
@@ -128,7 +131,7 @@ async function generate(company: Company, signal: AccountSignal, signalId: strin
     return { key, title: STAGE_TITLES[key], timing: s?.timing ?? "", tasks: (s?.tasks ?? []).slice(0, 3) };
   });
 
-  return {
+  const wf: Workflow = {
     signalId,
     account: company.name,
     signalTitle: signal.category,
@@ -143,6 +146,7 @@ async function generate(company: Company, signal: AccountSignal, signalId: strin
     doneWhen: w.doneWhen,
     generatedAt: new Date().toISOString(),
   };
+  return applyDirectorRules(wf, company, isAtRiskSignal(signal.score, wf.play));
 }
 
 export async function runWorkflows() {

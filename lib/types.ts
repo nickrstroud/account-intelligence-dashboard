@@ -75,7 +75,7 @@ export interface Workflow {
   signalTitle: string; // the signal's category line, for workflow lists
   play: string; // WORKFLOW_PLAYS value
   goal: string;
-  owner: string; // roles, e.g. "CS Director + Account Executive"
+  owner: string; // roles, e.g. "CSM/Acct Mgr. + Account Executive"
   contactRole: string; // who the customer email goes to, as a role
   stages: WorkflowStage[];
   email: { subject: string; body: string };

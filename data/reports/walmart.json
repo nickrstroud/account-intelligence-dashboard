@@ -1229,5 +1229,24 @@
         "publishedAt": "2026-11-19T14:53:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-21T19:58:35.299Z",
+    "source": "daily",
+    "headline": "Walmart raises FY guidance for 3rd time; e-commerce strength signals budget for data and analytics expansion",
+    "signals": [
+      {
+        "category": "Raised FY guidance; e-commerce momentum",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart raised full-year outlook for the third time, driven by strong e-commerce performance. This signals financial health, operational confidence, and likely budget availability for growth initiatives including advanced analytics and automation.",
+        "suggestedAction": "Contact Walmart's VP of Strategy or Chief Merchandise Officer this week to discuss how Analytics Suite demand-forecasting and pricing analytics can support their accelerating e-commerce business. Position it as complementary to their strong POS and e-commerce integrations already on platform—close the loop on inventory and pricing optimization across channels.",
+        "sourceName": "AP News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWNQOUFtUEpuRG1GT0YxZTZaektqZ3FUT2psMmZNdGw1eGQxZkdJajlwaWpPOXRScmgxRU5ZaUVUdkd6Vl9QcWVzbDhCWVN2SDlPeDliUTJUV1N4U1NOdTVmLWJQQ2xJMFRYOHg5emZCODR5THdhNks1TDBxQU1YbWRhWDRyNUZsdFp4UGJfaHdsZFdRUzVXdWd4b2FUaU1fdTZYNmtabw?oc=5",
+        "publishedAt": "2026-11-19T16:03:55.000Z"
+      }
+    ]
   }
 ]

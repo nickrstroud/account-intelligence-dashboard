@@ -1,5 +1,39 @@
 [
   {
+    "id": "ZFZMV0Z4VjFwZlUxRT9vYz01",
+    "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWnQtSG1SeGRfSGFSSXdWN2xmSDMyUTBlWVUyNHN1d3pPWGd5NENtbVdxZ3JYbmJTcDJ2TkJxZ0ZXREx5QkczWkwyeFI1MWl1dlRKanZYYkU1MUV3N0g4Zk1RcndsUVFBeWhmc0tVMEQtcklFQVUyOHlfbXY2d3BXZF9XNXFNSDg0ODBfVlpzRkwza1NBWUxRekhzbnZXd2lyOHpnMENpSTI3UWNRbFdxVXQtVThDX0xPWF9lanZKNk5yV1hyV0NUb0ZBU1VyRG5mUDdGandVLWFxV1pfU1E?oc=5",
+    "sourceName": "MarketWatch",
+    "publishedAt": "2026-11-21T14:00:00.000Z",
+    "analyzedAt": "2026-11-21T19:59:18.777Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Grocery chains are running deep promotional pricing for Thanksgiving but signaling that price reductions are temporary and unlikely to persist into the new year.",
+    "angle": "Context for understanding near-term pricing pressure and promotional intensity at retail customers; signals potential margin compression that analytics customers track in pricing and demand modeling.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "oRVJHVk9NRlp5V1djP29jPTU",
+    "title": "Port workers could strike as union fails to extend contract",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGpJQ3N6M3owWlhNektncjRZQnBYd05MVFlVYzRfUUFpWjhDMXpjSENMSHlFRzZ5Y2NFVzZlNU11YmFCZENyYV9faDBmSldmRFJnMkRJU1FocnEwdFF2Qm1TT1p6UFRRd2R0RjlLemFRclFHNnpkSHZXZ2syTURFMU1YRFZRZWpIbU5Nc0JKZ1F4NHhpWE9IQ3o3djk2eVNKZlJfLWhERGVOMFZyWWc?oc=5",
+    "sourceName": "Los Angeles Times",
+    "publishedAt": "2026-11-20T20:40:25.000Z",
+    "analyzedAt": "2026-11-21T19:59:23.821Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Port workers' union fails to extend contract with strike threatened at LA and Long Beach ports, creating potential supply-chain disruption for imports.",
+    "angle": "Port disruption directly impacts supply-chain visibility and contingency planning for CPG and retail customers; drives need for real-time alerting and playbooks to route supply-chain impacts to merchandising and planning teams.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "RmJXbHpUMHg0Tm1GMj9vYz01",
     "title": "Kroger Precision Marketing Names Melanie Zimmermann Group VP",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTJvai02YUlmUmdkTDdyY3BZcFROckpzNHB5aDVoLXRka3JhempZZGlfODVGeEdaQnRaRnNPUGhHdTdDQVNzS0dKNGt5TkdIWWJ6eEpURndNQjRxUzdheFhDSUVNUkVuLTY1VUtWcWZ6NWhtNDlkV1FyeXlsU21jUkp5M25DTjFWa1lFbWlzT0x4NmF2?oc=5",
@@ -18,6 +52,21 @@
     "mentionedAccounts": [
       "Kroger"
     ]
+  },
+  {
+    "id": "lWRTl6TUdWNE1UZG4_b2M9NQ",
+    "title": "Tariff Refund Today, Lawsuit Tomorrow: A New Target For Consumer Class Actions",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnRsaXZIa3lBVS02R01WRGNNRnQ3OHRYTXcwOHotc0YwYld6TFRnTW55Wm5CQnh1VllyMHlXR2hxSVlHdUdSUUc4UHVKVktSaEtNemI1cDRDRDJQektHWkdQek5UTWNLVHc3X1gyQ004eVJaeWM1QWFjRXNCU2hxNm04ZkhWQTAwcnhGV01HMC11U0tfRk11RmlLWl9oZFNQaWgtOGZlUXpCY1hQY1Q1WW0xUmxYZFBOb2ZUcnU2Znh6akVhVllYNFZWZFJ6REpJV2UxOU5yVE9zMGV4MTdn?oc=5",
+    "sourceName": "Legal 500",
+    "publishedAt": "2026-11-20T20:09:19.000Z",
+    "analyzedAt": "2026-11-21T19:59:18.777Z",
+    "updateType": "legal",
+    "relevance": 1,
+    "summary": "Class-action litigation emerging around tariff refunds and consumer exposure, creating new legal and regulatory risk for retailers and CPG suppliers.",
+    "angle": "Highlights tariff-driven compliance and consumer-class-action risk; relevant for finance and legal teams tracking exposure and may require supply-chain and pricing re-analysis.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
   },
   {
     "id": "cmdlcy1pbi1xMy84NzUzMzkv",
@@ -308,6 +357,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "dGVXb3RibTV2YjFrMD9vYz01",
+    "title": "Loblaw warns food prices could rise next year as high fuel costs persist",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGFsb29SUm9uNnVxWjBueEJSd0x1cnRzakR4Vm80Z2tHU3ZLTlRQUWw2eFR1UW5HeFBDb3h0OVZEeU9mZGdsUHoteW1YN2VMaklheWlXdHZXdEllU2lCMVhPRDE4bWFWc0w3Rl9IZm9XLU9laThSZkZORVdTZy1hN29fYzRsUHkxX0NteWotbm5vb1k0?oc=5",
+    "sourceName": "Yahoo! Finance Canada",
+    "publishedAt": "2026-11-19T18:16:24.000Z",
+    "analyzedAt": "2026-11-21T19:59:18.777Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Loblaw, Canada's largest grocery retailer, warns that elevated fuel costs will likely drive food price increases in 2027.",
+    "angle": "Signals cost-of-goods pressure and inflationary headwinds that will cascade through pricing and supply-chain planning; relevant for customers managing COGS and pricing scenarios across categories and regions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dlZGRkJORzUzYkVwbj9vYz01",
     "title": "USDA Cut Funding for a Program That Helps SNAP Participants Afford Fresh Fruits and Vegetables",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmtJenlyOTBhUUNOalhkaUhrQnBtMVRNSHhhNk84N2ZRczZ4Z0Ffd29oTUx5cjh6QnJuOVcyS2hqbkt5QmN4SEFVaDZqMzlGSFBZNC1TYzBDRXA3VFdzcGZGY3JhUF9nS2xPMVpnYl9OeTFZRlU3Y0Z1NU8zY3RtYjBBNC1WR083MExEbDV0akdqSHFyTGxSMkF0M3RrLXAtXzVFNEYydFpROEplYTdsZldlNDl6ZTFuZkZXYnJ0c1BvVFFBNG53bEpn?oc=5",
@@ -342,6 +408,23 @@
     "mentionedAccounts": [
       "Target"
     ]
+  },
+  {
+    "id": "hxVG5Cb1VEUTFNR00_b2M9NQ",
+    "title": "FDA Announces Recall of Popular Aldi Pasta in 4 States",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wRkhIcmNxVTJPN2xSbmFlWkZhZF9hSlphVVZqT0phUTFjY1NIb3VKdWlHSlNnN3UzNlVta1lDMGF5dkhuR1VrMUlCeVZUWnNBMWZrbEVHSW9FYWVQNnd0RTJQVURjRmwzSFNlWWxtTUNmcEE3VFhqTnBoUDQ1MGM?oc=5",
+    "sourceName": "Good Housekeeping",
+    "publishedAt": "2026-11-19T16:51:00.000Z",
+    "analyzedAt": "2026-11-21T19:59:18.777Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "FDA announces recall of Aldi pasta products in four states.",
+    "angle": "Food safety event affecting a major discount retailer; reminder of supply-chain and quality-traceability requirements in retail and manufacturing.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "wZ3hOVFkzY1VWU1NRP29jPTU",
@@ -418,6 +501,24 @@
     "mentionedAccounts": [
       "Walmart"
     ]
+  },
+  {
+    "id": "Y5RlJYTkdTR3hYTkE_b2M9NQ",
+    "title": "CRFB Investigation: Baby Food Above FDA Lead Level Sold at Harris Teeter Despite New State Laws",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGhuVFB5WlhTa1NWN3R2ZHJYNklUUnpLS0VDeGVqd3Q5bkNmekJWeTFncjNtSFBJY3lhdkZjQWg1V3l4MnJQdFMxM1NKbE1hTi0wZGxtMHJpLXlmcDhYd2xsS2hLYm13cVJyeE1OMXJSdHFyVzBiLUxNT2NadnZ4RW5CazdVbWxVdkw2T0FJZ3R5VV9FRXNGSGxXNA?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-19T15:23:00.000Z",
+    "analyzedAt": "2026-11-21T19:59:18.777Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Investigation finds baby food sold at Harris Teeter (Kroger banner) exceeding FDA lead limits despite new state safety laws, raising compliance and recall risk.",
+    "angle": "Food safety compliance failure at a named Kroger location; signals product-traceability and supply-chain quality issues that require rapid data visibility and playbook execution across sourcing, testing, and recalls.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "0aW9uLXBhdXNlLzg3NTE3Mi8",
@@ -501,6 +602,26 @@
     "play": "platform",
     "products": [
       "platform"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "diWEJSZVVoZlJYcDM_b2M9NQ",
+    "title": "Target Q3 sales grow at fastest pace since 2021 as digital gains accelerate",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVGIydGJyRC1SZk9LSHJhdE92NHVlcjc2M2dfNjQyaHFtYzFZTExDeFphVFE2V3B6VVBuUTkzdFg1Q0UxYTA4a3oydmpwY2xGLS1CTHNDOFlXZGZBcDNSYS13Zm1pa1RseUZkVU9qU1DSAXZBVV95cUxQbGFNXzU5SWlEOHA0aklnMEVHcW1uT2wydG5Jb0pPcElDRndMMjhfOHdDanFLcUJoc0c5a2dLQk5WNnRlZ1FNeDhpMnZ4ekxhTmttR2xwMDFJUUNoZ3hON0FldExFVHZ6TGJ0b1lWbXBReUhfRXp3?oc=5",
+    "sourceName": "Digital Commerce 360",
+    "publishedAt": "2026-11-19T08:00:00.000Z",
+    "analyzedAt": "2026-11-21T19:59:23.821Z",
+    "updateType": "earnings",
+    "relevance": 2,
+    "summary": "Target reports Q3 sales growth at the fastest pace since 2021, driven by acceleration in digital commerce and omnichannel momentum.",
+    "angle": "Target's strong digital performance and omnichannel scale drive need for real-time analytics on demand, pricing, and retail media mix; signals expansion opportunity across Platform and Analytics products.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "analytics"
     ],
     "mentionedAccounts": [
       "Target"
@@ -627,6 +748,23 @@
     "products": [
       "automation",
       "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WkdhbWN6VDFaamFXMD9vYz01",
+    "title": "Lawsuit challenges SNAP restrictions on sugary drinks, food in 18 states",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3pQVUthVUlrb0NSRkZBZVFqbkdYR0o1ellKSU44MU1uYjhjMDlrTzhiVzczTlVZNnplenpkYkRHSkVxMElhZ0h3OU1xbFJNelFRSU1BTUZGSmpjSDJUSTZWaE1DWnc0X1VJMlA2aXB0dXZhbGx4aFdXaU02WkRGalJMSDNTY1Rqa1ExVW9XRmJiQUtRZWxiT1VjenBVUTZGamczT1ZjaW0?oc=5",
+    "sourceName": "Stateline",
+    "publishedAt": "2026-11-18T19:10:20.000Z",
+    "analyzedAt": "2026-11-21T19:59:23.821Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A lawsuit challenges SNAP restrictions on sugary drinks and certain foods in 18 states, potentially affecting eligibility rules for benefit-eligible products that CPG manufacturers and retailers depend on.",
+    "angle": "Major CPG and retail customers rely on SNAP eligibility for category volume; changes to SNAP rules or restrictions directly impact demand forecasting and pricing strategy for affected product lines.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": []
   },

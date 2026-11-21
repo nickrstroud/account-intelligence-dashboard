@@ -1735,5 +1735,35 @@
         "publishedAt": "2026-11-20T06:01:20.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-21T19:58:39.505Z",
+    "source": "daily",
+    "headline": "Kroger advancing retail-media and customer-data monetization; competitive pressure on pricing and operations persists",
+    "signals": [
+      {
+        "category": "Retail Media & Data Monetization",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Kroger is actively monetizing customer data at scale—a core lever for private-label and retail-media margin expansion. This aligns with their strategic pivot to higher-margin revenue streams and signals increasing investment in customer analytics and segmentation.",
+        "suggestedAction": "Reach out to the VP of Retail Media or Chief Analytics Officer to explore how the Analytics Suite could deepen customer-segment analysis, demand forecasting by loyalty cohort, and pricing optimization across private-label and media-influenced categories. Frame as a natural expansion to their data-monetization play.",
+        "sourceName": "Supermarket News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0k5SXhzVW9nR01HMG1yMllzYTVZUkNycUNBRk5Fc0pmQmxLQWdRZlRzbVJVdHpoYVRCSmNpYVhLTnRjZllNX09ScnFSbWtJMUlyZE1JbkVFRzJtN3loSU5zMTRvYngxMTJwaFdoQm9IVTRlWWZlNHhGVHhZQWZEaFU2UlZPSERZTkJlbXp1eVlhcHBYUk1sZnZwcFgzRjIxcm1XdEtR?oc=5",
+        "publishedAt": "2026-11-19T18:49:14.000Z"
+      },
+      {
+        "category": "Pricing Pressure & Competitive Response",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": -1,
+        "summary": "Public backlash ('Kroger Hurts Families' ad campaign) signals ongoing price-perception challenges and competitive intensity in the market, likely driving cost-cutting and promotional pressure. This may dampen near-term budget for new tools.",
+        "suggestedAction": "Acknowledge pricing headwinds in next check-in with the category or merchandising lead; position Analytics Suite for competitive pricing and promotional elasticity analysis to protect margin and basket. Keep tone consultative, not opportunistic.",
+        "sourceName": "Yahoo",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYTB3a3ljLXN3b1hocFMtUktrRzh0ZnlTR1VzdWktUm9UMWV3WF9XajFublFSRjVOb0lUVml2WGUwOVR2Wnk1azE0ZXpGb1NlZzYzZ256bUhQOUE2Tjc3NmhxSXBGYUJqU3ZSNktVaUo3TUkwMFNtNDU1aE9TaXB3M3JNN0d5eFdhVFBVNUN3bw?oc=5",
+        "publishedAt": "2026-11-20T20:39:35.000Z"
+      }
+    ]
   }
 ]

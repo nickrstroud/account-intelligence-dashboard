@@ -1566,5 +1566,24 @@
         "publishedAt": "2026-11-19T19:07:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-21T19:58:33.792Z",
+    "source": "daily",
+    "headline": "KDP closes $2.3B equity offering; likely capital deployment for M&A or portfolio restructuring flagged as near-term expansion risk",
+    "signals": [
+      {
+        "category": "Capital Raise / Equity Offering",
+        "updateType": "earnings",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Keurig Dr Pepper completed a $2.3B common stock offering. For a beverage company with a stated history of portfolio changes, this capital injection typically signals near-term M&A activity, brand acquisitions, or business unit separations/divestitures.",
+        "suggestedAction": "Contact the CFO or Strategy VP this week to understand the intended use of proceeds. If earmarked for acquisition or brand integration, propose a Data Integrations scoping session to map new business-unit data sources and onboarding timeline to the platform.",
+        "sourceName": "Paul, Weiss",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGs2RzZYSlFSaTcwaTgteVhnaGZzZEhZUURrUE5LbWFULUxLa3lhRXp5dDJ1eWpBQkhnV0R4anlGaUF3bEtWV0lTRzFnSVdYZHhncDYyRW9TV3lIRjNrdTdCcHZUYXRfTGRUN054QlZLUlh4djJDNVVCZno2T0lxQzJpTTc2UXlFWjlqMkhnZVVVZHRHVDdkeFVKWHpmRk8wUDAzazBKSzI?oc=5",
+        "publishedAt": "2026-11-19T08:00:00.000Z"
+      }
+    ]
   }
 ]

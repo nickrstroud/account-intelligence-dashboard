@@ -1431,5 +1431,24 @@
         "publishedAt": "2026-11-19T22:27:33.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-21T19:58:34.021Z",
+    "source": "daily",
+    "headline": "P&G announces aggressive supply-chain restructuring and $10B cost-reduction program targeting 30% job cuts by 2030",
+    "signals": [
+      {
+        "category": "Supply chain restructuring / Automation opportunity",
+        "updateType": "restructuring",
+        "play": "automation",
+        "score": 1,
+        "summary": "P&G is executing a significant supply-chain transformation, cutting up to 30% of supply jobs and targeting $10 billion in cost savings by 2030. This signals aggressive automation and process rationalization across procurement, logistics, and fulfillment operations.",
+        "suggestedAction": "Reach out to P&G's Supply Chain and Procurement leadership to understand which processes are being automated. Position Workflow Automation for alerting and playbook routing as they consolidate supplier networks and implement new procurement workflows—especially for exception handling, approval chains, and retailer-specific alerts tied to inventory and fulfillment changes.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM05SQWl3LW8wRXJVY2FLcU4zdzFZdXpOUEhGSkZTZ1drVl9tYnhCMVVZQTMtaHBVVWl2cFlaX2tINlpBV0xRQ1FFbzNyWWhfZGhfNnF5d2ZZQ1d4cHdhNW44clYzUlNLSmVxOGtyQm5Cc2pvdkdZenhhTGhoaHBXdEptNFp2YUx6bGpUYnNydGhPdHVEaWlZdnlkTQ?oc=5",
+        "publishedAt": "2026-11-20T12:26:01.000Z"
+      }
+    ]
   }
 ]

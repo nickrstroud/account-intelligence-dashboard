@@ -991,5 +991,24 @@
         "publishedAt": "2026-11-18T11:40:36.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-21T19:58:36.434Z",
+    "source": "daily",
+    "headline": "Target Q3 sales growth accelerates with digital momentum — budget and expansion opportunity",
+    "signals": [
+      {
+        "category": "Q3 earnings & digital acceleration",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reports Q3 sales growth at fastest pace since 2021, driven by digital gains. Strong financial performance signals budget availability and renewed focus on data-driven merchandising and demand insights to sustain momentum.",
+        "suggestedAction": "Schedule a brief call with Target's VP of Merchandising Analytics to discuss how the digital acceleration is impacting their pricing and demand forecasting workloads. Propose a brief analytics deep-dive on Q4 category performance to position for 2027 budget planning.",
+        "sourceName": "Digital Commerce 360",
+        "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVGIydGJyRC1SZk9LSHJhdE92NHVlcjc2M2dfNjQyaHFtYzFZTExDeFphVFE2V3B6VVBuUTkzdFg1Q0UxYTA4a3oydmpwY2xGLS1CTHNDOFlXZGZBcDNSYS13Zm1pa1RseUZkVU9qU1DSAXZBVV95cUxQbGFNXzU5SWlEOHA0aklnMEVHcW1uT2wydG5Jb0pPcElDRndMMjhfOHdDanFLcUJoc0c5a2dLQk5WNnRlZ1FNeDhpMnZ4ekxhTmttR2xwMDFJUUNoZ3hON0FldExFVHZ6TGJ0b1lWbXBReUhfRXp3?oc=5",
+        "publishedAt": "2026-11-19T08:00:00.000Z"
+      }
+    ]
   }
 ]

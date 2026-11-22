@@ -1,5 +1,37 @@
 [
   {
+    "id": "alI0VW5sTVZuQTRZdz9vYz01",
+    "title": "Ahead of Thanksgiving, Southern Californians feel pinch of high food prices",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmpCVUJIZUhEYXk3VXlZamd3ck9fZndJSTZsdFhQakFXMy16RUJaaDUzcjBISnd5TFNrYlBLZ0RSMFBXQTFIVTFDZFc0RDZvTDlLVmZyMWxlMmxlM1BvU0tRT0hWRndlb2J6dmlSTlo2QS1USG5BRHQ1VDVwN1NXNE9waktrWS1WUldrd241VXFSaGo3d0ppUm5tb1dRSC13R3ZiV3ZxemNXVjR4UnlMVnA4Yw?oc=5",
+    "sourceName": "Orange County Register",
+    "publishedAt": "2026-11-22T16:00:17.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Orange County consumers report significant sticker shock on Thanksgiving groceries, reflecting broader holiday-season pricing pressures in Southern California.",
+    "angle": "Regional pricing signals ahead of peak retail season provide context for customer conversations about consumer behavior shifts and local market dynamics affecting retail partners.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "HWDJreVFpMXlkbXBSP29jPTU",
+    "title": "CPI | California’s Bonta Targets DoorDash-Instacart Deal in Antitrust Push",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk1rRXRJTXJKV3FDcWZoSjdybm5pOFo2X2JIenBpR1dtQTRPQTBtOWw2YUJqR3dUbExrZk5HdWtkNUFKME96VU9jVlY0YUNRMU1SSjdPUTY2RXRIWTRtdDJOUzY4bEVqcGR3aTA0ZGw5Z1FjOG8wZjlpSFV3dWk3RXhsNXpTQU9TS3ZQbGxNM0xLbTZncTJCanlGX2kyQi1ydmpR?oc=5",
+    "sourceName": "PYMNTS.com",
+    "publishedAt": "2026-11-22T13:58:19.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "California's attorney general is targeting a proposed merger between DoorDash and Instacart, signaling regulatory scrutiny of retail consolidation and delivery platform concentration.",
+    "angle": "M&A and consolidation in retail and delivery affect data integration needs and business-unit coverage; proactive touch on how customers are modeling competitive and channel shifts.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ZFZMV0Z4VjFwZlUxRT9vYz01",
     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWnQtSG1SeGRfSGFSSXdWN2xmSDMyUTBlWVUyNHN1d3pPWGd5NENtbVdxZ3JYbmJTcDJ2TkJxZ0ZXREx5QkczWkwyeFI1MWl1dlRKanZYYkU1MUV3N0g4Zk1RcndsUVFBeWhmc0tVMEQtcklFQVUyOHlfbXY2d3BXZF9XNXFNSDg0ODBfVlpzRkwza1NBWUxRekhzbnZXd2lyOHpnMENpSTI3UWNRbFdxVXQtVThDX0xPWF9lanZKNk5yV1hyV0NUb0ZBU1VyRG5mUDdGandVLWFxV1pfU1E?oc=5",
@@ -14,6 +46,21 @@
     "products": [
       "analytics"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "qWW1kSVdIUkNkMnBaP29jPTU",
+    "title": "Mother’s Market workers call for Thanksgiving boycott amid unionization fight",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMThXMVY1bGllUzY3WWJfaGhVdHZNZkFyNm5pWS01Y0I0Y1kwd1BENzBteU5ZcWpLRzdJRENObFlqQWV1OC1Ba3NNOEk2UnhpaDNOSVBiWWdTc0FjYnMxQUN3UFFXSWxzaU9SbGkxZTRqUVpWdFc2S2FxVGVvVHJPejhVYmNLOVFpMGNScE0tTEwwenRZTXQ0U2xjYmdIWHRCd2pZ?oc=5",
+    "sourceName": "New Santa Ana",
+    "publishedAt": "2026-11-21T10:30:35.000Z",
+    "analyzedAt": "2026-11-22T20:12:31.957Z",
+    "updateType": "legal",
+    "relevance": 1,
+    "summary": "Workers at Mother's Market are calling for a Thanksgiving boycott as part of a unionization effort. Labor disputes and unionization campaigns are becoming more common in retail.",
+    "angle": "Unionization and labor disputes can disrupt operations, increase labor costs, and require retailers to model wage and staffing scenarios. This is background context on broader retail labor pressure affecting the sector.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
@@ -86,6 +133,23 @@
     "mentionedAccounts": [
       "Walmart"
     ]
+  },
+  {
+    "id": "HdDZMV1JVVlVRelFnP29jPTU",
+    "title": "Breakfast product recall expanded to items in these 3 states",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVZCMDBRTjdaVzJnUnN6M1NOdThoQm5JMHlmZE5qeXYwbzhyQi1CNTBSUU5lSEdteF9UVklwSnl6TnJralFURHY5ajZaSEh1VVhtVVBBME9ldTFLYWxIeHhFc3pGYzBfbFNUcW1kMmlCaTJLZWdqUDNwU2R1REVzTWZ3SHZtRVkzd2M4V3ZKcG9KelZqYkw0RVRIRDdlZlkzSFhEVG1YeUdzeE5SRDBFYUVjZjNjTDFJU21KU2hwRTFlYUpzMGllaWlNVGt6LWRUVUQzQg?oc=5",
+    "sourceName": "USA Today",
+    "publishedAt": "2026-11-20T19:17:00.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Breakfast product recall expanded to three additional states; widening scope of recall coordination.",
+    "angle": "Multi-state recall expansion signals ongoing supply-chain or quality issues; timely moment to discuss workflow automation and cross-team alerting for recall and crisis response.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "zZFd4WlowVnRjMkpOP29jPTU",
@@ -259,6 +323,23 @@
     "angle": "Portfolio consolidation in salty snacks; relevant context for CPG suppliers and retailers tracking competitive positioning and M&A activity in the category.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bTF4ZWpOaWJrZ3RhUT9vYz01",
+    "title": "Companies Are Getting Billions In Tariff Refunds—What Happens To Consumers?",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmVyN3RTWVlGRGdGMmxhS1hnbndxeFU5U3lWQkNQVXpGSUQ1YWVUWUxvclR4U3BTNTQ0Snpramo3aTZRcFJtNk1wSmRtbjd1NVR3elhOUDNhT3ZncUM0a3VJWURZWmdYeHB6ZXpkbjBOMWNwUFN0OWFOMVRQdGtoTzBPdnFtaHpHMHo4TUFWX0l4dER0eVZNdHpxcFBhQVpGNGRQaXJSZWN6bWZCWkJlTHZYNm1xejNibkgtaQ?oc=5",
+    "sourceName": "Forbes",
+    "publishedAt": "2026-11-20T12:00:00.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "Companies are receiving billions in tariff refunds, raising questions about consumer benefit and pricing strategy going forward.",
+    "angle": "Tariff refunds create a window for pricing and margin conversations; customers need to decide whether to pass savings to consumers or capture margin gains.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
     "mentionedAccounts": []
   },
   {
@@ -769,6 +850,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "1WVJHcFBhVWRzYTBFP29jPTU",
+    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2w5SDQ2czNhMjFZSXpHN1diOFg2eEJoQ3NWaVdDT3FRRW5oaG5COHluMFl0QVNRQ0ZSa05lclFqWmFMZnA1N3lWTERPQzE3cGhKWC1zMzNuX0cxWDlKSWFGN2dLbFplMG10aEQycHUzbEtWUGtaX0xYVndsS1F6Yk9kNHAwWkRETXJhUWwybzJHQVVaNDRmMHlKejZ5d0FPX3hGczFjT2xfbjJ0dEVybUF1Mk1xVjAzc3ZrOGFrWlFZUVY3RXZrMl95VnZ2SjZXWk5YRGpPaUdsa0E?oc=5",
+    "sourceName": "Japan Today",
+    "publishedAt": "2026-11-18T19:05:00.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Tariffs remain unpopular but politically difficult to repeal despite Democrats' election gains, signaling tariff policy may persist as a structural cost headwind for importers.",
+    "angle": "Tariff uncertainty continues to reshape sourcing, pricing, and gross-margin strategy for CPG and retail; analytics and automation help model scenarios and manage cost pass-through decisions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "c1cE5saFRMVXRDU1E_b2M9NQ",
     "title": "What biscuits are recalled? Fresh To You sandwiches and Mmm! Meals biscuit and gravy, in 9 states",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblZaek1kXzNORHBxYjZWaVZxTi1tRklfcjNJVkZNU2dzZTFmUVlXVDNsVTdYSkRlOTB0S0xfWm1QRHh2WFdIcDIyRVh5TDl2WVpabFdjMDV1ZGt5dDRmSXFfa1NRVGtnUWVZMUxpRmpfU3Jja3lYMDdrQkVINnRvQ0xObTNwYUEwX1hReDV2VGVXRXc0bEJEeHAyeFBIWlpBdFhqXy1UX0xDeGxfZUFVU1RPRzNXaW5pNlhTLUtCSQ?oc=5",
@@ -984,6 +1082,41 @@
     "mentionedAccounts": [
       "Target"
     ]
+  },
+  {
+    "id": "VcEpla1JrZFROQ1VRP29jPTU",
+    "title": "Pasta Recall: Product Pulled From Stores in 4 States Over Botulism Risk",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMzQ4bm16czdvYnl6SzIyYm5iaGFXNjFuem5PWGhVUW00NTNGaVlzcndYd3QwU2dMTTgtd2lpVmRvcDBpbDFCRmVpNHE0WHNsb1VnREd2eXozd2lLRjhxa1BpNWVQQ21lVUpJekRkdTNCUQ?oc=5",
+    "sourceName": "The Healthy @Reader's Digest",
+    "publishedAt": "2026-11-18T05:30:02.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Pasta product recall across four states due to botulism risk; supply-chain operations and quality-control urgency.",
+    "angle": "Recalls require rapid cross-functional response and visibility into affected SKUs, geographies, and retail partners; automation and platform workflows are essential for orchestrating response.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Tk9RalZ0Wm5aNVdGRT9vYz01",
+    "title": "A Popular Ready-to-Eat Meal Is Being Recalled for Possible Listeria Contamination—Here’s What to Know",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBU0M3WG44cWYweHBNX2ZvbGptUEZ5WkZNeU1ybHNSRlBDSkdWSEdvZTVlWXhzT0xzS1VVRDdCRFhiU2xhNzZYaTJNYW9DbHdIY2hraUYtMEJveHR0WjFkelJGejBKV1NaTjhPd0tFZmhPQVNOQjVtZnZ5WFE?oc=5",
+    "sourceName": "Reader's Digest",
+    "publishedAt": "2026-11-18T01:14:27.000Z",
+    "analyzedAt": "2026-11-22T20:12:31.957Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A ready-to-eat meal product is being recalled nationwide due to possible Listeria contamination. Food safety recalls require rapid response from manufacturers and retailers to manage inventory, communications, and compliance.",
+    "angle": "CPG and retail customers need to rapidly identify affected SKUs, alert distribution networks, and coordinate recalls across locations. This is a high-pressure scenario where workflow automation and integrated data visibility are critical.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "TklZVU13TUVwSVQwMD9vYz01",
@@ -1308,6 +1441,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "RTE1V1RKMk0xaElkdz9vYz01",
+    "title": "Thanksgiving Staples Up 11% as Soaring Prices Gobble Up Paychecks",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1d6SHZsRWNZTXFCdEF4UmRDd09wZjNUUl8zajZ5Yko5bmdRRDVCZVRUY1c2QmdmOHFvRWVpOXlmVzdtT3ZkZGFyMFVhMlctQWRsVTRCcnNBT3MxT0RmTzB2dERLaS1sdGNzUEpUTERoQmwxVTk1dHdyejFnelFQczY5SFFyWW9SOW9XWHY3bUI2UVB6Y1IxaWg5S1dyWUpoTE15WTJ2M1hIdw?oc=5",
+    "sourceName": "Groundwork Collaborative",
+    "publishedAt": "2026-11-17T14:13:18.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Thanksgiving staples have increased 11% year-over-year, reducing consumer purchasing power during the peak holiday shopping period.",
+    "angle": "Inflation at checkout is driving category and pricing strategy decisions across CPG and retail; a timely touch point for analytics conversations on pricing elasticity, mix, and consumer response.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "hOSG8yVWxSS2FuaDM_b2M9NQ",
     "title": "Ottawa’s trade war is making it more expensive to buy Canadian",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMm1XWWpUcXRXME0tS1dnUVpmX1Q4cC1TMHRUR3liV1RYM3VJek9LSEo1bkRRLUQ5OTFQRUk5c3pVYmZIREZhSGhaUjB3SEM4a2hRQkRfQVoxcFVkSGc1MHlSMFFPUE1HaXZxZjdGcXZ3Rm5NbHhZZ3BvOUMwWkRGNjRaMUFzLTRYeWZuTjZIbWRsZ1ZRN2tYSldjWnZfelZFa2NFV0ZiOE9XNHo2UlRKanh3?oc=5",
@@ -1439,6 +1589,23 @@
     "angle": "M&A signal in ingredient supply chain; relevant for CPG customers evaluating portfolio strategy and ingredient sourcing around health/clean-label trends.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pWTmprMFdFaEhaR1k_b2M9NQ",
+    "title": "Grocery inflation is set to go up as input costs rise",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGdpbUJmNkotN3BsV3V6Z1lGSnlEMUdvREMwY2dBMjV1R0x0dEtodjByNTJsbkpUaHVJM0k1QVlBamEyUE96cTg5YmNCR24waUZsSEk3dWtlNUlYU1dfMGZLMm9DbnhzV2xCSW4yeC00N1pocmpEdGdTZlAza1BnUW9OSXozVmZVNjk0WEhHZGY?oc=5",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-16T16:32:40.000Z",
+    "analyzedAt": "2026-11-22T20:12:28.148Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Grocery inflation is expected to accelerate as input costs (commodities, logistics, labor) continue to rise.",
+    "angle": "Rising input costs are a direct driver of gross-margin pressure and category pricing decisions; timing for proactive customer outreach on demand forecasting and pricing elasticity.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
     "mentionedAccounts": []
   },
   {

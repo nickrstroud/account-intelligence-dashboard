@@ -1248,5 +1248,24 @@
         "publishedAt": "2026-11-19T16:03:55.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-22T20:11:43.855Z",
+    "source": "daily",
+    "headline": "Strong Q3 e-commerce growth at 17% signals budget availability and expansion opportunity in analytics and automation for digital merchandising",
+    "signals": [
+      {
+        "category": "Q3 E-Commerce Growth",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart reported 17% global online sales growth in Q3, driven by memberships and marketplace expansion. Strong earnings performance indicates budget availability for new platform investments.",
+        "suggestedAction": "Reach out to the VP of Strategy or Digital Merchandising to explore how Analytics Suite could support pricing optimization and demand forecasting across Walmart's growing marketplace and membership channels—areas where data-driven decisions are critical to margin protection.",
+        "sourceName": "Digital Commerce 360",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE55bXgxTVY2c1pnc05wbEgybm9UMElmQUZsaUdrT2NYNURDSlVBVlNuVTEyenJtMlRUdGNxY0VzQ0dfNnY2WkRweWh3VDRHazlVb09zdTEtanhJYTJtdko3VkhKc2VsLU5TYXRkMWd4ZlNmQdIBd0FVX3lxTFBVV29FbFFBYVFwd0JucWVBcnpMNFN4cjhoWE1GbmRxLVZQWTlfWVhxb1AzbzJOcVlNSDdUbUp2ZDh4Z1VTOHVvTFl2bjd3Uld0TkMyYW1ibmJ1M0tkQUF1UkJ2YTdZRDhYalBoa282TmpiV1RZR1lB?oc=5",
+        "publishedAt": "2026-11-20T08:00:00.000Z"
+      }
+    ]
   }
 ]

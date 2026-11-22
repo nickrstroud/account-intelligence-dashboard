@@ -1585,5 +1585,24 @@
         "publishedAt": "2026-11-19T08:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-22T20:11:43.489Z",
+    "source": "daily",
+    "headline": "KDP exploring strategic split; material portfolio restructuring and integration planning required",
+    "signals": [
+      {
+        "category": "Portfolio Split / Restructuring",
+        "updateType": "restructuring",
+        "play": "integrations",
+        "score": 2,
+        "summary": "Keurig Dr Pepper is evaluating a potential split of its portfolio, which would involve significant business unit separation. This creates material restructuring risk and opportunity: separated units will require new data integrations, potentially new platform instances, and cross-sell motion for analytics and automation to manage each independent entity's operations.",
+        "suggestedAction": "Contact the CFO or VP of Corporate Strategy this week to understand the split timeline and structure. Ask: (1) Which business units or brands are being considered for separation? (2) Will separated entities remain on shared Account Intelligence infrastructure or need independent instances? (3) What data integrations will each entity need post-split? Position Account Intelligence as the backbone for managing portfolio complexity during transition and offer to map integration requirements for new units.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWpvWnRDX3FzRVoxd3o1TzZiVEY1dnlxRWoxYmlZS0E3STFVeTJ0TlhjRWZSLUtMN0xlaXQ5dTJUTV9COWt4SEFaVkZubXRRbDJJbFhuQWZiS0VRajd6Mkp3R1dnSE9QdVRTeW0xYVFkeUUwTTc5b1dEcHY0cGJzU3F3bDNwdjNOTGh4S29XNlRwSGE2ZUE?oc=5",
+        "publishedAt": "2026-11-20T15:11:18.000Z"
+      }
+    ]
   }
 ]

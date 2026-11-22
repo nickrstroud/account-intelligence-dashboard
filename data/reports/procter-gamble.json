@@ -1450,5 +1450,24 @@
         "publishedAt": "2026-11-20T12:26:01.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-22T20:11:42.696Z",
+    "source": "daily",
+    "headline": "P&G accelerating automation and lights-out manufacturing to reduce operational costs",
+    "signals": [
+      {
+        "category": "Lights-out manufacturing / automation capex",
+        "updateType": "expansion",
+        "play": "automation",
+        "score": 1,
+        "summary": "P&G is increasing factory shifts without human presence to cut costs. This signals a major operational efficiency push and increased automation investment, likely paired with restructuring of manufacturing headcount.",
+        "suggestedAction": "Reach out to the VP of Supply Chain Operations to understand the scope and timeline of the lights-out rollout. Discuss how Workflow Automation can alert supply-chain and manufacturing teams to real-time issues (line stoppage, quality anomalies, throughput gaps) as they increase unmanned production, reducing manual monitoring burden and ensuring uptime.",
+        "sourceName": "The New York Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzNaTFRSWC1iNk9rYXhLLUNFZkxRbXhQVGZHaGh4ekJVSmZuZTdFYm1SWENrNGE5VGhLWWk3ZWpWM05OVFd5X05pRTEzMXFwaFdBUXRhNHJtcTg3Ny1qLVRhUnluU2VuN3VfcnREQXIzYXVJdWJVMmNCNEM1d1JfT0FCd1dBUmJD?oc=5",
+        "publishedAt": "2026-11-22T10:02:21.000Z"
+      }
+    ]
   }
 ]

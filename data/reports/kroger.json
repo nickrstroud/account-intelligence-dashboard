@@ -1765,5 +1765,24 @@
         "publishedAt": "2026-11-20T20:39:35.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-22T20:11:46.393Z",
+    "source": "daily",
+    "headline": "Kroger layoffs and offshore job movement signal cost pressure and potential platform rationalization risk",
+    "signals": [
+      {
+        "category": "Restructuring & Cost Reduction",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "Kroger is laying off American workers and shifting jobs to India, indicating cost-cutting and operational restructuring. This signals financial or margin pressure that may constrain discretionary software spending and could lead to platform rationalization or vendor consolidation.",
+        "suggestedAction": "Contact Kroger's VP of Finance and Chief Procurement Officer this week to understand the scope and timeline of cost reductions. Proactively frame Account Intelligence as a retention tool for their current automation and platform investments (not a growth ask), emphasizing ROI on existing deployment and cost avoidance from workflow efficiency.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGgwekJZd3R1SWdlZi16cm1tcG9jNjI0dWJmdVF5ZGtqeWprWUh1SkZUd29RWkpoaDI2ZG9WWE4tbnZidm9JR3BLbU43REVhQm9IbS1iZGZmMEJvdkFTMDVPTS1vNFhMNUJucVdRc0lXTlJwc3NZazR4cGUwY05KWTAwSFlTb05UOHREMHUzQlhJQnBUc1p4Y2FYaEUwZw?oc=5",
+        "publishedAt": "2026-11-22T00:37:00.000Z"
+      }
+    ]
   }
 ]

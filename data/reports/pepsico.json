@@ -1858,5 +1858,24 @@
         "publishedAt": "2026-11-20T10:36:24.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-22T20:11:42.736Z",
+    "source": "daily",
+    "headline": "KFC partnership loss signals margin pressure and competitive risk in beverage portfolio; analytics and pricing insights urgently needed",
+    "signals": [
+      {
+        "category": "KFC partnership loss",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo lost a major beverage partnership with KFC, impacting revenue and investor sentiment. This signals competitive pressure in the beverage segment and potential margin erosion across the Pepsi brand portfolio.",
+        "suggestedAction": "Reach out to the VP of Strategy or Pricing team to discuss how Account Intelligence's Analytics Suite can help model the impact of this partnership loss on pricing power, demand elasticity, and category share across the beverage portfolio—especially against rival beverage manufacturers who may gain shelf space at KFC.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXhiSVlnWlVTSFZFeV9HUndTWnJpSHkwQ1VCb2kxSkZvbkJ0WmRsTG5nT3hwa0JRdjR4eW1EOGJVUzRqMUlqb2N0bll1QU9CQmRrM0F5RUdwZmo1eGZldjNIMkloYWoxaXpoaXRyeXIxMG5yZ192T1FzN25lVk5QTUdTam9BUTVtc3JkaHU0TUlSdGRMcEdPZFdqM01RLTdCd0E?oc=5",
+        "publishedAt": "2026-11-19T13:14:23.000Z"
+      }
+    ]
   }
 ]

@@ -1424,5 +1424,24 @@
         "publishedAt": "2026-11-19T18:45:06.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-24T00:37:59.101Z",
+    "source": "daily",
+    "headline": "EU antitrust probe into Coca-Cola European bottler; brand partnership award; stock strength—no immediate platform/product expansion signals",
+    "signals": [
+      {
+        "category": "EU Antitrust Investigation",
+        "updateType": "regulatory",
+        "play": "automation",
+        "score": 1,
+        "summary": "EU opened antitrust investigation into Coca-Cola Europacific Partners (CCEP) for alleged abuse of market power. While probe targets bottler, not The Coca-Cola Company directly, regulatory scrutiny on distribution and pricing practices may require closer supply-chain monitoring and cross-functional coordination.",
+        "suggestedAction": "Reach out to their Legal and Supply Chain leaders to assess whether the CCEP probe will trigger demand for enhanced alerting and compliance tracking on the platform—especially around bottler performance, pricing variance, and regulatory reporting. Position Workflow Automation as a tool to surface anomalies and route escalations to legal/compliance teams in real time.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNjdlBtR2k2WGZjVFhHN1Q2dkcySlNlMlhLbTBUcHlveFpETHBnazN1Vy1fU2hvTjAzUWpTZVQ5UG9ERUNpbEZ5MG5fTkNVbF95eFNkYkhSWTNkYkJ3Mk90dlZLQlNOLUx1T081aWF3dEU3Tkd2R1Bwa3BYWFh1ano4eUY3dGdZS1FOR2lnYnFxWU5DNjNjbUw0QnZJMEpaVUJTQ1Nyb3E5WUFpTzRVZVMyVQ?oc=5",
+        "publishedAt": "2026-11-23T16:51:37.000Z"
+      }
+    ]
   }
 ]

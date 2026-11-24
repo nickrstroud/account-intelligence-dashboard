@@ -1784,5 +1784,24 @@
         "publishedAt": "2026-11-22T00:37:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-24T00:38:01.661Z",
+    "source": "daily",
+    "headline": "Kroger faces consumer backlash and regulatory scrutiny on pricing and data practices; Thanksgiving operations routine",
+    "signals": [
+      {
+        "category": "Pricing and data-privacy controversy",
+        "updateType": "legal",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Kroger accused of overcharging shoppers and mishandling personal data in high-profile allegations. This signals margin and pricing pressure, as well as potential regulatory and reputational risk around data stewardship.",
+        "suggestedAction": "Reach out to the VP of Pricing Strategy or CFO to position the Analytics Suite as a tool for transparency and defensibility: pricing optimization that ensures consistent, competitive margins across banners and regions, plus audit-ready data governance. Offer a brief conversation on how advanced pricing analytics can help them respond to these allegations proactively.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckJ5a01nRVZ2MVJTd0dnR1o5MHJLeVJYVmJRNC1jU2Zic1VYV3RjSXQ4eDcwdVcteDFoWkhBV1RqVUFpbF9QUUhkaG9iU0psV0hqT01WOEhfUzFFYTIxTDZWNWhTc3U4d05uSVZPaGlKSXRHVllZRENRLTJTY0ZmeXgzdGg1cWFQNlRfSlRHdXhCdkZtaDlHejhmWXhSNGVYVVlJZDR5QQ?oc=5",
+        "publishedAt": "2026-11-22T21:45:00.000Z"
+      }
+    ]
   }
 ]

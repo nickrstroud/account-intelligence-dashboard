@@ -1,5 +1,91 @@
 [
   {
+    "id": "WMFV6RkZRMlJQZDJjP29jPTU",
+    "title": "Costs of materials are going up and show little sign of slowing",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDZFOEtUazF4bjc0RDhlOElRMUQ5MmNSNXZ5aUhlYy1KODN3LVFPbEZWa1VMNVV0STJHdG8zclkzWFRJV3pIYzhHbktTQS1yV29Oa2FZUWx4NE9rQmZCOWF2Y2k3NEYxRWxDZy0yUmJTWDJCczBkT1h2eThCUnBjV1ZWd0lzdXczUUlBSlVQa2c1dkVhNkZmeTFmTnlzcm1tVlA1aFV0UzFFQ2RPd2c?oc=5",
+    "sourceName": "Marketplace.org",
+    "publishedAt": "2026-11-23T23:17:19.000Z",
+    "analyzedAt": "2026-11-24T00:38:30.030Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Material costs are rising with no near-term abatement, adding to inflationary pressure on CPG manufacturers and retailers.",
+    "angle": "Sustained material-cost inflation requires real-time cost tracking and scenario modeling. This is a background talking point about operational pressure and an opportunity to discuss automation and analytics capabilities.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hwaGVsTlZjWFJzVVE_b2M9NQ",
+    "title": "Strike avoided at ports of LA/LB as union, management reach tentative agreement",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQjREcmZYWF9jQ1BsOUx6d3hMMDg5WXpCdC1Say1XRVJMb3VTV0hMb0pQaVFoblhQSGJPUzljRXItZWVVUnQ5dUJ1NmdGWlpRUGRmQVRmSmJWXzlGaDJrNVFxTG5sdFFtWTdZZUpGRFJXSE5tUS1seEtGUXlQMGlMc1RlaDU3WHczQ0I4VkJfZXdtdXNzY01ESEU4MVRndlE2SE1tUDE2d0pjR000ejBjalNCTW5sYUU3WUhVa0NjMzBDRTQxeVZfMTlxOHRzT2pjcXphelNVcXRsUQ?oc=5",
+    "sourceName": "ICIS",
+    "publishedAt": "2026-11-23T16:43:47.000Z",
+    "analyzedAt": "2026-11-24T00:38:39.634Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Union and management reached a tentative agreement averting a strike at the Port of Los Angeles-Long Beach, the largest U.S. container port complex. The deal resolves a major supply-chain risk that threatened retail and CPG inventory flows.",
+    "angle": "Port labor disruptions directly impact inventory planning and logistics costs for large retailers and CPG manufacturers. This resolution is a positive signal but CSMs should discuss supply-chain resilience strategies and monitoring systems.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1wcmFjdGljZXMvODc1NDU0Lw",
+    "title": "Majority of states now battling Dollar General over pricing practices",
+    "link": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+    "sourceName": "Retail Dive",
+    "publishedAt": "2026-11-23T16:42:00.000Z",
+    "analyzedAt": "2026-11-24T00:38:22.501Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Thirty states and the FTC have filed a complaint against Dollar General alleging deceptive pricing practices, expanding regulatory scrutiny of retail pricing transparency.",
+    "angle": "Pricing transparency and compliance are becoming a regulatory flashpoint; customers across retail need visibility into their pricing strategies and competitive positioning to avoid similar exposure.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "yLWluc2lnaHRzLzg3NTIxMS8",
+    "title": "Best Buy taps AI platform for supplier insights",
+    "link": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-23T16:05:59.000Z",
+    "analyzedAt": "2026-11-24T00:38:22.501Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Best Buy is partnering with Circana to deploy an AI platform for supplier insights, demand planning, and informed decision-making across their supply chain.",
+    "angle": "Major retailers are embedding AI and advanced analytics into supplier collaboration and demand planning; Account Intelligence customers need to match this capability to stay competitive with their retail partners.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0aW9uLWlzLWluLzg3NTI5Ny8",
+    "title": "Peak season optimization is out, year-round optimization is in",
+    "link": "https://www.supplychaindive.com/spons/peak-season-optimization-is-out-year-round-optimization-is-in/875297/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-23T10:00:00.000Z",
+    "analyzedAt": "2026-11-24T00:38:24.797Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Retailers with flexible, adaptive supply chains that can absorb unexpected disruptions are winning during peak season and beyond. Industry focus is shifting from seasonal optimization to year-round resilience.",
+    "angle": "Account Intelligence customers in retail and CPG need visibility into supply-chain flexibility and real-time disruption absorption. This is a talking point for automation and analytics adoption to improve operational resilience.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "alI0VW5sTVZuQTRZdz9vYz01",
     "title": "Ahead of Thanksgiving, Southern Californians feel pinch of high food prices",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmpCVUJIZUhEYXk3VXlZamd3ck9fZndJSTZsdFhQakFXMy16RUJaaDUzcjBISnd5TFNrYlBLZ0RSMFBXQTFIVTFDZFc0RDZvTDlLVmZyMWxlMmxlM1BvU0tRT0hWRndlb2J6dmlSTlo2QS1USG5BRHQ1VDVwN1NXNE9waktrWS1WUldrd241VXFSaGo3d0ppUm5tb1dRSC13R3ZiV3ZxemNXVjR4UnlMVnA4Yw?oc=5",
@@ -343,6 +429,44 @@
     "mentionedAccounts": []
   },
   {
+    "id": "Rk5VSEEwUW5JMVlrcz9vYz01",
+    "title": "Walmart Warns of Fuel Cost Pressure, Lifts Annual Targets Ahead of Holidays",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ0pvNFpNX25YejVnY2Y0Z2xUc0s4Q3h6Mmp5bUZyamE4QW1TVlFQZ3VNNUNtREg0Yk9UbTZ5TkZtdDEybXZVa3hGRHRrMWR1OUk4NUVjdDRBeFB3d2JNYkJZNHc5V1JJR3A5alowYzBJcko1MWY2b3BtQjZYQ3hzM1VnMkEwNWZmam5LdWFQQ29ETGZkNEJVRzlCcDVwYXhQRlNiUGxJdkxiY3ZCZWUxVmFkOWNnSkd1UU91YTJFMTZGTHpncTFDVUxJdXJLa2pLeEg4ZURRUWtqUEhYVUs2VXJ0VS1iRWFNUHA0QnI1Yks?oc=5",
+    "sourceName": "SupplyChainBrain",
+    "publishedAt": "2026-11-20T11:11:05.000Z",
+    "analyzedAt": "2026-11-24T00:38:30.030Z",
+    "updateType": "earnings",
+    "relevance": 2,
+    "summary": "Walmart warns of fuel cost pressure amid holiday season but lifts annual targets, signaling resilience despite near-term supply chain headwinds.",
+    "angle": "Walmart's fuel-cost warnings and revised guidance are a timely signal for customers to stress-test pricing and margin models. This creates an opportunity to discuss how Account Intelligence's analytics suite helps CPG and retail partners model cost pressures and forecast category-level impact.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "VkZzVWtoWFFsTlNVUT9vYz01",
+    "title": "Walmart Gains U.S. Ad Market Share, Jumps 37% 11/20/2026",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTN4YkhBODhjWUFhNVBsbjBqS0FnNy1SR2NxZEcyb1hvSV93Smt0TndoYS1GMUhxRU9zTDVTMG00YUJOM0ZycU5KcElIdTlmMDFnUjBWc2xvYWNWNlgtWXVLRXI5LWdvQjVIMVlqemE0VmJrcE1MeUVtVnZIV2RHUFlGZ09UdjgxOW5FdERaVk1UMTFQU3l1bHdnNFl5OC1vLVFsUkhXQlNSUQ?oc=5",
+    "sourceName": "MediaPost",
+    "publishedAt": "2026-11-20T04:19:02.000Z",
+    "analyzedAt": "2026-11-24T00:38:35.887Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart's ad revenue surges 37% year-over-year, gaining significant U.S. ad market share.",
+    "angle": "Walmart's accelerating retail media business is reshaping where CPG brands allocate ad spend; customers need analytics to measure effectiveness and optimize ROI versus traditional channels.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
     "id": "aENVR0kyYURVeGVHcz9vYz01",
     "title": "Walmart Global Ad Sales Jump 25% YoY On 37% U.S. Increase 11/19/2026",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzF6OGNya3VUWW9FMnQ2Wlc3dnZwaU1GYWttdGJjQzVXajJKVU5wTXAxYXFEcE1iajhYb0loc2lsOEo3OXpIcTVja0RTOC1iQmItNjU1MGtVTmVpSjRFLUtQVDZSNmpGRF9wVjZEWXllOFVuS1hVbWEwM0V6LVItdUhhdUpxRkI1bnM2MEpfMURDa3pGeUJnVlhCNGVhbWhCUGI2aDUxeGs?oc=5",
@@ -361,6 +485,23 @@
     "mentionedAccounts": [
       "Walmart"
     ]
+  },
+  {
+    "id": "sxd2FGVkVObFYyVlE_b2M9NQ",
+    "title": "Holiday shoppers urged to budget early as tariffs push up retail prices",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGZMTEdkUU9ZbS05LXU5dnNjZXU4R0RqUkNuRTluME94YUV6VERTSTMxSFJuTXE0aHpxNEdNVjZHSFktcEZKVVViS0VZVGE0SnhrU3FXMnozZlJmdnE4bmQwTV9kdTVia0lNaFNiUmFNTHNmWkZ1M2gxWHRnLWVoYXo5S1l1WXVDUzRTLVpSSUlER0hZRFBkSy1BSDl3cEpEUkNUdUM5VXhISk1waFVENlV2VdIBswFBVV95cUxORGZMTEdkUU9ZbS05LXU5dnNjZXU4R0RqUkNuRTluME94YUV6VERTSTMxSFJuTXE0aHpxNEdNVjZHSFktcEZKVVViS0VZVGE0SnhrU3FXMnozZlJmdnE4bmQwTV9kdTVia0lNaFNiUmFNTHNmWkZ1M2gxWHRnLWVoYXo5S1l1WXVDUzRTLVpSSUlER0hZRFBkSy1BSDl3cEpEUkNUdUM5VXhISk1waFVENlV2VQ?oc=5",
+    "sourceName": "WWLP",
+    "publishedAt": "2026-11-19T19:31:22.000Z",
+    "analyzedAt": "2026-11-24T00:38:30.030Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Tariffs are pushing up retail prices ahead of the holiday season, prompting consumers to budget early.",
+    "angle": "Tariff-driven retail price increases directly affect margin and pricing strategy across CPG and retail. Account Intelligence customers need to model tariff impacts by SKU and category to manage gross margin and competitive positioning.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "WFRtc3pabGg0YzFKbj9vYz01",
@@ -689,6 +830,25 @@
     ]
   },
   {
+    "id": "xRkhRbFJVY0d4MFVRP29jPTU",
+    "title": "Target's ad revenue climbs 23% to $296m in third quarter",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOUE3aFE1YzVNazFyZUVHNDRfOUNKYjVIWVh0RDh6UVIxa0lRaXp4Q2Vqb1N2UkI5VmdMN0Y4bkxzT2dfR3p1WS1EcDJLUXdGRWdiUWJOdEFHOVlqaHR5c2JuZkRXNFUtQlRYZEpldVc4c1FHQlRUcGx0UQ?oc=5",
+    "sourceName": "PPC Land",
+    "publishedAt": "2026-11-19T09:46:05.000Z",
+    "analyzedAt": "2026-11-24T00:38:35.887Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Target's ad revenue grows 23% to $296m in Q3, reflecting strong retail media momentum.",
+    "angle": "Target's retail media growth is a market signal that all large retailers are capturing incremental CPG ad spend; customers should track performance across channels.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
     "id": "diWEJSZVVoZlJYcDM_b2M9NQ",
     "title": "Target Q3 sales grow at fastest pace since 2021 as digital gains accelerate",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVGIydGJyRC1SZk9LSHJhdE92NHVlcjc2M2dfNjQyaHFtYzFZTExDeFphVFE2V3B6VVBuUTkzdFg1Q0UxYTA4a3oydmpwY2xGLS1CTHNDOFlXZGZBcDNSYS13Zm1pa1RseUZkVU9qU1DSAXZBVV95cUxQbGFNXzU5SWlEOHA0aklnMEVHcW1uT2wydG5Jb0pPcElDRndMMjhfOHdDanFLcUJoc0c5a2dLQk5WNnRlZ1FNeDhpMnZ4ekxhTmttR2xwMDFJUUNoZ3hON0FldExFVHZ6TGJ0b1lWbXBReUhfRXp3?oc=5",
@@ -791,6 +951,23 @@
     "relevance": 2,
     "summary": "Breakfast items with biscuits recalled across multiple states due to listeria contamination. USDA-issued recall affects retail and food manufacturing operations.",
     "angle": "Recalls and food safety incidents drive urgent need for supply-chain visibility and automated alerting. Customers managing affected SKUs need rapid cross-functional coordination across merchandising, supply chain, and operations.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RWhZZG5SUFowNTJSUT9vYz01",
+    "title": "Breakfast items made with biscuits sold in several states recalled over listeria risks, USDA says",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSm9mdi03cV9jcE5TOEZwUV9qQXAyX2xrWV9sNGNMajd3cUw4LVZNUmRZT0UzTl92Y1FkT3NQU2xyOUdwMndUZV94cDFDbVRKYkx1akNabUhsVHVlRjdwWlhiS2xTT3Y0aTRkZGRZaGlSTDdYd1Y1VTZwTHNQVG4tV0tNRDI1aGZZX1ZwQkJzLTRtU092clNBcFpzTFRoZVBMdDNPVUh6NElzNldrb1JtTkROQk1aMUhrR1JwZ2x3TXFpNGo2U1J6emxiUHRmeEhYdnRPZ052RQ?oc=5",
+    "sourceName": "WBIR",
+    "publishedAt": "2026-11-18T20:51:00.000Z",
+    "analyzedAt": "2026-11-24T00:38:35.887Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Breakfast items with biscuits recalled across multiple states due to listeria contamination; USDA coordinating recall action.",
+    "angle": "Product recalls require rapid cross-functional coordination to pull SKUs, notify retailers, and manage customer communication. Automation workflows for incident response and supply-chain visibility are critical.",
     "play": "automation",
     "products": [
       "automation"
@@ -970,6 +1147,25 @@
       "analytics"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "10UlhOZlNXSklSVkU_b2M9NQ",
+    "title": "Kroger names new retail media chief",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFFU182aFJBQzJfcFpWcnkyTzdvc24xSE91Q2l5bEdLa1F3dW9PRldpWGFiMXpCdDdiRVJXdE9CNmVfVThFV3Q2d2s0YnhCTWFSU0hfRXE4OVVJTlJySGg1eUlDRFZkcU10cklLVkhNcTlyWk9kT2NxN0Mtck5YdFRvLU43Z3FTRFhVNjJrbkZvUTJCY19fc212aHBmZlFYV0MtRXNfSWJIRVE?oc=5",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-18T16:29:11.000Z",
+    "analyzedAt": "2026-11-24T00:38:35.887Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Kroger names new retail media chief, signaling continued investment and expansion of its media business.",
+    "angle": "Kroger's retail media growth creates opportunity to expand analytics and automation for media-mix optimization and campaign performance tracking for CPG suppliers.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
   },
   {
     "id": "pYS1ncm9jZXJ5Lzg3NTAzNy8",
@@ -1226,6 +1422,23 @@
     "mentionedAccounts": [
       "Kroger"
     ]
+  },
+  {
+    "id": "blkzVkZhREF0YTNWUj9vYz01",
+    "title": "Union and Associated Grocers clash during ongoing strike",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZzYzWGE1bTlCLXR1NWc1MDl3OURMYWNHaHZQbnBVelI0SlF6VDk3NGxXMjBxdlFtem9sSGpwYkNBMGx5R2VmdkpIUGhDVE5zcmlKTEdWYUx2ZUgzalBlV050d0N0TFpEdlBHTHhfeW5UT3hHTE9HVXdnY3VFaDAta3VR?oc=5",
+    "sourceName": "Concord Monitor",
+    "publishedAt": "2026-11-17T19:40:16.000Z",
+    "analyzedAt": "2026-11-24T00:38:39.634Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "An ongoing strike by Teamsters at Associated Grocers' Pembroke distribution facility has continued into its second week, creating localized supply disruptions for independent grocers in New England.",
+    "angle": "Supply-chain labor disputes in grocery distribution affect fulfillment speed and inventory availability for retailers; a good reminder for customers managing cross-distribution operations or multi-warehouse tracking.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "d2FyZWhvdXNlcy84NzQ4Mjkv",

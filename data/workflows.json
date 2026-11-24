@@ -62819,5 +62819,220 @@
     },
     "doneWhen": "Call completed with [VP Finance] or [Chief Procurement Officer] confirming Kroger's cost-reduction timeline, renewal cycle, and Account Intelligence's role in their efficiency strategy post-restructuring.\"",
     "generatedAt": "2026-11-22T20:12:13.376Z"
+  },
+  "a_8td7w5": {
+    "signalId": "a_8td7w5",
+    "account": "Kroger",
+    "signalTitle": "Pricing and data-privacy controversy",
+    "play": "advise",
+    "goal": "Position Analytics Suite as a defensibility and transparency tool to help Kroger respond to pricing and data-privacy allegations with consistent, audit-ready pricing strategy.",
+    "owner": "CSM/Acct Mgr. + Account Executive",
+    "contactRole": "VP Pricing Strategy or CFO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Kroger's current coverage (platform + automation for store/supply alerts) and renewal timeline in CRM.",
+          "Flag any active legal, compliance, or pricing inquiries in existing tickets or notes from Finance/Legal.",
+          "Confirm this contact owns pricing policy or data governance; align with Account Executive on approach."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive: position Analytics Suite as audit-ready pricing optimization, not crisis sales pitch.",
+          "Brief Product on use case: demand-forecasting and cross-banner pricing consistency for regulatory defensibility.",
+          "Agree CSM leads outreach with AE support; tone is 'help first' and advisory."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Pricing Strategy] or [CFO] with a brief conversation request: how advanced analytics help ensure consistent, competitive pricing across banners and regions—especially in a high-scrutiny environment.",
+          "Reference the recent allegations as context for why now is the moment to operationalize pricing transparency and data governance."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "If receptive: schedule 30-min advisory call with [VP Pricing Strategy] + [CFO] to walk through Analytics Suite use cases: margin analysis, competitive benchmarking, audit-ready reporting.",
+          "Share a 1-page case study on how other large retailers use analytics to ensure pricing consistency and regulatory compliance."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log all outreach, responses, and insights in CRM. If [VP Pricing Strategy] or [CFO] expresses interest in a pilot or POC, escalate to Product and Sales for scoping.",
+          "Track legal/regulatory developments at Kroger as a leading indicator of urgency or roadblock to expansion."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Pricing Analytics for Consistency and Confidence Across Your Banners",
+      "body": "Hi [VP Pricing Strategy],\n\nRecent headlines around pricing have put a spotlight on retail transparency. We work with large operators like you to run pricing analytics that ensure consistency and competitiveness across banners and regions—and generate audit-ready reports that give your legal and finance teams confidence.\n\nA brief conversation about how advanced analytics can help you operationalize pricing governance and defensibility. No pitch; just a quick look at how other large retailers are approaching this.\n\nHappy to meet early next week. Let me know what works.\n\nBest,\n[Your Name]"
+    },
+    "slack": "🚨 Kroger signal: pricing and data-privacy controversy. Opportunity to position Analytics Suite as defensibility and transparency tool for consistent pricing and audit-ready data governance. CSM to lead outreach to [VP Pricing Strategy] or [CFO] with AE support—help-first advisory call, not a sales push. Advise on competitive benchmarking and margin consistency. DRI: CSM. Ask: Product to brief on analytics use cases; Sales to support if pilot interest emerges.",
+    "crmTask": {
+      "title": "Advise: Pricing Analytics for Regulatory Defensibility and Transparency",
+      "due": "In 5 days",
+      "notes": "Signal: High-profile allegations of overcharging and data-privacy mishandling. Opportunity to position Analytics Suite as audit-ready pricing optimization and data governance tool. Contact: [VP Pricing Strategy] or [CFO]. Play: advisory call on pricing consistency, competitive benchmarking, and regulatory defensibility. Timeline: outreach Day 3-5, call Day 7-14. Success: interest in pilot or expansion discussion with Product/Sales. Monitor regulatory developments as leading indicator of urgency."
+    },
+    "doneWhen": "Advisory call scheduled with [VP Pricing Strategy] or [CFO] and positive signal on Analytics Suite expansion interest or pilot scope.",
+    "generatedAt": "2026-11-24T00:38:13.254Z"
+  },
+  "a_juhcgj": {
+    "signalId": "a_juhcgj",
+    "account": "Target",
+    "signalTitle": "Q3 earnings - strong comparable sales growth",
+    "play": "onboard_expand",
+    "goal": "Expand Analytics Suite usage into pricing optimization and margin management to help Target sustain Q3 comp-sales momentum through holiday and beyond.",
+    "owner": "CSM/Acct Mgr.",
+    "contactRole": "VP Merchandising Analytics",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm current Analytics Suite footprint (demand forecasting, category analysis) and holiday planning cycle timeline",
+          "Check renewal status and expansion budget authority for pricing analytics modules",
+          "Identify any pending supply-chain or store-ops requests that could surface automation whitespace"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on Q3 momentum and pricing/margin optimization opportunity; confirm expansion deal structure",
+          "Sync with Product on demand + pricing analytics capabilities and roadmap for holiday scenarios",
+          "Confirm CSM/Acct Mgr. leads outreach; Sales supports expansion close"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Merchandising Analytics] citing Q3 comp-sales win and positioning Analytics Suite pricing and margin tools as a lever for sustained growth",
+          "Request 30-min check-in to walk through how dynamic pricing analytics and mix optimization support holiday inventory and markdown strategy"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Conduct discovery call: map current pricing process, margin targets, and holiday scenarios; validate pricing analytics use cases",
+          "Scope and propose pricing analytics module expansion (scope, timeline, training) with Sales support for contracting and pricing",
+          "Include the CS Director: Target is a top-revenue account, so bring them into this play and the customer outreach whether the signal is a risk or an opportunity."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outreach and discovery findings in CRM; track expansion deal progress and holiday planning milestones",
+          "Confirm signed expansion contract; schedule onboarding kick-off for pricing analytics by holiday season"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Sustaining your Q3 momentum: pricing and margin analytics for the holiday season",
+      "body": "Hi [VP Merchandising Analytics],\n\nCongrats on the strong Q3 comp-sales growth—5% is a real win and shows the momentum you've built. We've seen analytics-led retailers like you sustain that edge through dynamic pricing and mix optimization, especially as holiday inventory and markdown strategy come into play.\n\nI'd love to explore how our pricing analytics module could support your margin and mix goals this season and beyond. 30 minutes to walk through your current process and how we can help?\n\nBest,\n[Your name]"
+    },
+    "slack": "Target Q3 comp-sales +5%: strong operational momentum. Analytics Suite user (demand, category) is well-positioned to adopt pricing analytics for margin and mix optimization through holiday. CSM/Acct Mgr. leading outreach to [VP Merchandising Analytics]; Sales joins for expansion close. Scope and proposal by mid-week.",
+    "crmTask": {
+      "title": "Target: Expand Analytics Suite – Pricing Analytics for Holiday Season and Beyond",
+      "due": "In 5 days",
+      "notes": "Signal: Q3 earnings +5% comparable sales growth. Opportunity: Position pricing and margin analytics module expansion to sustain momentum through holiday planning and beyond. Current: Platform + Analytics Suite (demand, category). Whitespace: Pricing optimization, margin mix, store-ops automation. Contact: [VP Merchandising Analytics]. Next: Validate current analytics footprint, scope pricing module expansion, support Sales expansion close."
+    },
+    "doneWhen": "Signed expansion contract for pricing analytics module with implementation planned before holiday season.",
+    "generatedAt": "2026-11-24T00:38:13.346Z"
+  },
+  "a_1pqrosx": {
+    "signalId": "a_1pqrosx",
+    "account": "Coca-Cola",
+    "signalTitle": "EU Antitrust Investigation",
+    "play": "protect_renewal",
+    "goal": "Deepen platform adoption by embedding workflow automation into supply-chain compliance monitoring in response to regulatory scrutiny, protecting renewal and opening automation expansion.",
+    "owner": "CSM/Acct Mgr. + Account Executive",
+    "contactRole": "VP Supply Chain + General Counsel (or Chief Compliance Officer)",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm scope of CCEP probe impact on Coca-Cola's bottler oversight and compliance reporting requirements.",
+          "Audit current platform usage: which supply-chain and pricing data are live; what manual compliance workflows exist today.",
+          "Check renewal date, contract terms, and any regulatory/audit clauses that may be triggered."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive, Sales, and Product on the regulatory signal and compliance use-case; flag potential automation expansion opportunity.",
+          "Confirm internal lead: CSM/Acct Mgr. owns engagement; loop in Sales for expansion conversation downstream.",
+          "Align on value hypothesis: real-time bottler performance alerting + pricing variance flagging + legal audit trail.",
+          "Alert the CS Director: flag this potential churn / at-risk scenario at Coca-Cola right away so they can weigh in on the save plan."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Supply Chain] and [General Counsel] with acknowledgment of CCEP probe and offer to show how real-time alerting and compliance logging can support their oversight.",
+          "Propose brief call: 'How Account Intelligence can help surface and escalate bottler anomalies to your legal and compliance teams.'"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Conduct discovery call with [VP Supply Chain] and [General Counsel]: map current compliance workflows, bottler KPIs, and escalation triggers.",
+          "Demo workflow automation: alerting on pricing variance, bottler performance deviations, and audit-ready logging for regulatory requests.",
+          "Propose pilot: embed alerting and playbooks for 2–3 high-risk bottler regions; scope 60–90 day proof-of-value."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement in CRM: regulatory signal, contacts engaged, play type (expand automation).",
+          "Monthly check-in: pilot adoption, compliance queries resolved, path to production rollout.",
+          "Close loop: measure adoption (alerts generated, escalations routed, audit queries resolved); update Product on compliance use-case.",
+          "Update the CS Director: report the status of the prior steps (validation, alignment, outreach, and actions taken) and keep them posted until the risk is resolved."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Real-time bottler oversight in a tightening regulatory environment",
+      "body": "Hi [VP Supply Chain] and [General Counsel],\n\nWe've been following the CCEP antitrust investigation and recognize the added compliance and monitoring burden on your team. Real-time visibility into bottler performance, pricing variance, and regulatory anomalies is now business-critical.\n\nWe'd like to show you how Workflow Automation can embed alerting and audit logging directly into your platform—so your teams surface and escalate bottler issues to legal and compliance in real time, without manual spreadsheet tracking.\n\nWould a brief call next week work to explore how this might support your oversight?\n\nBest,\n[Account Intelligence CSM/Acct Mgr.]"
+    },
+    "slack": "🚨 Regulatory signal: CCEP antitrust probe may trigger demand for supply-chain compliance monitoring at Coca-Cola. Opportunity to expand Workflow Automation into bottler alerting and audit logging. CSM to lead engagement with [VP Supply Chain] + [General Counsel]. Sales, stand by for expansion conversation. This protects renewal and opens new automation revenue.",
+    "crmTask": {
+      "title": "Coca-Cola: EU Antitrust (CCEP) — Workflow Automation for Bottler Compliance Monitoring",
+      "due": "In 5 days",
+      "notes": "Signal: EU opened antitrust investigation into CCEP (Coca-Cola's bottler) on market power abuse. While probe targets bottler, regulatory scrutiny on distribution/pricing creates compliance risk for Coca-Cola. Opportunity: position Workflow Automation for real-time bottler alerting, pricing variance flagging, and audit logging. Contact: [VP Supply Chain] + [General Counsel]. Next step: validate current compliance workflows and schedule discovery call to scope pilot (2–3 bottler regions, 60–90 days)."
+    },
+    "doneWhen": "Pilot agreement signed: Workflow Automation embedded in supply-chain compliance monitoring for defined bottler set, with success metrics tied to alerts generated and compliance escalations resolved.",
+    "generatedAt": "2026-11-24T00:38:14.454Z"
   }
 }

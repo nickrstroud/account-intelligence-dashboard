@@ -1010,5 +1010,24 @@
         "publishedAt": "2026-11-19T08:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-24T00:37:59.211Z",
+    "source": "daily",
+    "headline": "Target Q3 strong comp sales growth signals budget and appetite for retail tech expansion",
+    "signals": [
+      {
+        "category": "Q3 earnings - strong comparable sales growth",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported a 5% jump in comparable sales in Q3 2026, indicating strong operational momentum and retail performance.",
+        "suggestedAction": "Schedule a check-in with the merchandising analytics lead to explore how advanced demand and pricing analytics could support continued margin and mix optimization in the holiday season and beyond. Position Analytics Suite as a tool to sustain comp-sales growth.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZER0Sk5jaTBGZVZGbzB4NEJSOE9JMGRkVVVMdDRYNXhZLV8zQXNtSjV3Q19NYXhfM0Y4bUhkbGpWT25STzRyYW9ESWpPS2JiX0loWng3eXBVSEV1eU9xZGZLZDJvNHpoaHRONmdRRlZkN1Ezbkphalh1R19FS2xUOEdlQzYzMFlpWnh6b0htQjlDQQ?oc=5",
+        "publishedAt": "2026-11-18T21:01:03.000Z"
+      }
+    ]
   }
 ]

@@ -1803,5 +1803,24 @@
         "publishedAt": "2026-11-22T21:45:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-24T22:56:21.954Z",
+    "source": "daily",
+    "headline": "Kroger announces 3,000 US corporate job cuts while hiring in India; restructuring signals potential cost-consciousness but opens data/analytics opportunity.",
+    "signals": [
+      {
+        "category": "US corporate headcount reduction",
+        "updateType": "restructuring",
+        "play": "analytics",
+        "score": -1,
+        "summary": "Kroger is cutting 3,000 US corporate jobs while shifting hiring to India. This restructuring suggests cost-containment focus and potential budget pressure across corporate functions, including IT and analytics initiatives.",
+        "suggestedAction": "Reach out to your Kroger CFO/COO contact to understand whether this restructuring affects the Account Intelligence contract or roadmap. Frame a conversation around how Analytics Suite can reduce manual pricing/demand analysis work (offsetting headcount needs) and improve margins on private-label and retail-media — areas where Kroger has pricing power. Position as efficiency play, not an expansion ask.",
+        "sourceName": "New York Post",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFZlc2FTTlNBVWRvbTZhTkV3YVp6aTMwaURmTUEzcEN6ZjRmMjdXNl9wZmtIbEZuZWptY0pvLXZhQnpoMXRzeV9YQ0VHTmhTMEhPTTBnbllneFRiWjdyWlA1SVdoZmVYT00yX05XejVqbW93MExzLVVqWEdONTNFQVdwcW1zRzhzaTBiOUhyVmlpdHM1NFNpcXA4alR5SGdqOWZ6NnYtS3B4Tll3MUdzbFVZTG5NVnhfT1ZqZw?oc=5",
+        "publishedAt": "2026-11-23T16:12:00.000Z"
+      }
+    ]
   }
 ]

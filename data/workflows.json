@@ -63034,5 +63034,512 @@
     },
     "doneWhen": "Pilot agreement signed: Workflow Automation embedded in supply-chain compliance monitoring for defined bottler set, with success metrics tied to alerts generated and compliance escalations resolved.",
     "generatedAt": "2026-11-24T00:38:14.454Z"
+  },
+  "a_14dq9ud": {
+    "signalId": "a_14dq9ud",
+    "account": "Coca-Cola",
+    "signalTitle": "Rising Input Costs & Margin Pressure",
+    "play": "onboard_expand",
+    "goal": "Deepen analytics adoption within finance/strategy to help Coca-Cola model pricing and promotion scenarios under margin pressure from rising input costs.",
+    "owner": "CSM/Acct Mgr. + Account Executive",
+    "contactRole": "VP Finance or VP Strategy",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Check current analytics suite usage: which teams, geographies, and use cases are active; identify coverage gaps in finance and strategy.",
+          "Confirm renewal timing and health; flag any open support or feature requests tied to pricing or margin analysis.",
+          "Review Q4 earnings, guidance, and investor calls for public margin/cost commentary to sharpen the outreach angle."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Account Executive on expansion opportunity and competitive landscape (who else is helping them model pricing under inflation?).",
+          "Align with Product on current analytics capabilities for scenario modeling, pricing elasticity, and promotional ROI—any roadmap items relevant to cost/margin workflows?"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [VP Finance or Strategy] with a concrete insight: how peers in beverage and CPG are using demand and pricing analytics to stress-test margin scenarios during cost volatility.",
+          "Propose a brief, no-pressure conversation (30 min) to explore how their current analytics could serve pricing and promotion decisions under different cost assumptions."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5–14",
+        "tasks": [
+          "Co-facilitate discovery call with [VP Finance or Strategy] and CSM to map their pricing decision workflow, cost drivers, and analytics blind spots.",
+          "If fit: scope a 2–3 week analytics proof-of-concept (POC) on demand and pricing scenarios (e.g., unit elasticity, promo ROI under +5% / +10% input cost assumptions)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outreach, discovery outcomes, and POC scope in CRM; set renewal touchpoint.",
+          "Track analytics adoption metrics post-POC: active users in finance/strategy, number of pricing scenarios modeled, and feedback on scenario model usefulness.",
+          "Measure success: POC completion and decision to expand analytics to pricing/margin workflows."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Modeling pricing & margin scenarios under cost pressure—insights from peers in beverage",
+      "body": "Hi [VP Finance or Strategy],\n\nRising input costs are reshaping margin math across beverage and CPG. We've seen peers use demand and pricing analytics to stress-test strategies—simulating unit elasticity, promo ROI, and margin outcomes across different cost and volume scenarios.\n\nGiven your work in strategy and the volatility ahead, I thought it worth a quick conversation about how the analytics tools you already own could strengthen pricing and promotion decisions. No pitch—just 30 minutes to explore whether a focused scenario model would be useful.\n\nWould next week work for a brief call?\n\nBest,\n[CSM Name]"
+    },
+    "slack": "🚨 Coca-Cola signal: Rising input costs driving margin pressure. Analytics expansion play: position demand and pricing analytics to help finance/strategy model margin scenarios under different cost/volume assumptions. CSM + AE lead discovery; scope POC on pricing elasticity and promo ROI. Ask: Product input on scenario modeling roadmap. Target: VP Finance or Strategy outreach by end of week.",
+    "crmTask": {
+      "title": "Coca-Cola: Expand Analytics Suite for Pricing & Margin Scenario Modeling",
+      "due": "In 5 days",
+      "notes": "Signal: Rising input costs and margin pressure across beverage category. Opportunity: Deepen analytics adoption in finance/strategy for demand, pricing, and cost-structure optimization. Current state: Core platform standardized for category reporting; analytics owned by strategy/finance but usage may be concentrated. Whitespace: pricing and promotion scenario modeling, margin stress-testing. Approach: Lead with peer insights on analytics-driven pricing precision during cost inflation. Next: Validate current analytics adoption, align with AE and Product, engage [VP Finance or Strategy] with scenario-modeling value prop."
+    },
+    "doneWhen": "Finance or strategy team engages in discovery call and POC scope is agreed or declined within 14 days.",
+    "generatedAt": "2026-11-24T22:56:34.863Z"
+  },
+  "a_1hpafip": {
+    "signalId": "a_1hpafip",
+    "account": "Coca-Cola",
+    "signalTitle": "EU Antitrust Investigation of Bottler Network",
+    "play": "protect_renewal",
+    "goal": "Deepen platform stickiness and expand to workflow automation by positioning compliance monitoring as risk mitigation for EU bottler-network operations under antitrust scrutiny.",
+    "owner": "CSM/Acct Mgr. + Account Executive",
+    "contactRole": "General Counsel or Chief Compliance Officer",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm scope: which EU bottler markets are in scope for the antitrust probe and currently covered by our platform.",
+          "Review current platform usage: who owns bottler-performance reporting today and what metrics (pricing, volume, promotions) are already tracked.",
+          "Check renewal status and expansion budget: assess appetite for new compliance-focused tooling in the current fiscal."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales on expansion opportunity: workflow automation as compliance/audit enabler, not just operational efficiency play.",
+          "Loop in Product on use case: standardized bottler-network metric auditing and alerting for regulatory transparency—gather feedback on feasibility.",
+          "Confirm lead: CSM/Acct Mgr. owns engagement; Sales AE supports expansion discussion if customer signals readiness.",
+          "Alert the CS Director: flag this potential churn / at-risk scenario at Coca-Cola right away so they can weigh in on the save plan."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach [General Counsel] or [Chief Compliance Officer] with a brief note on how workflow automation can centralize and audit bottler-network compliance signals—position as risk reduction, not feature sell.",
+          "Offer a 20-min discovery call: map current bottler-performance-monitoring process and compliance gaps that automation could close."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Co-develop a lightweight compliance-monitoring workflow prototype (pricing, volume, promotion adherence across EU bottlers) using their existing platform data.",
+          "Present ROI framed as audit efficiency and regulatory readiness (reduced manual review, centralized audit trail).",
+          "If receptive, move to expansion proposal for workflow automation module with legal/compliance use-case focus."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log engagement and discovery insights in CRM; flag any new compliance requirements or bottler-network governance changes.",
+          "Schedule 30-day follow-up to review prototype feedback and next steps (pilot scope, timeline, budget approval).",
+          "Update the CS Director: report the status of the prior steps (validation, alignment, outreach, and actions taken) and keep them posted until the risk is resolved."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Workflow Automation for EU Bottler-Network Compliance Monitoring",
+      "body": "Hi [General Counsel/Chief Compliance Officer],\n\nWe've been thinking about how the EU antitrust focus on bottler operations could make centralized compliance monitoring a priority for your team. Right now, bottler-network metrics (pricing, volume, promotions) live across multiple systems and reports—which makes audit and oversight manual and slow.\n\nWorkflow Automation can standardize and alert on bottler-performance compliance signals across your EU footprint in one place. This reduces regulatory risk, speeds up audits, and gives you an audit trail that regulators want to see.\n\nWould a quick 20-min call make sense to map your current bottler-compliance process and see where automation could help?\n\nBest,\n[CSM/Acct Mgr.]"
+    },
+    "slack": "🚨 Coca-Cola EU antitrust probe → compliance + risk-mitigation play. We can position Workflow Automation as bottler-network compliance monitoring (pricing, volume, promotions auditing across EU). CSM/Acct Mgr. leading discovery with General Counsel/Chief Compliance Officer; Sales to support if expansion signals. First call Day 3–5 to map compliance gaps and pilot scope.",
+    "crmTask": {
+      "title": "Expand Workflow Automation for EU Bottler-Network Compliance & Risk Mitigation (Antitrust Probe)",
+      "due": "In 14 days",
+      "notes": "Signal: EU antitrust investigation of Coca-Cola European bottler operations. Opportunity: Position Workflow Automation as compliance-monitoring and audit-trail solution to centralize bottler-network metrics (pricing, volume, promotions) and reduce regulatory risk. Contact: General Counsel or Chief Compliance Officer. Next: Discovery call to validate compliance gaps, map current process, and scope pilot (expected Day 7–21)."
+    },
+    "doneWhen": "Customer agrees to pilot Workflow Automation for bottler-network compliance monitoring, or confirms no budget/need for expansion in 2026.",
+    "generatedAt": "2026-11-24T22:56:36.004Z"
+  },
+  "a_1r4gnky": {
+    "signalId": "a_1r4gnky",
+    "account": "Keurig Dr Pepper",
+    "signalTitle": "Rating Downgrade",
+    "play": "protect_renewal",
+    "goal": "Confirm Core Platform remains a priority in 2027 budget despite market headwinds and investor concerns.",
+    "owner": "CSM/Acct Mgr.",
+    "contactRole": "VP Finance or CFO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review KDP's latest earnings call transcript and investor relations materials for budget signals and 2027 guidance",
+          "Confirm Core Platform renewal date, contract terms, and any renewal conversations already in flight",
+          "Audit current Core Platform usage: team count, business units covered, data volume, and expansion gaps (integrations, analytics)"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive: confirm whether expansion (integrations for new business units or analytics suite) is still on the roadmap for 2027",
+          "Brief Sales on renewal risk; agree whether play is protection-only or bundled with expansion option",
+          "Prep talking points: Core Platform ROI, competitive risk of platform loss, and strategic value during portfolio transitions",
+          "Alert the CS Director: flag this potential churn / at-risk scenario at Keurig Dr Pepper right away so they can weigh in on the save plan."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Call [VP Finance or CFO] with market context: acknowledge the downgrade, ask how it shapes IT budget priorities for 2027, and position platform as business continuity asset",
+          "Listen for cost-reduction signals and explore whether they'd benefit from analytics or integrations to drive efficiency or revenue in this environment"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "If budget pressure is real: propose phased renewal or modest optimization (e.g., consolidate team seats, defer advanced modules, bundle integrations into renewal)",
+          "If renewal is secure: pivot to whitespace: schedule technical discovery on integrations for acquired/separated units or analytics ROI for category performance"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log renewal conversation and budget signals in CRM; set renewal close date and next check-in",
+          "Track expansion interest and competitive threats; escalate if renewal confidence drops below 90%",
+          "Update the CS Director: report the status of the prior steps (validation, alignment, outreach, and actions taken) and keep them posted until the risk is resolved."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "2027 Platform Investment in a Changing Market – Let's Talk Strategy",
+      "body": "Hi [VP Finance or CFO],\n\nWe've been following KDP's strategic moves and recent market activity. We know budget planning is in motion, and I wanted to reach out not to pitch, but to listen.\n\nThe Core Platform is now business-critical for your teams—and in times of portfolio change and cost pressure, it's often what powers efficiency. I'd love a brief conversation about how 2027 budget is shaping up and whether our platform roadmap aligns with what you're prioritizing.\n\nIf helpful, I can also explore how we're helping other large CPG companies drive ROI through new data integrations or category analytics as they optimize operations.\n\nWould you have 15 minutes in the next week?\n\nThanks,\n[CSM/Acct Mgr.]"
+    },
+    "slack": "🚨 KDP rating downgrade + stock underperformance signals budget pressure risk. Core Platform renewal due [renewal date TBD]. Play: protect renewal by confirming platform remains a 2027 priority with Finance; explore whether cost-conscious environment creates opportunity for efficiency ROI or integration bundling. CSM/Acct Mgr. to lead outreach to [VP Finance or CFO]. Need feedback loop from call to flag risk or expansion opportunity by [date TBD].",
+    "crmTask": {
+      "title": "Protect 2027 Renewal: Confirm Core Platform Priority Post-Rating Downgrade",
+      "due": "In 5 days",
+      "notes": "Signal: Seeking Alpha downgrade + stock underperformance. Risk: budget cuts may delay or reduce 2027 renewal. Action: Proactive call to Finance leadership to confirm platform priority, listen for cost constraints, and position ROI. Whitespace: integrations for portfolio changes (acquisitions/divestitures) and analytics for category optimization. Renewal date: [TBD]. Account team: [TBD]."
+    },
+    "doneWhen": "Finance leader confirms Core Platform is included in 2027 budget plan, or signals cost constraint that unlocks discussion of renewal optimization or expansion ROI trade-offs.",
+    "generatedAt": "2026-11-24T22:56:36.016Z"
+  },
+  "a_1wwzqeh": {
+    "signalId": "a_1wwzqeh",
+    "account": "Keurig Dr Pepper",
+    "signalTitle": "Portfolio Restructuring / M&A Activity",
+    "play": "onboard_expand",
+    "goal": "Position Account Intelligence as the data backbone for KDP's 2027 portfolio changes by locking in integrations and Core Platform expansion for acquired or separated business units.",
+    "owner": "CSM/Acct Mgr.",
+    "contactRole": "VP Strategy or Head of Corporate Development",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Review KDP's public filings and investor calls (2026–2027) to identify which brands or business units are likely acquisition or divestiture targets.",
+          "Map current platform coverage by business unit and identify data sources (ERP, POS, third-party) that will be new on acquisition or separation.",
+          "Flag renewal date, contract terms, and any existing discussions with Strategy/M&A team on data infrastructure needs."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Account Executive and Solutions Architect on portfolio move scope and pitch strategy for Data Integrations and platform expansion.",
+          "Confirm with Ops whether any integrations or SKU volume changes have been flagged by KDP's support tickets.",
+          "Agree that CSM/Acct Mgr. leads outreach; AE joins for expansion conversation."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [VP Strategy or Head of Corporate Development] with insight: acknowledge portfolio moves, offer to map integration and data model roadmap for new brands, request 20-min call.",
+          "If no response, escalate to current platform sponsor (CFO, Chief Analytics Officer) with same message, framed as data infrastructure readiness for growth."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "On call, discover which brands/units are in scope, their current data infrastructure, and planned integration timeline.",
+          "Develop phased Data Integrations roadmap: scope (ERP, POS, third-party sources), dependencies, and onboarding milestones tied to 2027 close dates.",
+          "Propose pilot integration for first acquired unit to de-risk and establish repeatable playbook for subsequent M&A activity."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 14+",
+        "tasks": [
+          "Log engagement and discovery findings in CRM; update account map with new business unit coverage and integration roadmap.",
+          "Monthly check-ins with [VP Strategy] and platform sponsor through close; flag Product with new ERP/POS connector requests and third-party data needs.",
+          "Close loop: measure success by signed integrations order and Core Platform seat expansion for new brands by 2027 close."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Data Integration Roadmap for Your 2027 Portfolio Moves",
+      "body": "Hi [VP Strategy or Head of Corporate Development],\n\nWe've been tracking KDP's portfolio evolution and wanted to get ahead of a likely data challenge: when new brands join or separate, their ERP, POS, and third-party data sources need to land on a single platform fast.\n\nWe've helped beverage and retail peers navigate this—phased integrations that onboard 2–3 new units cleanly over 12 months. Happy to map what your 2027 moves look like from a data infrastructure angle and show you a roadmap that works with your close timeline.\n\nWould you have 20 minutes in the next two weeks?\n\nBest,\n[CSM/Acct Mgr.]"
+    },
+    "slack": "🚨 KDP portfolio restructuring signal: M&A activity targeting 2027. Current coverage is Core Platform only; whitespace is integrations (new units' ERP/POS/third-party sources) and analytics. CSM/Acct Mgr. leads outreach to Strategy/Corp Dev to discover scope and pitch phased Data Integrations roadmap. AE joins expansion close. Goal: lock in integrations order and platform seat expansion by 2027 close. First meeting target: Day 3–5.",
+    "crmTask": {
+      "title": "KDP 2027 Portfolio Restructuring – Data Integration Opportunity",
+      "due": "In 5 days",
+      "notes": "Signal: MarketScale reports KDP targeting portfolio moves (acquisitions/divestitures) in 2027. Current product: Core Platform only. Opportunity: Data Integrations (ERP, POS, third-party connectors for new/separated units) and Core Platform seat expansion. Key contact: VP Strategy or Head of Corporate Development. Next step: Validate scope via public filings and internal data infrastructure discovery; engage with integration roadmap and pilot proposal. Renewal date and contract terms to be confirmed. Product feedback: new ERP/POS connector requests and third-party data sources likely to emerge."
+    },
+    "doneWhen": "Signed integrations contract and Core Platform seat expansion agreement for first acquired or separated business unit, with onboarding roadmap tied to 2027 close date.",
+    "generatedAt": "2026-11-24T22:56:36.934Z"
+  },
+  "a_1c8dzed": {
+    "signalId": "a_1c8dzed",
+    "account": "Procter & Gamble",
+    "signalTitle": "Supply chain automation workforce adjustment",
+    "play": "onboard_expand",
+    "goal": "Establish Workflow Automation as a critical tool for P&G's supply chain efficiency gains amid their automation workforce restructuring.",
+    "owner": "CSM/Acct Mgr.",
+    "contactRole": "VP Supply Chain Operations",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm scope and timeline of P&G's supply chain automation roadmap through internal contacts and public filings",
+          "Review current platform adoption across P&G's brand and supply chain teams; identify which teams manage supplier alerts and inventory exceptions today",
+          "Check renewal date, contract coverage, and any open support issues that could signal broader supply chain pain"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Brief Sales on expansion opportunity: Workflow Automation use case for supply chain (supplier alerts, inventory exceptions, logistics approvals) and rough expansion TAM",
+          "Sync with Ops/Support to flag any recent P&G tickets or escalations related to supply chain data or alerting gaps",
+          "Agree with Sales/Account Executive on lead and positioning: CSM leads initial discovery; AE joins for use-case mapping and proposal if qualified"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2–3",
+        "tasks": [
+          "Email [VP Supply Chain Operations] with specific insight: mention their supply chain automation investment and offer a focused discovery on how to route supplier alerts and logistics exceptions more efficiently as teams scale down",
+          "Schedule a 30-min call to map their current alert/approval workflows and showcase a 2–3 use-case scenario from similar retail/CPG customers"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–21",
+        "tasks": [
+          "Conduct joint discovery with [VP Supply Chain Operations] and relevant supply chain leads (inventory, procurement, logistics); document critical workflows and alert/approval bottlenecks",
+          "Build a simple one-pager: 3–5 Workflow Automation use cases (supplier alerts, inventory exceptions, approval routing) mapped to P&G's supply chain efficiency goals",
+          "Develop a pilot or phased expansion proposal (scope, timeline, pricing) for Workflow Automation module; align with Sales on next steps"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log discovery outcomes, use cases, and pilot scope in CRM; set review cadence with Sales and Account Executive",
+          "Track engagement: email opens, meeting attendance, and feedback on use-case mapping to gauge interest and momentum",
+          "Measure success: signed LOA/contract for Workflow Automation pilots or phased rollout within 60 days"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supply chain efficiency: routing alerts and approvals as your operations scale",
+      "body": "Hi [VP Supply Chain Operations],\n\nWe've seen P&G's recent focus on automation and efficiency in supply chain operations. As your teams scale and headcount shifts, one challenge we often see is alert and approval overload—supplier exceptions, inventory flags, and logistics decisions landing in inboxes without clear routing or accountability.\n\nWe've built alerting and playbook capabilities into our platform that route critical supply chain events to the right team, automatically. Would be great to map a few of your workflows and show you how other CPG/retail leaders are catching issues faster with less manual review.\n\nHappy to chat this week if you're open to it.\n\nBest,\n[Your name]"
+    },
+    "slack": "P&G supply chain automation play: they're expanding workflow automation and cutting related headcount. We own Core Platform + Analytics; this is a gap to fill with Workflow Automation. Reaching [VP Supply Chain Operations] this week to discover alert/approval bottlenecks and map pilot use cases. CSM leads discovery; Sales/AE joins for proposal. Goal: signed pilot or phased expansion within 60 days.",
+    "crmTask": {
+      "title": "P&G Workflow Automation Expansion – Supply Chain Automation Efficiency",
+      "due": "In 3 days",
+      "notes": "Signal: P&G supply chain automation workforce adjustment and investment in operational efficiency (reported 2026-11-24). Whitespace: Workflow Automation for supplier alerts, inventory exceptions, and logistics approvals. Contact: [VP Supply Chain Operations]. Suggested play: discovery and pilot proposal for phased rollout. Next step: email outreach and 30-min discovery call to map current alert/approval workflows and use cases."
+    },
+    "doneWhen": "Signed LOA or contract for Workflow Automation pilot or phased expansion within 60 days.",
+    "generatedAt": "2026-11-24T22:56:49.525Z"
+  },
+  "a_1xdr96": {
+    "signalId": "a_1xdr96",
+    "account": "Target",
+    "signalTitle": "Q3 Earnings Beat",
+    "play": "onboard_expand",
+    "goal": "Celebrate Target's Q3 momentum and position Account Intelligence Analytics as a driver of their comp-sales growth, then secure commitment to expand analytics coverage into pricing optimization and private-label performance.",
+    "owner": "CSM/Acct Mgr. + Account Executive",
+    "contactRole": "VP Merchandising and VP Finance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review Target's Q3 earnings release and comp-store growth drivers; map to current Analytics Suite usage (merchandising dashboards, inventory, category performance).",
+          "Confirm current platform coverage: which business units, geographies, and product lines are on Analytics Suite today.",
+          "Check renewal date, contract terms, and any open support or feature requests from Target that may relate to their Q3 success."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and Finance/Ops stakeholders: frame the expansion play as 'lock in analytics ROI + grow coverage into pricing and private-label to sustain momentum.'",
+          "Align on internal roles: CSM leads relationship and expansion conversation; AE owns deal scope and commercial terms.",
+          "Prepare 1-pager: Target's current Analytics wins (comp-store growth correlation) + 3 expansion use cases (pricing optimization, demand forecasting, private-label brand performance)."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Merchandising] and [VP Finance]: congratulate Q3 results, reference their use of Account Intelligence Analytics, and propose a brief call to discuss how pricing and private-label analytics could help sustain this momentum into 2027.",
+          "Personalize: mention 1-2 specific analytics modules or dashboards they use, and tie them to the comp-store uplift narrative.",
+          "Suggest a 30-min call to explore pricing optimization and private-label performance tracking as next-phase use cases."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Conduct joint AE + CSM call with [VP Merchandising] and [VP Finance]: walk through how pricing and private-label analytics would extend their current capabilities and unlock new margin and market-share opportunities.",
+          "Scope the expansion: which teams (store ops, supply chain), which geographies or private-label brands, and which products (workflow automation and integrations as phase-two follow-ons).",
+          "Build a 90-day onboarding plan with clear KPIs (e.g., pricing elasticity insights, private-label market-share lift, demand forecast accuracy) and assign a technical champion to lead integration.",
+          "Include the CS Director: Target is a top-revenue account, so bring them into this play and the customer outreach whether the signal is a risk or an opportunity."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM: expansion opportunity (pricing + private-label analytics), target close date, and expansion revenue estimate.",
+          "Schedule 2-week check-in post-kick-off to validate data connectivity, dashboard adoption, and early insights.",
+          "Brief Product on Target's private-label analytics requirements and pricing-optimization roadmap priorities; feed back into product roadmap."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congrats on Q3—let's expand analytics to pricing & private-label",
+      "body": "Hi [VP Merchandising] and [VP Finance],\n\nCongratulations on Target's strong Q3—7.1% sales growth and 5.6% comp-store lift is impressive. We're proud that Account Intelligence Analytics has been part of your merchandising team's toolkit in driving this momentum.\n\nAs you think about sustaining this momentum into 2027, we'd like to explore how pricing optimization and private-label brand analytics could unlock even more value. We've seen peers use these capabilities to refine elasticity models, forecast demand with greater precision, and track private-label market share in real time.\n\nWould you be open to a 30-minute conversation with our team to explore what this could look like for Target?\n\nBest regards,\n[CSM Name]"
+    },
+    "slack": "Target posted Q3 earnings beat: 7.1% sales growth, 5.6% comp-store lift. Our Analytics Suite is in-use by their merchandising team. Play: expand analytics into pricing optimization and private-label performance tracking to sustain momentum and lock in ROI. CSM leads outreach and scoping; AE owns deal. Push for 90-day roadmap and early wins by Q1 2027.",
+    "crmTask": {
+      "title": "Expansion: Target Q3 Momentum – Analytics into Pricing & Private-Label",
+      "due": "In 14 days",
+      "notes": "Target Q3 earnings beat (7.1% sales growth, 5.6% comp-store growth) signals strong operational momentum. Current Account Intelligence products: Core Platform + Analytics Suite (merchandising focus). Whitespace: pricing optimization analytics and private-label brand performance tracking to sustain comp-store uplift. Future phase-two opportunity: workflow automation for supply-chain and store operations. Next step: CSM + AE to propose analytics expansion call with [VP Merchandising] and [VP Finance] by Nov 25."
+    },
+    "doneWhen": "Target commits to expansion project scope (pricing optimization + private-label analytics), assigns technical champion, and kicks off 90-day onboarding by end of Q4 2026.",
+    "generatedAt": "2026-11-24T22:56:50.042Z"
+  },
+  "a_1xibuxb": {
+    "signalId": "a_1xibuxb",
+    "account": "Kroger",
+    "signalTitle": "US corporate headcount reduction",
+    "play": "protect_renewal",
+    "goal": "Understand headcount restructuring impact on AI contract, demonstrate value of automation and analytics to protect pricing/margin capability during cost-reduction period.",
+    "owner": "CSM/Acct Mgr.",
+    "contactRole": "CFO or COO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Check renewal date, current contract scope, and any pending budget reviews tied to corporate restructuring.",
+          "Review Kroger's private-label and retail-media margin trends; identify manual pricing/demand analysis workflows that could be automated.",
+          "Confirm whether Kroger's IT or analytics teams have been part of the 3,000-job reduction."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Align with Account Executive and Sales on expansion messaging around Analytics Suite for pricing/demand; flag cost-containment context.",
+          "Brief Ops/Support: confirm platform and automation systems are stable and no support escalations tied to restructuring.",
+          "Prepare 1-pager: how Analytics Suite offsets headcount loss in category/pricing analysis and lifts private-label/retail-media margins.",
+          "Alert the CS Director: flag this potential churn / at-risk scenario at Kroger right away so they can weigh in on the save plan."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [CFO/COO] anchored to Kroger's cost-reduction commitment; offer a brief conversation on how to protect pricing and demand insights without manual analyst headcount.",
+          "If receptive, propose a 30-min call to map current manual workflows and explore how Analytics Suite could consolidate/automate them."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–21",
+        "tasks": [
+          "Conduct workflow discovery with [VP of Pricing] or [Director of Category Analysis] to identify bottlenecks and time savings.",
+          "Develop a ROI summary: headcount displaced, margin uplift on private-label/retail-media, and Analytics Suite cost vs. savings.",
+          "If deal-ready, propose a phased add-on for Analytics Suite tied to 2026 renewal or new fiscal cycle."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log all outreach, discovery findings, and ROI discussions in CRM; flag renewal risk/opportunity status.",
+          "Track whether Kroger's IT/analytics function headcount cuts materialize; escalate if contract risk appears.",
+          "Report back to Product: use case for Analytics Suite demand and pricing in retail; customer context on headcount/cost pressure.",
+          "Update the CS Director: report the status of the prior steps (validation, alignment, outreach, and actions taken) and keep them posted until the risk is resolved."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Protecting pricing insights during headcount transitions",
+      "body": "Hi [CFO/COO],\n\nWe're following Kroger's restructuring announcement and wanted to check in. As you shift some corporate functions, we're seeing customers in retail and CPG use Account Intelligence's Analytics Suite to consolidate manual pricing and demand analysis—effectively offsetting headcount needs while protecting margin on high-value areas like private-label and retail-media.\n\nWould you be open to a brief conversation about how that might work for Kroger? No pitch—just a conversation about keeping your pricing and category insights sharp during the transition.\n\nBest,\n[CSM name]"
+    },
+    "slack": "🚨 Kroger signal: 3K US corporate headcount reduction. Risk: budget pressure on analytics/IT spend and renewal. Play: position Analytics Suite as headcount offset for pricing/demand work, emphasizing margin protection on private-label and retail-media (Kroger's highest-margin business). CSM leads outreach to [CFO/COO] within 3–5 days. AE to support expansion framing. Flag if IT/analytics teams were part of cuts.",
+    "crmTask": {
+      "title": "Protect Renewal: Headcount Reduction — Frame Analytics as Efficiency/Margin Play",
+      "due": "In 5 days",
+      "notes": "Kroger cutting 3K US corporate jobs, shifting hiring to India. Signal suggests cost-containment and budget pressure on IT/analytics. Strategy: reach CFO/COO, frame Analytics Suite as headcount offset for manual pricing/demand analysis, emphasize ROI on private-label and retail-media margin protection. Discovery needed on current workflows and analyst headcount impact. Renewal risk if contract is in scope; treat as protection + upside expansion opportunity."
+    },
+    "doneWhen": "CFO/COO agrees to discovery call with pricing/category analytics team to map workflows and develop Analytics Suite ROI.",
+    "generatedAt": "2026-11-24T22:56:50.093Z"
   }
 }

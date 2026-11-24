@@ -1469,5 +1469,24 @@
         "publishedAt": "2026-11-22T10:02:21.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-24T22:56:17.769Z",
+    "source": "daily",
+    "headline": "P&G expanding supply-chain automation; workforce cuts signal internal transition but create urgency for external workflow-automation adoption",
+    "signals": [
+      {
+        "category": "Supply chain automation workforce adjustment",
+        "updateType": "restructuring",
+        "play": "automation",
+        "score": 1,
+        "summary": "P&G is expanding automation in supply chain operations and cutting related workforce roles. This signals P&G is actively investing in operational efficiency and automating supply-chain processes internally.",
+        "suggestedAction": "Reach out to P&G's VP of Supply Chain Operations this week to understand the scope and timeline of their automation roadmap. Position Account Intelligence's Workflow Automation suite as a complementary tool to route supplier alerts, inventory exceptions, and logistics approvals to the right teams—especially as headcount shifts. Offer to map their use cases against our platform's alerting and playbook capabilities.",
+        "sourceName": "Supply Chain Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTZ2enF3UXhmQ2ZuNUpzVWNSVkViUk1GdHZvRmdHdUVqVEliYm9NWXNxdEJTa2R0TUhNeDMwdDZrclBpSUFQNUJIVEdwM2JTZDh3bkZURFVBd2xhZDk0akY1dm84UXVjT3hkOWFXU1FYU3JtSF9MNVd4Um1qdmNiWDRfY2tpc1o0Uks2TXZEcTItcTZzTkgzZmstM3RYUkxRLUhLU1JXMmxaSUJDX0pTTVJrNjBLUQ?oc=5",
+        "publishedAt": "2026-11-24T20:21:14.000Z"
+      }
+    ]
   }
 ]

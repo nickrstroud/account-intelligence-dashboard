@@ -1029,5 +1029,24 @@
         "publishedAt": "2026-11-18T21:01:03.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-24T22:56:20.767Z",
+    "source": "daily",
+    "headline": "Target posts strong Q3 results with 5.6% comparable sales growth—budget available for analytics and automation expansion",
+    "signals": [
+      {
+        "category": "Q3 Earnings Beat",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported 7.1% sales rise and 5.6% comp-store growth in Q3 2026, signaling strong operational momentum and improved financial health.",
+        "suggestedAction": "Contact Target's VP of Merchandising and Finance to discuss how Account Intelligence Analytics Suite is driving the comp-sales uplift and whether they want to expand analytics coverage into pricing optimization, demand forecasting, or private-label brand performance as they scale.",
+        "sourceName": "Proactive financial news",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdjlObjg1bjhaX09wWjQ4cml6VEdKRnFudFJ5RFZLRWhRWXBON3Y1dm1Ec2dJYTZ3MlVyZ1NlMExYTjlwdnROOGtvNXZyZ21zV2hYNVg4VjdIN0R5Yi1rMFNKeU52QkY1SVF0SE9jajFPbmhzVkJSR2Q0WDU0TXpGbHNjcGV1YjdoUklXS0pkQ0pYNk9BbXlHcmFBMGZrOFVZZUhCU1V3QjhoRXRZRExXamFnbFJPejNWbDB2MzZZSFoydllkRmV5WUNrYm1ET2IyeTZUc3prdXdnaXhxNkVj?oc=5",
+        "publishedAt": "2026-11-18T14:25:00.000Z"
+      }
+    ]
   }
 ]

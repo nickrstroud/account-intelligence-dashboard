@@ -1604,5 +1604,35 @@
         "publishedAt": "2026-11-20T15:11:18.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-24T22:56:19.044Z",
+    "source": "daily",
+    "headline": "KDP experiencing analyst downgrade amid stock underperformance; restructuring/M&A activity signaled for 2027",
+    "signals": [
+      {
+        "category": "Rating Downgrade",
+        "updateType": "market",
+        "play": "retention",
+        "score": -1,
+        "summary": "Seeking Alpha has downgraded KDP's rating, signaling investor concerns about financial performance or strategic direction. Combined with stock underperformance, this suggests budget pressure may emerge.",
+        "suggestedAction": "Reach out to the CFO or Finance VP to understand whether the downgrade affects 2027 budget allocation and renewal planning. Confirm that the Core Platform investment remains a priority despite market headwinds.",
+        "sourceName": "Seeking Alpha",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkRGeVFCRkVYcHFPVEcwQ3RCb1B2Y0FhSm83bVV1WnJMUUU5cUg1S0x5UmJvbHFCTklKYklyNFN1QkxvYVMzaHM5T2JDd0Ewa0ZLYnV1ZFg0ZjBLajlIcVZkdGFGUEtPREZ0NUJreFBDZFJYRExLdGZ6VDF2OFNqRld5cFNLN3JzR1dKd2N1bmZva2xUMl9wOHRaS1I?oc=5",
+        "publishedAt": "2026-11-22T13:45:28.000Z"
+      },
+      {
+        "category": "Portfolio Restructuring / M&A Activity",
+        "updateType": "ma",
+        "play": "integrations",
+        "score": 1,
+        "summary": "MarketScale reports KDP is pursuing portfolio moves targeting 2027. Given KDP's history of M&A and divestitures, this likely involves brand acquisitions or separations that will drive new data integration and Core Platform expansion needs.",
+        "suggestedAction": "Contact the Strategy or M&A lead to learn which brands or business units are in scope for 2027. Prepare to pitch Data Integrations support for onboarding new units' ERP, POS, and third-party data sources onto the platform, and offer a phased integration roadmap.",
+        "sourceName": "MarketScale",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pETTV3LVZzY2JNd3J4eVJtbUJQbDBzeHNWeVFJVUVNUEIxZG1XYzhraWlRWFZlOUY3Zzc5VTVET1JyWjVSOE1kUmxyeTJIM2tCcFNaRXdIYklFQnpaeGxlR1dKMXhneWVsa2lJVGhPczA3dmRVMDZkbGkyY3ZLRXcwTVB1NE5zTVM3WS1SMmdtVnFGR0Nkdm5iUWNDMk9jbVR3Y1lBNEVDMWlsOHdfb0wwRjA?oc=5",
+        "publishedAt": "2026-11-22T02:41:49.000Z"
+      }
+    ]
   }
 ]

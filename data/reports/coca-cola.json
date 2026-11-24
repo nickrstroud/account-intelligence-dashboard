@@ -1443,5 +1443,46 @@
         "publishedAt": "2026-11-23T16:51:37.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-24T22:56:21.021Z",
+    "source": "daily",
+    "headline": "Coca-Cola facing margin pressure from rising costs and EU antitrust investigation of bottler operations; CFO hiring signals potential leadership focus on cost discipline",
+    "signals": [
+      {
+        "category": "Rising Input Costs & Margin Pressure",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coca-Cola navigating rising costs while protecting margins—a classic demand, pricing, and cost-structure optimization challenge where analytics-driven insights create defensibility.",
+        "suggestedAction": "Reach out to their VP of Finance or Strategy to discuss how the Analytics Suite's pricing and demand-forecasting tools can model margin scenarios under different cost and volume assumptions. Frame around helping them run pricing and promotional strategies with more precision during cost inflation.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenRfNXBHc3RoTFpWaFdZQzdPbHNhOGZqUG1qLW56eU5fZGdLaFBzUUFSX01OcnYyWk9KTTM2N3RkM1NQTjhvMGRCVDJrQ2k0VFdhMVNVcUpiMmxsdzZ4RDFaU2ZaNlVhY3JlbFJ4VkNXQWhrU0pfTllENGJVOEN3V0M2bzlDeXU5cm9yckhQRlNsLTY4QS1rZXVMWXg?oc=5",
+        "publishedAt": "2026-11-24T16:35:00.000Z"
+      },
+      {
+        "category": "EU Antitrust Investigation of Bottler Network",
+        "updateType": "regulatory",
+        "play": "automation",
+        "score": 1,
+        "summary": "EU antitrust probe targeting Coca-Cola's European bottler operations raises compliance and operational transparency needs. Bottler network performance and adherence monitoring becomes higher stakes.",
+        "suggestedAction": "Alert their General Counsel or Chief Compliance Officer that Workflow Automation can help standardize and audit bottler-network metrics (pricing, volume, promotions) across the EU footprint, reducing compliance gaps. Position this as risk mitigation for bottler operations.",
+        "sourceName": "FoodNavigator.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXhUVVh2Y2tQUGxjaFlLQ3YxSDlMX1Z6b2IwMWhJSXJaVGI4UTByazRKOGlmdmgtQmdWektJQ1VlVTVSZnpEd1NQSW42T05vMHAtVENRM2lybk5IRURINHpYU1Z6S0x4X3pJWTh1Mk1icGEzTHlIYkFMMkp5dUZabGRzTEkzR3VhNDl5Z2ZuRGRHUjN4YXdyenlOV2pfZ29NUm9vSzNodGE?oc=5",
+        "publishedAt": "2026-11-24T08:15:33.000Z"
+      },
+      {
+        "category": "New CFO Hire (David Elkins Incoming)",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "David Elkins (formerly Bristol Myers CFO) joining Coca-Cola as CFO is a leadership transition. New CFO often reviews vendor stack and financial analytics tools.",
+        "suggestedAction": "Schedule an introductory meeting with the new CFO's office in the coming weeks to briefly refresh Account Intelligence's role in their financial and category reporting. Keep it low-key; let them settle in and signal openness to future collaboration.",
+        "sourceName": "Fierce Pharma",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUENpNkQ5dGR6NkFHcEFWc21RT0JUbkhuQUVFa1h3d2hyaFZCWUQ5Rm5zQWtGVnR5QmpGUVpjN1l3YzRXZzFYTEZRcnlmWldzSXBXZHhNUlNfa01wdENqYjZqSk5xUktrMEN3Mkgzd3BGZGh6dkY1ZS1xQkhuaTRZc2lybjVoVk1Ja0IwbUZobTZJNm5zb2xqemZuemN0aDhfdnJxNktqbkI?oc=5",
+        "publishedAt": "2026-11-24T04:25:35.000Z"
+      }
+    ]
   }
 ]

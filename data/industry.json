@@ -1,5 +1,232 @@
 [
   {
+    "id": "ZC1jYXBhY2l0eS84NzU2NjIv",
+    "title": "JM Smucker struggles to keep up with Uncrustables demand",
+    "link": "https://www.fooddive.com/news/Smucker-uncrustables-shortage-supply-demand-capacity/875662/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-24T21:42:32.000Z",
+    "analyzedAt": "2026-11-24T22:57:01.075Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "J.M. Smucker reports Uncrustables sales exceeded $1 billion but the company is struggling to keep up with demand, outpacing internal growth forecasts.",
+    "angle": "Demand-forecasting misses and supply constraints are a critical pain point; analytics and automation tools help CPG manufacturers better anticipate category demand and manage production/supply-chain allocation.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "V4RVJsUTVNSFp1UVE_b2M9NQ",
+    "title": "Nebraska renewed a push to ban soda and candy SNAP purchases",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbG5OMktaMldYR2xlV0FfNy0yS2xmRHkyVndGS3FEWnN5dVNzUU5WSThJZ29xaDREZ3l0MjlGd2RGSnFNZ1ZoSG1Gb2hWM1JsWGx3UTBwaEJaaDN6UXVSaXQ2c1pNam9Qd3k0T3FBMERkTjdWaWtMT3EzWXcxaDFpODJMNFVWVGh5bkRxZl9QZkFGRGRmTUl1VmJvMTl4TjZ4a01sZWNYemlGejBKaExERlQ5MHZuQQ?oc=5",
+    "sourceName": "Nebraska Public Media",
+    "publishedAt": "2026-11-24T20:36:30.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Nebraska renews legislative push to ban soda and candy purchases under SNAP, targeting specific CPG categories.",
+    "angle": "Direct threat to beverage and confectionery revenue in a key region. CPG manufacturers like Coca-Cola and PepsiCo need rapid demand modeling and state-level sensitivity analysis to plan SKU and pricing strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cENXRVp0V0hrNVZVdz9vYz01",
+    "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - WNWN-FM",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlA1U2g4VFhmMWtfVGh5dkNPSURRTk9OeFg4M1JCb3JKSDVybWgtQklVaXpTQm9NbEVUaElBbjdaTnVmNjNEMTRYbEoyMjJRd2RfTXgyUzc2LTRaOUhNUm1YeS1TVzZmdHFsMTBvd1hUd2F0R2NGVGtNOUhReFloTjRtM2xlWFNnTkFuSDJRWVNyb2N0cmZFcU5QU3h6X2tHUHVoMEROWEdrUXU4Mlo0djB3UjVWczV5c0dRdEMtRGlXa3pCWEZtWHk5VUw?oc=5",
+    "sourceName": "WNWN-FM",
+    "publishedAt": "2026-11-24T19:35:27.000Z",
+    "analyzedAt": "2026-11-24T22:57:16.573Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "Trump administration preparing to announce new tariffs following a probe into excess factory capacity. The timing and scope of these tariffs remain unclear but signal continued trade policy pressure.",
+    "angle": "New tariffs will directly impact cost-of-goods for CPG manufacturers and retailers; customers need real-time visibility into tariff exposure and cost modeling across product portfolios and sourcing regions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UyU3pWT1dpMVJiWGM_b2M9NQ",
+    "title": "Oregon food-assistance program loses federal funding, slashes benefits",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUF6MWpSSmhfNmxlOU5jMDZBVGFsY0N2bnRZbFZoRHVkLS1IMlNHVGtLc1RkcGJfNzNRVEUtNkNjTHBEcjZOanBfVXNLMlFuNDZ6YlBSczlhWHZMek8xVzVHa2JnYkYwT0Z6QmxWT0RaZG9fd1lSdGkzZjVBb3JHMGNvdHY4d3VnN3p2SDJtSFpGSE5PZ0UxdHMydzVWQWVRZDNPZ2RsMU13VUp4TVRYbEl3b25LcmhNekHSAc4BQVVfeXFMTlBpWnRrMHNsQ3d6NW9QeUNuQ1phTXpHN1RoSUs4U0FFVGpGU1ZWbTlHNW9aaUZuWUFGRDViUEJIbl84NGNRck9hOTlxUWsyRXJobGNzU1ZZQ1l5S2YyNW9tamhQUlN0NEZqaDk5WF82SXF2RWJmN1l6dG93VWpoSGVlTzM0XzNZT1UyekhCVFMzN3lBSHZFeWpWNERKT1o5STlYc2YxbEZoUTdGOVd4OElkazRENzJnR0ZIMEt1RnNiVDZNNzU2SzVOWi1RbXc?oc=5",
+    "sourceName": "OregonLive.com",
+    "publishedAt": "2026-11-24T19:18:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Oregon's food-assistance program loses federal funding and slashes benefits, reducing purchasing power for low-income consumers.",
+    "angle": "CPG and retail customers need to track regional SNAP/benefit changes as they materially affect demand for price-sensitive categories and private-label mix. Demand forecasting and category analytics are critical.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bGRmVEZkTlVtTlRVUT9vYz01",
+    "title": "Ahold Delhaize Bets Big on Private Label",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1eFFZYzVtbktlTUk1MXR0LXdNNFhRYTVGNXdlMHBJdzhreEIxNEtHcGhwWE9jOFlMMVFlSGVwREFzRjE3TmRpc3YwTmRSMXNTWS01a0pYaXhYWnpkODczNE9iX1dYM0NrczhSRHdoOXJJaXhtNldfTFdNUmNTUQ?oc=5",
+    "sourceName": "The Food Institute",
+    "publishedAt": "2026-11-24T17:20:26.000Z",
+    "analyzedAt": "2026-11-24T22:57:08.918Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Ahold Delhaize is increasing investment in private-label assortment and brands, accelerating private-label growth as a competitive differentiator.",
+    "angle": "Major grocer doubling down on private label signals structural share pressure on branded CPG suppliers. Account Intelligence customers need category, pricing, and market-share analytics to track and respond to retailer private-label expansion.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9uLWV4cGFuZHMvODc1NTMzLw",
+    "title": "Procter & Gamble plans supply chain workforce cuts as automation expands",
+    "link": "https://www.supplychaindive.com/news/procter-gamble-plans-supply-chain-workforce-cuts-as-automation-expands/875533/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-24T17:11:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:01.075Z",
+    "updateType": "restructuring",
+    "relevance": 2,
+    "summary": "Procter & Gamble plans to cut up to 30% of product-supply headcount by 2030 as automation expands across its supply chain operations.",
+    "angle": "P&G's aggressive automation and workforce optimization strategy underscores the need for workflow automation and intelligence platforms to manage the transition and optimize remaining headcount productivity.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Procter & Gamble"
+    ]
+  },
+  {
+    "id": "hvdWxkLWtub3cvODc1NDk1Lw",
+    "title": "FedEx, UPS’ upcoming rate hikes: What shippers should know",
+    "link": "https://www.supplychaindive.com/news/fedex-ups-upcoming-rate-hikes-what-shippers-should-know/875495/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-24T15:21:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:01.075Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "FedEx and UPS are implementing 5.9% average rate increases with structural changes that could further squeeze customer budgets.",
+    "angle": "Rising logistics costs across CPG and retail supply chains create immediate pressure on margins; customers need advanced analytics and automation to identify cost offsets and optimize network decisions.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Blcm1hcmtldHMvODc1NTExLw",
+    "title": "How a forward-thinking tech entrepreneur is looking to future-proof the grocery industry",
+    "link": "https://www.grocerydive.com/news/daniel-vitiello-cooklist-agentic-ai-grocery-shopping-supermarkets/875511/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-24T15:14:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:01.075Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Kroger is deploying AI shopping assistant Cooklist to help customers with food selection decisions, signaling broader adoption of AI/data tools in grocery retail operations and customer experience.",
+    "angle": "Kroger's investment in AI-driven shopping assistants reflects the category's shift toward data-driven personalization and intelligence; relevant for conversations about analytics and automation capabilities that can support similar initiatives.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "1iaWxsLXZldG8vODc1NjAwLw",
+    "title": "New York governor vetoes GRAS disclosure bill",
+    "link": "https://www.fooddive.com/news/new-york-gras-bill-veto/875600/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-24T15:00:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:01.075Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "New York Governor Hochul vetoed a GRAS disclosure bill requiring manufacturers to disclose safety information, deferring food-safety oversight to FDA regulation.",
+    "angle": "Regulatory uncertainty around food-safety disclosure continues to shape compliance and labeling strategies; customers need data systems to track and respond to evolving state and federal guidance.",
+    "play": "platform",
+    "products": [
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xSE1uaGxNV0pYVDNjP29jPTU",
+    "title": "Digital twins are transforming food and drink",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeG1WV1ZEWERZcUlmaUVKa1BoVVVuQXVWUy1zbERzSW02NlI3dnhPd2dDUXVRZFVrdlRLdUNIU2ZVR3RBOHlxNGpMakN3bFNEeXJkZkktVDRiRDN1RWdVSGRzWFJjY2RSOVVTa0dhcmxtSWxObVNqUDRQQi1sdUFPVzItZU1RY0JzRVdHTkMyc1VQN1R0bHl3RWpkcWFGbDRmN1VwQS1HMnhlMWJXT3c?oc=5",
+    "sourceName": "Confectionery News",
+    "publishedAt": "2026-11-24T12:02:31.000Z",
+    "analyzedAt": "2026-11-24T22:57:16.573Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Digital twins are becoming an increasingly important technology in food and drink production and supply-chain optimization.",
+    "angle": "Emerging tech adoption signal for food and beverage companies; market awareness that leading CPG and retail players are exploring digital twins for forecasting, demand planning, and operations visibility.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "QzE2TlVKQ01HcEpRUT9vYz01",
+    "title": "Grocery stores offer discounted Thanksgiving dinners at a loss",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XZlNvZVQzVjRFT2N2WFFBY0pkQmNZRDB5bFp2OTVrV1VoenhtRW5ZTHc4c0l1bFk0Tjk2azVvd0d1NUFwcldqeklIeEQwZ0tmWGcyWWdYWGdDZloyRl82WFA1aFYyeVB5N3V4eU96Ylp6NjcxeC16NUJCMGpJQQ?oc=5",
+    "sourceName": "Morning Brew",
+    "publishedAt": "2026-11-24T06:14:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:08.918Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Grocery chains are running loss-leader Thanksgiving promotions, signaling aggressive price competition and margin pressure heading into holiday season.",
+    "angle": "Loss-leader tactics indicate intensifying retail competition and pricing pressure. CPG suppliers and retailers need real-time pricing and promotion analytics to respond quickly and protect margins.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VGhWVFVwTVZ6ZDRSZz9vYz01",
+    "title": "Price Relief Is Nowhere in Sight",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCaFo3V0lKVzlzajFvWW05aTRQNGRTNm53aTNjc2M0R00wODdSLVpxRVZCN3F3RmwyNnBJNUtJa2tIRUlGZlF3QWNQY01GWUJjeVNEZl9UR1R1TGJ5NkdKM3hJbThVTUpMVzd4Rg?oc=5",
+    "sourceName": "The Robin Report",
+    "publishedAt": "2026-11-24T05:01:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:08.918Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Industry analysis signals sustained pricing pressure with no near-term price relief expected across CPG and retail sectors.",
+    "angle": "Persistent inflation and pricing pressure require ongoing visibility into cost of goods, margin dynamics, and pricing elasticity. Retailers and CPG manufacturers need advanced analytics to optimize price realization and manage profitability.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ra3RhR0YxYWt4UWR3P29jPTU",
+    "title": "Retailers gain relief as US port strike threat eases",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2NsNHFDSzdQNHJiVERubGt6d3hLQlVOaXVhaGxYaWNRcUpsajFsV2N2QzdRRUhBWFpzSkI0S3llQXFuWWJzdXpoX3BVZ1JHV05aOVhacXNzbFNqajkxUGVQUUt1VmdSN3dTaHBvU3VVRmZiYUp2NV9lbTU2dEJwVXA4RmdsQXhxTEo1YVpOZjhidVVUdkktaGF1akxQdw?oc=5",
+    "sourceName": "Retail Insight Network",
+    "publishedAt": "2026-11-24T02:34:39.000Z",
+    "analyzedAt": "2026-11-24T22:57:16.573Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "US port strike threat has eased, providing retailers and brands with relief from potential logistics disruptions during peak holiday season.",
+    "angle": "Averted supply-chain crisis is a good backdrop to discuss demand-planning and supply-chain visibility tools; proactive conversation opportunity before next crisis emerges.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "WMFV6RkZRMlJQZDJjP29jPTU",
     "title": "Costs of materials are going up and show little sign of slowing",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDZFOEtUazF4bjc0RDhlOElRMUQ5MmNSNXZ5aUhlYy1KODN3LVFPbEZWa1VMNVV0STJHdG8zclkzWFRJV3pIYzhHbktTQS1yV29Oa2FZUWx4NE9rQmZCOWF2Y2k3NEYxRWxDZy0yUmJTWDJCczBkT1h2eThCUnBjV1ZWd0lzdXczUUlBSlVQa2c1dkVhNkZmeTFmTnlzcm1tVlA1aFV0UzFFQ2RPd2c?oc=5",
@@ -10,6 +237,40 @@
     "relevance": 1,
     "summary": "Material costs are rising with no near-term abatement, adding to inflationary pressure on CPG manufacturers and retailers.",
     "angle": "Sustained material-cost inflation requires real-time cost tracking and scenario modeling. This is a background talking point about operational pressure and an opportunity to discuss automation and analytics capabilities.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aFliM2xDVEVSMVFVWT9vYz01",
+    "title": "Port Strike Averted at Los Angeles and Long Beach Pending Vote",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZW5Fa1otVG9DNFUtTjNZZU5pQS1mQ2FtNnNWaTZmQTROaHozSjZHbDdaWThkcmxHNlRRX1E4OXNWY0hPVDN0dGc4VGh4dHlVZmJhemRWMk5EajVPalhjN01OVG5JNE5UNkx0ejBWZEhWeWdYSXpGMW4tX3dDV0FkbmpFbElWRlRTdFkydVl0ZXptWlhYdDN1ak1keXRvSmhYb3lCTER1QUY?oc=5",
+    "sourceName": "Inbound Logistics",
+    "publishedAt": "2026-11-23T21:22:34.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Port strike at Los Angeles and Long Beach averted pending union vote, reducing near-term supply-chain risk.",
+    "angle": "Resolution reduces immediate fulfillment and inventory risk, but customers should continue monitoring labor negotiations and port capacity. Automation tools help manage ongoing supply-chain volatility.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tWekYyUzNGME9VdEo_b2M9NQ",
+    "title": "Lawsuit targets SNAP food restrictions in Arkansas, 17 other states",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlpRUEFiWjkxRnBHcGM5c2gwb2JtdmlOYzNXdlh2Z1p4YjdjTTh6bmNZUlNZaGVLV2h3NWpmQXhtVWRSTElXUExMbWhBVkIyWnpLdWFNd0QtTGR0WFdHcWI2S0dISXdRUXlrM3J1Y2VIZV9ESFN6emxQMEZwRElnSzJ5bm5wWHI5QV9FRW5aOE5Ld29WZUJMRzFFM2hDWTdpdUtMWlpsMDJtYmw4el9YQ0xKVzF2S3F0OUtJ?oc=5",
+    "sourceName": "KUAF Public Radio",
+    "publishedAt": "2026-11-23T21:04:46.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A lawsuit challenges SNAP food restrictions in Arkansas and 17 other states, creating legal uncertainty around which products are eligible for benefits.",
+    "angle": "Multi-state SNAP eligibility uncertainty creates demand volatility and category mix risk for CPG and retail. Customers need fast analytics and scenario modeling to understand impact on SKU-level sales.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -147,6 +408,23 @@
     "angle": "Unionization and labor disputes can disrupt operations, increase labor costs, and require retailers to model wage and staffing scenarios. This is background context on broader retail labor pressure affecting the sector.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pWc0xXNUthSFZQU1E_b2M9NQ",
+    "title": "More Than 110 Trade Groups Urge Deal as LA-Long Beach Port Strike Deadline Nears",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXZtN2JtZ3JyeGg5Y09hSnVBaDBuVXJRbk9YX0ItbS1XTkNXMk9hXzFDSjRZamxLdm1adzBrOWNjR0ZERGZpdlZxV2tYTnZiMkJneHdkN2hUWmx2VFkzX180Q21Fd3FGYXY5YlNqdTFhVV9MczlnbXd1RnRGZ1NDZlgzUGNWamtEMVhBYmdoaE83VUlBaGZCWndnQzVsLW5KaHVPSQ?oc=5",
+    "sourceName": "gCaptain",
+    "publishedAt": "2026-11-20T22:33:04.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "More than 110 trade groups urge a deal as the LA-Long Beach port strike deadline approaches, signaling critical supply-chain risk.",
+    "angle": "Port disruption would materially impact inbound inventory and fulfillment for CPG and retail. Automation and supply-chain alerting help customers monitor risk and trigger contingency workflows.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
     "mentionedAccounts": []
   },
   {
@@ -412,6 +690,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "akl3ZFhNM05WQm1iQT9vYz01",
+    "title": "From Premium to Transparency, PLMA Show Reveals What's Next in Private Label",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTBKM01vS1dWYVJ0cTB3Tkh1NlE0Q0szaHdUVzQ0QUlpMHhkWDVLUjZOd0NkTHMwSmg4WmJNMURMaFQxcjFWR1I4SVNrZXNJRkNUQzI2OF9vLTdQZE1PV190aEwwaHRGazhxR3FwRTEzLXlLdFFVMTVXS3RCY1lyZ0NrRjJ3M2x6ZjBfYjMyYjIwdXM3NVBmbA?oc=5",
+    "sourceName": "Progressive Grocer",
+    "publishedAt": "2026-11-20T12:30:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:08.918Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Private-label growth and premiumization trends emerging as key themes at PLMA Show, signaling continued shelf-share pressure on branded CPG players and evolving retailer strategies.",
+    "angle": "Retailers are actively shifting toward private label and premium positioning. CPG and retail customers need visibility into competitive pricing, share dynamics, and category performance to defend position and optimize assortments.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "bTF4ZWpOaWJrZ3RhUT9vYz01",
     "title": "Companies Are Getting Billions In Tariff Refunds—What Happens To Consumers?",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmVyN3RTWVlGRGdGMmxhS1hnbndxeFU5U3lWQkNQVXpGSUQ1YWVUWUxvclR4U3BTNTQ0Snpramo3aTZRcFJtNk1wSmRtbjd1NVR3elhOUDNhT3ZncUM0a3VJWURZWmdYeHB6ZXpkbjBOMWNwUFN0OWFOMVRQdGtoTzBPdnFtaHpHMHo4TUFWX0l4dER0eVZNdHpxcFBhQVpGNGRQaXJSZWN6bWZCWkJlTHZYNm1xejNibkgtaQ?oc=5",
@@ -477,6 +772,26 @@
     "relevance": 2,
     "summary": "Walmart global ad sales up 25% YoY with U.S. increasing 37% in Q3 2026, outpacing company growth.",
     "angle": "Walmart's accelerating retail media revenue signals increased data and audience analytics investment; expansion of advertising and attribution analytics is a natural upsell for existing platform customers.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "GMVpXaDRXRmxmY2xRP29jPTU",
+    "title": "Walmart Global Ad Sales Jump 25% In Q3 11/19/2026",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3dxcGtUZFFaN21iSFhXQ1dNaVd0STU1aWdaXzdXbVpoX05WNW84OWdURHVPUkp6UUZxWWQzdGVzN2lOM2VSWnJhSTY0MWhDcXZYdmRlU3VJdEVMNzRYT2sxWDlfUEltQlNwN0hYNFQ3TUxuM3loYkhaMndUUUtaV251MFIzRVpsU2syQXItV0N0N3F1ZWh4WFlfclQ?oc=5",
+    "sourceName": "MediaPost",
+    "publishedAt": "2026-11-19T20:11:56.000Z",
+    "analyzedAt": "2026-11-24T22:57:16.573Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Walmart Global Ad Sales grew 25% in Q3 2026, reflecting strong advertiser demand for retail media and first-party data capabilities.",
+    "angle": "Walmart's ad sales momentum shows retailers gaining competitive advantage through data-driven media; CPG suppliers need better analytics and integration tools to compete for shelf and digital space in Walmart and other retailers' media networks.",
     "play": "analytics",
     "products": [
       "analytics",
@@ -700,6 +1015,25 @@
     "products": [
       "analytics",
       "integrations"
+    ],
+    "mentionedAccounts": [
+      "Walmart"
+    ]
+  },
+  {
+    "id": "hyV2s0MFYzbDRaems_b2M9NQ",
+    "title": "Walmart Sees Weakest Global Ad Sales Growth in 2 Years",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1loSU9ZUDdVblYxOVRpOUViVjJaVktyM0V3dkZqeEtYSWVkMVBBb19zSGlmc1NHS2xIV3djM2dpWGVPckdYWWZsY2xCUmNUSkdEMjh0d3BQTGFhM1VLcmdNUDlCNTU3LUtNa3JkeDMyT1RJZVU5ZjdQUkQwWlVlaEx2MmFySkhrWk40V3l4Zzk?oc=5",
+    "sourceName": "ADWEEK",
+    "publishedAt": "2026-11-19T15:34:27.000Z",
+    "analyzedAt": "2026-11-24T22:57:24.427Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Walmart's global ad sales growth has slowed to its weakest pace in two years, signaling potential saturation or competitive pressure in retail media.",
+    "angle": "CPG customers need to understand shifts in Walmart's ad-tech strategy and pricing as retail media becomes a larger part of their go-to-market mix. Analytics and automation tools help quantify ROI on media spend.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": [
       "Walmart"
@@ -1188,6 +1522,26 @@
     ]
   },
   {
+    "id": "FWRXRVWkRSTGEzQnU_b2M9NQ",
+    "title": "Kroger names new retail media chief",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWZlZDNHSWt4RkQ0V25BelhKUUlhWno2MmFGTE9Da3lpUzRwWmJEUHozdTBQVGIyWk1KdFdGWGs0QWpwdTl0VWUxd05BOER2N2U2dlFGcXBmNUpXQ0hTWFJRaXR0Z1ctckxseXBjbTlhM01oa21vdlh3YmczVmp5Ry0tVlhsdHBIdVBNUnFZMW9GRUZENVFaVEtUZDRLa3Bu?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-18T16:25:00.000Z",
+    "analyzedAt": "2026-11-24T22:57:16.573Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Kroger names new retail media chief, signaling continued strategic focus on retail media growth and monetization.",
+    "angle": "Kroger's leadership hire underscores retailer shift toward first-party data, analytics, and media capabilities; timely moment to discuss how Account Intelligence platform enables better audience data, pricing analytics, and campaign performance tracking for media operations.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
     "id": "dHMtZ3JvY2VyeS84NzQ5MDUv",
     "title": "Why grocers are opening new price-focused stores",
     "link": "https://www.grocerydive.com/news/value-formats-supermarkets-grocery/874905/",
@@ -1293,6 +1647,23 @@
     "play": "automation",
     "products": [
       "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bnBLWkdsSlZGOUZZdz9vYz01",
+    "title": "US Department of Justice to Review DoorDash – Instacart Merger",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnRCQUlNWWhyMkIxZFE2RDBEa3pNU2c1dFBIY3dQRXE2MVlPTE8wSkRKb2FVT2pXaEY4OVJudnVxblJ0bnBIQ25BT1VmcktZUTRscGJ4SzFEX0I1RmJFRFF4UndJbWtOS0tId3dSQm5oNjBIUG52eEJrUUxZVGlqMkoyV216NnpKZGlJVF9FYw?oc=5",
+    "sourceName": "Florida Daily",
+    "publishedAt": "2026-11-18T03:19:12.000Z",
+    "analyzedAt": "2026-11-24T22:57:08.918Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "US Department of Justice reviewing DoorDash–Instacart merger, adding regulatory scrutiny to rapid consolidation in e-commerce grocery and third-party delivery.",
+    "angle": "Major e-commerce and grocery-delivery consolidation faces regulatory uncertainty. CPG and retail customers need to track digital channel disruption and prepare supply/demand plans for multiple competitive scenarios in online grocery.",
+    "play": "platform",
+    "products": [
+      "platform"
     ],
     "mentionedAccounts": []
   },

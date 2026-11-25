@@ -1048,5 +1048,24 @@
         "publishedAt": "2026-11-18T14:25:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-25T22:12:00.563Z",
+    "source": "daily",
+    "headline": "Target raises Q3 sales outlook ahead of holiday season—budget environment supports Analytics Suite expansion",
+    "signals": [
+      {
+        "category": "Q3 earnings and guidance raise",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target raised sales outlook in Q3 earnings call, signaling strong financial performance and improved consumer demand heading into the holiday season. With stronger-than-expected results and positive momentum, merchandising and category teams will have budget to invest in advanced analytics and demand forecasting.",
+        "suggestedAction": "Schedule a check-in with Target's VP of Merchandising Strategy to discuss how they plan to leverage pricing and demand analytics to optimize holiday inventory and promotional mix. Highlight how Analytics Suite can support their elevated sales targets with real-time category performance and pricing elasticity modeling.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnJ2b0NBWnVBSUhxaEUtUVkwajBYM1FYeF8yOXA0WUZzdlVoVHdvZzFwQ185aWo5dVhyYXduenlhenlmYlRlX0loMTlNaFVFTDNFbE9feW5iZlVlUXBEcWNQaWx6YmFHcmtoWjJzWHJrX3ZHME8tcjRGTTdobFpmaG9OZzFROE84d2hFcDFHSmZWeTF1ZTJZNmFNSVp3WXV1eWkybTRjSGFycTNyNGFQVnN4b043RjJBYlk0Zg?oc=5",
+        "publishedAt": "2026-11-19T14:00:00.000Z"
+      }
+    ]
   }
 ]

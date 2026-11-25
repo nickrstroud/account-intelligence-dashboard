@@ -1488,5 +1488,24 @@
         "publishedAt": "2026-11-24T20:21:14.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-25T22:11:57.199Z",
+    "source": "daily",
+    "headline": "P&G reports Q4 2026 earnings; moderate growth and guidance maintenance provide stable budget environment",
+    "signals": [
+      {
+        "category": "Q4 2026 Earnings",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Procter & Gamble reported Q4 2026 earnings. While the article header alone doesn't specify performance detail, quarterly earnings calls for a company of P&G's scale typically indicate financial health and budget availability. Stable or positive guidance supports continued investment in analytics and reporting capabilities across brand teams.",
+        "suggestedAction": "Review the earnings call transcript for specific guidance on category performance and geographic expansion. Contact the finance/strategy team lead to understand if any brands are receiving incremental budget for demand planning and pricing analytics in 2027.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaml4RHJlNUlCUXJrVGh2eVRsZmRFWUNkOWFBckp2NElEMW1BRDI3SWwtbmtjN01zVmhuNUtYczBacHlIRVZ3LUNfNzZHeWxoWEQwQnh6NW9jcTd5X0MxcGduRWEyaTByb214Tw?oc=5",
+        "publishedAt": "2026-11-19T09:36:41.000Z"
+      }
+    ]
   }
 ]

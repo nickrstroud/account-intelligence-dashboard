@@ -1822,5 +1822,35 @@
         "publishedAt": "2026-11-23T16:12:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-25T22:12:03.856Z",
+    "source": "daily",
+    "headline": "Kroger layoffs and India expansion signal restructuring risk; monitor retention and integration roadmap",
+    "signals": [
+      {
+        "category": "Corporate layoffs (3,000 jobs)",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "Kroger is cutting nearly 3,000 corporate jobs while building India operations. This signals cost pressure and organizational churn that may reduce internal adoption, training, and cross-sell capacity on existing products.",
+        "suggestedAction": "Schedule a check-in with the Kroger platform owner (likely supply chain or analytics lead) to understand which teams were affected and whether the layoffs touch any key stakeholders or workflows running on Account Intelligence. Use the conversation to reinforce value of Workflow Automation in a leaner environment.",
+        "sourceName": "Inc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFRXUmlOZ1g2Z1EwNmdWTWVHYTdrdzQ3UHdsUWFZSDRQQkEyRUdIZXBGa3czdU51RF9QVWY2VUk5ZVdpVmY4eHRvb0h0R3U3QXBZZ3dfM1hHZWxtUHpneVkzSGNha3JHV2tFT24xS0E0dWQzRk1aY0hMMGNjQ0VIYzIzTUxXc2FiRDhsQm1HeW1oRmFtSEp6Q2dPTEFnTVIwNkcybTZFU2R2THk1VnVkVHJCTGxVMTZ0TGljaQ?oc=5",
+        "publishedAt": "2026-11-24T20:42:49.000Z"
+      },
+      {
+        "category": "India operations expansion",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Kroger is building India operations, signaling geographic expansion beyond its core US footprint. New market entry will require data connectors, localized supply-chain integration, and platform extension to cover the new geography.",
+        "suggestedAction": "Reach out to VP of Supply Chain Operations to understand timeline and structure of India operations (JV, subsidiary, sourcing hub). Propose a Data Integrations scoping call to map Indian supplier, inventory, and logistics systems into the platform.",
+        "sourceName": "Progressive Grocer",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVhDd0xYMXl3NHowdk9tYk5DN19HSnlJdkF1Z1UwNWI1d2hPTVBDQlJFZ3hiVUZxTEY0MEppWndJV00xN3RjU2d3Y2lTSjROX1d3aTB6dUVFTXN6ZDYtS1o2TzJwX1lUY3BWT1VpMXJ5Zi04c2lnUVVQMlNqSlhyeGpWdWxJYXB1VVkyaGl1MFZjUQ?oc=5",
+        "publishedAt": "2026-11-23T16:12:23.000Z"
+      }
+    ]
   }
 ]

@@ -1267,5 +1267,24 @@
         "publishedAt": "2026-11-20T08:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-25T22:11:58.503Z",
+    "source": "daily",
+    "headline": "Walmart raises FY targets despite fuel headwinds; holiday momentum signals pricing power and volume growth",
+    "signals": [
+      {
+        "category": "Raised guidance & strong holiday sales",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart lifted annual targets ahead of holiday season despite flagging fuel cost pressure. Signal of pricing strength, volume growth, and margin resilience—all inputs for demand and pricing analytics.",
+        "suggestedAction": "Schedule a brief check-in with their Finance/Strategy lead: ask how the holiday momentum is tracking vs. forecast, and offer to run a demand/pricing analysis across key categories to help them optimize holiday promotions in real time. This surfaces the Analytics Suite's value for in-season tuning.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5",
+        "publishedAt": "2026-11-19T18:38:53.000Z"
+      }
+    ]
   }
 ]

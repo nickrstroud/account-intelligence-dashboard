@@ -1877,5 +1877,35 @@
         "publishedAt": "2026-11-19T13:14:23.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-25T22:11:59.336Z",
+    "source": "daily",
+    "headline": "PepsiCo launches new products and expands hospitality channel; modest expansion signals with pricing/analytics whitespace opportunity",
+    "signals": [
+      {
+        "category": "New product launch (Scoops lime flavor)",
+        "updateType": "expansion",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo is launching a lime-flavored variant of Scoops, adding to its snack portfolio. While product line extensions are routine for a diversified CPG of this scale, the launch signals continued portfolio management and category activity.",
+        "suggestedAction": "Mention this new SKU to the demand-planning team at PepsiCo; offer a brief competitive-positioning analysis to understand how pricing and shelf velocity for the lime variant might compare to existing flavors. This is a soft entree to Analytics Suite value for snack category pricing and demand elasticity.",
+        "sourceName": "Food Business News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUE1ZYVJ2VDFGb1piZXcwbkhSbV9XVEFfcFhkbVl5azVYeWZtTWg1NVFCd3FFV1NJSnVIT25lU1F1SWtFXzJkZXBabnJPd3czZlp4S3dEcDctd2w1OEdXM3phd2pnX1JrelNJX1l0T2NRZ1BfUDFBWGpGcjkwRFhXQ09LM1pYMEFDaVFF?oc=5",
+        "publishedAt": "2026-11-23T14:00:00.000Z"
+      },
+      {
+        "category": "New distribution channel (Hyatt hospitality)",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 1,
+        "summary": "PepsiCo has signed a 10-year F&B deal with Hyatt spanning 700+ U.S. hotels. This represents a material new channel for beverage and snack distribution outside traditional retail, requiring new data flows and demand forecasting for hospitality.",
+        "suggestedAction": "Contact the VP of Supply Chain or Demand Planning to discuss how the Hyatt channel will be onboarded to the platform. Offer a Data Integrations scoping call to map POS and inventory data from Hyatt properties into the demand model—this is a concrete expansion moment for integrations and platform coverage.",
+        "sourceName": "Food & Beverage Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGYyRTdmZlEyemo4RGYtWXExSXp3MEZ6MTIzNW5jdnpmTk1VdXFtek9KWHp4V3N5S1lpTFdKc2dqcjljcUxnZGI1S09ZVGRobU51a3VVRVJZNkhxMFotTGxXY0lzTjJIZWVHbUlmbEZReDVXNk9PN1NVQ1BlSzNtLVY0QndGM2NZc0J4SzkweHR4bkFvWHc?oc=5",
+        "publishedAt": "2026-11-19T23:54:29.000Z"
+      }
+    ]
   }
 ]

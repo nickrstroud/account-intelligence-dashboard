@@ -1484,5 +1484,24 @@
         "publishedAt": "2026-11-24T04:25:35.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-25T22:11:57.202Z",
+    "source": "daily",
+    "headline": "Coca-Cola CFO transition: 40-year veteran Murphy retiring; Bristol Myers executive incoming",
+    "signals": [
+      {
+        "category": "CFO departure and replacement",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": 0,
+        "summary": "John Murphy, Coca-Cola's long-tenured CFO of nearly 40 years, is retiring and being replaced by a Bristol Myers executive. This is a significant finance leadership transition at the account.",
+        "suggestedAction": "Schedule an introductory meeting with the incoming CFO within the next 2-3 weeks to establish relationship continuity. Confirm that Analytics Suite and core platform reporting remain prioritized in the finance organization's roadmap, and explore whether the new CFO brings experience with workflow automation or supply-chain data initiatives that could open the Workflow Automation whitespace.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0VZWUFHclppelBNZ3J4WF9nTXpyMkpYSEFEVGVidVRqMXR0TzZUSkhMcXdrdGRLVlZ1Yms3aS1NZk1kR3h5RTVldzVmWHdycHo4b1NaM1NPbTdJMHNuXzh6R3hocDdodjkxdEdPVjdUZjA2OEdCUTJCdmxlWU1uUkVSSHo?oc=5",
+        "publishedAt": "2026-11-25T13:37:00.000Z"
+      }
+    ]
   }
 ]

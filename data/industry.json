@@ -1,5 +1,204 @@
 [
   {
+    "id": "bk5WWVU5Q2VreDZWUT9vYz01",
+    "title": "Tariff inflation was fading. New proposed tariffs could reverse that",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2EyV2NPWlV3cUJhMnhrNE9DX2ZZUTkzU05NZTdBUy1rbGpTQ1BwN1lMTGdiZHpSWHFPNVNTQlVBRldzYlJmV3ZPNkEzQTlsTXdPcWhLRE55VWNMV2RUc1pxVDYwSUdmZHI2ZzRjakdrbHRZUzktQnpQX19wWXVVLWFTTEROYmt4V204MHZ1QS1URG5kcUg1bDd6VHBYMUVOdm1rc2hnZWZsOHJDZncyckJSTjZwMWl3Ykd2SlBZb01BZE9va0g1UHJ1RW9IdnNVYU9Cekx6VQ?oc=5",
+    "sourceName": "Detroit Free Press",
+    "publishedAt": "2026-11-25T20:38:00.000Z",
+    "analyzedAt": "2026-11-25T22:12:51.526Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "New proposed tariffs could reverse the recent fading of tariff inflation, creating cost pressure on imported goods.",
+    "angle": "Tariff headwinds are returning and will directly impact cost of goods for CPG manufacturers and retailers. This creates urgency around cost modeling, margin forecasting, and pricing strategy—use this as a hook to expand analytics coverage into tariff-impact scenarios.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "l0LWxheW9mZnMvODc1Nzg3Lw",
+    "title": "Dole Packaged Foods to lay off over 400 workers amid plant closures",
+    "link": "https://www.fooddive.com/news/Dole-closing-plants-california-fruit-layoffs/875787/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-25T16:49:39.000Z",
+    "analyzedAt": "2026-11-25T22:12:46.466Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Dole Packaged Foods is closing two California plants and laying off over 400 workers to streamline supply chain and improve competitiveness.",
+    "angle": "Supply-chain consolidation and plant closures across the CPG sector underscore the need for robust data integration and automation to optimize remaining facilities and forecast demand more accurately.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bi1jb25jZXJucy84NzU2Mzkv",
+    "title": "US readies tariffs over manufacturing capacity, production concerns",
+    "link": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-25T16:34:26.000Z",
+    "analyzedAt": "2026-11-25T22:12:46.466Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "The US is readying proposed tariffs ranging from 15% to 35% on goods from China, the EU, and 12 other partners following a Section 301 probe, with direct cost and sourcing implications for CPG and retail supply chains.",
+    "angle": "Imminent tariff decisions will force immediate cost-structure reassessment and supply-chain rebalancing at CPG manufacturers and retailers; customers need real-time visibility into landed costs and scenario modeling to protect margins and pricing strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Blcm1hcmtldHMvODc1NzU0Lw",
+    "title": "Kroger starts corporate job cuts",
+    "link": "https://www.grocerydive.com/news/kroger-layoffs-grocery-supermarkets/875754/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-25T16:17:00.000Z",
+    "analyzedAt": "2026-11-25T22:12:46.466Z",
+    "updateType": "restructuring",
+    "relevance": 2,
+    "summary": "Kroger has begun issuing layoff notices as part of a previously announced plan to cut approximately 3,000 positions over three years.",
+    "angle": "Organizational restructuring at a key account creates an opportunity to assess how Account Intelligence's platform and automation tools can help streamline remaining team workflows and improve operational efficiency during transition.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "automation"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "wcGx5LWNoYWluLzg3NTY1NC8",
+    "title": "PETA alleges animal abuse in PepsiCo’s supply chain",
+    "link": "https://www.supplychaindive.com/news/peta-alleges-animal-abuse-in-pepsicos-supply-chain/875654/",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-25T16:17:00.000Z",
+    "analyzedAt": "2026-11-25T22:12:46.466Z",
+    "updateType": "legal",
+    "relevance": 2,
+    "summary": "PETA has submitted a shareholder proposal alleging that PepsiCo's sugar sourcing practices pose animal welfare risks, raising supply-chain transparency and compliance concerns.",
+    "angle": "ESG and supply-chain transparency scrutiny is increasing; PepsiCo and other CPG companies need better data integration and visibility across sourcing to respond to activist demands and mitigate reputational and regulatory risk.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "PepsiCo"
+    ]
+  },
+  {
+    "id": "LWR1bm5odW1ieS84NzU2ODQv",
+    "title": "GLP-1s shift entire household spending toward fresh products, research finds",
+    "link": "https://www.grocerydive.com/news/glp1-usage-grocery-spending-fresh-products-dunnhumby/875684/",
+    "sourceName": "Grocery Dive",
+    "publishedAt": "2026-11-25T15:06:00.000Z",
+    "analyzedAt": "2026-11-25T22:12:46.466Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "GLP-1 adoption is shifting household spending toward fresh, lower-sugar, higher-protein products, and retailers can use customer data to identify and target these households.",
+    "angle": "CPG and retail customers need to rapidly adapt product mix and merchandising strategies based on emerging consumer demand; analytics and data integration capabilities help them segment customers and respond faster than competitors.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "BPWFJ4T1RoWlZYaE8_b2M9NQ",
+    "title": "How Kroger, Sam’s Club signal retail media’s future",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjVHUkRINEs2RnRvc1RZOWpJLWFrR0lSTk5UcThMcmVLZDFyU18zVUVheWVmQXdQTGs3dUpiS3M1VDZvNnlpYnBjLXYyWHBVRFRaRTRHbmVzTkg5VlQzMnpaeTA2NTl2WW9MNk1TMkhyX3ZIaE1hTHNfdGtfR3gxaDVWbWVhOHFwbVljVkVQNmYzNWlhaTA1Q0pvaWxhMDJaS2VNZmxsLVhnXzZIYWlQMkJtVG5ERGdBTVNpOXRxOThZVXhO?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-25T14:22:00.000Z",
+    "analyzedAt": "2026-11-25T22:12:57.072Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Kroger and Sam's Club expanding retail media capabilities and signaling the future of retail media growth in grocery.",
+    "angle": "Retail media networks require data integration, analytics, and platform capabilities to manage sponsored content, drive profitability, and serve CPG brand partners.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "analytics",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "kTVpVUmZaWGwxU0VFP29jPTU",
+    "title": "Home Depot Stock And Other Retail Names Facing New US Tariff Pressure",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmYyelVJVEJFRXZuc1BvZlZUWkRCYmtuNkY1b2lLdU8yc19tWk5TcXZCVzVHckxDS0ZGSGhBMHJ2ZXdrRkt3VkljNnIxWnNsOU5ydW5rU3FsM2xQNW96STRIVHpDbThnVVM4SkNGVFBCSmNoQVM5Z092cXZVUW9qbGhPUzBqUzVmVWpmM1FjLXlhVjVNQjVVMUFIalV2Q0otaXlscFNzSV9SaTVtdnhiT0hOZl8zR1ZJcGlIdTVjcVRmYkozY1NRNWFZblJlV3kx0gHWAUFVX3lxTE44Z3BzbExDV1JQUGdxNXdfbDBodjFrUDJBR0wzNWlhUGsyb1B6WW9XSFJDdlBFZzNGc2dMY3JJMTdHemVxcTFEZUYtZmhzUDdQVWRtSVlfOVFZWFpteEVHNWJMVmlOQUdBNS1XdnIwQjJVdWpyNzJxeEY2MmlUODltRkppMkluSlFRcGhmV3NQRmxPdjZRSklPNFF5djRJeHF2ZmV6WkJ2WVRWRmFHWnFJMGF5bHZuc3k4S0RqM192dnJJOUx1ZmYxQTdrM1dMZURfZXl1SEE?oc=5",
+    "sourceName": "Simply Wall St",
+    "publishedAt": "2026-11-25T02:12:27.000Z",
+    "analyzedAt": "2026-11-25T22:12:57.072Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "New US tariff pressure affecting retail sector, including potential impacts on imported goods and supply costs.",
+    "angle": "Tariffs directly increase cost of goods and inventory complexity for retail and CPG customers. Analytics and automation tools help model tariff impacts and optimize pricing strategies.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UYUZGSGEzWjNhR0k0P29jPTU",
+    "title": "Are Private Labels the Core Competitive Battlefield for Modern Supermarkets and Hypermarkets?",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nelR0Vzlkazh0dnBmbUNLT2R3ak14NzBoamNsbU1wV3NZWlhvbE9NYzU0UHNoWUZ3YldraW5NNTV5S3NsaU00LTlTaFFHa3Z3aGI4?oc=5",
+    "sourceName": "eu.36kr.com",
+    "publishedAt": "2026-11-25T02:02:31.000Z",
+    "analyzedAt": "2026-11-25T22:12:51.526Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Private label is emerging as the core competitive battlefield for supermarkets and hypermarkets, reshaping how retailers compete.",
+    "angle": "Private-label growth and differentiation is becoming the primary competitive lever for grocers. CPG manufacturers and retailers using Account Intelligence need better visibility into private-label performance, shelf space allocation, and margin dynamics to stay competitive.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wYkVGUmRYQk9RMnBuP29jPTU",
+    "title": "Oregon SNAP enrollment falls by 85,000 in first year of expanded federal requirements",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEFaMUQ2ZVY3QUhEa0x1QzNFLTZiQVVlTU8zSFdLQUh2MV94dTZFMEU1QXlMVjFXNUlic01yZ214YmV4MnlwaXoyWWtTV0U3N0xWdDBNOXBoTjZHZHpyNXgwRzBibzQ4OGdNYVNsV3pVanNhaGdZa2NGT3VCT2phQ2hjOWc4UmZuWWd0Y3JDZ1Q2M3o0LXNUWVFOdmFUNHZvcnpwR0dCVTRGdEU5WFJlMXhjWVZmcGdvMTR2bW5yY0Nfbi1UR1dZZ2VwQllXTlVmaWFfMnhnTGM0bEFRdXBOQ2pn?oc=5",
+    "sourceName": "KGW",
+    "publishedAt": "2026-11-25T00:14:00.000Z",
+    "analyzedAt": "2026-11-25T22:13:03.540Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Oregon SNAP enrollment has fallen by 85,000 in the first year following expanded federal eligibility requirements, reducing access to food assistance for low-income families.",
+    "angle": "SNAP enrollment declines signal reduced consumer purchasing power for CPG and retail customers; large retailers selling into SNAP-dependent demographics need to monitor demand trends and adjust inventory and pricing strategies accordingly.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RmZiakZZYkV0ZmVEQT9vYz01",
+    "title": "Work rules expand for SNAP as Oregon pushes outreach efforts to keep food benefits",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYVNnM29ONzFteHk4aldBNTU1dUxQdGtfVExOWDQ5X0ZiTXVaS0UycmVlREJkV2NPYV9LcDlVcnBSZjN6SHpVZ3B6NkhnUERyaDR5REpfM0V6cGdFdEM5Y0ZGS2QySG9HWU1rNmRWWG1IVEFHLUJNdVN6TVR3UlA1Z1pQT3F4MHRHS0s4eTloYk00cEJYaGNDbTYzbjBzRTF3Z1cyS2hHZjRjOG5ZZUpWck55VllSY190UnZCOXZkckFMNW9vMTg2V1ZicFlZYldEckhqRlB6cE5VZXk4YWNoZ2VLZE52ZHZVV2tsdVJfT3RZVmF6TzVLLVp1WDhSa0F5aFFfbjFYbEtfeDA?oc=5",
+    "sourceName": "KATU",
+    "publishedAt": "2026-11-24T23:48:40.000Z",
+    "analyzedAt": "2026-11-25T22:12:57.072Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "SNAP work rules expand in Oregon as state increases outreach to maintain food benefit enrollment.",
+    "angle": "SNAP/benefit policy changes affect demand signals and shopper behavior for CPG and grocery customers; monitoring these shifts informs category and pricing strategy.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ZC1jYXBhY2l0eS84NzU2NjIv",
     "title": "JM Smucker struggles to keep up with Uncrustables demand",
     "link": "https://www.fooddive.com/news/Smucker-uncrustables-shortage-supply-demand-capacity/875662/",
@@ -157,6 +356,43 @@
     "play": "platform",
     "products": [
       "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MVUwNHlURUowUjJSbj9vYz01",
+    "title": "Walmart rolls back prices as Target remakes the food aisle",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVdTT29NaG5KZXd3Ump1WW01MUJRc1VYbFZBVHM2ZWUyWm9zNFl6RG9WTmhBdmpwZXdHTlI3b0E4TnVTaDluekpOcVRtVFBKLVREZHV1Z1dmeTl6R3J2NS03eHJYVExuMkFNcDIwWGhXamEzUFowakhlUThNSDZBcHRnWHYtcklkV2pqdlRkZjVoLWJrU0tLVUpTaDN1U04yTEJ0R2Rn?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-24T14:34:30.000Z",
+    "analyzedAt": "2026-11-25T22:12:51.526Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "Walmart rolls back prices while Target remakes its food aisle, signaling aggressive price competition and category repositioning in grocery retail.",
+    "angle": "Walmart and Target are actively competing on pricing and assortment strategy. This shift in competitive positioning affects how your CPG and retail customers think about demand forecasting, pricing elasticity, and category mix—critical inputs for analytics and strategy decisions.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Walmart",
+      "Target"
+    ]
+  },
+  {
+    "id": "RaTE5VNWFMVkZ0ZHc_b2M9NQ",
+    "title": "Oregon food-assistance program loses federal funding, slashes benefits",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGladGswc2xDd3o1b1B5Q25DWmFNekc3VGhJSzhTQUVUakZTVlZtOUc1b1ppRm5ZQUZENWJQQkhuXzg0Y1FyT2E5OXFRazJFcmhsY3NTVllDWXlLZjI1b21qaFBSU3Q0RmpoOTlYXzZJcXZFYmY3WXp0b3dVamhIZWVPMzRfM1lPVTJ6SEJUUzM3eUFIdkV5alY0REpPWjlJOVhzZjFsRmhRN0Y5V3g4SWRrNEQ3MmdHRkgwS3VGc2JUNk03NTZLNU5aLVFtd9IBzgFBVV95cUxOUGladGswc2xDd3o1b1B5Q25DWmFNekc3VGhJSzhTQUVUakZTVlZtOUc1b1ppRm5ZQUZENWJQQkhuXzg0Y1FyT2E5OXFRazJFcmhsY3NTVllDWXlLZjI1b21qaFBSU3Q0RmpoOTlYXzZJcXZFYmY3WXp0b3dVamhIZWVPMzRfM1lPVTJ6SEJUUzM3eUFIdkV5alY0REpPWjlJOVhzZjFsRmhRN0Y5V3g4SWRrNEQ3MmdHRkgwS3VGc2JUNk03NTZLNU5aLVFtdw?oc=5",
+    "sourceName": "OregonLive.com",
+    "publishedAt": "2026-11-24T14:00:00.000Z",
+    "analyzedAt": "2026-11-25T22:13:03.540Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Oregon's food-assistance program is losing federal funding and slashing benefits, further constraining purchasing power for low-income consumers.",
+    "angle": "Benefit cuts in a key market compound SNAP enrollment declines and weaken demand signals in CPG and grocery channels; analytics and demand-forecasting capabilities help customers model impact on category performance and store-level sales.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": []
   },
@@ -329,6 +565,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "pmVVd4Q05HSXdkRlU_b2M9NQ",
+    "title": "Peak season optimization is out, year-round optimization is in",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2E3UHFETWRCTnZSVjBlR3ppLXRZUXAteEFsaVlYY0YzMXFNUmMxS0VqLTRyN29BaGVzWVVfbVZEVEtQTmtiQ0ZkWGg4WGprN25kYlRtNFh4MHdCdGlacFFTeV9waGMyZ3VhUjk1QlZQbDRVRlphX2V1OVlETS1oa2lrWWpFVVFDR2ZJQUtwZWF1cW5lR1lvMDJHdVFhN0dtRUZfUWxCNGIwdFU?oc=5",
+    "sourceName": "Supply Chain Dive",
+    "publishedAt": "2026-11-23T14:36:11.000Z",
+    "analyzedAt": "2026-11-25T22:12:57.072Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Supply chain industry trend shifting from peak-season optimization to year-round continuous optimization.",
+    "angle": "Year-round optimization requires real-time monitoring and automated workflows across the full supply chain, not just seasonal spikes.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "0aW9uLWlzLWluLzg3NTI5Ny8",
     "title": "Peak season optimization is out, year-round optimization is in",
     "link": "https://www.supplychaindive.com/spons/peak-season-optimization-is-out-year-round-optimization-is-in/875297/",
@@ -379,6 +633,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "xZFVOb1dtczRlVUYzP29jPTU",
+    "title": "Los Angeles and Long Beach avert port strike with tentative labour deal",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1o3ZXN2U1JSU0VtYnFFUE56R0ZoUGlyZjFXVHhmeko1Q25pR2NzVWluVUMycnE4R1hsS2hsLTFjaGhSbjFOMTctVzhGODVjdU5ZaFRYZGNJNUdGNTloYjhWNVppMlJhd3RKYU1GNkxWS1RqLXpuQnd5blNvYUU1NmRvdFhGN3h4cXlLUFl1b2x1dUNoWms4eUF3?oc=5",
+    "sourceName": "Splash247",
+    "publishedAt": "2026-11-22T01:05:32.000Z",
+    "analyzedAt": "2026-11-25T22:13:03.540Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Los Angeles and Long Beach ports have averted a strike through a tentative labor deal, reducing near-term supply-chain disruption risk for imports and goods movement.",
+    "angle": "Port labor agreement reduces supply-chain risk for CPG manufacturers and retailers relying on West Coast ports; customers can recalibrate inventory and logistics plans with greater certainty around goods flow.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ZFZMV0Z4VjFwZlUxRT9vYz01",
     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWnQtSG1SeGRfSGFSSXdWN2xmSDMyUTBlWVUyNHN1d3pPWGd5NENtbVdxZ3JYbmJTcDJ2TkJxZ0ZXREx5QkczWkwyeFI1MWl1dlRKanZYYkU1MUV3N0g4Zk1RcndsUVFBeWhmc0tVMEQtcklFQVUyOHlfbXY2d3BXZF9XNXFNSDg0ODBfVlpzRkwza1NBWUxRekhzbnZXd2lyOHpnMENpSTI3UWNRbFdxVXQtVThDX0xPWF9lanZKNk5yV1hyV0NUb0ZBU1VyRG5mUDdGandVLWFxV1pfU1E?oc=5",
@@ -408,6 +679,23 @@
     "angle": "Unionization and labor disputes can disrupt operations, increase labor costs, and require retailers to model wage and staffing scenarios. This is background context on broader retail labor pressure affecting the sector.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "nMVkwNXRVa041YUhjP29jPTU",
+    "title": "North Dakota grocers prepare for new SNAP restrictions amid uncertainty",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0pKdzh6VjJMUFhTekkyNjRrQmNQX21CSXRBNmowallWUktvd1BEOU1wOHlxLV9MWDdxdDdmZ0JPbjhuV2RxS3BXdzllLUR6YWNzbWM4NDhWSG9QejgtYS1nUTRCUVpwYkFwWGpxN1JqVUU1bnlLejk0Y3I1UG9lUERScXZQZjRzM1BhcG84Z2pUSGVfeW9mbmxDOEx5NXRRV1FCR0g1Y05tUkN5aHc?oc=5",
+    "sourceName": "News From The States",
+    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "analyzedAt": "2026-11-25T22:13:03.540Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "North Dakota grocers are preparing for new SNAP restrictions amid uncertainty about policy direction and implementation timelines.",
+    "angle": "Regional SNAP policy shifts create operational uncertainty for grocers and CPG suppliers; customers need visibility into eligibility rule changes and consumer-mix swings to adjust assortment, labor, and supply-chain planning.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
     "mentionedAccounts": []
   },
   {

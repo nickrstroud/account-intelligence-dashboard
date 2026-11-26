@@ -1503,5 +1503,35 @@
         "publishedAt": "2026-11-25T13:37:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-26T22:10:08.554Z",
+    "source": "daily",
+    "headline": "CFO transition at Coca-Cola; dividend strength signals financial stability and budget confidence",
+    "signals": [
+      {
+        "category": "CFO Appointment",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": 1,
+        "summary": "David Elkins appointed as new CFO effective April 2027. CFO transitions present re-introduction opportunity with finance leadership, who own the Analytics Suite and influence platform expansion decisions.",
+        "suggestedAction": "Reach out to introduce Account Intelligence's capabilities to David Elkins' office pre-transition; confirm current analytics roadmap and any financial-reporting or forecasting priorities for 2027 that the suite can support.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTi1Odk9GbjdHcU5HQnJTQVFCeXlJZkdYNmh6MzBKTTB5alBRY2ZFTnVZcXpuTW1KdE5sNnJOY1RxRnBlcHlhZE1RMU9EZHBfRzFRZ2dCZm51eEw3RllmV2NKMWdjcWRpakRZeGg1ZnhFUnBoYWRRTUNtNWRYQjc5N2xjbUpEMFY5VDJKMXVYVmQ5eTBEbC1F?oc=5",
+        "publishedAt": "2026-11-24T15:13:54.000Z"
+      },
+      {
+        "category": "Dividend Strength & Financial Health",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Strong and consistent dividend payouts signal robust financial health and pricing power. Healthy margin environment creates budget headroom for platform and analytics expansion.",
+        "suggestedAction": "Highlight how Analytics Suite demand, pricing, and market-share insights are helping peers optimize margins in inflationary environments; probe whether pricing strategy and margin forecasting are priorities for the finance/strategy team in 2027.",
+        "sourceName": "The Motley Fool",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFBuTlJoc2UwZVl1RklfLXlDOXpxbXZFaFNpUTQtNzFaTVB2aGdiMEtnU3dJTjVxUUdRZUhDMVl2WTRJSEphZl9vQ2ZTM2NFRll2V1JJZTJEY0E4NWt5akMwenV0M2E0N3pPUjloN0RvZzYzRGNaUUJNYUJtMnh5bF9TQWpaWkNxY092MFZseFNHRVdYYkFYUHVmOUZlYUhEMjFLQWdndVRJOW8yQ0lGVkdYdVNQeERpZC1WWGhvdGE?oc=5",
+        "publishedAt": "2026-11-25T23:28:02.000Z"
+      }
+    ]
   }
 ]

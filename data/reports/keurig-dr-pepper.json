@@ -1634,5 +1634,24 @@
         "publishedAt": "2026-11-22T02:41:49.000Z"
       }
     ]
+  },
+  {
+    "company": "Keurig Dr Pepper",
+    "runAt": "2026-11-26T22:10:07.490Z",
+    "source": "daily",
+    "headline": "KDP reports 10.9% U.S. beverage sales growth; momentum supports Analytics and Integrations expansion",
+    "signals": [
+      {
+        "category": "Strong beverage sales growth",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Keurig Dr Pepper reported 10.9% U.S. beverage sales growth, signaling strong category performance and increased data volume flowing through the platform. This growth creates budget headroom and demand for deeper pricing, demand, and category analytics to understand and sustain momentum.",
+        "suggestedAction": "Schedule a brief check-in with their Finance or Strategy lead to understand which categories and channels drove the 10.9% lift, and position the Analytics Suite as a tool to monitor pricing elasticity and demand drivers across their portfolio—especially valuable if they're managing competing brands (Keurig, Dr Pepper, etc.) and want to avoid cannibalization.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazlpZ3c4ZU9OdS1EcXc0ZXlXVmFLOUR3VXZHNVlFcFhLS1FHQUFjZjdRdkhCMlNvcExiZldpTTVNZ1prWUlFMWZmckwyNFpXSDFnb0VqOEpBcG85ZFpJRXRId1V1V2R5WnU0d0NJanV6ay11SXlYV3lXOGtRM0dzOXJENWQxVmdORzlFME1FYkRiZHlQY2FPU0xuNy1lbXJxejRSdmZLU0NRY25aa05uUXdMYjJQMjQ?oc=5",
+        "publishedAt": "2026-11-20T15:42:00.000Z"
+      }
+    ]
   }
 ]

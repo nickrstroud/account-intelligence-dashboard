@@ -1,5 +1,75 @@
 [
   {
+    "id": "Z3U0Vsd2FVZFZNV00_b2M9NQ",
+    "title": "Associated Grocers strike enters fourth week as talks stall",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWdXMUk2SFFqM3JSd1ZWczA4QnE5cy16UWlKa09ZV2hpVVRtRmxsRk5EWkRKbGZJZ2lZby1OYzc1dWpuZFdKZkY1cGpuczVybDYzSEVLUXRUcGZ0Z1BOdXE0NXRkaUhpdHBWQU1kSjRDYkxlaFJKUlNKU3RleFFwSElwaUdVMWM?oc=5",
+    "sourceName": "Concord Monitor",
+    "publishedAt": "2026-11-26T16:00:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:20.443Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Associated Grocers strike enters fourth week with stalled negotiations. Labor action disrupts distribution operations for a major grocery-wholesale cooperative.",
+    "angle": "A prolonged strike at a major grocery distributor directly impacts member retailers' ability to stock shelves and fulfil orders. Relevant to any customer sourcing from or competing with Associated Grocers members; supply-chain automation and alerting workflows become critical.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Sm1OMHBGYlRsMVVsRT9vYz01",
+    "title": "Missouri prepares for SNAP purchase restrictions as court battles continue",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkczR2VFWjJPWERTZGVqRW44N0dfcU5HQWVwYTVvSWdueE93dkx2WHFIajBVMjRKMmdCbDhVRk1UNnJsSGZ5U3NHdk5lNi1pZzRUUk5CNVdSTFJKNFlmTVgxcWNtWlJJUmdSeFRIMWptZ2hjNjFhZVdjRXA5VjFGWEJWdXo5Sl91OXpLMURSLWd5TWw5STRLYTVhVndqZkhwODI1akFOS2F6cU1pU2JxYkJmN0pFbTl1UlE?oc=5",
+    "sourceName": "Missouri Independent",
+    "publishedAt": "2026-11-26T12:01:15.000Z",
+    "analyzedAt": "2026-11-26T22:11:15.362Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Missouri is preparing to implement SNAP purchase restrictions as legal challenges continue. The restrictions would limit eligible food categories, affecting CPG and retail sales.",
+    "angle": "SNAP eligibility restrictions directly impact demand for affected categories (candy, soda, energy drinks). CPG and retailer customers need analytics to model revenue impact and adjust category strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0aGJtOXVUbEJzU0ZFP29jPTU",
+    "title": "'Coal in their Christmas stockings': Importers slam proposed US tariffs as costs and uncertainty mount",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3ZwSGhKeG55b0FITE5VVFVmbWJtcmxjbW1pcTRma3lKUHlYUWs2RzROVk11TFdfdzNHYXlzTW5tS1NDX2YwZnF1YWhIYWpnVUlkMWw4MHk3MWlQUVRlaTV3WHEzU2d1amxxZV9qLWJWYnpQMEVjeXI2ZTViTUN6WEY2ZFAtQnhFVXM4bkhTMmhzQmE3NExmVXhBNW1wU0N5SUFFZGVodXpKZVFxVlFvUnNvODJZSU1kWHltRDMtM25DU2JueW1YN002aTZBRjJBT0thbm9uTlBsSFE?oc=5",
+    "sourceName": "IntraFish",
+    "publishedAt": "2026-11-26T11:21:42.000Z",
+    "analyzedAt": "2026-11-26T22:11:06.426Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Importers are facing rising costs and uncertainty from proposed US tariffs, particularly affecting food and beverage supply chains heading into peak season.",
+    "angle": "Tariff-driven cost volatility requires rapid supply-chain scenario planning and pricing elasticity analysis—retailers and CPG manufacturers need analytics and automation to forecast margin impact and decide on cost pass-through.",
+    "play": "automation",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "IV1V4NmRWQlhMVUZSP29jPTU",
+    "title": "How to outsmart tariffs at the grocery store this holiday season",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkVnR3RGU1p4bFM2elBqU0tfMHZ0VDQ2ekJXajZKMTc5VHZieHo5Sm9SUHpyRy1ObWNkODYzNFBkTlFPWHEzdG9WZkZURnJpa3VwcUNNOEhtc1BTR1hIRHd3VDVhNDEwUG9JZ0paNFRjTzdxRHNjckJ4RHdYQWFROW1fV2t3WHJjNkxrcXV0ektlQlVIYzZCN3FHWUx6dVBXLUFR?oc=5",
+    "sourceName": "Marketplace.org",
+    "publishedAt": "2026-11-25T21:15:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:06.426Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Tariff pressures are reshaping holiday grocery shopping, with consumers and retailers seeking strategies to minimize import-driven cost increases on food purchases.",
+    "angle": "Tariff uncertainty is forcing retailers and CPG manufacturers to model pricing scenarios, promotional mix, and margin impact in real time—a core analytics and automation use case for proactive decision-making.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "bk5WWVU5Q2VreDZWUT9vYz01",
     "title": "Tariff inflation was fading. New proposed tariffs could reverse that",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2EyV2NPWlV3cUJhMnhrNE9DX2ZZUTkzU05NZTdBUy1rbGpTQ1BwN1lMTGdiZHpSWHFPNVNTQlVBRldzYlJmV3ZPNkEzQTlsTXdPcWhLRE55VWNMV2RUc1pxVDYwSUdmZHI2ZzRjakdrbHRZUzktQnpQX19wWXVVLWFTTEROYmt4V204MHZ1QS1URG5kcUg1bDd6VHBYMUVOdm1rc2hnZWZsOHJDZncyckJSTjZwMWl3Ykd2SlBZb01BZE9va0g1UHJ1RW9IdnNVYU9Cekx6VQ?oc=5",
@@ -15,6 +85,44 @@
       "analytics"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "l0T0RsUVlrOUhabFU_b2M9NQ",
+    "title": "High levels of salmonella found in some products from biggest US turkey producer",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0ZBa2Q1LTNwMjVRcGZHN0V4WkZra3VLNE45TjlPN3NjS1ZJV1prUnJla1VDNFZmVnlZMm1PMlFkVlVpQ3hUZ2VpVmdOZnlBaEVZeENXV0tubVdQOGZGNjNleGIxMmJhZFNmeEU1ekowZXV6aVB2Y0w2alV5OF9tODlQYk9HZlU?oc=5",
+    "sourceName": "The Guardian",
+    "publishedAt": "2026-11-25T20:00:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:10.468Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "High levels of salmonella were found in products from the largest US turkey producer ahead of Thanksgiving. The discovery highlights food-safety risks in CPG manufacturing and distribution during peak seasonal demand.",
+    "angle": "Major food-safety incident at scale in peak season. CPG manufacturers and retailers need real-time visibility into supplier quality and product safety across their supply chain—a core use case for automation and platform analytics.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aFZHazRjekZrWDBKcj9vYz01",
+    "title": "More than 3 million bottles of eye drops sold at CVS, Kroger, more voluntarily recalled - ABC News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkdDalJPZ0Q4b0dNMnhZbmZCS21UNnR5bzhjWUFDbFVpRGdQNEJaTXoxaE9ENUg2UFk4dGV0Y2R6cGZYVTBwUjF3eXUtU004Yy1EOTdMZFBTNnVfck40UzM5SzVBVldPZmZGUXEtZEotUG1kN1I1R0tyTE5ZU1c2Z2MydENHMFRoV2RXazNTaVpNTU5ZRjRvUXo0NNIBoAFBVV95cUxPcW9nRURveWM4WEVjWEk5Q29IbWZSSHBvSnZsc2ZMSWlLbUJocDNBRjd5d001cEdHdXhKZGh0Y05CejJIS2hjaDFiYjNXMWxMazF4R0wtdFdZOEN6SW1aSXI3MHphZ0dDWDZyRGxWMFFkQy1uVzZhT0NHelNpbk50Nk4wSGFPVk1vbjZ0b2VrSV9TajVjWXBhVGk4czFkX0Jr?oc=5",
+    "sourceName": "ABC News - Breaking News, Latest News and Videos",
+    "publishedAt": "2026-11-25T19:00:56.000Z",
+    "analyzedAt": "2026-11-26T22:11:10.468Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "More than 3 million bottles of eye drops were voluntarily recalled and sold at major retailers including Kroger. The recall underscores product safety and supply-chain quality-control challenges affecting large retail chains.",
+    "angle": "Kroger and other large retailers face product safety and recall management challenges. This creates opportunities to discuss how Account Intelligence's automation and platform capabilities help monitor, alert on, and manage supply-chain and quality incidents across distribution networks.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "platform"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
   },
   {
     "id": "l0LWxheW9mZnMvODc1Nzg3Lw",
@@ -93,6 +201,23 @@
     ]
   },
   {
+    "id": "tcmVndWxhdG9yLzg3NTc0My8",
+    "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever deal",
+    "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+    "sourceName": "Food Dive",
+    "publishedAt": "2026-11-25T16:00:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:06.426Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "McCormick proposed divesting Colman's mustard to address UK regulator concerns that the Unilever acquisition risks harming competition in dry ingredients and sauces.",
+    "angle": "M&A activity and regulatory intervention in CPG creates portfolio shifts and data integration challenges for customers managing product catalogs, pricing, and supplier relationships across reshuffled portfolios.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "LWR1bm5odW1ieS84NzU2ODQv",
     "title": "GLP-1s shift entire household spending toward fresh products, research finds",
     "link": "https://www.grocerydive.com/news/glp1-usage-grocery-spending-fresh-products-dunnhumby/875684/",
@@ -130,6 +255,23 @@
     "mentionedAccounts": [
       "Kroger"
     ]
+  },
+  {
+    "id": "M1ZYaFlVSEZTVlRsaD9vYz01",
+    "title": "Lawsuit challenges Florida's SNAP restrictions on candy, soda and energy drinks",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1hDbzU5RWRhNkJtSDE3QTI5Q0E0clhYUXJNdEN5RkRKZmZ4LTFRQXc3eVBpRGtUelpXUEtHRjRlSHYzbWc0TExuZkxLMllPZ2NLYnFoM0EtY1Y0VlN6a2JDNHJVX0ZJbkdob3Zqb2N6NnppeVNBUUh4enFOanNFbGhQc25Ra3k2UzlJWkRqbGhYRzR1TFY2SF9BcWlxaEtiVHJZMUxmLUVGdW1tT3F3VXhYUHFSVTlh?oc=5",
+    "sourceName": "WUSF",
+    "publishedAt": "2026-11-25T10:00:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:15.362Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Florida's SNAP restrictions on candy, soda, and energy drinks are being challenged in court. If upheld, the restrictions would exclude these products from SNAP-eligible purchases.",
+    "angle": "Restriction on soda and candy sales via SNAP creates immediate demand forecasting risk for CPG makers like Coca-Cola and PepsiCo. Customers need analytics to quantify impact by state and channel.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "kTVpVUmZaWGwxU0VFP29jPTU",
@@ -303,6 +445,23 @@
     "mentionedAccounts": [
       "Procter & Gamble"
     ]
+  },
+  {
+    "id": "yczVjbmsxWTJKYWJ3P29jPTU",
+    "title": "USDA Sued Over SNAP Food Restrictions in 18 States",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDl0SjhRSkRYOVhRMDhhb1A3cEpsYUVERTJQS1lDTU1YaFpoRjBsMTVobUtmYkw0X1R5N1RqNFZnb05mLUdsTi1XTTV0NWZJLTNOV0xTSWswNlhseTNUYU5sTVhreGMzeWgzeWEzbjlMVUJoeTh6SzFsM3k4R3VaZXJrT2s5cnk1Y2Jabw?oc=5",
+    "sourceName": "Law Commentary",
+    "publishedAt": "2026-11-24T16:54:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:15.362Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "The USDA is facing lawsuits from 18 states over proposed SNAP food restrictions. These restrictions would categorically exclude certain foods from SNAP benefits.",
+    "angle": "Multi-state SNAP restrictions create material demand risk across CPG categories and geographies. Retailers and manufacturers need advanced analytics to model exposure, segment impact, and adjust pricing/promotion strategy.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "hvdWxkLWtub3cvODc1NDk1Lw",
@@ -663,6 +822,23 @@
     "play": "analytics",
     "products": [
       "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pNeE1tMDJTazlOUmc_b2M9NQ",
+    "title": "Tentative Deal Averts Strike Threat at Busiest U.S. Ports",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnRUZVVZZVNZcmQyQ2MzU0ZPejFCaHhURldIM2RGYkRaa3N6aGNjWmVubnJzSmtsNmhhRGpBMzBmaVJYQjZZR3ZyTHNGR2U3SGxYSVNBWkxQOXRhaWJUYWtQRVZVaWt3aTNwRkNtQWlUTXR0aTBFQTFVOU14Z3ZWMVBIbENMRUhEaW5JdTdUb05GVXZ5bDJGR2xBazMxMm02Sk9NRg?oc=5",
+    "sourceName": "WSJ",
+    "publishedAt": "2026-11-21T13:46:00.000Z",
+    "analyzedAt": "2026-11-26T22:11:20.443Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Tentative labor deal averts strike threat at major U.S. ports. Resolution reduces risk of port disruptions that could impact inbound CPG and retail inventory.",
+    "angle": "Port labor stability matters to supply-chain planning and inbound logistics for large retailers and CPG manufacturers importing raw materials and finished goods. If confirmed, this is a positive signal worth noting; if it falls apart, an urgent discussion point.",
+    "play": "automation",
+    "products": [
+      "automation"
     ],
     "mentionedAccounts": []
   },
@@ -1029,6 +1205,23 @@
     "mentionedAccounts": [
       "Walmart"
     ]
+  },
+  {
+    "id": "a1U1VW1aNWJURlNTUT9vYz01",
+    "title": "Looming Strike Threatens Operations at Busiest U.S. Cargo Ports",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmhPS3NGSHI3b1N4X0luNUYzbVR1SEMzYjJrVl9MYWRYZVZMME1wUkt6akFIa050akZVTlBYRjc3dEZBUThGUFVqamhjamdqc05RLV9yakMxX3Ruai1TcERNemxLaHhOVGFMRW1vdDYtV0NpZnZVQlZsZkR4c0d0bnRyajlEV1FubXYxNmZfanRrUFVVZVM4S19RMmN1TndBaGJWSm85VS1NZkU5UmZ5bTFSSQ?oc=5",
+    "sourceName": "Industrial Info Resources",
+    "publishedAt": "2026-11-20T10:05:20.000Z",
+    "analyzedAt": "2026-11-26T22:11:20.443Z",
+    "updateType": "supply_chain",
+    "relevance": 1,
+    "summary": "Port strike threat reported as potentially affecting busiest U.S. cargo ports. Highlights ongoing labor tension in supply-chain chokepoints.",
+    "angle": "Supply-chain volatility at ports is a standing concern for retail and CPG customers planning inventory, procurement, and distribution. Useful context for supply-chain automation and alert workflows.",
+    "play": "automation",
+    "products": [
+      "automation"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "VkZzVWtoWFFsTlNVUT9vYz01",

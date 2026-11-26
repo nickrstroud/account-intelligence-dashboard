@@ -1067,5 +1067,35 @@
         "publishedAt": "2026-11-19T14:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-26T22:10:13.185Z",
+    "source": "daily",
+    "headline": "Target Q3 earnings beat and raised guidance signal strong financial position and budget availability for analytics and automation expansion",
+    "signals": [
+      {
+        "category": "Q3 earnings beat and guidance raise",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported Q3 earnings beat and raised full-year guidance. Stock hit 52-week highs and analysts raised price targets. Strong financial performance indicates discretionary budget available for software expansion and advanced capabilities.",
+        "suggestedAction": "Schedule a brief check-in with Target's Chief Strategy or CFO office to discuss Q4 budget allocation and any planned investments in pricing, demand, or category analytics given the stronger-than-expected performance this quarter.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkU3aVplcERfUzR3QkRaUVZYd2lEV0gxUUt1amRxdjRCNDJHVXhBY2pGaUN1OUFvWFJsRHVtTkxlNHFMX3BFWmtWYUR4X0M4dDF6UTRMZXpjUDBUREt0Nm5ZRmk2OEZJQmxqb3ExblpHb2hTbjlPOEpZMExpQVRtSnpIZFNpdXZHeTNnWGQtTS1mN081NWFqNkFTSnk2bUpiQ29yQlJqd3BtMHRGR0xKX0tNaTZ3SzVic2U4Q29B?oc=5",
+        "publishedAt": "2026-11-25T15:12:00.000Z"
+      },
+      {
+        "category": "Dividend increase declaration",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target declared a $536M dividend with a 1.8% per-share increase, reflecting confidence in cash flow and profitability. Strong financial footing suggests capacity to invest in operational and analytical capabilities.",
+        "suggestedAction": "Use Target's strong financial results as an opening to discuss Analytics Suite expansion into pricing optimization and demand forecasting for owned brands, which could drive incremental margin gains.",
+        "sourceName": "Quantisnow",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHVJNXZXSmZ0LVBrS1hnS1dBQnRFemI2M1B3MjdKNmNXaHJlWE1aT0FIRkZ2RWxfSC1wbVlBdVBEMFkyMms0N0M3cmZ5NDhkeTMxaGhjaEtZMkN4UTlDV2dzSktNUVR5OHh1Nmh5dWFwNjREeWY1QXVyN1lxdEM3RHpRNmhjMTY3a2tEVA?oc=5",
+        "publishedAt": "2026-11-25T18:56:27.000Z"
+      }
+    ]
   }
 ]

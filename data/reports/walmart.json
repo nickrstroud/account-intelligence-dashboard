@@ -1286,5 +1286,35 @@
         "publishedAt": "2026-11-19T18:38:53.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-26T22:10:09.504Z",
+    "source": "daily",
+    "headline": "Flipkart leadership transition and emerging AI-commerce partnership with Meta; limited immediate vendor-platform implications",
+    "signals": [
+      {
+        "category": "Flipkart CEO departure",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "Kalyan Krishnamurthy stepping down as CEO of Walmart-owned Flipkart. Flipkart is a separate business unit (India e-commerce) with its own technology stack and leadership. While noteworthy for Walmart, this does not directly affect Walmart US platform or Account Intelligence relationship.",
+        "suggestedAction": "Monitor whether Flipkart CEO transition triggers any India-market expansion plans at Walmart US level; flag for follow-up if Walmart discusses onboarding Flipkart data or new markets to core platform.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFZPMzlEc053ZFF6WnE2d3lVSTEwbHAzS0dhV0k3RlRlSjNzdmktOWF2RXVscVluRktFNUR5Y3NBNWV4d0VXUUF1b0ZvOXBEeWxNZGd4WGtqUEI5SEFsTHBBU055QjlaamIzSU8yeW9rX0FCdkx1Qng2OUV6YmVDYWFrWHpJWE5LR1VRWDluVzdrNTFVMVJuXzBlYmVjUDY3UERyUHZPSQ?oc=5",
+        "publishedAt": "2026-11-25T14:49:13.000Z"
+      },
+      {
+        "category": "AI-commerce partnership with Meta",
+        "updateType": "technology",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart is partnering with Meta to integrate Black Friday deals into Meta's AI agent Muse. Signals emerging AI and agent-based commerce capabilities that may require new demand forecasting, pricing optimization, and consumer-behavior analytics as this channel scales.",
+        "suggestedAction": "Ask category and pricing analytics leads whether AI-agent commerce (Muse partnership) is being tracked as a new sales channel in demand and pricing models; offer Analytics Suite enhancements for attribution and AI-channel performance.",
+        "sourceName": "TechCrunch",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblI0TVF2MWVsaGp3RmM1VEpuaHY1d1paaVg5WnFfRHlUa0Vucnpta3kwLUNzZDh4cmpRVnR6bzN3czJCMGQwVGx6cjgzUldYTnp3OFA5NGhseHFkTk9fNGhiNUxBU0FWU21mZjJRWHpuTDd0ZHU1cS0xNWpzRGtGdnlZY29VQndEbk5qbWZoVnNXck0zaTdhTURMR29BeGt0RmJHUEFuNDRQQQ?oc=5",
+        "publishedAt": "2026-11-24T21:32:38.000Z"
+      }
+    ]
   }
 ]

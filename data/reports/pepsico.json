@@ -1907,5 +1907,35 @@
         "publishedAt": "2026-11-19T23:54:29.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-26T22:10:08.668Z",
+    "source": "daily",
+    "headline": "PepsiCo pursuing Latin America growth while facing regulatory scrutiny in India packaged-water market",
+    "signals": [
+      {
+        "category": "Latin America expansion",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "PepsiCo is strategically expanding into Latin America as a key growth driver. This represents geographic and channel expansion that will increase data volume and team coverage needs on the platform.",
+        "suggestedAction": "Reach out to the VP of Operations or Regional Head for Latin America to understand which business units (Pepsi, Frito-Lay, Quaker) will be leading this push and confirm whether new markets will be onboarded to the platform this fiscal year. Offer to map integration points for regional supply chain and demand planning.",
+        "sourceName": "Time Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFFIUEY3dEgxQ25FSEYwaHV1ZWlBOVdiaTJ1Z2Z4d2t3MXBBODI3b0tQR3ZaelNLNjdMMlh0UlpwQXVMQUpRMzlEWjAyM3lpaUV3ZVZTNzhZWnp5ZWxjaEdEQ3NDX0hzZnVFUmxaSUFha0hVVnBlY0VpNlpoc0pfUWZlcF9ZaTdKWUQ2dnJpWVg?oc=5",
+        "publishedAt": "2026-11-25T13:44:41.000Z"
+      },
+      {
+        "category": "India regulatory scrutiny",
+        "updateType": "regulatory",
+        "play": "automation",
+        "score": 1,
+        "summary": "PepsiCo faces tightened government surveillance and compliance requirements on packaged water in India. Regulatory compliance and supply-chain monitoring will require enhanced alerting and reporting workflows.",
+        "suggestedAction": "Contact their Chief Compliance or India Supply Chain lead to understand if the new regulatory requirements are driving demand for real-time compliance alerts and audit-trail automations. Offer to configure workflow automation for regulatory reporting and product-movement tracking in the India region.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGpnUFlKQjNQWFVLc2puYVVuczBUMGxBUzh6WGtQZzBKQjY4bkJmSnBIV2I4dEhzS1JaRjd2LUhVNVN3MFJPamRNd3NCWUJHWWIwQXIxWUN1NDZ5XzhpWUxjQk9tRTJKbWJJdnpobHFTREIzUFhJdF92bWM1LUM0ZkdLWmVHenVOVXVXRmRRZGZNcjVDdXhrZUlQQmRsNkpZdmVlQmYxSzlYVlNOR2VhRW15Q1FYcWF1UDYwaVRpYWlaZkIxZ0hkcS1laUFDUjRpOWt2TUdsWEJDVFpKZVpxa2theW00dUE?oc=5",
+        "publishedAt": "2026-11-26T05:28:00.000Z"
+      }
+    ]
   }
 ]

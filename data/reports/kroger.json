@@ -1852,5 +1852,35 @@
         "publishedAt": "2026-11-23T16:12:23.000Z"
       }
     ]
+  },
+  {
+    "company": "Kroger",
+    "runAt": "2026-11-26T22:10:13.236Z",
+    "source": "daily",
+    "headline": "Kroger layoffs amid restructuring; new Marketplace format and store expansion offset cost pressures",
+    "signals": [
+      {
+        "category": "Corporate layoffs",
+        "updateType": "restructuring",
+        "play": "retention",
+        "score": -1,
+        "summary": "Kroger initiating corporate job cuts, signaling cost discipline and potential budget constraints across the organization, including IT and analytics initiatives.",
+        "suggestedAction": "Contact your sponsor at Kroger to understand scope and timeline of cuts; flag any impact on the account's platform team or analytics roadmap. Reinforce ROI of automation in cost-cutting narrative.",
+        "sourceName": "Grocery Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNE9IWktBc2hXZUl6OHR2bXdEektjTFViM2dqakJhTkE3bEx2TXR4NjRDdmM0Nkg3cVhTT1BSZFBDcE1tNlBFeWhIUUtCX1JwRkNfcWp4UXA0Y2ZjX21JckV4VVRTajZrUnZoN0Z0OFZHQUZvYmNhQjl5a1ZrNUtDcE5R?oc=5",
+        "publishedAt": "2026-11-25T16:37:35.000Z"
+      },
+      {
+        "category": "New Marketplace format and expansion",
+        "updateType": "expansion",
+        "play": "platform",
+        "score": 1,
+        "summary": "$33M Kroger Marketplace planned on former P&G site in Blue Ash—new retail-media and fulfillment format scaling beyond traditional store footprint.",
+        "suggestedAction": "Ask category lead whether this Marketplace format will be integrated into the core platform for inventory, demand, and fulfillment visibility. Discuss platform scalability to handle new channel data and store-type coverage.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjR3cFplZXdfLUphNTUxektnMG1aRXNTX3JmYVZNTm5iMnJnZTE0TjJwYkt2WnVYWEhKN0pxM1NQcGtWMWlBdzRiWmdfS2dLZ2JnaHlxczRFYktmRWFTUzJOOHVuSnJWZnNMai1RYmx6LVVTbWVyVmIxcnFMbGFvOU1fUDFsU1NKbU9LZlc5TWpIeWFOVU5fZWtXR1A4ZU90cC1XSHZfaVc?oc=5",
+        "publishedAt": "2026-11-25T11:46:00.000Z"
+      }
+    ]
   }
 ]

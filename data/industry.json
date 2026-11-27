@@ -1,5 +1,80 @@
 [
   {
+    "id": "RNUlRWUGVHY3RjbXM_b2M9NQ",
+    "title": "Kroger Adds 'Product Listing Ads' To AI Shopping Assistant 08/05/2026",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUk1QUNrYzNDN1dLd21pV2EteGR0LVZLMTExWW9KVTFHeXFjTDRiVFo0U2hwU2RmVnpGVEQ3cjVOQktxa2NxQkNGQWVQRW9OUWZqTkJLV1F3ZFBiaVdOMlZ3azNJTkFqcWJmeEdkcVhkaUJyN0x0eDNKZjdwb3JsQzk1dVBFdHFlekFlOE92dlpsX1loMURsbVhJUHA4REptQ0dMRTVPeGctcms?oc=5",
+    "sourceName": "MediaPost",
+    "publishedAt": "2026-11-27T18:22:02.000Z",
+    "analyzedAt": "2026-11-27T21:51:35.966Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Kroger has integrated product listing ads into its AI shopping assistant, expanding retail media capabilities within its e-commerce platform.",
+    "angle": "Kroger's investment in AI-powered shopping tools and retail media signals growing demand for data-driven merchandising and customer analytics; a key conversation point around platform expansion and analytics adoption for pricing and promotion optimization.",
+    "play": "analytics",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Kroger"
+    ]
+  },
+  {
+    "id": "xTm1iSE5JZDNWc1dRP29jPTU",
+    "title": "America’s biggest retailers sell affordability this holiday season",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcENNR3VpUjlaWWRTRlJkSjNMS1ZXdmRvUXRPQnFmOThOeG9BREtXSnBaTU9MV21TSHB3X1p3SkJ6YXhSYi1OQ2otTmpuUy0xUXZSNTExUmJEc3RIWFBCV19KQThJMFJwdVAzSFJxWkx0cGxSSEtLTEE5S2VhMm55eUtTZTJqRjlZdFJWWU1rZWU2MTR2Z1BVbmFYWGRzM1NmbHNId3VsWQ?oc=5",
+    "sourceName": "The Seattle Times",
+    "publishedAt": "2026-11-27T14:00:04.000Z",
+    "analyzedAt": "2026-11-27T21:51:31.151Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Major U.S. retailers are emphasizing affordability and value propositions in holiday 2026 promotions, signaling aggressive price competition and consumer sensitivity to cost.",
+    "angle": "Retailers are locked in a pricing and margin battle this season—a critical moment to discuss how Account Intelligence analytics help track competitor pricing, promotional velocity, and share-of-shelf shifts across your retail network.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WbzBPRGRPTUhCSGN3P29jPTU",
+    "title": "Shoppers helped pay Trump's tariffs. Now Target, Best Buy, and Kohl's are booking $387 million in refunds",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMkFaVUNOZUJVOTNOMG5SUlZub2JGWVVhX3ZORnRZT2dYZzgxSUxjMXN0eDA3OHhHWG5lVWxpeWJESUt3czd3RzloMmVfOGtJMzA3bnZ4SUp5OTBCSnJXZnU0NklQcnRUQ1dGaTJIUFdkcEpWMEt6c3FRZVo0ODdOMHBHcw?oc=5",
+    "sourceName": "Fortune",
+    "publishedAt": "2026-11-27T08:31:00.000Z",
+    "analyzedAt": "2026-11-27T21:51:22.409Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Target and other large retailers are booking $387 million in tariff refunds to customers, reflecting the reversal or adjustment of tariff impacts on consumer goods pricing.",
+    "angle": "Tariff reversals and refunds affect retail and CPG margin and pricing models; analytics and automation can help model cost-of-goods changes and automate pricing adjustments across channels.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
+    "id": "wTjNKblQyVXhSbVZGP29jPTU",
+    "title": "Salmonella Found in 36% of Ground Turkey Samples at Butterball's Largest Plant, but USDA Rules Require No Recall",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkJOSHhwb3NGSmpra3J2a1ZZdFVoU1pmQ1RVWlpYTndLQTRYVWJNeGxPYlgzNzJjUVJuU1ViaTd3dlRwazJqMmY4aXlYVVRwNldvRW82Wk9QQVpDeURqQk96aGlneVlzdUI0c3QzTjhUXzlKT3hPZlJySGFjQ0tpN3JnT2UxRmVF?oc=5",
+    "sourceName": "Medical Daily",
+    "publishedAt": "2026-11-27T07:22:16.000Z",
+    "analyzedAt": "2026-11-27T21:51:31.151Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "Salmonella contamination found in 36% of ground turkey samples at Butterball's largest plant; USDA rules currently do not require a recall, raising food safety and regulatory risk.",
+    "angle": "Food safety incidents—even those not triggering immediate recalls—demand rapid visibility across distribution networks and supplier monitoring. This is a critical use case for automation and integrations to track allergen/safety issues across your supply chain.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "Z3U0Vsd2FVZFZNV00_b2M9NQ",
     "title": "Associated Grocers strike enters fourth week as talks stall",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWdXMUk2SFFqM3JSd1ZWczA4QnE5cy16UWlKa09ZV2hpVVRtRmxsRk5EWkRKbGZJZ2lZby1OYzc1dWpuZFdKZkY1cGpuczVybDYzSEVLUXRUcGZ0Z1BOdXE0NXRkaUhpdHBWQU1kSjRDYkxlaFJKUlNKU3RleFFwSElwaUdVMWM?oc=5",
@@ -48,6 +123,41 @@
     "products": [
       "analytics",
       "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wVjRVbFZCT1Y5VFp3P29jPTU",
+    "title": "3 Stocks Facing Tariff Headwinds Retail Investors Should Watch Now",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVZpSXlHajdneXlxamdjYkc3aFdBUC1wN09HNXU1dTZ5NkdOS05yMmp4QWQxZ3V5cGpHWEZ5ckdLZGR0Zy1qeGpvamgtUmZCVzdhSU0yUzNVOEZJOHVJLTlrTTV0bW1fVkxKSnRBUFRmNGIzU0p2N19YZFNMWEl0cnRicDBVM3VmSTh1ZjJ3dWlxb2Qtd0V4UlVBOV9TZw?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-26T07:12:00.000Z",
+    "analyzedAt": "2026-11-27T21:51:31.151Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Major retailers and consumer goods stocks are facing tariff headwinds ahead of potential policy changes, creating cost and margin pressure.",
+    "angle": "Tariff uncertainty is reshaping supply costs for CPG and retail customers—use this as a hook to discuss how automation and integrations help model tariff scenarios and trigger rapid repricing workflows.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "alVVaDVaVUp1TUdwRj9vYz01",
+    "title": "Thousands of Montanans go without SNAP benefits as Congress weighs potential changes",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmllYXNPcHJZczl2UHJlejVVeXZEZzJlOUdLNk9NX1VFXzU0STliU1ZjQnYySGZxUUVycXpFYm9mQXVLSGZXUXRob21nU25ZUGNCeE90aklxZ1ZIc1ZYTGRyaXNiWGxoeDg0cjJWUGg4OHF5YXRTSDE0eEMwQ3pyN29jR2ZYUFR3RWs4cUV3T3gyUmNSa2RMTXkySnI4XzB2MUJlbGdjUUh5ZUJuMGpF?oc=5",
+    "sourceName": "KTVQ",
+    "publishedAt": "2026-11-26T04:24:39.000Z",
+    "analyzedAt": "2026-11-27T21:51:35.966Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Congress is weighing potential changes to SNAP benefits, with some Montanans already experiencing disruptions in benefit access.",
+    "angle": "SNAP changes directly affect consumer purchasing power and basket composition for CPG and retail customers; critical input for demand forecasting and pricing strategy models.",
+    "play": "analytics",
+    "products": [
+      "analytics"
     ],
     "mentionedAccounts": []
   },
@@ -218,6 +328,26 @@
     "mentionedAccounts": []
   },
   {
+    "id": "zU3pWaWMyVTRRMjlCP29jPTU",
+    "title": "How Should Investors Play Target Stock After Its Q3 Earnings Beat?",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkU3aVplcERfUzR3QkRaUVZYd2lEV0gxUUt1amRxdjRCNDJHVXhBY2pGaUN1OUFvWFJsRHVtTkxlNHFMX3BFWmtWYUR4X0M4dDF6UTRMZXpjUDBUREt0Nm5ZRmk2OEZJQmxqb3ExblpHb2hTbjlPOEpZMExpQVRtSnpIZFNpdXZHeTNnWGQtTS1mN081NWFqNkFTSnk2bUpiQ29yQlJqd3BtMHRGR0xKX0tNaTZ3SzVic2U4Q29B?oc=5",
+    "sourceName": "TradingView",
+    "publishedAt": "2026-11-25T15:12:00.000Z",
+    "analyzedAt": "2026-11-27T21:51:35.966Z",
+    "updateType": "earnings",
+    "relevance": 2,
+    "summary": "Target reported a Q3 earnings beat, signaling strong performance and operational execution.",
+    "angle": "Target's strong earnings performance is a timely opening to discuss data-driven inventory, pricing, and merchandising strategies that drive comparable store growth.",
+    "play": "platform",
+    "products": [
+      "platform",
+      "analytics"
+    ],
+    "mentionedAccounts": [
+      "Target"
+    ]
+  },
+  {
     "id": "LWR1bm5odW1ieS84NzU2ODQv",
     "title": "GLP-1s shift entire household spending toward fresh products, research finds",
     "link": "https://www.grocerydive.com/news/glp1-usage-grocery-spending-fresh-products-dunnhumby/875684/",
@@ -257,6 +387,23 @@
     ]
   },
   {
+    "id": "0V0dwVmRsaHpXbFJuP29jPTU",
+    "title": "Colman's sale could resolve CMA concerns over Unilever's £33.8bn McCormick merger",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmRaUkhpUVozQ1g0ZEdLdDIzdlJsaUZnTldWVDBaajRVVmVmdHlMemJiXzc1U1RMbVV0WkFGLWNvUzJRMWdXRmpqOVNXMGF4WmxjRUVmc3BybEdJSlhIeWtyVzZtZmZtdkF3V19MMm85WWlUT3hfQXdOVjZsaEZObW1WQkRlRkhQOUZVQnBTeWPSAZYBQVVfeXFMTVZiTmVYWFd6YzZvY0xjQlRkNjlwVzhSSFh1Z0RHXzRoNEI5Zk9GUEF1akNBNWp0WGhaREEtVW5hLTBrYVZxdjhtY0I0Y2F0MmJZLTVYYU5BVm5wSTl6Y0Vpc0plc0ZNM2pfeFhfc2E3RURjVC1sUTQ3bGdhWVphUS1LTXBpUWNscGc3NnJtWGpVdlhzWlRn?oc=5",
+    "sourceName": "Business Live",
+    "publishedAt": "2026-11-25T10:30:00.000Z",
+    "analyzedAt": "2026-11-27T21:51:22.409Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Unilever's £33.8bn acquisition of McCormick is under CMA review; a potential Colman's sale could resolve competition concerns and reshape the global condiment and spice market.",
+    "angle": "Major M&A in CPG ingredients and seasonings affects product portfolio and supply-chain data integration for Unilever and competitors; expect integration complexity and data model updates.",
+    "play": "integrations",
+    "products": [
+      "integrations"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "M1ZYaFlVSEZTVlRsaD9vYz01",
     "title": "Lawsuit challenges Florida's SNAP restrictions on candy, soda and energy drinks",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1hDbzU5RWRhNkJtSDE3QTI5Q0E0clhYUXJNdEN5RkRKZmZ4LTFRQXc3eVBpRGtUelpXUEtHRjRlSHYzbWc0TExuZkxLMllPZ2NLYnFoM0EtY1Y0VlN6a2JDNHJVX0ZJbkdob3Zqb2N6NnppeVNBUUh4enFOanNFbGhQc25Ra3k2UzlJWkRqbGhYRzR1TFY2SF9BcWlxaEtiVHJZMUxmLUVGdW1tT3F3VXhYUHFSVTlh?oc=5",
@@ -267,6 +414,23 @@
     "relevance": 2,
     "summary": "Florida's SNAP restrictions on candy, soda, and energy drinks are being challenged in court. If upheld, the restrictions would exclude these products from SNAP-eligible purchases.",
     "angle": "Restriction on soda and candy sales via SNAP creates immediate demand forecasting risk for CPG makers like Coca-Cola and PepsiCo. Customers need analytics to quantify impact by state and channel.",
+    "play": "analytics",
+    "products": [
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xaYlhCRlJtaG1SbEU_b2M9NQ",
+    "title": "Private label growth shifts from pricing to innovation",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXlQcGR0SkpNQ1FTb1RCMEhSVnpmMS1nQnczZ3h6WjczTlhFbjVmdTVQdW16SjhrOEJRU1VUVzVXS295ZFZkOXZMMjY3TnEtZl9aaTZrOVd3eHZSeXQ1SkFMT1NXV1pDRWs2MVRWNUVNQnN4ZFBnU3pPQ3VWSnY5S0FrZVZ4a05vd0xOVERnNzh4X1R2RVYtRUlZbXBFRmhmRlE?oc=5",
+    "sourceName": "Baking Business",
+    "publishedAt": "2026-11-25T05:00:00.000Z",
+    "analyzedAt": "2026-11-27T21:51:22.409Z",
+    "updateType": "market",
+    "relevance": 2,
+    "summary": "Private label growth is shifting from pure price competition to innovation in product development, signaling a maturing competitive dynamic in CPG retail.",
+    "angle": "CPG and retail customers need to track private-label innovation trends and competitive positioning; analytics on category performance and pricing elasticity help inform product strategy.",
     "play": "analytics",
     "products": [
       "analytics"
@@ -556,6 +720,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "dWNGVscDFWVEJTVVE_b2M9NQ",
+    "title": "Tentative agreement averts strike at ports of LA, Long Beach",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmQyXzJVVnliZWdIYTAteGluLVJsMEc4dDBaNFpGM3F1MmZhcXpabWo4cXpUaC03SXo3cVFlN3JKRl9kbThyZE42dnE5eEJJQU4yS0NCaTE3dEpHZkI0MDB1OUhVTUFxT2wxSklNUmFhYk41MnAwUGpnVnExd2tUSE5vMTNuRDR6MlpZWXh6NGpOQWV4elp1VTBSUQ?oc=5",
+    "sourceName": "Trains Magazine",
+    "publishedAt": "2026-11-24T12:20:46.000Z",
+    "analyzedAt": "2026-11-27T21:51:38.370Z",
+    "updateType": "supply_chain",
+    "relevance": 2,
+    "summary": "A tentative agreement between port operators and unions has averted a potential strike at the Los Angeles and Long Beach ports, two of the largest U.S. container ports that handle significant CPG and retail freight.",
+    "angle": "Port labor peace reduces near-term supply-chain risk for West Coast import-dependent customers; CSMs can reference this as a stabilizing factor for Q4 logistics planning and cost forecasting.",
+    "play": "automation",
+    "products": [
+      "automation",
+      "analytics"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "xSE1uaGxNV0pYVDNjP29jPTU",
     "title": "Digital twins are transforming food and drink",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeG1WV1ZEWERZcUlmaUVKa1BoVVVuQXVWUy1zbERzSW02NlI3dnhPd2dDUXVRZFVrdlRLdUNIU2ZVR3RBOHlxNGpMakN3bFNEeXJkZkktVDRiRDN1RWdVSGRzWFJjY2RSOVVTa0dhcmxtSWxObVNqUDRQQi1sdUFPVzItZU1RY0JzRVdHTkMyc1VQN1R0bHl3RWpkcWFGbDRmN1VwQS1HMnhlMWJXT3c?oc=5",
@@ -568,6 +750,42 @@
     "angle": "Emerging tech adoption signal for food and beverage companies; market awareness that leading CPG and retail players are exploring digital twins for forecasting, demand planning, and operations visibility.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aEhOVWxsV0c5amFIRT9vYz01",
+    "title": "Digital twins are transforming food and drink",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzZPcG9iVE9vampxZlAwSUJWWUd0X0JzbmdLMlFlaklNN2EyRHZSd20xbHBOMEMxRm4xNUxYX1ZwaVE5WWF0d00yeml0dUpPUlNOSTBkQThhY010MTh5blpPT01hVmRqNVRZZy1XTkRycTFBUFc2djlYek5ERHhNSXo4QTFwN0hoSmZ1WTNWWWJ4WWFZa2Q0VlN2ZnhxSXhHNUllWG9jaHE?oc=5",
+    "sourceName": "FoodNavigator.com",
+    "publishedAt": "2026-11-24T12:02:31.000Z",
+    "analyzedAt": "2026-11-27T21:51:31.151Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Digital twin technology is being adopted in food and beverage operations for simulation, forecasting, and optimization.",
+    "angle": "Advanced modeling and forecasting capabilities are becoming table stakes in CPG and food—a signal that customers are ready to expand analytics and automation investments for scenario planning.",
+    "play": "analytics",
+    "products": [
+      "analytics",
+      "automation"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WQmFVMVJhbEZhYW5NP29jPTU",
+    "title": "How AI Creates Hidden Risks in Multi-Tier Supply Networks",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmJNRnVSejVZX3hybS1UR0pCMXRVTG9aZ3RCY3U5Q205dDdjWFRGNUpXNlNjZWttQ2lpVHlFWEkwTTF0d0ZuYzQzTjU2emthek5DcTdvbzUwU3RyaXNHWDNvVkZLMkRsLUt3YkVyNWgySUF2SklZNUtKMlRTdFRpMkVUM2RBYTNTVkU0WjliblE0a2ZGNk5PcG5OUU5jVEdEUkNncUd5ZURpS1h4ME1kelExbnozbWo3ZWt3MS1wWWsxZVJWYXo0Q2ZlS3o4emRLcnVBaU1RalFaanM?oc=5",
+    "sourceName": "SupplyChainBrain",
+    "publishedAt": "2026-11-24T09:05:36.000Z",
+    "analyzedAt": "2026-11-27T21:51:31.151Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "AI-driven supply-chain systems are creating hidden risks in multi-tier supplier networks, including blind spots in vendor performance and data quality.",
+    "angle": "As customers adopt AI and automation for supply-chain visibility, they need clean, integrated data and governance—a natural conversation about data integrations and platform data model maturity.",
+    "play": "integrations",
+    "products": [
+      "integrations",
+      "platform"
+    ],
     "mentionedAccounts": []
   },
   {

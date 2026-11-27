@@ -1937,5 +1937,24 @@
         "publishedAt": "2026-11-26T05:28:00.000Z"
       }
     ]
+  },
+  {
+    "company": "PepsiCo",
+    "runAt": "2026-11-27T21:50:37.174Z",
+    "source": "daily",
+    "headline": "PepsiCo facing pricing-volume trade-off in snacks; margin pressure and competitive intensity demand pricing analytics",
+    "signals": [
+      {
+        "category": "Pricing pressure and volume loss",
+        "updateType": "market",
+        "play": "analytics",
+        "score": 1,
+        "summary": "PepsiCo is reportedly sacrificing pricing power to regain snack volumes, signaling margin compression in its core category and intensifying competitive pressure. This reflects share loss or category headwinds requiring dynamic pricing and demand analysis.",
+        "suggestedAction": "Reach out to the VP of Strategy or Chief Commercial Officer to discuss how Analytics Suite's pricing and demand modeling could help PepsiCo optimize the price-volume trade-off across snack brands (Frito-Lay portfolio). Offer to benchmark their pricing elasticity and category share dynamics against historical patterns to defend margin.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWdLYXM2ZWVIc1FCRkI2RnNhbFZzaUs0SV83Ql80eFBVd0VTTV81OUNWbWlfTzNwckJMcjBPSHVEVlhwWWlHV29oMmktRzdaTGhYdHBnMHhqTHV1M1I3RnVUbVpUeF9xNFB3RWtodmhJU1RTOWlDYjlZYmlNV0JjM2hKTms3LUNhOVpxbXlXTTBLS0sxQXk3NGtUbHZDTTl6LUc3RlNUTzc?oc=5",
+        "publishedAt": "2026-11-24T16:32:00.000Z"
+      }
+    ]
   }
 ]

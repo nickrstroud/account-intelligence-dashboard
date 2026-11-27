@@ -1507,5 +1507,46 @@
         "publishedAt": "2026-11-19T09:36:41.000Z"
       }
     ]
+  },
+  {
+    "company": "Procter & Gamble",
+    "runAt": "2026-11-27T21:50:39.530Z",
+    "source": "daily",
+    "headline": "P&G accelerating AI and automation investments; real estate divestiture; stock outperforming",
+    "signals": [
+      {
+        "category": "AI and Data-Platform Initiative",
+        "updateType": "technology",
+        "play": "analytics",
+        "score": 1,
+        "summary": "P&G has announced AI at the center of its growth strategy, signaling strategic investment in advanced analytics and data capabilities across the organization.",
+        "suggestedAction": "Schedule a brief call with P&G's Chief Data or Analytics Officer to understand which business units or functions are prioritized in their AI roadmap. Explore whether the Analytics Suite can deepen their demand, pricing, or category forecasting work in priority areas.",
+        "sourceName": "Constellation Research",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXdTMGZKdnhGaWl0ZDZ4aERuU3h5U2N6ZUEyVjZMa3FrdmE4dTBmcVFPcXZJSTdPMDE1dmFOZzJmZ2dMTmZNbm4wWXY0czUwOVBqRXA4NDcxa08yMEVkeVoyeExlb2gzNW8wSDVhaVk3Qklya09rQVRzQktjMUJnSjZrUFNKbmUxMm9KNVFsOENReXFIM0NvRlNB?oc=5",
+        "publishedAt": "2026-11-24T22:18:50.000Z"
+      },
+      {
+        "category": "Factory Automation and Operations",
+        "updateType": "expansion",
+        "play": "automation",
+        "score": 1,
+        "summary": "P&G is scaling fully autonomous factory shifts, indicating deeper operational automation and data-driven production optimization across manufacturing.",
+        "suggestedAction": "Reach out to P&G's supply-chain and operations leadership to explore whether Workflow Automation can support alert-routing and playbooks for autonomous-facility decision-making and anomaly detection, positioning this as a whitespace expansion.",
+        "sourceName": "PYMNTS.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWJXWWtIZ2hYcnBMWkFFN0M5T1BnQkUwUU1jVVdYcjZocnR6NnItYWxOOEdUcTZ1aUl1YmdYX0x2UlV1XzZhdGVLWTBDLUliWndYZlpzODQ4UjNoWTBkUi11RExaSGxOVU04bTFhYWg2U2F3TVl0aWdJS0VjeUc5ejhvNlZMV2xyY2s3cnR5aFdCOHFRMXZZVGtqSExSODhsV1F2RVRycmJ3Tjdw?oc=5",
+        "publishedAt": "2026-11-22T23:36:46.000Z"
+      },
+      {
+        "category": "Real Estate Divestiture",
+        "updateType": "expansion",
+        "play": "integrations",
+        "score": 0,
+        "summary": "P&G is divesting a former manufacturing site in Blue Ash, Ohio, being redeveloped into a Kroger Marketplace. This is a minor, non-core transaction with no direct bearing on P&G's business unit structure or platform coverage.",
+        "suggestedAction": "No action required; monitor for any broader restructuring or business-unit consolidation that might follow.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjR3cFplZXdfLUphNTUxektnMG1aRXNTX3JmYVZNTm5iMnJnZTE0TjJwYkt2WnVYWEhKN0pxM1NQcGtWMWlBdzRiWmdfS2dLZ2JnaHlxczRFYktmRWFTUzJOOHVuSnJWZnNMai1RYmx6LVVTbWVyVmIxcnFMbGFvOU1fUDFsU1NKbU9LZlc5TWpIeWFOVU5fZWtXR1A4ZU90cC1XSHZfaVc?oc=5",
+        "publishedAt": "2026-11-25T11:46:00.000Z"
+      }
+    ]
   }
 ]

@@ -1316,5 +1316,24 @@
         "publishedAt": "2026-11-24T21:32:38.000Z"
       }
     ]
+  },
+  {
+    "company": "Walmart",
+    "runAt": "2026-11-27T21:50:38.668Z",
+    "source": "daily",
+    "headline": "Walmart Black Friday promotional activity; Meta Muse integration trial underway",
+    "signals": [
+      {
+        "category": "Meta Muse AI shopping integration",
+        "updateType": "technology",
+        "play": "integrations",
+        "score": 1,
+        "summary": "Walmart is partnering with Meta to allow Muse (Meta's AI shopping assistant) to browse and transact on Walmart's inventory on a limited, controlled basis. This signals Walmart's willingness to integrate third-party AI and data-access capabilities into its commerce ecosystem.",
+        "suggestedAction": "Reach out to Walmart's VP of E-commerce or Chief Digital Officer to understand the scope and timeline of the Meta Muse integration. Ask whether this new data flow (AI-driven product discovery and transaction logging) will be surfaced into their Data Integrations layer or platform for merchant and category insights; offer to streamline the data pipeline and ensure clean integration with their existing POS/e-commerce connectors.",
+        "sourceName": "Digiday",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VGQVBKTUFDc1h6X01KVXk0MmE1c1pVNW10bzl6ZEEwTlZlWm1OdzFFbW54RURyRm9HN2VxYWVzLVk1WF9odTNlYm9Eb3BOc0t0ekdqZThCWThjSGdBNWNMeXJJeEN5OXVoQWJCZGZ6am9JRHFvaXRMc0hWQkdFdVp0ZGR6b3hWbmZBNjg2bEVJYmQ3LUZ6bm5keVExd1k?oc=5",
+        "publishedAt": "2026-11-24T05:06:22.000Z"
+      }
+    ]
   }
 ]

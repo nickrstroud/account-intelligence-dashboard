@@ -1097,5 +1097,35 @@
         "publishedAt": "2026-11-25T18:56:27.000Z"
       }
     ]
+  },
+  {
+    "company": "Target",
+    "runAt": "2026-11-27T21:50:42.188Z",
+    "source": "daily",
+    "headline": "Target Q2 2027 earnings call signals stable performance; pricing pressure from Walmart competitive activity noted",
+    "signals": [
+      {
+        "category": "Q2 2027 Earnings Results",
+        "updateType": "earnings",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Target reported Q2 2027 earnings on the call; stock price target raised to $174.43 with modest 1% upside. Stable financial performance suggests budget capacity for analytics and category insights.",
+        "suggestedAction": "Review Q2 earnings call transcript for commentary on category margin pressure, pricing actions, or demand forecasting challenges. If pricing or margin erosion is mentioned, position Analytics Suite for real-time pricing and demand elasticity modeling to counter competitive pressure.",
+        "sourceName": "Fortune",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wbVFuNXBNa3RyR1BHeFlSMTNhOEhxMjFNYXJPZ0dRWkI2VHk3SDdLSzFNdnNzc2NlWkJtM180OUxHbWZmX1ZTRE0zT3lfN2VNSDBWYlJBM3lJLVJGZVpJT3J3?oc=5",
+        "publishedAt": "2026-11-26T04:42:29.000Z"
+      },
+      {
+        "category": "Competitive Pricing Pressure (Walmart)",
+        "updateType": "competitive",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Walmart's aggressive Thanksgiving promotional activity is noted as competitive pressure on Target. Price wars in consumer goods and retail are driving margin risk in the category.",
+        "suggestedAction": "Reach out to Target's VP of Pricing or Chief Merchandiser to understand Q4 pricing strategy and margin defense plans. Offer Analytics Suite capabilities for dynamic pricing analysis and competitive win/loss modeling to help Target respond faster to Walmart's promotional calendar.",
+        "sourceName": "Benzinga",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXFkemRRdmJkeE9kQ1RyUEZha3FyTk42RUlOWFFqWnp4NVFySDBTam9TUnJyc01yNWJVbEp2dFIyY19KaHRQT0pfcnJJZm54RXR6bU5rdzJwdzlSZ05sS3BjTGVZSGRVSHE0bHdkMFp5d0hkcDl1Tk80eGIwamcwUmdaaTZ2WGVkaEpoUWowcXBTTkg4ckVWTVV3?oc=5",
+        "publishedAt": "2026-11-26T15:00:08.000Z"
+      }
+    ]
   }
 ]

@@ -1533,5 +1533,24 @@
         "publishedAt": "2026-11-25T23:28:02.000Z"
       }
     ]
+  },
+  {
+    "company": "Coca-Cola",
+    "runAt": "2026-11-27T21:50:36.984Z",
+    "source": "daily",
+    "headline": "CFO transition presents re-introduction opportunity with new finance leader",
+    "signals": [
+      {
+        "category": "CFO appointment",
+        "updateType": "leadership",
+        "play": "analytics",
+        "score": 1,
+        "summary": "Coca-Cola has appointed a new CFO from Bristol Myers Squibb. New finance leaders typically conduct vendor reviews and reassess analytics and financial reporting tools. This is a natural re-introduction moment for the Analytics Suite, which the account currently owns.",
+        "suggestedAction": "Schedule a brief intro call with the new CFO's office (via the existing analytics owner) to welcome them and confirm how Account Intelligence's Analytics Suite supports their financial planning and category-performance reporting. Offer a quick refresher demo if helpful.",
+        "sourceName": "The Spokesman-Review",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHVOdzV0MUhibVNMeUVJeGtHNzB4Q3I3bE9TWm5XVzU3WXJBdU1WSlRNVU1CSHhHRWh1ZlQ2SGEtWjdCTU1FMXV0V2hWSXoySmlsalg0R0JoRXNoTXVTOE1WaUtyb1BNVWN6ZVlkNlRCMHhfVXRIZ1hCVk1OQW9uajhocDRYb203U2EyMGhpejdhSkZycHFmeEJ2M2REUQ?oc=5",
+        "publishedAt": "2026-11-23T21:43:00.000Z"
+      }
+    ]
   }
 ]
